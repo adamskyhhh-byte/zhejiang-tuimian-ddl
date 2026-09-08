@@ -1,6 +1,7 @@
 """状态原子持久化、人工修正叠加和发布前关系校验。"""
 
 import copy
+import hashlib
 import json
 import os
 from pathlib import Path
@@ -45,6 +46,18 @@ def load_config(root: Path):
             raise ValueError(f"人工修正 {identity} 必须含 reason")
         if set(override) & {"id", "schoolId", "unitId", "year", "season", "stage"}:
             raise ValueError(f"人工修正 {identity} 不能改动项目身份字段")
+        reviewed = override.get("reviewedSourceHashes")
+        if reviewed is not None and (
+            not isinstance(reviewed, dict)
+            or not reviewed
+            or any(not isinstance(digest, str) or len(digest) != 64 for digest in reviewed.values())
+        ):
+            raise ValueError(f"人工修正 {identity} 的 reviewedSourceHashes 必须包含来源正文 hash")
+        if reviewed and (
+            not isinstance(override.get("reviewedAutomaticHash"), str)
+            or len(override["reviewedAutomaticHash"]) != 64
+        ):
+            raise ValueError(f"人工修正 {identity} 缺少采集结果复核指纹 reviewedAutomaticHash")
     return schools, units, sources, seeds, overrides
 
 
@@ -59,6 +72,7 @@ def empty_state():
         "sourceVersions": {},
         "supersededSources": {},
         "correctionAuthorities": {},
+        "retiredSources": {},
         "changes": [],
         "reviewQueue": [],
         "run": None,
@@ -106,14 +120,25 @@ def load_state(root: Path, seeds: list[Opportunity]) -> dict:
     return state
 
 
-def override_opportunity(item: dict, overrides: dict) -> dict:
+def review_signature(item: dict) -> str:
+    """同时锁定已检查的采集值和来源集合，不能让旧正文复核吞掉新来源更正。"""
+    values = {key: item.get(key) for key in ("availability", "verification")}
+    values["reviewRevision"] = item.get("reviewRevision", 0)
+    values["sourceIds"] = sorted(item.get("sourceIds", []))
+    for key in ("applicationStart", "applicationEnd", "materialsEnd"):
+        point = item.get(key) or {}
+        values[key] = {field: point.get(field) for field in ("value", "precision")}
+    return hashlib.sha256(json.dumps(values, sort_keys=True).encode()).hexdigest()
+
+
+def override_opportunity(item: dict, overrides: dict, pages: dict | None = None) -> dict:
     result = copy.deepcopy(item)
     override = overrides.get(item["id"], {})
     if not override:
         return result
     changed = False
     for key, value in override.items():
-        if key in {"reason", "verification"}:
+        if key in {"reason", "verification", "reviewedSourceHashes", "reviewedAutomaticHash"}:
             continue
         if key not in Opportunity.model_fields:
             raise ValueError(f"人工修正不支持字段 {key}")
@@ -126,13 +151,23 @@ def override_opportunity(item: dict, overrides: dict) -> dict:
             else:
                 changed |= value != old
         result[key] = value
-    # 人工值始终保留；自动抓取不一致仍显式标记，不能用 verified 隐藏冲突。
+    # 人工复核可明确接受当前正文的解析缺口；官方正文一旦改变，必须重新核验。
+    reviewed = override.get("reviewedSourceHashes", {})
+    matches_review = (
+        bool(reviewed)
+        and override.get("reviewedAutomaticHash") == review_signature(item)
+        and all(
+            (pages or {}).get(source_id, {}).get("hash") == digest
+            for source_id, digest in reviewed.items()
+        )
+    )
+    needs_review = (bool(reviewed) and not matches_review) or (changed and not matches_review)
     result["verification"] = (
-        "conflict" if changed else override.get("verification", result["verification"])
+        "conflict" if needs_review else override.get("verification", result["verification"])
     )
     result["notes"] = result.get("notes", "") + " 人工修正：" + override["reason"]
-    if changed:
-        result["notes"] += "；采集来源与人工值不同，请复核。"
+    if needs_review:
+        result["notes"] += "；官方正文已变动或采集来源与人工值不同，请复核。"
     return result
 
 
@@ -149,7 +184,7 @@ def build_catalog(root: Path, state: dict | None = None) -> Catalog:
     decisions = load_review_decisions(root)
     excluded, aliases = decisions["excludedOpportunities"], decisions["opportunityAliases"]
     opportunities = [
-        Opportunity.model_validate(override_opportunity(item, overrides))
+        Opportunity.model_validate(override_opportunity(item, overrides, state["pages"]))
         for item in state["opportunities"].values()
         if item["id"] not in excluded and item["id"] not in aliases
     ]

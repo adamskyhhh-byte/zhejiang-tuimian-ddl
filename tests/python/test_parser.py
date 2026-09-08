@@ -35,6 +35,18 @@ def test_date_precision_and_midnight():
     assert parse_time("9月31日", 2026, "n").precision == "unknown"
 
 
+def test_hias_recommended_application_time_is_not_a_hard_cutoff():
+    result = parse_notice(
+        source().title,
+        "硕士预推免。申请时间：建议在9月13日12:00前完成报名。即日起报名。",
+        source(),
+        unit(),
+    )
+    assert result.applicationEnd.value is None
+    assert result.availability == "open"
+    assert "建议" in result.evidence[0].excerpt
+
+
 def test_application_and_materials_are_separate():
     result = parse_notice(
         "2027年硕士预推免报名通知",
@@ -256,3 +268,111 @@ def test_school_link_directory_is_discovery_evidence_without_a_unit_opportunity(
         unit(),
     )
     assert result is None
+
+
+def test_bit_cyber_material_deadline_is_not_the_national_system_date():
+    result = parse_notice(
+        "北京理工大学网络空间安全学院2027年接收推荐免试研究生（含直博生）方案",
+        "四、申请程序\n1、提交材料：与各学科方向负责教师联系，在9月13日17：00前提交申请材料的同学，"
+        "请保持手机畅通，9月15日开始各方向组织复试相关工作。"
+        "本校学生参加推免同样需要报名提交材料，并于9月21日开始在教育部推免系统进行网上报名。\n"
+        "所提交材料包括：推免生预报名表。\n五、复试内容\n硕士：专业素养。直博：专业基础。",
+        source(),
+        unit(),
+    )
+    assert result.materialsEnd.value == "2026-09-13T17:00:00+08:00"
+    assert result.applicationEnd.value is None
+    assert result.applicationStart.value is None
+    assert result.verification == "verified"
+
+
+def test_explicit_registration_label_is_not_overridden_by_previous_materials_line():
+    result = parse_notice(
+        "2027年硕士预推免通知",
+        "请填写信息和上传相关材料。\n网上报名时间：即日起至9月9日。",
+        source(),
+        unit(),
+    )
+    assert result.applicationEnd.value == "2026-09-09"
+    assert result.materialsEnd is None
+    assert result.availability == "open"
+
+
+def test_before_suffix_and_range_followed_by_registration_instruction():
+    for text, expected in [
+        ("预报名申请者需于8月23日17:00前登录系统进行预报名。", "2026-08-23T17:00:00+08:00"),
+        (
+            "（一）申请流程\n1. 7月15日至8月20日，申请人可登录厦门大学推免生管理系统，填写信息、提交预报名申请并上传附件材料。",
+            "2026-08-20",
+        ),
+        ("申请起止时间：即日起至2026年8月25日12:00。", "2026-08-25T12:00:00+08:00"),
+        ("报名开始时间：2026年9月1日09:00-11日17:00。", "2026-09-11T17:00:00+08:00"),
+        ("报名时间\n即日起-9月10日。", "2026-09-10"),
+    ]:
+        result = parse_notice("2027年硕士预推免报名通知", text, source(), unit())
+        assert result.applicationEnd.value == expected, text
+
+
+def test_qualification_mention_of_national_system_does_not_hide_hias_application():
+    config = source().model_copy(update={"preAdmissionEvidence": r"四、申请时间"})
+    result = parse_notice(
+        "2027级接收推荐免试生公告",
+        "一、学院简介\n"
+        + "人工智能与计算机研究。" * 120
+        + "\n二、招生专业\n085410人工智能（专硕）、081203计算机应用技术（学硕）。\n"
+        "三、申请条件\n须获得推荐免试资格，并在教育部推免服务系统中获得推荐免试资格名单备案。\n"
+        "四、申请时间\n即日起至2026年9月14日（周一）下午17：00\n"
+        "五、申请流程\n即日起开始报名，填写问卷星报名信息。",
+        config,
+        unit(),
+    )
+    assert result is not None
+    assert result.applicationEnd.value == "2026-09-14T17:00:00+08:00"
+    assert result.availability == "open"
+
+
+def test_school_table_header_keeps_unit_specific_deadline_and_formal_preamble_separate():
+    from tuimian.fetch import extract_page
+
+    config = source().model_copy(update={"noticeScope": "school"})
+    html = """<h1>2027年硕士预报名安排</h1><article>
+    <p>取得推免资格后，须在全国推免服务系统中进行正式报名。</p>
+    <table><tr><td><p>院系名称</p></td><td><p>报名时间</p></td></tr>
+    <tr><td><p>人工智能学院</p></td><td><p>2026年8月1日00:00--9月13日24：00</p></td></tr>
+    <tr><td><p>法学院</p></td><td><p>2026年8月1日--9月20日</p></td></tr></table></article>"""
+    page = extract_page(html.encode(), "text/html", config)
+    result = parse_notice(page.title, page.text, config, unit())
+    assert result.applicationEnd.value == "2026-09-14T00:00:00+08:00"
+    assert "9月20日" not in result.evidence[0].excerpt
+
+
+def test_formal_registration_action_with_qualification_phrase_is_still_formal():
+    result = parse_notice(
+        "2027年硕士预推免通知",
+        "获得推免资格的申请人须在9月28日前登录全国推免服务系统进行网上报名。",
+        source(),
+        unit(),
+    )
+    assert result.applicationEnd.value is None
+    assert result.verification == "pending"
+
+
+def test_previous_season_materials_are_not_a_verified_deadline():
+    assert (
+        parse_notice(
+            "2027年硕士预推免通知", "硕士申请材料须于2025年9月13日17:00前提交。", source(), unit()
+        )
+        is None
+    )
+
+
+def test_school_table_multiple_date_columns_remain_distinct():
+    from tuimian.fetch import extract_page
+
+    config = source().model_copy(update={"noticeScope": "school"})
+    html = "<h1>2027年硕士预报名</h1><table><tr><td>学院</td><td>报名开始时间</td><td>报名截止时间</td><td>材料提交截止时间</td></tr><tr><td>人工智能学院</td><td>9月1日</td><td>9月10日17:00</td><td>9月12日17:00</td></tr></table>"
+    page = extract_page(html.encode(), "text/html", config)
+    result = parse_notice(page.title, page.text, config, unit())
+    assert result.applicationStart.value == "2026-09-01"
+    assert result.applicationEnd.value == "2026-09-10T17:00:00+08:00"
+    assert result.materialsEnd.value == "2026-09-12T17:00:00+08:00"

@@ -27,11 +27,11 @@
       {@const items = grouped.get(cell.key) || []}
       <div class="calendar-cell" class:outside={!cell.inMonth} class:today={cell.key === today}>
         <div class="day-heading"><span>{Number(cell.key.slice(-2))}</span>{#if items.length}<small>{items.length} 项</small>{/if}</div>
-        {#each items.slice(0,3) as row (row.opportunity.id)}<button class="calendar-event status-{row.status}" onclick={() => onSelect(row.opportunity.id)} title={row.school.name + ' · ' + row.unit.name}><i></i>{row.school.name}</button>{/each}
+        {#each items.slice(0,3) as row (row.opportunity.id)}<button class="calendar-event status-{row.status}" onclick={() => onSelect(row.opportunity.id)} title={row.school.name + ' · ' + row.unit.name + (row.deadline.kind === 'materials' ? ' · 材料提交截止' : ' · 报名截止')}><i></i>{row.school.name}{row.deadline.kind === 'materials' ? ' · 材料' : ''}</button>{/each}
         {#if items.length > 3}<button class="calendar-more" data-testid="calendar-more" onclick={() => { selectedDay = cell.key; showUnknown = false; }}>查看全部 {items.length} 项 →</button>{/if}
       </div>
     {/each}
   </div></div>
-  <div class="calendar-footer"><span>仅显示报名截止日 · 均为北京时间</span><button class="text-button" onclick={() => { showUnknown = !showUnknown; selectedDay = null; }}>截止未公布 <b>{unknown.length}</b></button></div>
+  <div class="calendar-footer"><span>北京时间 · 报名截止未知时显示材料截止</span><button class="text-button" onclick={() => { showUnknown = !showUnknown; selectedDay = null; }}>截止待确认 <b>{unknown.length}</b></button></div>
 </div>
 {#if selectedDay || showUnknown}<div class="panel calendar-day-details"><div class="calendar-header"><h3>{showUnknown ? '截止日期未公布' : selectedDay + ' · 全部报名项目'}</h3><button class="text-button" onclick={() => { selectedDay = null; showUnknown = false; }}>收起</button></div>{#each showUnknown ? unknown : grouped.get(selectedDay!) || [] as row (row.opportunity.id)}<SchoolRow {row} {onSelect}/>{/each}{#if showUnknown && !unknown.length}<p class="empty-small">当前筛选下没有截止日期未知的项目。</p>{/if}</div>{/if}

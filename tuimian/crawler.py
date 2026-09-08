@@ -18,7 +18,13 @@ logger = logging.getLogger(__name__)
 
 def _source_key(source: SourceConfig) -> tuple:
     targets = sorted(set(([source.unitId] if source.unitId else []) + source.unitIds))
-    return notice_identity(source.url), source.schoolId, tuple(targets), str(source.scope)
+    return (
+        notice_identity(source.url),
+        source.schoolId,
+        tuple(targets),
+        str(source.scope),
+        source.batch,
+    )
 
 
 def _apply_source_scope(sources: dict[str, SourceConfig]) -> None:
@@ -55,6 +61,26 @@ def _review(state: dict, source: SourceConfig, message: str, timestamp: str):
     )
 
 
+def _invalidate_source(state: dict, source: SourceConfig, previous_links: set[str] | None = None):
+    for item in state["opportunities"].values():
+        if source.id not in item["sourceIds"] and not any(
+            e["url"] in (previous_links or set()) for e in item["evidence"]
+        ):
+            continue
+        if source.id in state["supersededSources"].get(item["id"], {}):
+            continue
+        state["sourceVersions"].get(item["id"], {}).pop(source.id, None)
+        # pending→pending 也必须使旧人工复核失效；旧附件再次成功不得抹掉此标记。
+        item["reviewRevision"] = item.get("reviewRevision", 0) + 1
+        if previous_links:
+            retired = state.setdefault("retiredSources", {}).setdefault(item["id"], {})
+            for evidence in item["evidence"]:
+                if evidence["url"] in previous_links:
+                    retired[evidence["sourceId"]] = {"parentId": source.id, "url": evidence["url"]}
+        if item["verification"] != "conflict":
+            item["verification"] = "pending"
+
+
 def _discovered_source(
     parent: SourceConfig, url: str, title: str, *, kind: str, identity: str | None = None
 ) -> SourceConfig:
@@ -62,7 +88,12 @@ def _discovered_source(
     value.update(
         id="source-"
         + stable_id(
-            parent.schoolId, parent.unitId or "", url, json.dumps(parent.unitIds), str(parent.scope)
+            parent.schoolId,
+            parent.unitId or "",
+            url,
+            json.dumps(parent.unitIds),
+            str(parent.scope),
+            *([parent.batch] if parent.batch else []),
         ),
         url=url,
         title=title or parent.title,
@@ -96,7 +127,7 @@ def discover(source: SourceConfig, page: Page, *, page_count: dict[str, int]) ->
                     _discovered_source(
                         source,
                         url,
-                        source.title,
+                        page.title,
                         kind="pdf",
                         identity=source.identityKey or source.url,
                     )
@@ -221,6 +252,24 @@ async def crawl(
                 page = result
                 prior_page = state["pages"].get(source.id)
                 state["pages"][source.id] = page.to_dict()
+                # 可读取正文与可自动解析招生字段分别记录，解析失败仍有独立 error。
+                status.update(lastSuccessAt=timestamp, checkMethod="http")
+                current_links = {link["url"] for link in page.links}
+                for opportunity_id, retired in state.setdefault("retiredSources", {}).items():
+                    for retired_id, reference in list(retired.items()):
+                        if reference["parentId"] == source.id and reference["url"] in current_links:
+                            del retired[retired_id]
+                            state["sourceVersions"].get(opportunity_id, {}).pop(retired_id, None)
+                if page.parseError:
+                    run.failed += 1
+                    status["error"] = page.parseError
+                    # 正文二进制已成功复查；扫描件无法解析与网络失联分开表达。
+                    status["lastSuccessAt"] = timestamp
+                    status["checkMethod"] = "http"
+                    _review(state, source, page.parseError, timestamp)
+                    if not prior_page or prior_page["hash"] != page.hash:
+                        _invalidate_source(state, source)
+                    continue
                 try:
                     discoveries = discover(source, page, page_count=page_count)
                     correction_link = _correction_link(page)
@@ -243,6 +292,14 @@ async def crawl(
                 for discovered in discoveries:
                     key = _source_key(discovered)
                     existing_ids = seen_urls.get(key)
+                    if discovered.batch is None:
+                        # 普通列表链接没有批次标签，应复查同网址的全部显式批次。
+                        existing_ids = [
+                            identity
+                            for candidate_key, identities in seen_urls.items()
+                            if candidate_key[:-1] == key[:-1]
+                            for identity in identities
+                        ]
                     if existing_ids:
                         # 同一公告人工配置了多个批次时，发现链接应复查全部已知批次。
                         for existing_id in existing_ids:
@@ -258,9 +315,28 @@ async def crawl(
                     state["discoveredSources"][discovered.id] = discovered.model_dump()
                     queue.append(discovered)
                     run.discovered += 1
-                if source.kind == "listing":
+                if source.kind == "listing" or page.attachmentOnly:
+                    if page.attachmentOnly and prior_page:
+                        old_pdfs = {
+                            a["url"]
+                            for a in prior_page.get("links", [])
+                            if urlparse(a["url"]).path.lower().endswith(".pdf")
+                        }
+                        new_pdfs = {
+                            a["url"]
+                            for a in page.links
+                            if urlparse(a["url"]).path.lower().endswith(".pdf")
+                        }
+                        if old_pdfs != new_pdfs:
+                            _invalidate_source(state, source, old_pdfs - new_pdfs)
+                            _review(state, source, "正文附件已更换，需核对新附件", timestamp)
                     run.succeeded += 1
-                    status.update(lastSuccessAt=timestamp, lastParsedAt=timestamp, error=None)
+                    status.update(
+                        lastSuccessAt=timestamp,
+                        lastParsedAt=timestamp,
+                        error=None,
+                        checkMethod="http",
+                    )
                     continue
                 unit_ids = list(
                     dict.fromkeys(([source.unitId] if source.unitId else []) + source.unitIds)
@@ -338,7 +414,12 @@ async def crawl(
                     _review(state, source, status["error"], timestamp)
                 else:
                     run.succeeded += 1
-                    status.update(lastSuccessAt=timestamp, lastParsedAt=timestamp, error=None)
+                    status.update(
+                        lastSuccessAt=timestamp,
+                        lastParsedAt=timestamp,
+                        error=None,
+                        checkMethod="http",
+                    )
                 logger.info("已检查 %s (%s)", source.id, source.kind)
     finally:
         # 中断时先回收所有请求任务，再关闭连接；不写入未完成的抓取状态。

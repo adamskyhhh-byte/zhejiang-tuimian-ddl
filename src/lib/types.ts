@@ -15,6 +15,7 @@ export type Source = {
   id: string; schoolId: string; unitId: string | null; url: string; title: string;
   kind: 'listing' | 'notice' | 'pdf'; lastAttemptAt: string | null; lastSuccessAt: string | null;
   lastParsedAt: string | null; error: string | null;
+  checkMethod?: 'http' | 'browser' | 'pdf_visual_review';
 };
 export type Change = {
   id: string; opportunityId: string; detectedAt: string;
@@ -51,6 +52,7 @@ export const COVERAGE_LABELS: Record<Coverage, string> = {
   pending: '盘点待完成', error: '来源访问异常',
 };
 export type Row = { opportunity: Opportunity; school: School; unit: Unit; status: Status;
+  deadline: { kind: 'application' | 'materials'; point: TimePoint };
   endMs: number | null; remainingMs: number | null; endDay: string | null; stale: boolean; sources: Source[] };
 export type View = 'list' | 'calendar' | 'coverage';
 export type Quick = '' | 'open' | 'three' | 'seven' | 'today';

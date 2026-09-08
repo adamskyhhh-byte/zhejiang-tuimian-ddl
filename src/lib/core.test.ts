@@ -55,6 +55,26 @@ describe('北京时间及官方精度', () => {
   });
 });
 describe('筛选、稳定 ID 和日历', () => {
+  it('杭高院校区简称可以找到所属学院', () => {
+    const rows = deriveRows({ ...catalog, units: [{ ...catalog.units[0], campus: '浙江杭州（杭高院）' }] }, now);
+    expect(applyFilters(rows, { ...defaultFilters(), query: '杭高院' }, [], now)).toHaveLength(1);
+  });
+  it('报名截止未知时显示材料节点，可按近期时限筛选，但不推断报名开放', () => {
+    const item = { ...opportunity, applicationStart: unknown, applicationEnd: unknown, materialsEnd: point('2026-09-09T17:00:00+08:00') };
+    const rows = deriveRows({ ...catalog, opportunities: [item] }, now);
+    expect(rows[0].deadline.kind).toBe('materials');
+    expect(rows[0].endDay).toBe('2026-09-09');
+    expect(rows[0].status).toBe('unknown');
+    expect(rows[0].remainingMs).toBeGreaterThan(0);
+    expect(applyFilters(rows, { ...defaultFilters(), quick: 'three' }, [], now)).toHaveLength(1);
+    expect(applyFilters(rows, { ...defaultFilters(), quick: 'open' }, [], now)).toHaveLength(0);
+    const later = Date.parse('2026-09-10T00:00:00+08:00');
+    const past = deriveRows({ ...catalog, opportunities: [item] }, later);
+    expect(deadlineLabel(past[0], later)).toBe('材料时限已过');
+    expect(past[0].status).toBe('unknown');
+    const registration = deriveRows({ ...catalog, opportunities: [{ ...item, applicationEnd: opportunity.applicationEnd }] }, now);
+    expect(registration[0].deadline.kind).toBe('application');
+  });
   it('多条件筛选使用 AND，收藏使用 ID，多批次保持独立', () => {
     const rows = deriveRows({ ...catalog, opportunities: [opportunity, { ...opportunity, id: 'op-2', batch: '第二批' }] }, now);
     expect(applyFilters(rows, { ...defaultFilters(), query: '计算机', province: '浙江', favoritesOnly: true }, ['op-2'], now).map(r => r.opportunity.id)).toEqual(['op-2']);

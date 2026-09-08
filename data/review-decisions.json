@@ -311,12 +311,35 @@
       "evidenceUrls": [
         "https://gs.dlut.edu.cn/info/1173/51602.htm"
       ]
+    },
+    "opp-24a4581b42f38ace838a": {
+      "reason": "复旦该轮预选拔公告中，智能材料与未来能源创新学院仅出现在直博专业表，未出现在硕士表，不满足本网站硕士范围。",
+      "evidenceUrls": [
+        "https://gsao.fudan.edu.cn/0a/24/c15014a789028/page.htm"
+      ]
     }
   },
   "opportunityAliases": {
     "opp-6f4e24ea05f58a48fc38": "opp-afcc801584b5ac66e513",
     "opp-e2fded1498ac6da632d6": "opp-2ea64399eb8f017dce34",
     "opp-b8bff9d7aec6a94a2216": "opp-100ad9f8220ba88872c2",
-    "opp-3af735041c5feffb9f7f": "opp-cd642c03a1c3caefd35a"
+    "opp-3af735041c5feffb9f7f": "opp-cd642c03a1c3caefd35a",
+    "opp-fb8f5c83860b7c94e925": "opp-a3706eba325fab6ed55a",
+    "opp-927b623ea1f61dbe90f4": "opp-9560c2e5e6e8cef42603",
+    "opp-5868cfb3ed70cec7223f": "opp-13fbd84fbe70afe2baa4",
+    "opp-9b5f0fd3de067abd32bc": "opp-a82004c2a571e4786324",
+    "opp-a08589644002b8bf7535": "opp-30da51aca63d2e2d7b39",
+    "opp-b51be5034ea9b4a47b02": "opp-79f444ae584502d7d861",
+    "opp-0e209090199027129113": "opp-13fbd84fbe70afe2baa4",
+    "opp-8cbf58efca99b9068104": "opp-100ad9f8220ba88872c2",
+    "opp-06183ec80f33ca0bedcb": "opp-ca01300adcfd794bdd8e",
+    "opp-f7583c4046004b6c1855": "opp-d2ae923e03a0fe2af855",
+    "opp-d3615ccf8df9cd871edc": "opp-6a1521458aa575021058",
+    "opp-bd51eeeb2fe2d4936acf": "opp-6a1521458aa575021058",
+    "opp-d0a2206718ac87ab534d": "opp-e7016e5043be9f421811",
+    "opp-50c89f323bb400711fe8": "opp-cd2121589c2b406e2185",
+    "opp-c4a1b7546399384d769a": "opp-0e49ff6191e7bc5bed20",
+    "opp-9f9f3acb87e3d008a7bc": "opp-0208127eee2f3d48b66b",
+    "opp-d7b5324af28638183dae": "opp-747c4fa6b20086ac3c1f"
   }
 }

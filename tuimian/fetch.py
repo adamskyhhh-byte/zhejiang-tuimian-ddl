@@ -9,7 +9,7 @@ import time
 from dataclasses import asdict, dataclass
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
-from urllib.parse import urldefrag, urljoin, urlparse
+from urllib.parse import parse_qs, urldefrag, urljoin, urlparse
 from urllib.robotparser import RobotFileParser
 
 import httpx
@@ -33,9 +33,19 @@ class Page:
     etag: str | None = None
     lastModified: str | None = None
     lastFullAt: str | None = None
+    attachmentOnly: bool = False
+    parseError: str | None = None
 
     def to_dict(self) -> dict:
         return asdict(self)
+
+
+class UnparseablePDF(ValueError):
+    """保留扫描附件的二进制指纹，以便人工核验后仍能发现附件被替换。"""
+
+    def __init__(self, content: bytes):
+        super().__init__("PDF 无可提取正文，可能为扫描件，需人工核验")
+        self.content_hash = hashlib.sha256(content).hexdigest()
 
 
 def allowed_url(url: str, source: SourceConfig) -> bool:
@@ -46,9 +56,70 @@ def allowed_url(url: str, source: SourceConfig) -> bool:
     }
 
 
+def embedded_pdfs(soup: BeautifulSoup, source: SourceConfig, title: str) -> list[dict[str, str]]:
+    """读取高校常见 PDF 播放器的声明，不执行网页脚本。"""
+    paths = []
+    for node in soup.select("[pdfsrc], [data-pdf], iframe[src], embed[src], object[data]"):
+        paths.append(
+            node.get("pdfsrc") or node.get("data-pdf") or node.get("src") or node.get("data")
+        )
+    for script in soup.select("script"):
+        paths.extend(re.findall(r"showVsbpdfIframe\(\s*['\"]([^'\"]+)", script.get_text()))
+    # PDF.js 的 iframe 常将正文放在 viewer.html?file=...，而不是 iframe 路径中。
+    for path in list(paths):
+        if path:
+            viewer_url = urljoin(source.url, path)
+            paths.extend(
+                urljoin(viewer_url, pdf) for pdf in parse_qs(urlparse(path).query).get("file", [])
+            )
+    urls = dict.fromkeys(urldefrag(urljoin(source.url, path))[0] for path in paths if path)
+    return [
+        {"url": url, "title": title + "（正文 PDF）"}
+        for url in urls
+        if urlparse(url).path.lower().endswith(".pdf") and allowed_url(url, source)
+    ]
+
+
+def flatten_tables(body, soup: BeautifulSoup) -> None:
+    """将单元格内的段落压回同一行，时间列表同时保留其表头含义。"""
+    for table in body.select("table"):
+        labels: dict[int, str] = {}
+        for row in table.select("tr"):
+            cells = row.find_all(["td", "th"], recursive=False)
+            if not cells:
+                continue
+            values = [re.sub(r"\s+", " ", cell.get_text(" ", strip=True)) for cell in cells]
+            headers = {
+                i: re.sub(r"\s+", "", value)
+                for i, value in enumerate(values)
+                if re.fullmatch(
+                    r"(?:报名|申请|材料提交)(?:开始|截止|起止)?(?:时间|日期)",
+                    re.sub(r"\s+", "", value),
+                )
+            }
+            if headers:
+                labels = headers
+            elif labels and all(
+                cell.get("rowspan", "1") == "1" and cell.get("colspan", "1") == "1"
+                for cell in cells
+            ):
+                context = " ".join(value for i, value in enumerate(values) if i not in labels)
+                values = [
+                    f"{context} {labels[i]}：{value}"
+                    for i, value in enumerate(values)
+                    if i in labels
+                ]
+                values = ["\n".join(values)]
+            row.clear()
+            cell = soup.new_tag("td")
+            cell.string = " ".join(values)
+            row.append(cell)
+
+
 def extract_page(
     content: bytes, content_type: str, source: SourceConfig, encoding: str = "utf-8"
 ) -> Page:
+    attachment_only = False
     if "json" in content_type.lower() or content.lstrip().startswith((b"{", b"[")):
         if source.adapter != "zju_admissions":
             raise ValueError("JSON 来源尚无已核验字段适配器，请配置公告 HTML 列表入口")
@@ -59,7 +130,7 @@ def extract_page(
         reader = PdfReader(io.BytesIO(content))
         text = "\n".join(page.extract_text() or "" for page in reader.pages)
         if len(text.strip()) < 30:
-            raise ValueError("PDF 无可提取正文，可能为扫描件，需人工核验")
+            raise UnparseablePDF(content)
         title, links = source.title, []
     else:
         # 优先读取网页声明编码；不少高校沿用 GBK 页面。
@@ -72,7 +143,7 @@ def extract_page(
         soup = BeautifulSoup(html, "html.parser")
         headings = [
             node.get_text(" ", strip=True)
-            for node in soup.select("h1, .arti_title, .article-title, .news-title, title")
+            for node in soup.select("h1, h2, h3, .arti_title, .article-title, .news-title, title")
         ]
         meaningful = [
             value
@@ -89,7 +160,8 @@ def extract_page(
             title = source.title
         else:
             title = headings[0] if headings else source.title
-        links = []
+        pdf_links = embedded_pdfs(soup, source, title)
+        links = list(pdf_links)
         for anchor in soup.select(source.linkSelector):
             url = urldefrag(urljoin(source.url, anchor.get("href", "").strip()))[0]
             if allowed_url(url, source):
@@ -117,6 +189,7 @@ def extract_page(
             )
         else:
             body = soup.body or soup
+        flatten_tables(body, soup)
         # 保留学院表格行和段落边界；行内链接不会截断一句报名时间。
         for node in body.select("p, tr, li, h1, h2, h3, h4, br"):
             node.insert_before("\n")
@@ -128,16 +201,31 @@ def extract_page(
         )
         if source.adapter == "nudt_admissions" and source.kind == "notice":
             text = title + "\n" + text
-        if len(text) < (10 if source.kind == "listing" else 30):
+        attachment_only = (
+            bool(pdf_links)
+            and not re.search(
+                r"(?:报名|申请|提交|开放|截止|至).{0,45}\d{1,2}\s*月|\d{1,2}\s*月.{0,45}(?:报名|申请|提交|开放|截止|关闭)",
+                text,
+            )
+            and not re.search(r"取消|停止|重新开放|恢复报名|延期|延长|提前截止|更正|调整", text)
+        )
+        if len(text) < (10 if source.kind == "listing" else 30) and not attachment_only:
             raise ValueError("正文为空或过短，保留此前数据")
+        if attachment_only and not text.strip():
+            text = title + "\n正文见 PDF 附件。"
         if re.search(
             r"验证码|访问过于频繁|人机验证|access denied|verify you are human", text, re.I
         ):
             # 通知内讲招生系统验证码不应被当作网站拦截页。
             if len(text) < 1800:
                 raise ValueError("来源返回验证或访问限制页面")
-    digest = hashlib.sha256((title + "\n" + text).encode()).hexdigest()
-    return Page(title=title, text=text, links=links, hash=digest)
+    attachments = sorted(
+        {link["url"] for link in links if urlparse(link["url"]).path.lower().endswith(".pdf")}
+    )
+    digest = hashlib.sha256(
+        (title + "\n" + text + "\n" + "\n".join(attachments)).encode()
+    ).hexdigest()
+    return Page(title=title, text=text, links=links, hash=digest, attachmentOnly=attachment_only)
 
 
 class Fetcher:
@@ -304,12 +392,17 @@ class Fetcher:
                 raise ValueError("服务器返回304但没有本地缓存")
             return Page(**cache)
         response.raise_for_status()
-        result = extract_page(
-            response.content,
-            response.headers.get("content-type", ""),
-            source,
-            response.encoding or "utf-8",
-        )
+        try:
+            result = extract_page(
+                response.content,
+                response.headers.get("content-type", ""),
+                source,
+                response.encoding or "utf-8",
+            )
+        except UnparseablePDF as exc:
+            result = Page(
+                title=source.title, text="", links=[], hash=exc.content_hash, parseError=str(exc)
+            )
         result.etag = response.headers.get("etag")
         result.lastModified = response.headers.get("last-modified")
         result.lastFullAt = now_iso()

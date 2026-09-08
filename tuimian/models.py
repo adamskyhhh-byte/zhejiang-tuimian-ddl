@@ -77,6 +77,7 @@ class Source(Model):
     lastSuccessAt: str | None = None
     lastParsedAt: str | None = None
     error: str | None = None
+    checkMethod: Literal["http", "browser", "pdf_visual_review"] = "http"
 
     @field_validator("url")
     @classmethod
@@ -100,6 +101,7 @@ class SourceConfig(Source):
     render: bool = False
     enabled: bool = True
     scope: str | dict[str, str] | None = None
+    preAdmissionEvidence: str | None = None
     allowedHosts: list[str] = Field(default_factory=list)
     identityKey: str | None = None
     batch: str | None = None
@@ -135,6 +137,7 @@ class Opportunity(Model):
     firstSeenAt: str
     updatedAt: str
     notes: str = ""
+    reviewRevision: int = Field(default=0, ge=0)
 
 
 class Change(Model):

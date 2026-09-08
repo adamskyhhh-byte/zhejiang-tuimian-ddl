@@ -8,7 +8,7 @@ from .parser import notice_identity, stable_id
 
 
 def semantic(item: dict) -> dict:
-    ignored = {"id", "firstSeenAt", "updatedAt", "sourceIds", "evidence"}
+    ignored = {"id", "firstSeenAt", "updatedAt", "sourceIds", "evidence", "reviewRevision"}
     result = {key: value for key, value in item.items() if key not in ignored}
     result.setdefault("assessmentMode", "unknown")
     result.setdefault("programTags", [])
@@ -73,11 +73,17 @@ def merge_candidate(
     identity = resolve_id(state, candidate, source)
     if identity in state.get("excludedOpportunities", {}):
         return False
+    if source.id in state.get("retiredSources", {}).get(identity, {}):
+        # 父通知已移除此附件；旧文件仍可访问不代表它仍是有效招生依据。
+        return False
     candidate.id = identity
     incoming = candidate.model_dump()
     previous = state["opportunities"].get(identity)
+    if previous:
+        incoming["reviewRevision"] = previous.get("reviewRevision", 0)
     if previous and any(
-        previous[field] != incoming[field] for field in ("schoolId", "unitId", "year", "season")
+        previous[field] != incoming[field]
+        for field in ("schoolId", "unitId", "year", "season", "batch")
     ):
         # 人工将误配学院的旧记录归并后，其旧来源不能覆盖正确培养单位的身份与时间。
         return False

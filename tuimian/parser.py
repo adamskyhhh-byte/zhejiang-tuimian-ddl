@@ -17,13 +17,39 @@ DATE = re.compile(
     r"\s*(?:[:：]\s*(?P<minute>[0-5]\d)|[时点](?P<zhminute>[0-5]?\d)?分?))?"
 )
 PRE = re.compile(
-    r"预推免|预报名|预接收|推免.{0,12}预选拔|接收.{0,20}推荐免试.{0,15}(?:预|申请)|推免.{0,8}预申请"
+    r"预推免|预报名|预接收|预面试|推免.{0,12}预选拔|接收.{0,20}推荐免试.{0,15}(?:预|申请)|推免.{0,8}预申请"
 )
-APPLY = re.compile(r"报名|预申请|申请时间|申请截止|系统.{0,10}(?:开放|关闭|填报)")
+APPLY = re.compile(r"报名|预申请|申请(?:时间|起止|截止)|系统.{0,10}(?:开放|关闭|填报)")
 END = re.compile(r"截止|截至|至|之前|日前|结束|关闭|延长|延期|调整为")
 MATERIAL = re.compile(r"材料|纸质|邮寄|邮件|发送|附件上传")
 PHD = re.compile(r"直博|博士|硕博连读")
-MASTER = re.compile(r"硕士|学硕|专硕|学术学位|专业学位")
+MASTER = re.compile(r"硕士|学硕|专硕|直硕|推免硕|学术学位|专业学位")
+RANGE = r"至|到|—|―|－|~|～|-"
+APPLICATION_LABEL = re.compile(
+    r"(?:报名|申请)(?:开始|截止|截至|起止)?时间|(?:报名|申请)(?:截止|截至)"
+)
+
+
+def _has_end(line: str) -> bool:
+    return bool(END.search(line) or re.search(r"(?:日|[:：]\s*\d{2}|[时点])\s*(?:前|以前)", line))
+
+
+def _clauses(text: str):
+    """日期在逗号前、报名动作在逗号后的句子需一起读，不能跨段借用标签。"""
+    for sentence in re.split(r"[\n。；;]+", text):
+        parts = re.split(r"[，,]+", sentence)
+        i = 0
+        while i < len(parts):
+            line = parts[i]
+            if DATE.search(line) and not (APPLY.search(line) or MATERIAL.search(line)):
+                j = i + 1
+                while j < len(parts) and not DATE.search(parts[j]):
+                    line += "，" + parts[j]
+                    j += 1
+                i = j
+            else:
+                i += 1
+            yield line
 
 
 def now_iso() -> str:
@@ -78,6 +104,12 @@ def _points(line: str, season: int, source_id: str) -> list[TimePoint]:
         line,
     )
     line = re.sub(r"https?://\S+", "", line)
+    # 带时刻的同月区间，例如“9月1日09:00-11日17:00”。
+    line = re.sub(
+        r"(\d{1,2})月(\d{1,2}日[^\n。；;，,]*?)(\s*(?:至|到|—|―|－|~|～|-)\s*)(\d{1,2})日",
+        lambda m: f"{m[1]}月{m[2]}{m[3]}{m[1]}月{m[4]}日",
+        line,
+    )
     return [
         point
         for match in DATE.finditer(line)
@@ -108,7 +140,7 @@ def _scope_text(title: str, text: str, source: SourceConfig, unit: Unit) -> str 
         line
         for line in re.split(r"[\n。；;]+", text)
         if compact_name in re.sub(r"\s+", "", line)
-        and APPLY.search(line)
+        and (APPLY.search(line) or MATERIAL.search(line))
         and (DATE.search(line) or _availability(line) == "open")
     ]
     return "\n".join(paragraphs) or None
@@ -127,7 +159,7 @@ def _availability(text: str) -> str:
         if MATERIAL.search(sentence) or re.search(r"咨询|另行通知", sentence):
             continue
         if re.search(
-            r"即日起.{0,20}(?:报名|预申请)|(?:报名|预申请)(?:时间)?[:：\s]*即日起|(?:报名|预申请).{0,8}(?:现已(?:开放|开启)|已开始)|现已(?:开放|开启).{0,8}(?:报名|预申请)|开始接受.{0,8}(?:报名|预申请)",
+            r"即日起.{0,20}(?:报名|预申请)|(?:报名|预申请)(?:时间)?[:：\s]*(?:自)?即日起|(?:报名|预申请).{0,8}(?:现已(?:开放|开启)|已开始)|现已(?:开放|开启).{0,8}(?:报名|预申请)|开始接受.{0,8}(?:报名|预申请)",
             sentence,
         ):
             return "open"
@@ -149,7 +181,10 @@ def parse_notice(
         PRE.search(title) and MASTER.search(title)
     ):
         return None
-    if not PRE.search(title) and not PRE.search(text[:1000]):
+    explicit_pre = bool(
+        source.preAdmissionEvidence and re.search(source.preAdmissionEvidence, combined)
+    )
+    if not PRE.search(title) and not PRE.search(text[:1000]) and not explicit_pre:
         return None
     if re.search(r"仅.{0,6}(?:直博|博士)|只.{0,6}(?:直博|博士)", combined):
         return None
@@ -169,6 +204,7 @@ def parse_notice(
     scoped = re.sub(r"(?<=\d)\s*\n\s*(?=[年月日:：\d])", "", scoped)
     scoped = re.sub(r"(?<=[年月日时:：])\s*\n\s*(?=\d)", "", scoped)
     scoped = re.sub(r"(?<=\d)[ \t]+(?=\d)", "", scoped)
+    scoped = re.sub(r"(?<=[\u4e00-\u9fff])[ \t]+(?=[\u4e00-\u9fff])", "", scoped)
     starts, ends, materials = [], [], []
     evidence_lines: list[str] = []
     assessment: list[str] = []
@@ -177,7 +213,7 @@ def parse_notice(
     degree_scope: str | None = None
     stage_scope = "pre_admission"
     master_lines: list[str] = []
-    for line in re.split(r"[\n。；;，,]+", scoped):
+    for line in _clauses(scoped):
         line = line.strip()
         if not line:
             continue
@@ -188,9 +224,17 @@ def parse_notice(
             previous_label = ""
         if re.search(r"报名截止(?:后|之后)|申请截止(?:后|之后)|复试名单|资格名单|名单公布", line):
             continue
-        if re.search(
-            r"正式推免|全国.{0,15}(?:系统|平台)|教育部.{0,15}系统|研招网|推免服务系统", line
-        ) and not PRE.search(line):
+        if (
+            re.search(
+                r"正式推免|全国.{0,15}(?:系统|平台)|教育部.{0,15}系统|研招网|推免服务系统", line
+            )
+            and not PRE.search(line)
+            and not (
+                re.search(r"资格.*备案|备案.*资格|获得.*资格", line)
+                and not DATE.search(line)
+                and not re.search(r"报名|填报|填志愿|录取|确认", line)
+            )
+        ):
             stage_scope = "formal"
             previous_label = ""
             continue
@@ -213,16 +257,31 @@ def parse_notice(
             continue
         master_lines.append(line)
         dates = _points(line, season, source.id)
+        if dates and re.search(r"建议|最好|尽量", line):
+            # 建议提前报名不等于系统硬截止，保留原句供人工查看。
+            evidence_lines.append(line)
+            previous_label = ""
+            continue
         if not dates:
             if len(line) < 70 and (APPLY.search(line) or MATERIAL.search(line)):
                 previous_label = line
             else:
                 previous_label = ""
             continue
-        context = previous_label + " " + line
+        context = ("" if APPLICATION_LABEL.search(line) else previous_label) + " " + line
         previous_label = ""
-        if MATERIAL.search(context) and not re.search(r"报名.{0,4}(?:及|和|与).*材料", context):
-            if END.search(context):
+        application_action = bool(
+            APPLY.search(context)
+            and (
+                APPLICATION_LABEL.search(context)
+                or re.search(
+                    r"(?:登录|填报|完成|提交).{0,35}(?:报名|申请)|报名.{0,4}(?:及|和|与).*材料",
+                    context,
+                )
+            )
+        )
+        if MATERIAL.search(context) and not application_action:
+            if _has_end(context):
                 materials.append(dates[-1])
                 evidence_lines.append(line)
             continue
@@ -231,10 +290,10 @@ def parse_notice(
             continue
         if not APPLY.search(context):
             continue
-        if len(dates) >= 2 and re.search(r"至|到|—|－|~|～|-", line):
+        if len(dates) >= 2 and re.search(RANGE, line):
             starts.append(dates[0])
             ends.append(dates[-1])
-        elif END.search(context):
+        elif _has_end(context) or re.search(r"即日起\s*(?:至|到|—|―|－|-)", context):
             ends.append(dates[-1])
         elif re.search(r"开始|开放|启动|起", context):
             starts.append(dates[0])
@@ -242,7 +301,9 @@ def parse_notice(
     start, start_conflict = _unique(starts, source.id)
     end, end_conflict = _unique(ends, source.id)
     material, material_conflict = _unique(materials, source.id)
-    if end.value and not end.value.startswith(str(season)):
+    if any(
+        point.value and not point.value.startswith(str(season)) for point in (start, end, material)
+    ):
         return None
     batch_match = re.search(
         r"第[一二三四五六七八九十\d]+(?:批|轮)(?:次)?|补充批次|补充报名|补报名", title
@@ -255,7 +316,8 @@ def parse_notice(
     if re.search(r"专业(?:型|学位)|专硕", master_text):
         degrees.append("professional")
     verified = bool(
-        end.value and not (start_conflict or end_conflict or material_conflict or mixed)
+        (end.value or material.value)
+        and not (start_conflict or end_conflict or material_conflict or mixed)
     )
     timestamp = timestamp or now_iso()
     excerpt = "；".join(evidence_lines)[:1800] or scoped[:700]
