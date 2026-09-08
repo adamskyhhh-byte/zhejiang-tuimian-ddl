@@ -60,10 +60,21 @@
 - `pnpm check`：0 errors、0 warnings；`pnpm build`：通过；相关 Python 测试文件 Ruff 检查通过。
 - 校徽、覆盖透明度和新增筛选前端均经过独立代码审查，未发现当前发布阻断问题；最后一轮还审查了校级通知范围、持久排除、跨单位别名与多批次复查。
 - GitHub Ubuntu / Python 3.12 / Node.js 22 环境的全部检查通过：[CI 运行记录](https://github.com/adamskyhhh-byte/zhejiang-tuimian-ddl/actions/runs/34176104423)。本地使用 Python 3.11 与 Windows Chrome 的检查同样通过。
-- 真实官方缓存重放、人工数据范围审核、最终静态模型引用校验分别完成；首次公开发布结果在下节补记。
+- 真实官方缓存重放、人工数据范围审核、最终静态模型引用校验分别完成；首次公开发布与真实地址检查已经完成，结果见下节。
 
 测试代码见 `src/lib/core.test.ts` 和 `tests/browser/`。浏览器测试使用隔离快照，真实官方公告核验与联网采集单独记录；前者通过不代表所有高校网页均可成功抓取。
 
 ## 远端运行调度修正
 
 首次 GitHub 全量采集暴露慢来源拖住整组请求的问题。改为最多6个在途任务滚动补位；robots要求的等待间隔按host隔离。新增慢源不阻塞、并发及limit上限、站点等待隔离和中断保持旧状态4项回归；54项Python测试与独立代码审查通过。最终实现再次重放1,313个来源三轮，后两轮零新增、零变更，公开140个项目稳定。
+
+## 首次公开发布结果
+
+- 网页：[浙江选调院校硕士预推免 DDL](https://adamskyhhh-byte.github.io/zhejiang-tuimian-ddl/)。
+- 仓库：[adamskyhhh-byte/zhejiang-tuimian-ddl](https://github.com/adamskyhhh-byte/zhejiang-tuimian-ddl)。
+- [首次完整工作流](https://github.com/adamskyhhh-byte/zhejiang-tuimian-ddl/actions/runs/34176211426)的build与deploy均成功；09:19:23–09:35:34检查1,314个来源，成功1,023、失败291；部分失败保留原有记录，成功保存到Git并发布。
+- 发布快照：68个机构、353条单位、140个项目，29个机构已有公告；50条已核验、82条待核验、8条冲突。后续自动更新可能改变这些数量。
+- 实际公开地址在美国洛杉矶时区浏览器中检查：国防科大第二轮仍为北京时间9月10日12:00；校徽子路径、搜索、详情、68校覆盖、已发现公告筛选、手机抽屉均通过，无横向溢出和运行时错误。
+- 调度改进另经[最终CI](https://github.com/adamskyhhh-byte/zhejiang-tuimian-ddl/actions/runs/34177284259)验证并合并；前端和快照未变化，保留本次成功部署。后续每天北京时间07:23或手动抓取使用新版调度器。
+
+学校名单已完整登记；相关学院、研究所及专业全集与未发现公告仍保留盘点缺口，不能据此声称所有符合范围的报名项目已核验。

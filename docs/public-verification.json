@@ -1,0 +1,35 @@
+{
+  "url": "https://adamskyhhh-byte.github.io/zhejiang-tuimian-ddl/",
+  "generatedAt": "2026-09-08T09:35:34+08:00",
+  "run": {
+    "startedAt": "2026-09-08T09:19:23+08:00",
+    "finishedAt": "2026-09-08T09:35:34+08:00",
+    "status": "partial",
+    "checked": 1314,
+    "succeeded": 1023,
+    "failed": 291,
+    "discovered": 7,
+    "changed": 4
+  },
+  "schools": 68,
+  "units": 353,
+  "opportunities": 140,
+  "checks": [
+    "catalog",
+    "NUDT deadline Beijing in LA browser",
+    "subpath school logo",
+    "search",
+    "detail",
+    "68 coverage",
+    "published coverage filter",
+    "mobile drawer",
+    "no overflow",
+    "no runtime errors"
+  ],
+  "workflow": "https://github.com/adamskyhhh-byte/zhejiang-tuimian-ddl/actions/runs/34176211426",
+  "verification": {
+    "verified": 50,
+    "pending": 82,
+    "conflict": 8
+  }
+}
