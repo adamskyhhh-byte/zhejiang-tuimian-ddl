@@ -1,9 +1,11 @@
+import asyncio
 import json
 
 import httpx
+import pytest
 
 from tuimian.crawler import crawl
-from tuimian.fetch import Fetcher
+from tuimian.fetch import Fetcher, Page
 from tuimian.storage import load_catalog, read_json
 
 
@@ -332,3 +334,125 @@ def test_listing_discovery_rechecks_all_explicit_batches_for_the_same_notice(tmp
 
     run(root, handler, source_ids=["list"])
     assert {item.batch for item in load_catalog(root).opportunities} == {"第一批", "第二批"}
+
+
+def test_slow_source_does_not_block_later_fast_sources(tmp_path):
+    root = setup_root(tmp_path)
+    path = root / "data/sources.json"
+    template = read_json(path, [])[0]
+    sources = [
+        template | {"id": f"list-{index}", "url": f"https://s.edu.cn/list{index}"}
+        for index in range(8)
+    ]
+    path.write_text(json.dumps(sources), encoding="utf-8")
+
+    async def check():
+        release_slow = asyncio.Event()
+        all_fast_finished = asyncio.Event()
+        active = 0
+        peak = 0
+        fast_finished = 0
+
+        class ControlledFetcher:
+            async def fetch(self, source, cache=None):
+                nonlocal active, peak, fast_finished
+                active += 1
+                peak = max(peak, active)
+                try:
+                    if source.id == "list-0":
+                        await release_slow.wait()
+                    else:
+                        await asyncio.sleep(0)
+                        fast_finished += 1
+                        if fast_finished == 7:
+                            all_fast_finished.set()
+                    return Page(
+                        title="招生公告", text="学院研究生招生通知列表公告", links=[], hash="v1"
+                    )
+                finally:
+                    active -= 1
+
+        task = asyncio.create_task(crawl(root, fetcher=ControlledFetcher()))
+        try:
+            # 慢来源持续挂起时，第七、八个来源仍应获得空闲并发槽。
+            await asyncio.wait_for(all_fast_finished.wait(), timeout=1)
+            assert not task.done()
+            assert peak == 6
+        finally:
+            release_slow.set()
+            result = await task
+        assert result["checked"] == 8
+        assert result["succeeded"] == 8
+
+    asyncio.run(check())
+
+
+def test_rolling_scheduler_respects_source_limit(tmp_path):
+    root = setup_root(tmp_path)
+    path = root / "data/sources.json"
+    template = read_json(path, [])[0]
+    path.write_text(
+        json.dumps(
+            [
+                template | {"id": f"list-{index}", "url": f"https://s.edu.cn/list{index}"}
+                for index in range(9)
+            ]
+        ),
+        encoding="utf-8",
+    )
+    requested = []
+
+    class ControlledFetcher:
+        async def fetch(self, source, cache=None):
+            requested.append(source.id)
+            await asyncio.sleep(0)
+            return Page(title="招生公告", text="学院研究生招生通知列表公告", links=[], hash="v1")
+
+    result = asyncio.run(crawl(root, fetcher=ControlledFetcher(), limit=7))
+    assert len(requested) == len(set(requested)) == result["checked"] == 7
+    assert result["status"] == "partial"
+
+
+def test_cancelled_crawl_cleans_up_all_in_flight_sources(tmp_path):
+    root = setup_root(tmp_path)
+    path = root / "data/sources.json"
+    template = read_json(path, [])[0]
+    path.write_text(
+        json.dumps(
+            [
+                template | {"id": f"list-{index}", "url": f"https://s.edu.cn/list{index}"}
+                for index in range(8)
+            ]
+        ),
+        encoding="utf-8",
+    )
+
+    async def check():
+        all_started = asyncio.Event()
+        pending_forever = asyncio.Event()
+        started = []
+        cancelled = []
+
+        class ControlledFetcher:
+            async def fetch(self, source, cache=None):
+                started.append(source.id)
+                if len(started) == 6:
+                    all_started.set()
+                try:
+                    await pending_forever.wait()
+                finally:
+                    cancelled.append(source.id)
+
+        task = asyncio.create_task(crawl(root, fetcher=ControlledFetcher()))
+        try:
+            await asyncio.wait_for(all_started.wait(), timeout=1)
+        finally:
+            task.cancel()
+            with pytest.raises(asyncio.CancelledError):
+                await task
+        assert len(cancelled) == 6
+        assert set(cancelled) == set(started)
+        assert not (root / "data/state.json").exists()
+        assert not (root / "public/data/catalog.json").exists()
+
+    asyncio.run(check())

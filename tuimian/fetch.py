@@ -160,6 +160,7 @@ class Fetcher:
         self.owns_client = client is None
         self.semaphore = asyncio.Semaphore(6)
         self.delay = delay
+        self.host_delays: dict[str, float] = {}
         self.respect_robots = respect_robots
         self.locks: dict[str, asyncio.Lock] = {}
         self.last_request: dict[str, float] = {}
@@ -183,7 +184,8 @@ class Fetcher:
         lock = self.locks.setdefault(host, asyncio.Lock())
         for attempt in range(3):
             async with lock:
-                wait = self.delay - (time.monotonic() - self.last_request.get(host, 0))
+                delay = max(self.delay, self.host_delays.get(host, 0))
+                wait = delay - (time.monotonic() - self.last_request.get(host, 0))
                 if wait > 0:
                     await asyncio.sleep(wait)
                 self.last_request[host] = time.monotonic()
@@ -256,9 +258,10 @@ class Fetcher:
         if not robot.can_fetch(USER_AGENT, url):
             raise ValueError("robots.txt 不允许抓取该来源")
         crawl_delay = robot.crawl_delay(USER_AGENT) or robot.crawl_delay("*")
-        if crawl_delay and crawl_delay > self.delay:
-            # 保守提高本次进程的限速，不低于站点声明。
-            self.delay = crawl_delay
+        if crawl_delay:
+            # 各站点独立限速，同一 host 的任何请求均不低于已知 robots 声明。
+            host = parsed.netloc
+            self.host_delays[host] = max(self.host_delays.get(host, 0), crawl_delay)
 
     async def fetch(self, source: SourceConfig, cache: dict | None = None) -> Page:
         await self._check_robots(source.url)
