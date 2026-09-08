@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "auditedAt": "2026-09-08T09:11:18.180591+08:00",
+  "sourceRun": {
+    "startedAt": "2026-09-08T08:51:56+08:00",
+    "finishedAt": "2026-09-08T08:57:04+08:00",
+    "status": "partial",
+    "checked": 1298,
+    "succeeded": 1069,
+    "failed": 229,
+    "discovered": 463,
+    "changed": 183
+  },
+  "method": "生产data只读复制到temp隔离目录，注入只能返回state.pages官方缓存的Fetcher，运行完整发现、解析、归并、校验与原子保存管线三次；缺失缓存立即失败，无网络fallback。只写隔离副本，不修改生产来源检查时间。",
+  "freshnessWarning": "这是官方正文的离线重放验收，不是官网联网检查。这里的succeeded仅指缓存成功读取/解析；missing是刻意离线缺缓存，不能作为官网可用性统计。",
+  "checks": {
+    "secondRunNoAddedProjects": true,
+    "thirdRunNoAddedProjects": true,
+    "secondRunNoSubstantiveChanges": true,
+    "thirdRunNoSubstantiveChanges": true,
+    "semanticStableAfterInitialNormalization": true,
+    "publicSemanticStableAfterInitialNormalization": true,
+    "persistentIdsRetainedOnRepeats": true,
+    "hasRealMultipleBatches": true,
+    "unknownDeadlinesRemainExpressed": true,
+    "noNetworkFetcherUsed": true
+  },
+  "fetches": {
+    "total": 3915,
+    "cached": 3222,
+    "missing": 693
+  },
+  "multipleBatches": [
+    {
+      "schoolId": "hit",
+      "unitId": "hit-5f2d8b12b6",
+      "batches": [
+        "补充报名",
+        "首批"
+      ]
+    },
+    {
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1dbcf6a9b5",
+      "batches": [
+        "人工智能法治人才专项班",
+        "首批"
+      ]
+    },
+    {
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1753e1026d",
+      "batches": [
+        "通信、集成电路专项班",
+        "首批"
+      ]
+    }
+  ],
+  "runs": [
+    {
+      "run": {
+        "startedAt": "2026-09-08T09:11:13+08:00",
+        "finishedAt": "2026-09-08T09:11:14+08:00",
+        "status": "partial",
+        "checked": 1305,
+        "succeeded": 1013,
+        "failed": 292,
+        "discovered": 0,
+        "changed": 7
+      },
+      "opportunityCount": 193,
+      "publicOpportunityCount": 137,
+      "changeCount": 203,
+      "semanticHash": "9684155aa971366d7001f0369c220879c1f077e429a00588d2bde6ee4ea7aad3",
+      "publicSemanticHash": "46eade2cf4eca3dd39219ed2c7a612d2ebd0e84fab9dc73746d8733b9b7f2492",
+      "addedIds": [],
+      "removedIds": [],
+      "changeKinds": [
+        {
+          "opportunityId": "opp-927b623ea1f61dbe90f4",
+          "kind": "corrected"
+        },
+        {
+          "opportunityId": "opp-cd642c03a1c3caefd35a",
+          "kind": "corrected"
+        },
+        {
+          "opportunityId": "opp-a2d679212d173feba51d",
+          "kind": "corrected"
+        },
+        {
+          "opportunityId": "opp-31656c72c6009f9f434e",
+          "kind": "corrected"
+        },
+        {
+          "opportunityId": "opp-585557cd71e9e7f4cef9",
+          "kind": "corrected"
+        },
+        {
+          "opportunityId": "opp-9560c2e5e6e8cef42603",
+          "kind": "corrected"
+        },
+        {
+          "opportunityId": "opp-20d0dbefbf5b90e5e96d",
+          "kind": "corrected"
+        }
+      ]
+    },
+    {
+      "run": {
+        "startedAt": "2026-09-08T09:11:15+08:00",
+        "finishedAt": "2026-09-08T09:11:16+08:00",
+        "status": "partial",
+        "checked": 1305,
+        "succeeded": 1013,
+        "failed": 292,
+        "discovered": 0,
+        "changed": 0
+      },
+      "opportunityCount": 193,
+      "publicOpportunityCount": 137,
+      "changeCount": 203,
+      "semanticHash": "9684155aa971366d7001f0369c220879c1f077e429a00588d2bde6ee4ea7aad3",
+      "publicSemanticHash": "46eade2cf4eca3dd39219ed2c7a612d2ebd0e84fab9dc73746d8733b9b7f2492",
+      "addedIds": [],
+      "removedIds": [],
+      "changeKinds": []
+    },
+    {
+      "run": {
+        "startedAt": "2026-09-08T09:11:16+08:00",
+        "finishedAt": "2026-09-08T09:11:17+08:00",
+        "status": "partial",
+        "checked": 1305,
+        "succeeded": 1013,
+        "failed": 292,
+        "discovered": 0,
+        "changed": 0
+      },
+      "opportunityCount": 193,
+      "publicOpportunityCount": 137,
+      "changeCount": 203,
+      "semanticHash": "9684155aa971366d7001f0369c220879c1f077e429a00588d2bde6ee4ea7aad3",
+      "publicSemanticHash": "46eade2cf4eca3dd39219ed2c7a612d2ebd0e84fab9dc73746d8733b9b7f2492",
+      "addedIds": [],
+      "removedIds": [],
+      "changeKinds": []
+    }
+  ],
+  "retainedUnknownDeadlinesInArchive": 97,
+  "interpretation": "首轮允许修复后的解析器规范化历史数据；第二、三轮均应没有新增项目或实质变更。归档记录保留被排除项用于历史审计，公开项目数已应用排除与别名规则。"
+}

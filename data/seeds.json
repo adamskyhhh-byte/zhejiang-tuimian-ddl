@@ -1,0 +1,5577 @@
+[
+  {
+    "id": "opp-4ac6f67b34e2ce5fae1e",
+    "schoolId": "seu",
+    "unitId": "seu-b5ee289a21",
+    "title": "雷恩研究生学院计算机技术专业｜推免预报名",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-07-13T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026 年 7 月 13 日中午 12:00",
+      "sourceId": "src-450c64c65b90daa450"
+    },
+    "applicationEnd": {
+      "value": "2026-08-10T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026 年 8 月10日中午12:00",
+      "sourceId": "src-450c64c65b90daa450"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://cs.seu.edu.cn/_upload/article/files/9c/9a/b7be7f6a477f841a57016443ddf4/1ae52cde-6e64-4dba-835a-293551fc9e84.pdf",
+    "sourceIds": [
+      "src-450c64c65b90daa450"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-450c64c65b90daa450",
+        "url": "https://cs.seu.edu.cn/_upload/article/files/9c/9a/b7be7f6a477f841a57016443ddf4/1ae52cde-6e64-4dba-835a-293551fc9e84.pdf",
+        "title": "雷恩研究生学院计算机技术专业｜推免预报名",
+        "excerpt": "东南大学雷恩研究生学院于 2017 年 5月 4 日经中国教育部批准；（2）报名时间：2026 年 7 月 13 日中午 12:00 — 2026 年 8 月10日中午12:00；咨询电话：025-52091396（工作日时间：8:30-12:00，13:30-17:00）"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-23670c1abf34197c3bf3",
+    "schoolId": "nju",
+    "unitId": "nju-54ee27e5bf",
+    "title": "南京大学人工智能学院 2027 年接收推荐免试研究生预报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-b1b996a3ad1da8e5f0"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-b1b996a3ad1da8e5f0"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://ai.nju.edu.cn/d4/5c/c53055a840796/page.htm",
+    "sourceIds": [
+      "src-b1b996a3ad1da8e5f0"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-b1b996a3ad1da8e5f0",
+        "url": "https://ai.nju.edu.cn/d4/5c/c53055a840796/page.htm",
+        "title": "南京大学人工智能学院 2027 年接收推荐免试研究生预报名通知",
+        "excerpt": "发布时间：2026-08-03"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-5a385e04d673b98251a4",
+    "schoolId": "nju",
+    "unitId": "nju-bb00eb5eed",
+    "title": "南京大学智能科学与技术学院关于接收2027年推荐免试研究生预报名的公告",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-5c334ba5cad4855b5b"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-5c334ba5cad4855b5b"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://is.nju.edu.cn/d4/5b/c57162a840795/page.htm",
+    "sourceIds": [
+      "src-5c334ba5cad4855b5b"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-5c334ba5cad4855b5b",
+        "url": "https://is.nju.edu.cn/d4/5b/c57162a840795/page.htm",
+        "title": "南京大学智能科学与技术学院关于接收2027年推荐免试研究生预报名的公告",
+        "excerpt": "发布时间：2026-08-03"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-131428b78d71fd7b46fb",
+    "schoolId": "nju",
+    "unitId": "nju-d44e9404bb",
+    "title": "南京大学软件学院2027年接收推荐免试研究生预报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-620d0287e919cbd29d"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-620d0287e919cbd29d"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://software.nju.edu.cn/tzgg/20260803/i406944.html",
+    "sourceIds": [
+      "src-620d0287e919cbd29d"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-620d0287e919cbd29d",
+        "url": "https://software.nju.edu.cn/tzgg/20260803/i406944.html",
+        "title": "南京大学软件学院2027年接收推荐免试研究生预报名通知",
+        "excerpt": "发布日期：2026-08-03"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-c9bc3e58b290acc1d4f5",
+    "schoolId": "muc",
+    "unitId": "muc-f662d585bc",
+    "title": "信息工程学院关于2027年接收推荐免试研究生预报名的通知-信息工程学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-45f02524331b67bd2f"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "1-5",
+      "sourceId": "src-45f02524331b67bd2f"
+    },
+    "materialsEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-45f02524331b67bd2f"
+    },
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://xingong.muc.edu.cn/info/1041/6425.htm",
+    "sourceIds": [
+      "src-45f02524331b67bd2f"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-45f02524331b67bd2f",
+        "url": "https://xingong.muc.edu.cn/info/1041/6425.htm",
+        "title": "信息工程学院关于2027年接收推荐免试研究生预报名的通知-信息工程学院",
+        "excerpt": "2026年8月1日0；8月23日前在学院网站；1-5；2026年8月28日"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。发现多个不同时间，需核验是否属于不同项目或批次。"
+  },
+  {
+    "id": "opp-e22dc8771005f5d72be6",
+    "schoolId": "sysu",
+    "unitId": "sysu-bcf177c57d",
+    "title": "中山大学电子与信息工程学院（微电子学院）2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知 | 电子与信息工程学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-ddbeaa1e388babcb69"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-ddbeaa1e388babcb69"
+    },
+    "materialsEnd": {
+      "value": "2026-08-19T23:59:00+08:00",
+      "precision": "datetime",
+      "raw": "8月19日23:59",
+      "sourceId": "src-ddbeaa1e388babcb69"
+    },
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://seit.sysu.edu.cn/article/3068",
+    "sourceIds": [
+      "src-ddbeaa1e388babcb69"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-ddbeaa1e388babcb69",
+        "url": "https://seit.sysu.edu.cn/article/3068",
+        "title": "中山大学电子与信息工程学院（微电子学院）2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知 | 电子与信息工程学院",
+        "excerpt": "发布日期：2026-07-26；1.报名时间：即日起至8月19日23:592.请报名者在中山大学研究生招生平台填写报名申请（链接：https://enroll.sysu.edu.cn/），并将以上所有申请材料扫描为PDF文件上传至报名链接；2026年7月26日"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-a3706eba325fab6ed55a",
+    "schoolId": "xmu",
+    "unitId": "xmu-dacbbeb44f",
+    "title": "厦门大学航空航天学院关于2027年招收推荐免试研究生（含直博生）预报名的通知-航空航天学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-4a1f449349db438ecd"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-4a1f449349db438ecd"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://aerospace.xmu.edu.cn/info/2723/64484.htm",
+    "sourceIds": [
+      "src-4a1f449349db438ecd"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-4a1f449349db438ecd",
+        "url": "https://aerospace.xmu.edu.cn/info/2723/64484.htm",
+        "title": "厦门大学航空航天学院关于2027年招收推荐免试研究生（含直博生）预报名的通知-航空航天学院",
+        "excerpt": "联系电话：0592-2181231"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-a82004c2a571e4786324",
+    "schoolId": "tongji",
+    "unitId": "tongji-8ac6af1376",
+    "title": "上海自主智能无人系统科学中心｜上海自主智能无人系统科学中心2027年接收推荐免试研究生预报名",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-a77032ebf7e434335d"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-a77032ebf7e434335d"
+    },
+    "materialsEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "1-7 ",
+      "sourceId": "src-a77032ebf7e434335d"
+    },
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://srias.tongji.edu.cn/_upload/article/files/c3/a0/9961854b4d45bf0547ad2198e401/d6c245f3-7996-478a-ac13-e959f494e4a5.pdf",
+    "sourceIds": [
+      "src-a77032ebf7e434335d"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-a77032ebf7e434335d",
+        "url": "https://srias.tongji.edu.cn/_upload/article/files/c3/a0/9961854b4d45bf0547ad2198e401/d6c245f3-7996-478a-ac13-e959f494e4a5.pdf",
+        "title": "上海自主智能无人系统科学中心｜上海自主智能无人系统科学中心2027年接收推荐免试研究生预报名",
+        "excerpt": "以上材料于系统内上传电子版， 1-7 按顺序扫描成1份PDF，邮件发送至；预报名申请者需于8月23日17:00前登录同济大学研究生报考服务系统进行"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-800a30c96c5cb8ef291e",
+    "schoolId": "sysu",
+    "unitId": "sysu-71ad3aa513",
+    "title": "中山大学智能工程学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知 | 中山大学智能工程学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-45e2b66b71fa4ab867"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-45e2b66b71fa4ab867"
+    },
+    "materialsEnd": {
+      "value": "2026-08-23",
+      "precision": "date",
+      "raw": "2026年8月23日",
+      "sourceId": "src-45e2b66b71fa4ab867"
+    },
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://ise.sysu.edu.cn/article/1745",
+    "sourceIds": [
+      "src-45e2b66b71fa4ab867"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-45e2b66b71fa4ab867",
+        "url": "https://ise.sysu.edu.cn/article/1745",
+        "title": "中山大学智能工程学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知 | 中山大学智能工程学院",
+        "excerpt": "发布日期：2026-08-0421995；，同时，报名时还需要上传汇总表，模板在报名系统中，系统报名时间是：即日起至2026年8月23日；考生报名截止后，学院将根据学生报名情况对照报名条件进行初步筛选，确定复试名单，复试名单将于9月4日前在学院官方网站公布，具体复试安排和流程将在公布复试名单时公布；电话：0755-23260067"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-5c3339e29d739f079561",
+    "schoolId": "sysu",
+    "unitId": "sysu-ae18cab9f7",
+    "title": "中山大学集成电路学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-45a546f72487c03bee"
+    },
+    "applicationEnd": {
+      "value": "2026-08-23T23:59:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月23日23：59",
+      "sourceId": "src-45a546f72487c03bee"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://sic.sysu.edu.cn/rc/rc05/1421838.htm",
+    "sourceIds": [
+      "src-45a546f72487c03bee"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-45a546f72487c03bee",
+        "url": "https://sic.sysu.edu.cn/rc/rc05/1421838.htm",
+        "title": "中山大学集成电路学院",
+        "excerpt": "2026年8月23日23：59；联系电话：0755-23260295"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-7fbeb58e0c0d94598252",
+    "schoolId": "hit",
+    "unitId": "hit-5f2d8b12b6",
+    "title": "哈尔滨工业大学计算学部关于接收2027年优秀应届本科毕业生免试攻读研究生报名的通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic"
+    ],
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-8c7a60d527dfdb4abe"
+    },
+    "applicationEnd": {
+      "value": "2026-08-24",
+      "precision": "date",
+      "raw": "2026年8月24日",
+      "sourceId": "src-8c7a60d527dfdb4abe"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://cs.hit.edu.cn/2026/0726/c11271a398409/page.htm",
+    "sourceIds": [
+      "src-8c7a60d527dfdb4abe"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-8c7a60d527dfdb4abe",
+        "url": "https://cs.hit.edu.cn/2026/0726/c11271a398409/page.htm",
+        "title": "哈尔滨工业大学计算学部关于接收2027年优秀应届本科毕业生免试攻读研究生报名的通知",
+        "excerpt": "发布时间：2026-07-26；学部将于即日起开通“推免生信息采集系统”，2026年8月24日关闭系统，接受预计获得推免资格的应届本科毕业生报名；计算学部                联系人：谢老师  0451-86403711"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。硕博时间混合表述，需人工核验硕士适用范围。"
+  },
+  {
+    "id": "opp-30da51aca63d2e2d7b39",
+    "schoolId": "tongji",
+    "unitId": "tongji-9ac0e66b58",
+    "title": "电子与信息工程学院｜同济大学电子与信息工程学院2027年接收推荐免试研究生（含直接攻博）预报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "2. 20",
+      "sourceId": "src-ff8d9198789e744d07"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-ff8d9198789e744d07"
+    },
+    "materialsEnd": {
+      "value": "2026-08-25T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月25日12:00",
+      "sourceId": "src-ff8d9198789e744d07"
+    },
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://see.tongji.edu.cn/__local/0/CA/40/80ACF42AA9C448546B4B52A25D2_433060EA_4F2DE.pdf",
+    "sourceIds": [
+      "src-ff8d9198789e744d07"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-ff8d9198789e744d07",
+        "url": "https://see.tongji.edu.cn/__local/0/CA/40/80ACF42AA9C448546B4B52A25D2_433060EA_4F2DE.pdf",
+        "title": "电子与信息工程学院｜同济大学电子与信息工程学院2027年接收推荐免试研究生（含直接攻博）预报名通知",
+        "excerpt": "1.  申请起止时间：即日起至2026年8月25日12:00；2. 2027年我校接收推免生的专业目录以全国推免服务系"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-79f444ae584502d7d861",
+    "schoolId": "tongji",
+    "unitId": "tongji-68fd4b54d0",
+    "title": "计算机科学与技术学院（软件学院）｜2027年接收推荐免试研究生（含直接攻博）预报名",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-0dd3595c1550b6a56d"
+    },
+    "applicationEnd": {
+      "value": "2026-08-25T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月25日12:00",
+      "sourceId": "src-0dd3595c1550b6a56d"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://cs.tongji.edu.cn/__local/9/60/A0/E754D70DC091A39226FD77BEB2B_082455BA_396B5.pdf",
+    "sourceIds": [
+      "src-0dd3595c1550b6a56d"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-0dd3595c1550b6a56d",
+        "url": "https://cs.tongji.edu.cn/__local/9/60/A0/E754D70DC091A39226FD77BEB2B_082455BA_396B5.pdf",
+        "title": "计算机科学与技术学院（软件学院）｜2027年接收推荐免试研究生（含直接攻博）预报名",
+        "excerpt": "2024 年 9月 19 日，学校融合原计算机科学与技术系、软件学院，成立计算机科学与技术；即日起至2026年8月25日12:00，逾期报名无效"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-f5ed17bfaea273031cef",
+    "schoolId": "xmu",
+    "unitId": "xmu-39121bdb22",
+    "title": "厦门大学智能制造学院（萨本栋微米纳米科学技术研究院）关于2027年招收推荐免试研究生（含直博生）预报名的通知-厦门大学智能制造学院（萨本栋微米纳米科学技术研究院）",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-08-01",
+      "precision": "date",
+      "raw": "8月1日",
+      "sourceId": "src-d545d8c5d338a859fe"
+    },
+    "applicationEnd": {
+      "value": "2026-08-25T17:30:00+08:00",
+      "precision": "datetime",
+      "raw": "8月25日17：30",
+      "sourceId": "src-d545d8c5d338a859fe"
+    },
+    "materialsEnd": {
+      "value": "2026-08-25T17:30:00+08:00",
+      "precision": "datetime",
+      "raw": "8月25日17：30",
+      "sourceId": "src-d545d8c5d338a859fe"
+    },
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://sbd.xmu.edu.cn/info/1468/13070.htm",
+    "sourceIds": [
+      "src-d545d8c5d338a859fe"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-d545d8c5d338a859fe",
+        "url": "https://sbd.xmu.edu.cn/info/1468/13070.htm",
+        "title": "厦门大学智能制造学院（萨本栋微米纳米科学技术研究院）关于2027年招收推荐免试研究生（含直博生）预报名的通知-厦门大学智能制造学院（萨本栋微米纳米科学技术研究院）",
+        "excerpt": "8月1日至8月25日17：30，申请人可登录厦门大学推免生管理系统（；1.填报截止时间：8月25日17：302.问卷填写可点击链接（"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-b6e976c5f2f83cf8d6f6",
+    "schoolId": "sysu",
+    "unitId": "sysu-7be1433646",
+    "title": "中山大学网络空间安全学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知 | 中山大学网络空间安全学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-ab2ffb98f356ee50a8"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-ab2ffb98f356ee50a8"
+    },
+    "materialsEnd": {
+      "value": "2026-08-25",
+      "precision": "date",
+      "raw": "2026年8月25日",
+      "sourceId": "src-ab2ffb98f356ee50a8"
+    },
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://scst.sysu.edu.cn/article/502",
+    "sourceIds": [
+      "src-ab2ffb98f356ee50a8"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-ab2ffb98f356ee50a8",
+        "url": "https://scst.sysu.edu.cn/article/502",
+        "title": "中山大学网络空间安全学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知 | 中山大学网络空间安全学院",
+        "excerpt": "发布日期：2026-07-15；2026年8月25日前；联系电话：0755-23260275"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-6e6bf609c3a02a2f6523",
+    "schoolId": "hit",
+    "unitId": "hit-cab13f24ef",
+    "title": "哈尔滨工业大学（深圳） 信息学部计算机科学与技术学院2027年接收优秀应届本科生免试攻读研究生报名的通知-哈尔滨工业大学（深圳）信息学部",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-f2b96d4252703f26dc"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-f2b96d4252703f26dc"
+    },
+    "materialsEnd": {
+      "value": "2026-09-13",
+      "precision": "date",
+      "raw": "9月13日",
+      "sourceId": "src-f2b96d4252703f26dc"
+    },
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "http://cist.hitsz.edu.cn/info/1038/2789.htm",
+    "sourceIds": [
+      "src-f2b96d4252703f26dc"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-f2b96d4252703f26dc",
+        "url": "http://cist.hitsz.edu.cn/info/1038/2789.htm",
+        "title": "哈尔滨工业大学（深圳） 信息学部计算机科学与技术学院2027年接收优秀应届本科生免试攻读研究生报名的通知-哈尔滨工业大学（深圳）信息学部",
+        "excerpt": "报名截至时间：8月28日（电子信息（085400）计算机技术（大模型与通用人工智能系统项目）、电子信息（085400）计算机技术（中电信星辰大模型项目）的报名截止时间为9月13日）；2026年8月14日"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-4fbcfeb78698d4d51168",
+    "schoolId": "nankai",
+    "unitId": "nankai-ece8ceb68b",
+    "title": "统计与数据科学学院2027年推免预报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-318ccaa9b5304ba376"
+    },
+    "applicationEnd": {
+      "value": "2026-08-29T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月28日24:00",
+      "sourceId": "src-318ccaa9b5304ba376"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://stat.nankai.edu.cn/2026/0811/c12324a601148/page.htm",
+    "sourceIds": [
+      "src-318ccaa9b5304ba376"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-318ccaa9b5304ba376",
+        "url": "https://stat.nankai.edu.cn/2026/0811/c12324a601148/page.htm",
+        "title": "统计与数据科学学院2027年推免预报名通知",
+        "excerpt": "发布时间：2026-08-11；2026年8月28日24:00；6. 2027级"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-0208127eee2f3d48b66b",
+    "schoolId": "tju",
+    "unitId": "tju-6525ce363b",
+    "title": "天津大学研究生招生网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-9d8cccf295361abc06"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-9d8cccf295361abc06"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "sourceIds": [
+      "src-9d8cccf295361abc06"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-9d8cccf295361abc06",
+        "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+        "title": "天津大学研究生招生网",
+        "excerpt": "微电子学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-3b0c0f1bbee7f6c915f0",
+    "schoolId": "nju",
+    "unitId": "nju-099d51df58",
+    "title": "南京大学 2027 年“集成电路专项班”推荐免试研究生",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-73baa840f87d327386"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-73baa840f87d327386"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.nju.edu.cn/_upload/article/files/6d/28/c2ddfc694cb192448c458c76ca1a/a0783ea9-abbc-484f-83cb-8a75941d88a5.pdf",
+    "sourceIds": [
+      "src-73baa840f87d327386"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-73baa840f87d327386",
+        "url": "https://yzb.nju.edu.cn/_upload/article/files/6d/28/c2ddfc694cb192448c458c76ca1a/a0783ea9-abbc-484f-83cb-8a75941d88a5.pdf",
+        "title": "南京大学 2027 年“集成电路专项班”推荐免试研究生",
+        "excerpt": "现代工程与应用科学学院 15\n现代工程与应用科学学院 9"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-13fbd84fbe70afe2baa4",
+    "schoolId": "tongji",
+    "unitId": "tongji-0135ce5046",
+    "title": "机械工程与机器人学院｜2027年接收推荐免试研究生（含直接攻博）预报名及选拔复试",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-08-01T08:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月1日8:00",
+      "sourceId": "src-73e720e4df95e21bff"
+    },
+    "applicationEnd": {
+      "value": "2026-09-01T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年9月1日 12:00",
+      "sourceId": "src-73e720e4df95e21bff"
+    },
+    "materialsEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "2 / 5",
+      "sourceId": "src-73e720e4df95e21bff"
+    },
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://mefaculty.tongji.edu.cn/__local/9/8F/1E/EF80B7C77367C08D362E48D4FA8_EA54D00C_32012.pdf",
+    "sourceIds": [
+      "src-73e720e4df95e21bff"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-73e720e4df95e21bff",
+        "url": "https://mefaculty.tongji.edu.cn/__local/9/8F/1E/EF80B7C77367C08D362E48D4FA8_EA54D00C_32012.pdf",
+        "title": "机械工程与机器人学院｜2027年接收推荐免试研究生（含直接攻博）预报名及选拔复试",
+        "excerpt": "2026年8月1日8:00---2026年9月1日 12:00，逾期报名无效；2 / 5；4 / 5；5 / 5"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-f3dabb3c274bd2d4860d",
+    "schoolId": "nju",
+    "unitId": "nju-ae18cab9f7",
+    "title": "南京大学集成电路学院2027年接收推荐免试研究生预报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-efa696a892d8501773"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-efa696a892d8501773"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://ic.nju.edu.cn/d4/5f/c59160a840799/page.htm",
+    "sourceIds": [
+      "src-efa696a892d8501773"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-efa696a892d8501773",
+        "url": "https://ic.nju.edu.cn/d4/5f/c59160a840799/page.htm",
+        "title": "南京大学集成电路学院2027年接收推荐免试研究生预报名通知",
+        "excerpt": "发布时间：2026-08-03"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-52e596d84ce6ef7fc7a8",
+    "schoolId": "nju",
+    "unitId": "nju-ae18cab9f7",
+    "title": "南京大学 2027 年“集成电路专项班”推荐免试研究生",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-3d0b9129e8fceb0b32"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-3d0b9129e8fceb0b32"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.nju.edu.cn/_upload/article/files/6d/28/c2ddfc694cb192448c458c76ca1a/a0783ea9-abbc-484f-83cb-8a75941d88a5.pdf",
+    "sourceIds": [
+      "src-3d0b9129e8fceb0b32"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-3d0b9129e8fceb0b32",
+        "url": "https://yzb.nju.edu.cn/_upload/article/files/6d/28/c2ddfc694cb192448c458c76ca1a/a0783ea9-abbc-484f-83cb-8a75941d88a5.pdf",
+        "title": "南京大学 2027 年“集成电路专项班”推荐免试研究生",
+        "excerpt": "集成电路学院 4 085400 电子信息\n 集成电路学院，联系电话：0512-68769177，电子邮箱：cyhuan101@nju.edu.cn。"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-7f12d8eb5be9b90fe344",
+    "schoolId": "xmu",
+    "unitId": "xmu-f590ffc413",
+    "title": "厦门大学人工智能研究院关于2027年接收推荐免试研究生预报名的通知-厦门大学人工智能研究院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-9790a5b0dbac67e0a6"
+    },
+    "applicationEnd": {
+      "value": "2026-08-01",
+      "precision": "date",
+      "raw": "8月1日",
+      "sourceId": "src-9790a5b0dbac67e0a6"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://iai.xmu.edu.cn/info/1120/6145.htm",
+    "sourceIds": [
+      "src-9790a5b0dbac67e0a6"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-9790a5b0dbac67e0a6",
+        "url": "https://iai.xmu.edu.cn/info/1120/6145.htm",
+        "title": "厦门大学人工智能研究院关于2027年接收推荐免试研究生预报名的通知-厦门大学人工智能研究院",
+        "excerpt": "8月1日至"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-afcc801584b5ac66e513",
+    "schoolId": "ecnu",
+    "unitId": "ecnu-ce0dc65f05",
+    "title": "（9月2日更新）推免生预报名公告 | 华东师范大学智能交互学院2027年招收推荐免试攻读研究生",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-93c78c81322f62ac06"
+    },
+    "applicationEnd": {
+      "value": "2026-09-07T16:00:00+08:00",
+      "precision": "datetime",
+      "raw": "9月7日16:00",
+      "sourceId": "src-93c78c81322f62ac06"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://sii.ecnu.edu.cn/c6/2d/c52126a771629/page.htm",
+    "sourceIds": [
+      "src-93c78c81322f62ac06"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-93c78c81322f62ac06",
+        "url": "https://sii.ecnu.edu.cn/c6/2d/c52126a771629/page.htm",
+        "title": "（9月2日更新）推免生预报名公告 | 华东师范大学智能交互学院2027年招收推荐免试攻读研究生",
+        "excerpt": "（9月2日更新）推免生预报名公告 | 华东师范大学智能交互学院2027年招收推荐免试攻读研究生；9月7日16:00；9月7日16:00；cyxu@comm.ecnu.edu.cn  021-54343073"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-397a0ee791fd8c6df032",
+    "schoolId": "nju",
+    "unitId": "nju-b68f57251f",
+    "title": "南京大学电子科学与工程学院2027年接收推荐免试研究生预报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-71e81bc947ac141ef7"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-71e81bc947ac141ef7"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://ese.nju.edu.cn/d4/6d/c22673a840813/page.htm",
+    "sourceIds": [
+      "src-71e81bc947ac141ef7"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-71e81bc947ac141ef7",
+        "url": "https://ese.nju.edu.cn/d4/6d/c22673a840813/page.htm",
+        "title": "南京大学电子科学与工程学院2027年接收推荐免试研究生预报名通知",
+        "excerpt": "发布时间：2026-08-03"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-0f0a9b7a4efb97451267",
+    "schoolId": "ucas",
+    "unitId": "ucas-052b3a83fb",
+    "title": "中国科学院空间应用工程与技术中心2027年接收推荐免试研究生预报名通知--中国科学院空间应用工程与技术中心",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-08-19",
+      "precision": "date",
+      "raw": "2026年8月19日",
+      "sourceId": "src-8651e0cbe0d4ec6573"
+    },
+    "applicationEnd": {
+      "value": "2026-09-04",
+      "precision": "date",
+      "raw": "9月4日",
+      "sourceId": "src-8651e0cbe0d4ec6573"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "http://www.csu.cas.cn/gb/yjsjy2/tzygg/202608/t20260819_8262176.html",
+    "sourceIds": [
+      "src-8651e0cbe0d4ec6573"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-8651e0cbe0d4ec6573",
+        "url": "http://www.csu.cas.cn/gb/yjsjy2/tzygg/202608/t20260819_8262176.html",
+        "title": "中国科学院空间应用工程与技术中心2027年接收推荐免试研究生预报名通知--中国科学院空间应用工程与技术中心",
+        "excerpt": "发布时间：2026-08-19；报名时间：2026年8月19日至9月4日"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-12ef434f7627af875cc1",
+    "schoolId": "nankai",
+    "unitId": "nankai-d8ae6af2c4",
+    "title": "【2027推免】南开大学电子信息与光学工程学院接收2027年优秀应届本科毕业生免试攻读研究生（含直博生）预报名的通知-南开大学电子信息与光学工程学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-19d6b7c42a16002b27"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-19d6b7c42a16002b27"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://ceo.nankai.edu.cn/info/1099/4648.htm",
+    "sourceIds": [
+      "src-19d6b7c42a16002b27"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-19d6b7c42a16002b27",
+        "url": "https://ceo.nankai.edu.cn/info/1099/4648.htm",
+        "title": "【2027推免】南开大学电子信息与光学工程学院接收2027年优秀应届本科毕业生免试攻读研究生（含直博生）预报名的通知-南开大学电子信息与光学工程学院",
+        "excerpt": "TOEFL成绩90分（120分制）及以上或4.5分（6分制）及以上"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-d2ae923e03a0fe2af855",
+    "schoolId": "tju",
+    "unitId": "tju-841a8910e1",
+    "title": "天津大学研究生招生网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-3392697905cfacba14"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-3392697905cfacba14"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "sourceIds": [
+      "src-3392697905cfacba14"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-3392697905cfacba14",
+        "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+        "title": "天津大学研究生招生网",
+        "excerpt": "网络安全学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-585b6c2418f9b4615d86",
+    "schoolId": "dlut",
+    "unitId": "dlut-68fd4b54d0",
+    "title": "关于大连理工大学各院系接收2027年推荐免试研究生预报名陆续开放的通知-大连理工大学研究生院（新）",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-07-13T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "（主校区）计算机科学与技术学院2026年7月13日9：00--9月7日09：00",
+      "sourceId": "src-3ac18ef4031fab0699"
+    },
+    "applicationEnd": {
+      "value": "2026-09-07T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "（主校区）计算机科学与技术学院2026年7月13日9：00--9月7日09：00",
+      "sourceId": "src-3ac18ef4031fab0699"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "sourceIds": [
+      "src-3ac18ef4031fab0699"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-3ac18ef4031fab0699",
+        "url": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+        "title": "关于大连理工大学各院系接收2027年推荐免试研究生预报名陆续开放的通知-大连理工大学研究生院（新）",
+        "excerpt": "（主校区）计算机科学与技术学院2026年7月13日9：00--9月7日09：00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-16aa098407ef53e8bbe2",
+    "schoolId": "ecnu",
+    "unitId": "ecnu-03321df4f5",
+    "title": "软件工程学院（滴水湖国际软件学院）｜2027年接收优秀应届本科毕业生免试攻读研究生预报名",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-07-27T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我院预报名的起止时间为2026年7月27日09：00——2026年9月7日中午12：00",
+      "sourceId": "src-6b440a8638139a26a7"
+    },
+    "applicationEnd": {
+      "value": "2026-09-07T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我院预报名的起止时间为2026年7月27日09：00——2026年9月7日中午12：00",
+      "sourceId": "src-6b440a8638139a26a7"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://sei.ecnu.edu.cn/_upload/article/files/55/5a/217f03734763aff606388556d210/7afd3011-6a67-4ded-b971-3e8d937f4008.pdf",
+    "sourceIds": [
+      "src-6b440a8638139a26a7"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-6b440a8638139a26a7",
+        "url": "https://sei.ecnu.edu.cn/_upload/article/files/55/5a/217f03734763aff606388556d210/7afd3011-6a67-4ded-b971-3e8d937f4008.pdf",
+        "title": "软件工程学院（滴水湖国际软件学院）｜2027年接收优秀应届本科毕业生免试攻读研究生预报名",
+        "excerpt": "我院预报名的起止时间为2026年7月27日09：00——2026年9月7日中午12：00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-7b1fd7d8cf18f91c929a",
+    "schoolId": "dlut",
+    "unitId": "dlut-5f278a3ad8",
+    "title": "大连理工大学光电工程与仪器科学学院2027年接收推荐免试研究生预报名开放通知-光电工程与仪器科学学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "3/5",
+      "sourceId": "src-a944fb3b9ca6e1c3cb"
+    },
+    "applicationEnd": {
+      "value": "2026-09-07T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "9月7日中午12:00",
+      "sourceId": "src-a944fb3b9ca6e1c3cb"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://oeis.dlut.edu.cn/info/1045/9985.htm",
+    "sourceIds": [
+      "src-a944fb3b9ca6e1c3cb"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-a944fb3b9ca6e1c3cb",
+        "url": "https://oeis.dlut.edu.cn/info/1045/9985.htm",
+        "title": "大连理工大学光电工程与仪器科学学院2027年接收推荐免试研究生预报名开放通知-光电工程与仪器科学学院",
+        "excerpt": "为方便各位同学申报大连理工大学，现开通“大连理工大学接收推荐免试攻读研究生预报名系统”，网址为：https://yjszs.dlut.edu.cn/zsbm/logon,详情可查看：http://gs.dlut.edu.cn/info/1173/51492.htm,我学院推免生系统预报名时间为：8月12日8:00-9月7日中午12:00，请各位同学按时报名；电话：0411-84706240"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-cd642c03a1c3caefd35a",
+    "schoolId": "dlut",
+    "unitId": "dlut-c8db326793",
+    "title": "大连理工大学控制科学与工程学院2027年接收推荐免试研究生预报名通知-大连理工大学控制科学与工程学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-bb2aabb65249183986"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-bb2aabb65249183986"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://scse.dlut.edu.cn/info/1471/15392.htm",
+    "sourceIds": [
+      "src-bb2aabb65249183986"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-bb2aabb65249183986",
+        "url": "https://scse.dlut.edu.cn/info/1471/15392.htm",
+        "title": "大连理工大学控制科学与工程学院2027年接收推荐免试研究生预报名通知-大连理工大学控制科学与工程学院",
+        "excerpt": "7月20日；9月8"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-2a674418466b6737dd8e",
+    "schoolId": "dlut",
+    "unitId": "dlut-d44e9404bb",
+    "title": "关于大连理工大学各院系接收2027年推荐免试研究生预报名陆续开放的通知-大连理工大学研究生院（新）",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-07-25T08:00:00+08:00",
+      "precision": "datetime",
+      "raw": "（开发区校区）软件学院2026年7月25日8：00--9月8日8：00",
+      "sourceId": "src-544d4e86518b575976"
+    },
+    "applicationEnd": {
+      "value": "2026-09-08T08:00:00+08:00",
+      "precision": "datetime",
+      "raw": "（开发区校区）软件学院2026年7月25日8：00--9月8日8：00",
+      "sourceId": "src-544d4e86518b575976"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "sourceIds": [
+      "src-544d4e86518b575976"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-544d4e86518b575976",
+        "url": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+        "title": "关于大连理工大学各院系接收2027年推荐免试研究生预报名陆续开放的通知-大连理工大学研究生院（新）",
+        "excerpt": "（开发区校区）软件学院2026年7月25日8：00--9月8日8：00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-7d416a77e349fc7c1ff8",
+    "schoolId": "pku",
+    "unitId": "pku-f662d585bc",
+    "title": "北京大学信息工程学院2027年接收推荐免试研究生说明-北京大学信息工程学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-09-01T10:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年9月1日10:00",
+      "sourceId": "src-038f71234ef55cff1e"
+    },
+    "applicationEnd": {
+      "value": "2026-09-08T10:00:00+08:00",
+      "precision": "datetime",
+      "raw": "9月8日10:00",
+      "sourceId": "src-038f71234ef55cff1e"
+    },
+    "materialsEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-038f71234ef55cff1e"
+    },
+    "assessment": "5）TOEFL成绩100分（含）以上（IBT），只接受当次考核成绩，不接受拼分成绩（2025年9月1日后参加考试）",
+    "applicationUrl": null,
+    "noticeUrl": "https://www.ece.pku.edu.cn/info/1025/3213.htm",
+    "sourceIds": [
+      "src-038f71234ef55cff1e"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-038f71234ef55cff1e",
+        "url": "https://www.ece.pku.edu.cn/info/1025/3213.htm",
+        "title": "北京大学信息工程学院2027年接收推荐免试研究生说明-北京大学信息工程学院",
+        "excerpt": "2）网上报名时间：2026年9月1日10:00至9月8日10:00；于9月10日前寄达；3、2026年10月20日前，完成拟录取名单网上公示"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。发现多个不同时间，需核验是否属于不同项目或批次。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-d151b9af27686e7117cf",
+    "schoolId": "ecnu",
+    "unitId": "ecnu-6793503382",
+    "title": "数据科学与工程学院｜2027年接收优秀应届本科毕业生免试攻读研究生预报名",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-07-27T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我院预报名的起止时间为：2026年7月27日9:00~2026年9月8日12:00",
+      "sourceId": "src-5c6fb9518b237987a7"
+    },
+    "applicationEnd": {
+      "value": "2026-09-08T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我院预报名的起止时间为：2026年7月27日9:00~2026年9月8日12:00",
+      "sourceId": "src-5c6fb9518b237987a7"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://dase.ecnu.edu.cn/_upload/article/files/ef/b7/8ce4634b46aeb6697638fa0718f7/901c46e7-91ce-4622-9a48-2c7293196931.pdf",
+    "sourceIds": [
+      "src-5c6fb9518b237987a7"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-5c6fb9518b237987a7",
+        "url": "https://dase.ecnu.edu.cn/_upload/article/files/ef/b7/8ce4634b46aeb6697638fa0718f7/901c46e7-91ce-4622-9a48-2c7293196931.pdf",
+        "title": "数据科学与工程学院｜2027年接收优秀应届本科毕业生免试攻读研究生预报名",
+        "excerpt": "我院预报名的起止时间为：2026年7月27日9:00~2026年9月8日12:00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-bed4a7e7c00beaf998c1",
+    "schoolId": "nankai",
+    "unitId": "nankai-8790883450",
+    "title": "信息与传播学院关于2027年推荐免试硕士研究生预报名的通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-9083c3677985c6fde1"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-9083c3677985c6fde1"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://ic.nankai.edu.cn/2026/0903/c19738a601773/page.htm",
+    "sourceIds": [
+      "src-9083c3677985c6fde1"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-9083c3677985c6fde1",
+        "url": "https://ic.nankai.edu.cn/2026/0903/c19738a601773/page.htm",
+        "title": "信息与传播学院关于2027年推荐免试硕士研究生预报名的通知",
+        "excerpt": "发布时间：2026-09-03；4.5；9月8日24:00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-b0e466c0d27fcbce5dc4",
+    "schoolId": "whu",
+    "unitId": "whu-54ee27e5bf",
+    "title": "关于武汉大学人工智能学院2027年推免生接收预报名的通知-武汉大学人工智能学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "官方未给出精确开放时间",
+      "sourceId": "src-85e07395836cce1704"
+    },
+    "applicationEnd": {
+      "value": "2026-09-09T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "预报名时间：即日起至9月8日24：00",
+      "sourceId": "src-85e07395836cce1704"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://sai.whu.edu.cn/info/1601/20141.htm",
+    "sourceIds": [
+      "src-85e07395836cce1704"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-85e07395836cce1704",
+        "url": "https://sai.whu.edu.cn/info/1601/20141.htm",
+        "title": "关于武汉大学人工智能学院2027年推免生接收预报名的通知-武汉大学人工智能学院",
+        "excerpt": "预报名时间：即日起至9月8日24：00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-709e42e5d8f58ac0158d",
+    "schoolId": "nju",
+    "unitId": "nju-54ee27e5bf",
+    "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-033e6be40d0ad3f8e7"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-033e6be40d0ad3f8e7"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+    "sourceIds": [
+      "src-033e6be40d0ad3f8e7"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-033e6be40d0ad3f8e7",
+        "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+        "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+        "excerpt": "037 人工智能学院 085410 人工智能 硕士生 025-89681568"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-9801e968081418a261fc",
+    "schoolId": "nju",
+    "unitId": "nju-d6aeec6db0",
+    "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-b27ff6a1b44072bc2a"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-b27ff6a1b44072bc2a"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+    "sourceIds": [
+      "src-b27ff6a1b44072bc2a"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-b27ff6a1b44072bc2a",
+        "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+        "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+        "excerpt": "033 计算机学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-8a17bac610cfcf32e5cf",
+    "schoolId": "nju",
+    "unitId": "nju-d44e9404bb",
+    "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-26e1a117223fefee1f"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-26e1a117223fefee1f"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+    "sourceIds": [
+      "src-26e1a117223fefee1f"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-26e1a117223fefee1f",
+        "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+        "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+        "excerpt": "032 软件学院 085405 软件工程 硕士生 0512-68768031"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-3512daf9560d8b3627ab",
+    "schoolId": "nju",
+    "unitId": "nju-ae18cab9f7",
+    "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-878c6084c0a456de1b"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-878c6084c0a456de1b"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+    "sourceIds": [
+      "src-878c6084c0a456de1b"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-878c6084c0a456de1b",
+        "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+        "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+        "excerpt": "073 集成电路学院 085400 电子信息 硕士生、"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-e439460aef99e7ca47d4",
+    "schoolId": "ustc",
+    "unitId": "ustc-9b76c637a5",
+    "title": "人工智能与数据科学学院关于接收2027级推免生（含直博生）预面试报名的通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "professional"
+    ],
+    "disciplines": [
+      "人工智能",
+      "数据科学"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-eb6f3c9a8bf4106e3b"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-eb6f3c9a8bf4106e3b"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://saids.ustc.edu.cn/2026/0831/c15435a751553/page.htm",
+    "sourceIds": [
+      "src-eb6f3c9a8bf4106e3b"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-eb6f3c9a8bf4106e3b",
+        "url": "https://saids.ustc.edu.cn/2026/0831/c15435a751553/page.htm",
+        "title": "人工智能与数据科学学院关于接收2027级推免生（含直博生）预面试报名的通知",
+        "excerpt": "9月09日"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-557c23b9058c1124fa23",
+    "schoolId": "whu",
+    "unitId": "whu-a851488137",
+    "title": "武汉大学前沿交叉学科研究院2027年接收推免生预报名通知-武汉大学前沿交叉学科研究院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-57b889130a5097c80e"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-57b889130a5097c80e"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://aais.whu.edu.cn/info/2021/21561.htm",
+    "sourceIds": [
+      "src-57b889130a5097c80e"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-57b889130a5097c80e",
+        "url": "https://aais.whu.edu.cn/info/2021/21561.htm",
+        "title": "武汉大学前沿交叉学科研究院2027年接收推免生预报名通知-武汉大学前沿交叉学科研究院",
+        "excerpt": "：2026年8月24日-9月4日；：027-68758199（工作日8:30-11:30、14:30-17:30）；：2026年8月24日-9月6日；：027-68763688（工作日8:00-11:30、14:30-17:30）；：2026年8月24日-9月9日；：027-68788932（工作日8:00-11:30、14:30-17:30）；：2026年8月24日-9月9日；：027-68788914（工作日8:00-11:30、14:30-17:30）；：2026年8月29日-9月9日；：027-68753821（工作日8:30-11:30、14:30-17:30）；：2026年8月29日-9月9日；：2026年8月29日-9月8日；：027-68756726（工作日8:00-11:30、14:30-17"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。发现多个不同时间，需核验是否属于不同项目或批次。"
+  },
+  {
+    "id": "opp-f5dc63fbdf4847faa7dd",
+    "schoolId": "whu",
+    "unitId": "whu-d6aeec6db0",
+    "title": "计算机学院关于接收2027年推免生预报名的通知-武汉大学计算机学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-09-04T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "（一）预报名时间2026年9月4日17:00—9月10日上午8:00",
+      "sourceId": "src-01fa4c73609861212d"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T08:00:00+08:00",
+      "precision": "datetime",
+      "raw": "（一）预报名时间2026年9月4日17:00—9月10日上午8:00",
+      "sourceId": "src-01fa4c73609861212d"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://cs.whu.edu.cn/info/1071/65501.htm",
+    "sourceIds": [
+      "src-01fa4c73609861212d"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-01fa4c73609861212d",
+        "url": "https://cs.whu.edu.cn/info/1071/65501.htm",
+        "title": "计算机学院关于接收2027年推免生预报名的通知-武汉大学计算机学院",
+        "excerpt": "（一）预报名时间2026年9月4日17:00—9月10日上午8:00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-b2ceb01261f02e8432e9",
+    "schoolId": "sysu",
+    "unitId": "sysu-e22d3f5d04",
+    "title": "中山大学柔性电子学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知 | 中山大学柔性电子学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-e645888c3d81ca1c65"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-e645888c3d81ca1c65"
+    },
+    "materialsEnd": {
+      "value": "2026-09-10T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年9月10日中午12：00",
+      "sourceId": "src-e645888c3d81ca1c65"
+    },
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://sofe.sysu.edu.cn/zh-hans/article/511",
+    "sourceIds": [
+      "src-e645888c3d81ca1c65"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-e645888c3d81ca1c65",
+        "url": "https://sofe.sysu.edu.cn/zh-hans/article/511",
+        "title": "中山大学柔性电子学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知 | 中山大学柔性电子学院",
+        "excerpt": "发布日期：2026-07-23；即日起至2026年9月10日中午12：00前填写问卷（问卷链接：https://v.wjx.cn/vm/wkkEC2i.aspx#）将全部申请材料按申请材料的顺序扫描整理为同一个PDF文件，以“姓名-本科学校-本科专业”命名，上传至云盘（云盘链接： https://pan.sysu.edu.cn/link/AAE7F125F2CD7C41DAAD0D8967A2C2663D提取码：Kaav，云盘设置为“仅上传”，上传成功后无法预览是正常的，请先修改文件名称后再上传，如需更新已上传的文件可以直接上传新文件覆盖原文件；电话：0755-23260502"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-f605bf852c593a8b059d",
+    "schoolId": "whu",
+    "unitId": "whu-06d9a2d997",
+    "title": "国家网络安全学院2027年接收推免生预报名的通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-09-03",
+      "precision": "date",
+      "raw": "预报名系统开放时间：2026年9月3日—9月10日中午12:00",
+      "sourceId": "src-36f4af1ef93da744bb"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "预报名系统开放时间：2026年9月3日—9月10日中午12:00",
+      "sourceId": "src-36f4af1ef93da744bb"
+    },
+    "materialsEnd": null,
+    "assessment": "2. 我院考核计划于 9 月 16-19 日期间采用线下方式进行，实际具体安排将在 QQ 群",
+    "applicationUrl": null,
+    "noticeUrl": "https://cse.whu.edu.cn/__local/5/25/DE/51582978060F518921AD789313B_5C9D8C5A_1ECBA.pdf",
+    "sourceIds": [
+      "src-36f4af1ef93da744bb"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-36f4af1ef93da744bb",
+        "url": "https://cse.whu.edu.cn/__local/5/25/DE/51582978060F518921AD789313B_5C9D8C5A_1ECBA.pdf",
+        "title": "国家网络安全学院2027年接收推免生预报名的通知",
+        "excerpt": "预报名系统开放时间：2026年9月3日—9月10日中午12:00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-0c1a19c97ffb47990448",
+    "schoolId": "ustc",
+    "unitId": "ustc-7be1433646",
+    "title": "2026年网络空间安全学院预推免招生公告",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "professional"
+    ],
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "官方未给出精确开放时间",
+      "sourceId": "src-5114001bc2d7d924a8"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名截止日期：2026年9月10日下午17:00",
+      "sourceId": "src-5114001bc2d7d924a8"
+    },
+    "materialsEnd": {
+      "value": "2026-09-10",
+      "precision": "date",
+      "raw": "2026年9月10日",
+      "sourceId": "src-5114001bc2d7d924a8"
+    },
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://cybersec.ustc.edu.cn/2026/0903/c23826a752108/page.htm",
+    "sourceIds": [
+      "src-5114001bc2d7d924a8"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-5114001bc2d7d924a8",
+        "url": "https://cybersec.ustc.edu.cn/2026/0903/c23826a752108/page.htm",
+        "title": "2026年网络空间安全学院预推免招生公告",
+        "excerpt": "报名截止日期：2026年9月10日下午17:00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-da1abc5f77cefd73cdd0",
+    "schoolId": "sdu",
+    "unitId": "sdu-be80419028",
+    "title": "山东大学数学学院2027年接收推荐免试硕士研究生预报名通知-山东大学数学学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-09-01T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年9月1日9:00",
+      "sourceId": "src-fe1307c0ce3f0f1b0b"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "9月10日17:00",
+      "sourceId": "src-fe1307c0ce3f0f1b0b"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://www.math.sdu.edu.cn/info/1031/22054.htm",
+    "sourceIds": [
+      "src-fe1307c0ce3f0f1b0b"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-fe1307c0ce3f0f1b0b",
+        "url": "https://www.math.sdu.edu.cn/info/1031/22054.htm",
+        "title": "山东大学数学学院2027年接收推荐免试硕士研究生预报名通知-山东大学数学学院",
+        "excerpt": "报名时间：2026年9月1日9:00-9月10日17:00,报名系统（https://yanzhao.sdu.edu.cn）"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-0bce9dc5bf5bd12e7d32",
+    "schoolId": "sdu",
+    "unitId": "sdu-605588488b",
+    "title": "山东大学数据科学研究院2027年接收推荐免试研究生预报名通知-山东大学数据科学研究院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-09-01T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名时间：2026年9月1日9:00-9月10日17:00",
+      "sourceId": "src-58052e54c8efe90a51"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名时间：2026年9月1日9:00-9月10日17:00",
+      "sourceId": "src-58052e54c8efe90a51"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://dsi.sdu.edu.cn/info/1093/4664.htm",
+    "sourceIds": [
+      "src-58052e54c8efe90a51"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-58052e54c8efe90a51",
+        "url": "https://dsi.sdu.edu.cn/info/1093/4664.htm",
+        "title": "山东大学数据科学研究院2027年接收推荐免试研究生预报名通知-山东大学数据科学研究院",
+        "excerpt": "报名时间：2026年9月1日9:00-9月10日17:00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-5c303e7735fc75468a99",
+    "schoolId": "sdu",
+    "unitId": "sdu-7be1433646",
+    "title": "山东大学网络空间安全学院2027年接收推荐免试硕士研究生和本科直博生预报名通知-网络空间安全学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-09-01T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名时间：2026年9月1日9:00-2026年9月10日17:00",
+      "sourceId": "src-a272cd2b1bba173d55"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名时间：2026年9月1日9:00-2026年9月10日17:00",
+      "sourceId": "src-a272cd2b1bba173d55"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://cst.qd.sdu.edu.cn/info/1023/4169.htm",
+    "sourceIds": [
+      "src-a272cd2b1bba173d55"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-a272cd2b1bba173d55",
+        "url": "https://cst.qd.sdu.edu.cn/info/1023/4169.htm",
+        "title": "山东大学网络空间安全学院2027年接收推荐免试硕士研究生和本科直博生预报名通知-网络空间安全学院",
+        "excerpt": "报名时间：2026年9月1日9:00-2026年9月10日17:00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-86cd15bd6579ed0fc540",
+    "schoolId": "sdu",
+    "unitId": "sdu-ae18cab9f7",
+    "title": "山东大学集成电路学院2027年接收推荐免试硕士研究生预报名通知-集成电路学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-86b6f6e274f5fa79c4"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年9月10日17:00",
+      "sourceId": "src-86b6f6e274f5fa79c4"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://ic.sdu.edu.cn/info/1036/5206.htm",
+    "sourceIds": [
+      "src-86b6f6e274f5fa79c4"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-86b6f6e274f5fa79c4",
+        "url": "https://ic.sdu.edu.cn/info/1036/5206.htm",
+        "title": "山东大学集成电路学院2027年接收推荐免试硕士研究生预报名通知-集成电路学院",
+        "excerpt": "发布时间：2026年09月02日；2．报名开始时间： 2026年9月1日上午09:00，截止时间： 2026年9月10日17:00；联系电话：0531-88390132，邮箱："
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-e120b0dc477b51bad1f7",
+    "schoolId": "whu",
+    "unitId": "whu-78e852b100",
+    "title": "测绘学院关于2027年接收推荐免试研究生（含直博生）预报名的通知-武汉大学测绘学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-30cc05f0b9bb5ef251"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-30cc05f0b9bb5ef251"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://www.sgg.whu.edu.cn/info/1380/45961.htm",
+    "sourceIds": [
+      "src-30cc05f0b9bb5ef251"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-30cc05f0b9bb5ef251",
+        "url": "https://www.sgg.whu.edu.cn/info/1380/45961.htm",
+        "title": "测绘学院关于2027年接收推荐免试研究生（含直博生）预报名的通知-武汉大学测绘学院",
+        "excerpt": "1．2026年9月3日10:00—9月10日17:00，请符合报名条件的考生登录系统进行预报名；学院计划于9月中旬（预计9月16日-9月17日）进行复试，具体复试时间、地点通过QQ群通知，请保持电话、QQ畅通；联系方式：027-68778331(工作时间）"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。发现多个不同时间，需核验是否属于不同项目或批次。"
+  },
+  {
+    "id": "opp-20caa717a53ba9e97a48",
+    "schoolId": "xidian",
+    "unitId": "xidian-68fd4b54d0",
+    "title": "计算机科学与技术学院2027年推荐免试研究生招生预报名的通知-西安电子科技大学计算机科学与技术学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "官方未给出精确开放时间",
+      "sourceId": "src-cf91f870a60180d055"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名时间：即日起-9月10日17:00",
+      "sourceId": "src-cf91f870a60180d055"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://cs.xidian.edu.cn/info/1003/25704.htm",
+    "sourceIds": [
+      "src-cf91f870a60180d055"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-cf91f870a60180d055",
+        "url": "https://cs.xidian.edu.cn/info/1003/25704.htm",
+        "title": "计算机科学与技术学院2027年推荐免试研究生招生预报名的通知-西安电子科技大学计算机科学与技术学院",
+        "excerpt": "报名时间：即日起-9月10日17:00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-f30e733641ddbda519a1",
+    "schoolId": "xmu",
+    "unitId": "xmu-4ee0ff0077",
+    "title": "厦门大学电子科学与技术学院关于2027年招收国家优秀中小学教师培养计划推免生的通知-厦门大学电子科学与技术学院（国家示范性微电子学院）",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic"
+    ],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-20cd58da5322c69770"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-20cd58da5322c69770"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://ese.xmu.edu.cn/info/1018/35601.htm",
+    "sourceIds": [
+      "src-20cd58da5322c69770"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-20cd58da5322c69770",
+        "url": "https://ese.xmu.edu.cn/info/1018/35601.htm",
+        "title": "厦门大学电子科学与技术学院关于2027年招收国家优秀中小学教师培养计划推免生的通知-厦门大学电子科学与技术学院（国家示范性微电子学院）",
+        "excerpt": "https://ssyjsbm.xmu.edu.cn/）“报名管理-可报名项目”选择“国优专项”项目，该专项招生的基本申请条件需符合我院预推免报名基本要求，其具体培养方向及培养模式等详见学校招生通知：https://zs.xmu.edu.cn/info/1174/36782.htm；-9月10日"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-f541ac4815d6f0142794",
+    "schoolId": "hit",
+    "unitId": "hit-eef157a8bb",
+    "title": "哈尔滨工业大学集成电路科学与工程学科2027年推免生（含直博生）报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-15b1d76b61a650927e"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10",
+      "precision": "date",
+      "raw": "2026年9月10日",
+      "sourceId": "src-15b1d76b61a650927e"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://sa.hit.edu.cn/2026/0731/c6582a398925/page.htm",
+    "sourceIds": [
+      "src-15b1d76b61a650927e"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-15b1d76b61a650927e",
+        "url": "https://sa.hit.edu.cn/2026/0731/c6582a398925/page.htm",
+        "title": "哈尔滨工业大学集成电路科学与工程学科2027年推免生（含直博生）报名通知",
+        "excerpt": "报名截止时间：2026年9月10日"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-24c783fbff92b74c9261",
+    "schoolId": "hit",
+    "unitId": "hit-2bd8bf83bc",
+    "title": "哈尔滨工业大学(深圳)信息科学与技术学院 2027年接收优秀应届本科毕业生免试攻读研究生报名通知-哈尔滨工业大学（深圳）信息学部",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-265c4f528eadebf49c"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-265c4f528eadebf49c"
+    },
+    "materialsEnd": {
+      "value": "2026-09-10",
+      "precision": "date",
+      "raw": "9月10日",
+      "sourceId": "src-265c4f528eadebf49c"
+    },
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "http://cist.hitsz.edu.cn/info/1038/2790.htm",
+    "sourceIds": [
+      "src-265c4f528eadebf49c"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-265c4f528eadebf49c",
+        "url": "http://cist.hitsz.edu.cn/info/1038/2790.htm",
+        "title": "哈尔滨工业大学(深圳)信息科学与技术学院 2027年接收优秀应届本科毕业生免试攻读研究生报名通知-哈尔滨工业大学（深圳）信息学部",
+        "excerpt": "报名截至时间：9月10日；2026年8月14日"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-b5ae0319ebd60f1cd814",
+    "schoolId": "sdu",
+    "unitId": "sdu-dd33538b75",
+    "title": "信息科学与工程学院2027年接收推荐免试硕士研究生和本科直博生预报名通知及复试工作安排-山东大学-信息科学与工程学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-59db20e2318cb65bae"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-59db20e2318cb65bae"
+    },
+    "materialsEnd": null,
+    "assessment": "9月20日前，复试成绩将在信息学院官网公示",
+    "applicationUrl": null,
+    "noticeUrl": "https://www.ise.sdu.edu.cn/info/1096/16821.htm",
+    "sourceIds": [
+      "src-59db20e2318cb65bae"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-59db20e2318cb65bae",
+        "url": "https://www.ise.sdu.edu.cn/info/1096/16821.htm",
+        "title": "信息科学与工程学院2027年接收推荐免试硕士研究生和本科直博生预报名通知及复试工作安排-山东大学-信息科学与工程学院",
+        "excerpt": "2026年9月1日9：00；9月14日左右公示参加复试名单；9月21日；咨询电话：0532-58630702"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-2fe95388ee171e90ba2d",
+    "schoolId": "sjtu",
+    "unitId": "sjtu-105a99aabd",
+    "title": "上海交通大学集成电路学院（信息与电子工程学院）  2027级 接收推荐免试研究生预推免办法-上海交通大学集成电路学院（信息与电子工程学院）",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-395027158227725d99"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-395027158227725d99"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://icisee.sjtu.edu.cn/yanjiusheng-zsgz-sszs/3427.html",
+    "sourceIds": [
+      "src-395027158227725d99"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-395027158227725d99",
+        "url": "https://icisee.sjtu.edu.cn/yanjiusheng-zsgz-sszs/3427.html",
+        "title": "上海交通大学集成电路学院（信息与电子工程学院）  2027级 接收推荐免试研究生预推免办法-上海交通大学集成电路学院（信息与电子工程学院）",
+        "excerpt": "9月16日；报名时间：2026年9月6日"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-d6430f4ebdca62c1de3d",
+    "schoolId": "sdu",
+    "unitId": "sdu-d44e9404bb",
+    "title": "山东大学软件学院2027年接收推荐免试硕士研究生和本科直博生预报名通知-山东大学软件学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-09-02T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名开始时间：2026年9月2日09:00，截止时间2026年9月11日12：00",
+      "sourceId": "src-c447cddb6c508ee3ce"
+    },
+    "applicationEnd": {
+      "value": "2026-09-11T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名开始时间：2026年9月2日09:00，截止时间2026年9月11日12：00",
+      "sourceId": "src-c447cddb6c508ee3ce"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://www.sc.sdu.edu.cn/info/1019/6068.htm",
+    "sourceIds": [
+      "src-c447cddb6c508ee3ce"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-c447cddb6c508ee3ce",
+        "url": "https://www.sc.sdu.edu.cn/info/1019/6068.htm",
+        "title": "山东大学软件学院2027年接收推荐免试硕士研究生和本科直博生预报名通知-山东大学软件学院",
+        "excerpt": "报名开始时间：2026年9月2日09:00，截止时间2026年9月11日12：00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-5579ed843d61e6d4725f",
+    "schoolId": "sdu",
+    "unitId": "sdu-c8db326793",
+    "title": "控制科学与工程学院2027年接收推荐免试硕士研究生和本科直博生预报名通知-控制科学与工程学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-09-01T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年9月1日09：00",
+      "sourceId": "src-b02441c00cbe916fd2"
+    },
+    "applicationEnd": {
+      "value": "2026-09-11T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "9月11日17:00",
+      "sourceId": "src-b02441c00cbe916fd2"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://control.sdu.edu.cn/info/1018/8238.htm",
+    "sourceIds": [
+      "src-b02441c00cbe916fd2"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-b02441c00cbe916fd2",
+        "url": "https://control.sdu.edu.cn/info/1018/8238.htm",
+        "title": "控制科学与工程学院2027年接收推荐免试硕士研究生和本科直博生预报名通知-控制科学与工程学院",
+        "excerpt": "报名时间：2026年9月1日09：00-9月11日17:00；请考生务必在9月11日17时前完成提交申请"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-9560c2e5e6e8cef42603",
+    "schoolId": "sdu",
+    "unitId": "sdu-066a0201ed",
+    "title": "山东大学浪潮人工智能学院2027年接收推荐免试硕士研究生和本科直博生预报名通知-人工智能学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-09-01T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年9月1日09：00",
+      "sourceId": "src-895710a2891d7a8787"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-895710a2891d7a8787"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://www.ai.sdu.edu.cn/info/1088/1524.htm",
+    "sourceIds": [
+      "src-895710a2891d7a8787"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-895710a2891d7a8787",
+        "url": "https://www.ai.sdu.edu.cn/info/1088/1524.htm",
+        "title": "山东大学浪潮人工智能学院2027年接收推荐免试硕士研究生和本科直博生预报名通知-人工智能学院",
+        "excerpt": "报名开始时间：2026年9月1日09：00-；http://www.ai.sdu.edu.cn/info/1088/1520.htm"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-20d0dbefbf5b90e5e96d",
+    "schoolId": "sdu",
+    "unitId": "sdu-68fd4b54d0",
+    "title": "山东大学计算机科学与技术学院2027年接收推荐免试硕士研究生和本科直博生预报名通知-山大计算机科学与技术学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-09-01T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名开始时间：2026年9月1日09：00-9月11日17:00",
+      "sourceId": "src-8a6ba90a32ba04a558"
+    },
+    "applicationEnd": {
+      "value": "2026-09-11T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名开始时间：2026年9月1日09：00-9月11日17:00",
+      "sourceId": "src-8a6ba90a32ba04a558"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://www.cs.sdu.edu.cn/info/1068/6891.htm",
+    "sourceIds": [
+      "src-8a6ba90a32ba04a558"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-8a6ba90a32ba04a558",
+        "url": "https://www.cs.sdu.edu.cn/info/1068/6891.htm",
+        "title": "山东大学计算机科学与技术学院2027年接收推荐免试硕士研究生和本科直博生预报名通知-山大计算机科学与技术学院",
+        "excerpt": "报名开始时间：2026年9月1日09：00-9月11日17:00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-bb8cd8136503a5e2e655",
+    "schoolId": "tju",
+    "unitId": "tju-2a9efd150f",
+    "title": "天津大学研究生招生网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息",
+      "自动化"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-82855a12cc1311f0ff"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-82855a12cc1311f0ff"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+    "sourceIds": [
+      "src-82855a12cc1311f0ff"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-82855a12cc1311f0ff",
+        "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+        "title": "天津大学研究生招生网",
+        "excerpt": "电气自动化与信息工程学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-47d2d1ac947cf9d43074",
+    "schoolId": "tju",
+    "unitId": "tju-28afcd4b7a",
+    "title": "天津大学研究生招生网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-54764f5180c7f6713e"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-54764f5180c7f6713e"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+    "sourceIds": [
+      "src-54764f5180c7f6713e"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-54764f5180c7f6713e",
+        "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+        "title": "天津大学研究生招生网",
+        "excerpt": "精密仪器与光电子工程学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-5a2c594e22f09c4cdc26",
+    "schoolId": "tju",
+    "unitId": "tju-68fd4b54d0",
+    "title": "天津大学研究生招生网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-78bb34fe7a2dd756a5"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-78bb34fe7a2dd756a5"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+    "sourceIds": [
+      "src-78bb34fe7a2dd756a5"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-78bb34fe7a2dd756a5",
+        "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+        "title": "天津大学研究生招生网",
+        "excerpt": "计算机科学与技术学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-e7016e5043be9f421811",
+    "schoolId": "tju",
+    "unitId": "tju-28afcd4b7a",
+    "title": "天津大学研究生招生网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-6361888b8966b0d028"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-6361888b8966b0d028"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "sourceIds": [
+      "src-6361888b8966b0d028"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-6361888b8966b0d028",
+        "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+        "title": "天津大学研究生招生网",
+        "excerpt": "精密仪器与光电子工程学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-a98999c995abe9111361",
+    "schoolId": "nankai",
+    "unitId": "nankai-7578132f48",
+    "title": "【2027推免】南开大学计算机学院、密码与网络空间安全学院2027年接收优秀应届本科毕业生免试攻读研究生预报名的通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "professional"
+    ],
+    "disciplines": [
+      "计算机",
+      "网络安全"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "官方未给出精确开放时间",
+      "sourceId": "src-147a598727fd28ce36"
+    },
+    "applicationEnd": {
+      "value": "2026-09-12",
+      "precision": "date",
+      "raw": "四、报名起止时间：即日起至2026年9月12日",
+      "sourceId": "src-147a598727fd28ce36"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://cc.nankai.edu.cn/2026/0709/c13297a600172/page.htm",
+    "sourceIds": [
+      "src-147a598727fd28ce36"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-147a598727fd28ce36",
+        "url": "https://cc.nankai.edu.cn/2026/0709/c13297a600172/page.htm",
+        "title": "【2027推免】南开大学计算机学院、密码与网络空间安全学院2027年接收优秀应届本科毕业生免试攻读研究生预报名的通知",
+        "excerpt": "四、报名起止时间：即日起至2026年9月12日"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-bd9ca477b944f6c3fd39",
+    "schoolId": "bit",
+    "unitId": "bit-7be1433646",
+    "title": "北京理工大学网络空间安全学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-168452151221216569"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-168452151221216569"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://cst.bit.edu.cn/xxfw/tzgg/58a147115f154c439a0851311c8fc0d0.htm",
+    "sourceIds": [
+      "src-168452151221216569"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-168452151221216569",
+        "url": "https://cst.bit.edu.cn/xxfw/tzgg/58a147115f154c439a0851311c8fc0d0.htm",
+        "title": "北京理工大学网络空间安全学院",
+        "excerpt": "欢迎国内各高校优秀应届本科毕业生推荐免试攻读北京理工大学研究生！\n一、招收类别及专业\n北京理工大学网络空间安全学院着力发展网络安全、信息安全、安全通信与电磁空间安全、密码等前沿学术领域，面向相关本科专业（包括但不限于网络空间安全、计算机类、电子信息类、数学物理类、自动化类等）招收推荐免试研究生。\n学院面向网络空间安全一级学科培养高水平、高素质研究生。研究生招生专业包括：\n专业代码\n专业名称\n学习方式\n方向代码\n专业方向名称\n083900\n网络空间安全\n全日制\n01\n网络智能攻防技术\n02\n密码与数据智能安全\n03\n空天智能网络通信及安全\n04\n智能信息安全与对抗\n085412\n网络与信息安全\n全日制\n01\n网络智能攻防技术\n02\n密码与数据智能安全\n03\n空天智能网络通信及安全\n04\n智能信息安全与对抗\n145"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-c4433e3ab475bddcb2d2",
+    "schoolId": "ecnu",
+    "unitId": "ecnu-202313367a",
+    "title": "信息与电子工程学院 （集成电路科学与工程学院） 2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名的通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-07-26T08:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年7月26日8:00",
+      "sourceId": "src-d04db24a3ec0316135"
+    },
+    "applicationEnd": {
+      "value": "2026-09-13T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年9月13日17:00",
+      "sourceId": "src-d04db24a3ec0316135"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://ieeic.ecnu.edu.cn/c4/1e/c4170a771102/page.htm",
+    "sourceIds": [
+      "src-d04db24a3ec0316135"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-d04db24a3ec0316135",
+        "url": "https://ieeic.ecnu.edu.cn/c4/1e/c4170a771102/page.htm",
+        "title": "信息与电子工程学院 （集成电路科学与工程学院） 2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名的通知",
+        "excerpt": "学院预推免报名时间：2026年7月26日8:00—2026年9月13日17:00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-005e72ecedd0799ff36e",
+    "schoolId": "dlut",
+    "unitId": "dlut-a6b7bcb1bd",
+    "title": "大连理工大学信息与通信工程学院2027年接收推荐免试研究生预报名通知-大连理工大学信息与通信工程学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-854eb5228b4bc96a89"
+    },
+    "applicationEnd": {
+      "value": "2026-07-13T13:00:00+08:00",
+      "precision": "datetime",
+      "raw": "7月13日13:00",
+      "sourceId": "src-854eb5228b4bc96a89"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://ice.dlut.edu.cn/info/1208/7667.htm",
+    "sourceIds": [
+      "src-854eb5228b4bc96a89"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-854eb5228b4bc96a89",
+        "url": "https://ice.dlut.edu.cn/info/1208/7667.htm",
+        "title": "大连理工大学信息与通信工程学院2027年接收推荐免试研究生预报名通知-大连理工大学信息与通信工程学院",
+        "excerpt": "7月13日13:00至；9月15日在系统中发布；9月17日15:00前在系统点击“确认复试”，点击“确认复试”"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-f0cfe8324a66d08f9983",
+    "schoolId": "ustc",
+    "unitId": "ustc-3dd6757b7d",
+    "title": "6系推免生面试公告",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-8ee897ab6f806ba215"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-8ee897ab6f806ba215"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://eeis.ustc.edu.cn/2026/0904/c2702a752148/page.htm",
+    "sourceIds": [
+      "src-8ee897ab6f806ba215"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-8ee897ab6f806ba215",
+        "url": "https://eeis.ustc.edu.cn/2026/0904/c2702a752148/page.htm",
+        "title": "6系推免生面试公告",
+        "excerpt": "4、我系2027年招生导师名单见（https://eeis.ustc.edu.cn/2026/0520/c2702a741235/page.htm）；2026年9月4日"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-a2d679212d173feba51d",
+    "schoolId": "ecnu",
+    "unitId": "ecnu-8fc5d7e97c",
+    "title": "华东师范大学统计学院2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-07475af15232a0cbb9"
+    },
+    "applicationEnd": {
+      "value": "2026-09-14",
+      "precision": "date",
+      "raw": "2026年9月14日",
+      "sourceId": "src-07475af15232a0cbb9"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://stat.ecnu.edu.cn/c3/29/c9708a770857/page.htm",
+    "sourceIds": [
+      "src-07475af15232a0cbb9"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-07475af15232a0cbb9",
+        "url": "https://stat.ecnu.edu.cn/c3/29/c9708a770857/page.htm",
+        "title": "华东师范大学统计学院2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名通知",
+        "excerpt": "我院推免预报名截止时间为：2026年9月14日（周一）中午12点；电话：021-6223 1531"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-747c4fa6b20086ac3c1f",
+    "schoolId": "tju",
+    "unitId": "tju-54ee27e5bf",
+    "title": "天津大学研究生招生网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-ed0989f0143307aaa7"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-ed0989f0143307aaa7"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "sourceIds": [
+      "src-ed0989f0143307aaa7"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-ed0989f0143307aaa7",
+        "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+        "title": "天津大学研究生招生网",
+        "excerpt": "人工智能学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-0568153ec2aca31b569a",
+    "schoolId": "xidian",
+    "unitId": "xidian-0cc4f0a7a9",
+    "title": "空间科学与技术学院2027年推荐免试研究生招生预报名通知-空间科学与技术学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-07-27",
+      "precision": "date",
+      "raw": "2026年7月27日",
+      "sourceId": "src-7d897061b7cce8a39e"
+    },
+    "applicationEnd": {
+      "value": "2026-09-14",
+      "precision": "date",
+      "raw": "9月14日",
+      "sourceId": "src-7d897061b7cce8a39e"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://sast.xidian.edu.cn/info/1014/20977.htm",
+    "sourceIds": [
+      "src-7d897061b7cce8a39e"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-7d897061b7cce8a39e",
+        "url": "https://sast.xidian.edu.cn/info/1014/20977.htm",
+        "title": "空间科学与技术学院2027年推荐免试研究生招生预报名通知-空间科学与技术学院",
+        "excerpt": "学院2027年推免生预报名系统将于2026年7月27日至9月14日向考生开放；咨询电话：029-81891034转602"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-e09cc48e879a3fce3a43",
+    "schoolId": "dlut",
+    "unitId": "dlut-54ee27e5bf",
+    "title": "关于大连理工大学各院系接收2027年推荐免试研究生预报名陆续开放的通知-大连理工大学研究生院（新）",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-07-13T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "（主校区）人工智能学院2026年7月13日9：00--9月15日12：00",
+      "sourceId": "src-9f12af9402e875b3df"
+    },
+    "applicationEnd": {
+      "value": "2026-09-15T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "（主校区）人工智能学院2026年7月13日9：00--9月15日12：00",
+      "sourceId": "src-9f12af9402e875b3df"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "sourceIds": [
+      "src-9f12af9402e875b3df"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-9f12af9402e875b3df",
+        "url": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+        "title": "关于大连理工大学各院系接收2027年推荐免试研究生预报名陆续开放的通知-大连理工大学研究生院（新）",
+        "excerpt": "（主校区）人工智能学院2026年7月13日9：00--9月15日12：00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-64d64ec18862693bec88",
+    "schoolId": "ucas",
+    "unitId": "ucas-8fac45f24e",
+    "title": "2027年中国科学院沈阳自动化研究所接收推荐免试研究生的预通知--中国科学院沈阳自动化研究所",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-dc2b8ca91ad696ddfe"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-dc2b8ca91ad696ddfe"
+    },
+    "materialsEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "7-1",
+      "sourceId": "src-dc2b8ca91ad696ddfe"
+    },
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://sia.cas.cn/zpjy/yjsjy/zs/zsgg/202608/t20260826_8265512.html",
+    "sourceIds": [
+      "src-dc2b8ca91ad696ddfe"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-dc2b8ca91ad696ddfe",
+        "url": "https://sia.cas.cn/zpjy/yjsjy/zs/zsgg/202608/t20260826_8265512.html",
+        "title": "2027年中国科学院沈阳自动化研究所接收推荐免试研究生的预通知--中国科学院沈阳自动化研究所",
+        "excerpt": "辽ICP备05000867-1"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-585557cd71e9e7f4cef9",
+    "schoolId": "sdu",
+    "unitId": "sdu-a571143029",
+    "title": "智能通信技术研究院2027年接收推荐免试研究生预报名的通知-山东大学智能通信技术研究院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic"
+    ],
+    "disciplines": [
+      "人工智能",
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-09-04T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年9月4日09：00",
+      "sourceId": "src-5695ac72978fae2dcf"
+    },
+    "applicationEnd": {
+      "value": "2026-09-15T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "9月15日17:00",
+      "sourceId": "src-5695ac72978fae2dcf"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://iict.sdu.edu.cn/info/1027/1367.htm",
+    "sourceIds": [
+      "src-5695ac72978fae2dcf"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-5695ac72978fae2dcf",
+        "url": "https://iict.sdu.edu.cn/info/1027/1367.htm",
+        "title": "智能通信技术研究院2027年接收推荐免试研究生预报名的通知-山东大学智能通信技术研究院",
+        "excerpt": "报名时间：2026年9月4日09：00-9月15日17:00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-2ea64399eb8f017dce34",
+    "schoolId": "nwpu",
+    "unitId": "nwpu-e1b6be8199",
+    "title": "西北工业大学人工智能学院/无人系统技术研究院2027年接收推荐免试研究生预报名的通知-无人系统技术研究院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-09-04T15:00:00+08:00",
+      "precision": "datetime",
+      "raw": "预报名时间：9月4日15:00—9月15日18:00",
+      "sourceId": "src-aaa9330f8000bcaabd"
+    },
+    "applicationEnd": {
+      "value": "2026-09-15T18:00:00+08:00",
+      "precision": "datetime",
+      "raw": "预报名时间：9月4日15:00—9月15日18:00",
+      "sourceId": "src-aaa9330f8000bcaabd"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://wurenxitong.nwpu.edu.cn/info/1373/14048.htm",
+    "sourceIds": [
+      "src-aaa9330f8000bcaabd"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-aaa9330f8000bcaabd",
+        "url": "https://wurenxitong.nwpu.edu.cn/info/1373/14048.htm",
+        "title": "西北工业大学人工智能学院/无人系统技术研究院2027年接收推荐免试研究生预报名的通知-无人系统技术研究院",
+        "excerpt": "预报名时间：9月4日15:00—9月15日18:00"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-31656c72c6009f9f434e",
+    "schoolId": "xidian",
+    "unitId": "xidian-79b252f057",
+    "title": "西安电子科技大学集成电路学部2027年推荐免试硕士研究生招生预报名通知_西安电子科技大学集成电路学部_微电子学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-42c4e160438ddcc77b"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-42c4e160438ddcc77b"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://sme.xidian.edu.cn/html/tzgg/jl/2026/0720/3660.html",
+    "sourceIds": [
+      "src-42c4e160438ddcc77b"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-42c4e160438ddcc77b",
+        "url": "https://sme.xidian.edu.cn/html/tzgg/jl/2026/0720/3660.html",
+        "title": "西安电子科技大学集成电路学部2027年推荐免试硕士研究生招生预报名通知_西安电子科技大学集成电路学部_微电子学院",
+        "excerpt": "西安电子科技大学集成电路学部2027年推荐免试硕士研究生招生预报名通知_西安电子科技大学集成电路学部_微电子学院\n西安电子科技大学集成电路学部2027年推荐免试硕士研究生招生预报名通知\n为做好推荐免试硕士研究生接收工作，更好地服务考生，帮助考生与导师间搭建沟通桥梁，西安电子科技大学集成电路学部现启动推免生预报名工作。\n（集成电路学部、微电子学院）\n咨询平台：关注学部企业微信号“西电集成电路学部”\n集成电路学部\n集成电路学部2026年面向香港、澳门、台湾地区招收硕士研究生复试录取工作方案"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-771d2f1e7f0de8d99730",
+    "schoolId": "dlut",
+    "unitId": "dlut-ae18cab9f7",
+    "title": "关于大连理工大学各院系接收2027年推荐免试研究生预报名陆续开放的通知-大连理工大学研究生院（新）",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-093dba287b45e5bc45"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-093dba287b45e5bc45"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "sourceIds": [
+      "src-093dba287b45e5bc45"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-093dba287b45e5bc45",
+        "url": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+        "title": "关于大连理工大学各院系接收2027年推荐免试研究生预报名陆续开放的通知-大连理工大学研究生院（新）",
+        "excerpt": "（开发区校区）集成电路学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-2d59dcab709501ab4438",
+    "schoolId": "xidian",
+    "unitId": "xidian-ed598c9153",
+    "title": "光电工程学院2027年预推免研究生招生报名通知-光电工程学院-西安电子科技大学",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-07-31",
+      "precision": "date",
+      "raw": "2026年7月31日",
+      "sourceId": "src-8e130bdb12ee08896f"
+    },
+    "applicationEnd": {
+      "value": "2026-09-17",
+      "precision": "date",
+      "raw": "9月17日",
+      "sourceId": "src-8e130bdb12ee08896f"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://soe.xidian.edu.cn/info/1095/17675.htm",
+    "sourceIds": [
+      "src-8e130bdb12ee08896f"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-8e130bdb12ee08896f",
+        "url": "https://soe.xidian.edu.cn/info/1095/17675.htm",
+        "title": "光电工程学院2027年预推免研究生招生报名通知-光电工程学院-西安电子科技大学",
+        "excerpt": "1.光电工程学院2027年推免生预报名系统将于2026年7月31日至9月17日开放；联系电话：029-88202558"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-972305d230d171e335be",
+    "schoolId": "xidian",
+    "unitId": "xidian-54ee27e5bf",
+    "title": "人工智能学院 2027年推荐免试研究生招生预报名通知-西安电子科技大学-人工智能学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-07-16",
+      "precision": "date",
+      "raw": "学院2027年推免生预报名系统将于2026年7月16日至9月18日向考生开放",
+      "sourceId": "src-f19ba318c90b34ff76"
+    },
+    "applicationEnd": {
+      "value": "2026-09-18",
+      "precision": "date",
+      "raw": "学院2027年推免生预报名系统将于2026年7月16日至9月18日向考生开放",
+      "sourceId": "src-f19ba318c90b34ff76"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://sai.xidian.edu.cn/info/1106/28372.htm",
+    "sourceIds": [
+      "src-f19ba318c90b34ff76"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-f19ba318c90b34ff76",
+        "url": "https://sai.xidian.edu.cn/info/1106/28372.htm",
+        "title": "人工智能学院 2027年推荐免试研究生招生预报名通知-西安电子科技大学-人工智能学院",
+        "excerpt": "学院2027年推免生预报名系统将于2026年7月16日至9月18日向考生开放"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-0f99ef8fc0e081c507fb",
+    "schoolId": "xidian",
+    "unitId": "xidian-a2566a2cd5",
+    "title": "电子工程学院2027年推荐免试研究生招生预报名通知-西安电子科技大学电子工程学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-07-22",
+      "precision": "date",
+      "raw": "2026年7月22日",
+      "sourceId": "src-ff862973c291ea37fd"
+    },
+    "applicationEnd": {
+      "value": "2026-09-19",
+      "precision": "date",
+      "raw": "9月19日",
+      "sourceId": "src-ff862973c291ea37fd"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://see.xidian.edu.cn/info/1053/104161.htm",
+    "sourceIds": [
+      "src-ff862973c291ea37fd"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-ff862973c291ea37fd",
+        "url": "https://see.xidian.edu.cn/info/1053/104161.htm",
+        "title": "电子工程学院2027年推荐免试研究生招生预报名通知-西安电子科技大学电子工程学院",
+        "excerpt": "1.学院2027年推免生预报名系统将于2026年7月22日至9月19日向考生开放；咨询电话：029-88202276"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-eac7d9c3880a12570d9e",
+    "schoolId": "nwpu",
+    "unitId": "nwpu-19bc14692b",
+    "title": "西北工业大学2027年接收推荐免试研究生预报名的通知-研究生招生信息网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能",
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-b5dd39246b02800b68"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-b5dd39246b02800b68"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "sourceIds": [
+      "src-b5dd39246b02800b68"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-b5dd39246b02800b68",
+        "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+        "title": "西北工业大学2027年接收推荐免试研究生预报名的通知-研究生招生信息网",
+        "excerpt": "光电与智能研究院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-b8a631ea18974d1bbbde",
+    "schoolId": "nwpu",
+    "unitId": "nwpu-e22d3f5d04",
+    "title": "西北工业大学柔性电子学院2027年接收推荐免试研究生预报名的通知-柔性电子学院（School of Flexible Electronics）",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-10ccc375c9eafb8317"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-10ccc375c9eafb8317"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://sfe.nwpu.edu.cn/info/1175/17605.htm",
+    "sourceIds": [
+      "src-10ccc375c9eafb8317"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-10ccc375c9eafb8317",
+        "url": "https://sfe.nwpu.edu.cn/info/1175/17605.htm",
+        "title": "西北工业大学柔性电子学院2027年接收推荐免试研究生预报名的通知-柔性电子学院（School of Flexible Electronics）",
+        "excerpt": "联系电话：029-88431960"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-adc59da8d83d26ef5c0b",
+    "schoolId": "nwpu",
+    "unitId": "nwpu-654d5d15bc",
+    "title": "西北工业大学2027年接收推荐免试研究生预报名的通知-研究生招生信息网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-526213864d4637b666"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-526213864d4637b666"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "sourceIds": [
+      "src-526213864d4637b666"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-526213864d4637b666",
+        "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+        "title": "西北工业大学2027年接收推荐免试研究生预报名的通知-研究生招生信息网",
+        "excerpt": "电子信息学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-b9f6531f7a8f60589dd4",
+    "schoolId": "nwpu",
+    "unitId": "nwpu-7be1433646",
+    "title": "西北工业大学2027年接收推荐免试研究生预报名的通知-研究生招生信息网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-4884339e6be691124c"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-4884339e6be691124c"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "sourceIds": [
+      "src-4884339e6be691124c"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-4884339e6be691124c",
+        "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+        "title": "西北工业大学2027年接收推荐免试研究生预报名的通知-研究生招生信息网",
+        "excerpt": "网络空间安全学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-938cbb7f3342b20d9f3d",
+    "schoolId": "nwpu",
+    "unitId": "nwpu-9476055247",
+    "title": "西北工业大学2027年接收推荐免试研究生预报名的通知-研究生招生信息网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-5613788aa31eb80f32"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-5613788aa31eb80f32"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "sourceIds": [
+      "src-5613788aa31eb80f32"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-5613788aa31eb80f32",
+        "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+        "title": "西北工业大学2027年接收推荐免试研究生预报名的通知-研究生招生信息网",
+        "excerpt": "自动化学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-bcd233041436c4c91737",
+    "schoolId": "nwpu",
+    "unitId": "nwpu-d6aeec6db0",
+    "title": "西北工业大学2027年接收推荐免试研究生预报名的通知-研究生招生信息网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-93060b408f6e06dccf"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-93060b408f6e06dccf"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "sourceIds": [
+      "src-93060b408f6e06dccf"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-93060b408f6e06dccf",
+        "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+        "title": "西北工业大学2027年接收推荐免试研究生预报名的通知-研究生招生信息网",
+        "excerpt": "计算机学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-3a771cf8332ead9a558d",
+    "schoolId": "nwpu",
+    "unitId": "nwpu-d44e9404bb",
+    "title": "西北工业大学2027年接收推荐免试研究生预报名的通知-研究生招生信息网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-57d9556e7b124a2150"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-57d9556e7b124a2150"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "sourceIds": [
+      "src-57d9556e7b124a2150"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-57d9556e7b124a2150",
+        "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+        "title": "西北工业大学2027年接收推荐免试研究生预报名的通知-研究生招生信息网",
+        "excerpt": "软件学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-6a1521458aa575021058",
+    "schoolId": "tju",
+    "unitId": "tju-d6aeec6db0",
+    "title": "天津大学研究生招生网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-5d00268393d4ee572d"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-5d00268393d4ee572d"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "sourceIds": [
+      "src-5d00268393d4ee572d"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-5d00268393d4ee572d",
+        "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+        "title": "天津大学研究生招生网",
+        "excerpt": "计算机学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-cd2121589c2b406e2185",
+    "schoolId": "tju",
+    "unitId": "tju-d44e9404bb",
+    "title": "天津大学研究生招生网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-42af7fb30387636573"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-42af7fb30387636573"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "sourceIds": [
+      "src-42af7fb30387636573"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-42af7fb30387636573",
+        "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+        "title": "天津大学研究生招生网",
+        "excerpt": "软件学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-0e49ff6191e7bc5bed20",
+    "schoolId": "tju",
+    "unitId": "tju-2a9efd150f",
+    "title": "天津大学研究生招生网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息",
+      "自动化"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-abe2d813f647dc904d"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-abe2d813f647dc904d"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "sourceIds": [
+      "src-abe2d813f647dc904d"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-abe2d813f647dc904d",
+        "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+        "title": "天津大学研究生招生网",
+        "excerpt": "电气自动化与信息工程学院"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-f6bd6c40dddff94600ef",
+    "schoolId": "xidian",
+    "unitId": "xidian-03c405d5f1",
+    "title": "信息力学与感知工程学院2027年推荐免试研究生招生预报名通知-西安电子科技大学信息力学与感知工程学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-09-20",
+      "precision": "date",
+      "raw": "9月20日",
+      "sourceId": "src-602e5be30ef55ef5b0"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-602e5be30ef55ef5b0"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://imse.xidian.edu.cn/info/1030/6891.htm",
+    "sourceIds": [
+      "src-602e5be30ef55ef5b0"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-602e5be30ef55ef5b0",
+        "url": "https://imse.xidian.edu.cn/info/1030/6891.htm",
+        "title": "信息力学与感知工程学院2027年推荐免试研究生招生预报名通知-西安电子科技大学信息力学与感知工程学院",
+        "excerpt": "即日起-9月20日；咨询电话：029-88203661"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-9ac87d7abbf2a444a503",
+    "schoolId": "hhu",
+    "unitId": "hhu-bb23d6c860",
+    "title": "2027年接收校内外推免生预报名",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能",
+      "自动化"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-6ad539da371a6d74bd"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-6ad539da371a6d74bd"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://gs.hhu.edu.cn/_upload/article/files/47/5c/9af8b397401d8ce19b389fdfec3e/cf875c71-1190-460a-bbdd-02256f1dd05a.pdf",
+    "sourceIds": [
+      "src-6ad539da371a6d74bd"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-6ad539da371a6d74bd",
+        "url": "https://gs.hhu.edu.cn/_upload/article/files/47/5c/9af8b397401d8ce19b389fdfec3e/cf875c71-1190-460a-bbdd-02256f1dd05a.pdf",
+        "title": "2027年接收校内外推免生预报名",
+        "excerpt": "18 人工智能与自动化学院 牛老师 0519-85195630"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-26f667d62b19ed352bf7",
+    "schoolId": "hhu",
+    "unitId": "hhu-dd33538b75",
+    "title": "2027年接收校内外推免生预报名",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-757958da747aa4d14a"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-757958da747aa4d14a"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://gs.hhu.edu.cn/_upload/article/files/47/5c/9af8b397401d8ce19b389fdfec3e/cf875c71-1190-460a-bbdd-02256f1dd05a.pdf",
+    "sourceIds": [
+      "src-757958da747aa4d14a"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-757958da747aa4d14a",
+        "url": "https://gs.hhu.edu.cn/_upload/article/files/47/5c/9af8b397401d8ce19b389fdfec3e/cf875c71-1190-460a-bbdd-02256f1dd05a.pdf",
+        "title": "2027年接收校内外推免生预报名",
+        "excerpt": "17 信息科学与工程学院 蒋老师 0519-85192040"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-ece422864f1c3fa9aebd",
+    "schoolId": "hhu",
+    "unitId": "hhu-fd436c270d",
+    "title": "2027年接收校内外推免生预报名",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算机",
+      "软件"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-ec2bb1cb8af721b101"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-ec2bb1cb8af721b101"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://gs.hhu.edu.cn/_upload/article/files/47/5c/9af8b397401d8ce19b389fdfec3e/cf875c71-1190-460a-bbdd-02256f1dd05a.pdf",
+    "sourceIds": [
+      "src-ec2bb1cb8af721b101"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-ec2bb1cb8af721b101",
+        "url": "https://gs.hhu.edu.cn/_upload/article/files/47/5c/9af8b397401d8ce19b389fdfec3e/cf875c71-1190-460a-bbdd-02256f1dd05a.pdf",
+        "title": "2027年接收校内外推免生预报名",
+        "excerpt": "12 计算机与软件学院 吴老师 025-58099136"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-20ab522c39b140a26ee0",
+    "schoolId": "ustc",
+    "unitId": "ustc-9b76c637a5",
+    "title": "人工智能与数据科学学院2026年暑期科学营报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "人工智能",
+      "数据科学"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": "2026-07-13",
+      "precision": "date",
+      "raw": "7月13日",
+      "sourceId": "src-f272c015355e3eca2f"
+    },
+    "applicationEnd": {
+      "value": "2026-07-15",
+      "precision": "date",
+      "raw": "7月15日",
+      "sourceId": "src-f272c015355e3eca2f"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://saids.ustc.edu.cn/2026/0526/c15435a741761/page.htm",
+    "sourceIds": [
+      "src-f272c015355e3eca2f"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-f272c015355e3eca2f",
+        "url": "https://saids.ustc.edu.cn/2026/0526/c15435a741761/page.htm",
+        "title": "人工智能与数据科学学院2026年暑期科学营报名通知",
+        "excerpt": "发布时间：2026-05-26；1. 科学营活动时间：7月13日—15日"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-e87183f70222344cf46f",
+    "schoolId": "ustc",
+    "unitId": "ustc-7be1433646",
+    "title": "2026年第一届“网信安全”科学营报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "professional"
+    ],
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-f962ecf6b2ea01a735"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-f962ecf6b2ea01a735"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://cybersec.ustc.edu.cn/2026/0520/c23826a741220/page.htm",
+    "sourceIds": [
+      "src-f962ecf6b2ea01a735"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-f962ecf6b2ea01a735",
+        "url": "https://cybersec.ustc.edu.cn/2026/0520/c23826a741220/page.htm",
+        "title": "2026年第一届“网信安全”科学营报名通知",
+        "excerpt": "2026年7月15日开营，具体日程安排另行通知"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。"
+  },
+  {
+    "id": "opp-7a521ed4b63de67c4e71",
+    "schoolId": "ustc",
+    "unitId": "ustc-d44e9404bb",
+    "title": "2026年中国科学技术大学软件学院“逐梦软科”科学营通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-07c7228a995a37f7d8"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-07c7228a995a37f7d8"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://sse.ustc.edu.cn/2026/0708/c19741a746681/pagem.htm",
+    "sourceIds": [
+      "src-07c7228a995a37f7d8"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-07c7228a995a37f7d8",
+        "url": "https://sse.ustc.edu.cn/2026/0708/c19741a746681/pagem.htm",
+        "title": "2026年中国科学技术大学软件学院“逐梦软科”科学营通知",
+        "excerpt": "2026年中国科学技术大学软件学院“逐梦软科”科学营通知\n时间：2026-07-08\n一、申请条件\n1\n、国内高水平大学计算机科学及软件工程相关专业的\n2027\n届优秀本科毕业生；\n2\n、有意向推免中国科学技术大学软件学院的研究生；\n3\n、学习成绩优秀，英语水平良好，可获得所在学校推荐免试名额者。\n二、报名及录取\n1\n、请登录中国科学技术大学研究生报考服务系统\nhttps://xspt.ustc.edu.cn/\n，进入“推免生预报名”，选择“软件学院”进行在线报名。\n2\n、软件学院招收硕士研究生学科：085405\n软件工程。\n3\n、软件学院成立专家组统一进行资格审核和营员录取，入围名单将于\n2026年7月18日左右通过系统和邮件进行通知，未入围者，不另行通知。\n三、申请材料\n材料提交说明详见报考服务系统（\nht"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-cffb3680b2de4759ad0b",
+    "schoolId": "sysu",
+    "unitId": "sysu-0ca0e91882",
+    "title": "中山大学微电子科学与技术学院2027年接收优秀应届本科毕业生推荐免试攻读研究生预报名通知 | 中山大学微电子科学与技术学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-bdf31c36a3e66416ad"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-bdf31c36a3e66416ad"
+    },
+    "materialsEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-bdf31c36a3e66416ad"
+    },
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://mst.sysu.edu.cn/node/1355",
+    "sourceIds": [
+      "src-bdf31c36a3e66416ad"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-bdf31c36a3e66416ad",
+        "url": "https://mst.sysu.edu.cn/node/1355",
+        "title": "中山大学微电子科学与技术学院2027年接收优秀应届本科毕业生推荐免试攻读研究生预报名通知 | 中山大学微电子科学与技术学院",
+        "excerpt": "发布日期：2026-07-06；2026年7月6日起至；文件夹名：2026年7月2027；联系方式：0756-3668680"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。发现多个不同时间，需核验是否属于不同项目或批次。"
+  },
+  {
+    "id": "opp-b59abcc9cb6032683b98",
+    "schoolId": "tju",
+    "unitId": "tju-70abab4705",
+    "title": "[招生]天津大学纳电子科学与芯片工程学院（纳米中心） 2027级硕士研究生招生  第一次预推免面试通知-TICNN（天津纳米颗粒与纳米系统国际研究中心）",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-f2683b34edbe464a0b"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": "src-f2683b34edbe464a0b"
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://ticnn.tju.edu.cn/info/1052/2813.htm",
+    "sourceIds": [
+      "src-f2683b34edbe464a0b"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-f2683b34edbe464a0b",
+        "url": "https://ticnn.tju.edu.cn/info/1052/2813.htm",
+        "title": "[招生]天津大学纳电子科学与芯片工程学院（纳米中心） 2027级硕士研究生招生  第一次预推免面试通知-TICNN（天津纳米颗粒与纳米系统国际研究中心）",
+        "excerpt": "天津大学纳电子科学与芯片工程学院（纳米中心）\n2027级硕士研究生招生\n第一次预推免面试通知\n各位考生：\n天津大学纳电子科学与芯片工程学院（纳米中心）2027级硕士研究生推免招生工作已于2026年5月正式启动。学院聚焦低维电子材料与先进芯片工艺领域，对接国家\"强芯\"战略，主要招收专业包括：电子科学与技术、材料学、仪器科学与技术、化学、物理、电子信息、材料与化工等。\n现根据学院招生工作安排，定于\n2026年7月21日\n举行第一次预推免面试，具体事项通知如下。\n◆ 面试安排\n面试时间：\n预计2026年7月21日（周二）全天，以后续通知为准;面试顺序及具体时间安排将通过邮件或QQ群另行通知\n面试地点：\n以后续通知为准\n◆ 面试形式\n本次面试采取线下方式进行，含个人陈述与专家提问两个环节，全面考察学生的专业基础知识、科"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-08T00:59:48+08:00",
+    "updatedAt": "2026-09-08T00:59:48+08:00",
+    "notes": "官方页面已读取；首次增量抓取复核前保留待核验。公告未明确学硕／专硕类型。"
+  },
+  {
+    "id": "opp-ea798fbc14206c88859a",
+    "schoolId": "csu",
+    "unitId": "csu-54ee27e5bf",
+    "title": "人工智能学院2027年推荐优秀应届本科毕业生免试攻读研究生考核录取工作通知-人工智能学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://ai.csu.edu.cn/info/1030/1386.htm",
+    "sourceIds": [
+      "src-27615dbeeed755533b"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-27615dbeeed755533b",
+        "url": "https://ai.csu.edu.cn/info/1030/1386.htm",
+        "title": "人工智能学院2027年推荐优秀应届本科毕业生免试攻读研究生考核录取工作通知-人工智能学院",
+        "excerpt": "申请时间：2026年9月7日17:00前通过“中南大学推免生服务系统”进行网上报名"
+      }
+    ],
+    "firstSeenAt": "2026-09-08T01:02:09+08:00",
+    "updatedAt": "2026-09-08T01:02:09+08:00",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "官方未给出精确开放时间",
+      "sourceId": "src-27615dbeeed755533b"
+    },
+    "applicationEnd": {
+      "value": "2026-09-07T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "申请时间：2026年9月7日17:00前通过“中南大学推免生服务系统”进行网上报名",
+      "sourceId": "src-27615dbeeed755533b"
+    },
+    "verification": "pending",
+    "availability": "announced",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-6e43d5eb55624b20435b",
+    "schoolId": "xmu",
+    "unitId": "xmu-efb96ffeee",
+    "title": "信息学院（特色化示范性软件学院）关于2027年接收推荐免试研究生（含直博生）预报名的通知（第二批）-厦门大学信息学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "第二批",
+    "degrees": [],
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://informatics.xmu.edu.cn/info/1072/203131.htm",
+    "sourceIds": [
+      "src-73b1dce61db81962be"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-73b1dce61db81962be",
+        "url": "https://informatics.xmu.edu.cn/info/1072/203131.htm",
+        "title": "信息学院（特色化示范性软件学院）关于2027年接收推荐免试研究生（含直博生）预报名的通知（第二批）-厦门大学信息学院",
+        "excerpt": "二、报名时间9月1日00:00至9月7日24:00"
+      }
+    ],
+    "firstSeenAt": "2026-09-08T01:02:09+08:00",
+    "updatedAt": "2026-09-08T01:02:09+08:00",
+    "applicationStart": {
+      "value": "2026-09-01T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "二、报名时间9月1日00:00至9月7日24:00",
+      "sourceId": "src-73b1dce61db81962be"
+    },
+    "applicationEnd": {
+      "value": "2026-09-08T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "二、报名时间9月1日00:00至9月7日24:00",
+      "sourceId": "src-73b1dce61db81962be"
+    },
+    "verification": "pending",
+    "availability": "announced",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-20d18a5e6e84fc4f4317",
+    "schoolId": "bnu",
+    "unitId": "bnu-54ee27e5bf",
+    "title": "北京师范大学人工智能学院",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://ai.bnu.edu.cn/ggjxz/tzgg/df9187fe0a2b4ef4a98e9d0edf5d77b5.htm",
+    "sourceIds": [
+      "src-be66a18a1837ab3072"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-be66a18a1837ab3072",
+        "url": "https://ai.bnu.edu.cn/ggjxz/tzgg/df9187fe0a2b4ef4a98e9d0edf5d77b5.htm",
+        "title": "北京师范大学人工智能学院",
+        "excerpt": "请考生在9月10日12:00前登录北京师范大学2027年推免申请系统进行申请"
+      }
+    ],
+    "firstSeenAt": "2026-09-08T01:02:09+08:00",
+    "updatedAt": "2026-09-08T01:02:09+08:00",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "官方未给出精确开放时间",
+      "sourceId": "src-be66a18a1837ab3072"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "请考生在9月10日12:00前登录北京师范大学2027年推免申请系统进行申请",
+      "sourceId": "src-be66a18a1837ab3072"
+    },
+    "verification": "pending",
+    "availability": "announced",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-7786c21661338ed80379",
+    "schoolId": "ruc",
+    "unitId": "ruc-1ce6f6c662",
+    "title": "中国人民大学2027年工程硕博士培养改革专项推免研究生招生报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "工程硕博士培养改革专项",
+    "degrees": [],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://ai.ruc.edu.cn/newslist/notice/20260904001.html",
+    "sourceIds": [
+      "src-a72c776d5d2e5a5ef8"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-a72c776d5d2e5a5ef8",
+        "url": "https://ai.ruc.edu.cn/newslist/notice/20260904001.html",
+        "title": "中国人民大学2027年工程硕博士培养改革专项推免研究生招生报名通知",
+        "excerpt": "系统开放时间为2026年9月4日9:00-9月10日18:00"
+      }
+    ],
+    "firstSeenAt": "2026-09-08T01:02:09+08:00",
+    "updatedAt": "2026-09-08T01:02:09+08:00",
+    "applicationStart": {
+      "value": "2026-09-04T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "系统开放时间为2026年9月4日9:00-9月10日18:00",
+      "sourceId": "src-a72c776d5d2e5a5ef8"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T18:00:00+08:00",
+      "precision": "datetime",
+      "raw": "系统开放时间为2026年9月4日9:00-9月10日18:00",
+      "sourceId": "src-a72c776d5d2e5a5ef8"
+    },
+    "verification": "pending",
+    "availability": "announced",
+    "notes": "已逐条人工核对官方报名时间；仅展示硕士适用报名节点；同通知的直博申请和材料节点需分别核验。"
+  },
+  {
+    "id": "opp-100ad9f8220ba88872c2",
+    "schoolId": "ecupl",
+    "unitId": "ecupl-1dbcf6a9b5",
+    "title": "华东政法大学“人工智能法治人才专项班”2027年接收推荐免试研究生报名的通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "人工智能法治人才专项班",
+    "degrees": [
+      "professional"
+    ],
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": "https://yz.ecupl.edu.cn/#/homeIndex",
+    "noticeUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227578/page.htm",
+    "sourceIds": [
+      "src-90f70fd06a1e8faa5e"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-90f70fd06a1e8faa5e",
+        "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227578/page.htm",
+        "title": "华东政法大学“人工智能法治人才专项班”2027年接收推荐免试研究生报名的通知",
+        "excerpt": "我校2027年接收校内外推荐免试研究生系统的开放时间拟定为2026年9月9日（周三）12时至9月15日（周二）12时。"
+      }
+    ],
+    "firstSeenAt": "2026-09-08T01:03:38+08:00",
+    "updatedAt": "2026-09-08T01:03:38+08:00",
+    "applicationStart": {
+      "value": "2026-09-09T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我校2027年接收校内外推荐免试研究生系统的开放时间拟定为2026年9月9日（周三）12时至9月15日（周二）12时。",
+      "sourceId": "src-90f70fd06a1e8faa5e"
+    },
+    "applicationEnd": {
+      "value": "2026-09-15T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我校2027年接收校内外推荐免试研究生系统的开放时间拟定为2026年9月9日（周三）12时至9月15日（周二）12时。",
+      "sourceId": "src-90f70fd06a1e8faa5e"
+    },
+    "verification": "pending",
+    "availability": "announced",
+    "notes": "已逐条人工核对官方报名时间；官方注明时间为拟定；以学校后续公告为准。法律专硕，计算相关本科背景可申请。"
+  },
+  {
+    "id": "opp-ca01300adcfd794bdd8e",
+    "schoolId": "ecupl",
+    "unitId": "ecupl-1753e1026d",
+    "title": "华东政法大学“科创企业涉外法治人才专项班（通信、集成电路方向，生物医药方向）”2027年接收推荐免试研究生报名的通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "通信、集成电路专项班",
+    "degrees": [
+      "professional"
+    ],
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": "https://yz.ecupl.edu.cn/#/homeIndex",
+    "noticeUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227574/page.htm",
+    "sourceIds": [
+      "src-bda4e1a93ecde45c03"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-bda4e1a93ecde45c03",
+        "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227574/page.htm",
+        "title": "华东政法大学“科创企业涉外法治人才专项班（通信、集成电路方向，生物医药方向）”2027年接收推荐免试研究生报名的通知",
+        "excerpt": "我校2027年接收校内外推荐免试研究生系统的开放时间拟定为2026年9月9日（周三）12时至9月15日（周二）12时。"
+      }
+    ],
+    "firstSeenAt": "2026-09-08T01:03:38+08:00",
+    "updatedAt": "2026-09-08T01:03:38+08:00",
+    "applicationStart": {
+      "value": "2026-09-09T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我校2027年接收校内外推荐免试研究生系统的开放时间拟定为2026年9月9日（周三）12时至9月15日（周二）12时。",
+      "sourceId": "src-bda4e1a93ecde45c03"
+    },
+    "applicationEnd": {
+      "value": "2026-09-15T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我校2027年接收校内外推荐免试研究生系统的开放时间拟定为2026年9月9日（周三）12时至9月15日（周二）12时。",
+      "sourceId": "src-bda4e1a93ecde45c03"
+    },
+    "verification": "pending",
+    "availability": "announced",
+    "notes": "已逐条人工核对官方报名时间；官方注明时间为拟定；以学校后续公告为准。法律专硕，计算相关本科背景可申请。"
+  },
+  {
+    "id": "opp-8bbcff9df64a74027810",
+    "schoolId": "zju",
+    "unitId": "zju-68fd4b54d0",
+    "title": "计算机科学与技术学院2027年免试生预报名说明",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "sourceIds": [
+      "src-77de7456068012ff35"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-77de7456068012ff35",
+        "url": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+        "title": "计算机科学与技术学院2027年免试生预报名说明",
+        "excerpt": "2026年8月10日9:00开始报名，2026年9月10日24：00报名截止。"
+      }
+    ],
+    "firstSeenAt": "2026-09-08T01:03:38+08:00",
+    "updatedAt": "2026-09-08T01:03:38+08:00",
+    "applicationStart": {
+      "value": "2026-08-10T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日9:00开始报名，2026年9月10日24：00报名截止。",
+      "sourceId": "src-77de7456068012ff35"
+    },
+    "applicationEnd": {
+      "value": "2026-09-11T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日9:00开始报名，2026年9月10日24：00报名截止。",
+      "sourceId": "src-77de7456068012ff35"
+    },
+    "verification": "pending",
+    "availability": "announced",
+    "notes": "已逐条人工核对官方报名时间；逐项核对浙江大学研招官方API中该学院的报名截止字段；每个学院单独记录，不套用校级总时间。"
+  },
+  {
+    "id": "opp-89d149c1369e2571e4a6",
+    "schoolId": "zju",
+    "unitId": "zju-db560ef727",
+    "title": "信息与电子工程学院2027年免试生预报名说明",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "sourceIds": [
+      "src-95b3b1eb428a2c1b6d"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-95b3b1eb428a2c1b6d",
+        "url": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+        "title": "信息与电子工程学院2027年免试生预报名说明",
+        "excerpt": "2026年8月10日9:00-9月10日24:00"
+      }
+    ],
+    "firstSeenAt": "2026-09-08T01:03:38+08:00",
+    "updatedAt": "2026-09-08T01:03:38+08:00",
+    "applicationStart": {
+      "value": "2026-08-10T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日9:00-9月10日24:00",
+      "sourceId": "src-95b3b1eb428a2c1b6d"
+    },
+    "applicationEnd": {
+      "value": "2026-09-11T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日9:00-9月10日24:00",
+      "sourceId": "src-95b3b1eb428a2c1b6d"
+    },
+    "verification": "pending",
+    "availability": "announced",
+    "notes": "已逐条人工核对官方报名时间；逐项核对浙江大学研招官方API中该学院的报名截止字段；每个学院单独记录，不套用校级总时间。"
+  },
+  {
+    "id": "opp-1668644eec7b4520c241",
+    "schoolId": "zju",
+    "unitId": "zju-c8db326793",
+    "title": "控制科学与工程学院2027年免试生预报名说明",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "sourceIds": [
+      "src-d714c6620bc6ccd1c9"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-d714c6620bc6ccd1c9",
+        "url": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+        "title": "控制科学与工程学院2027年免试生预报名说明",
+        "excerpt": "2026年8月10日8:00起开放报名，2026年9月10日24点报名截止"
+      }
+    ],
+    "firstSeenAt": "2026-09-08T01:03:38+08:00",
+    "updatedAt": "2026-09-08T01:03:38+08:00",
+    "applicationStart": {
+      "value": "2026-08-10T08:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日8:00起开放报名，2026年9月10日24点报名截止",
+      "sourceId": "src-d714c6620bc6ccd1c9"
+    },
+    "applicationEnd": {
+      "value": "2026-09-11T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日8:00起开放报名，2026年9月10日24点报名截止",
+      "sourceId": "src-d714c6620bc6ccd1c9"
+    },
+    "verification": "pending",
+    "availability": "announced",
+    "notes": "已逐条人工核对官方报名时间；逐项核对浙江大学研招官方API中该学院的报名截止字段；每个学院单独记录，不套用校级总时间。"
+  },
+  {
+    "id": "opp-10641c087f21e126d652",
+    "schoolId": "zju",
+    "unitId": "zju-54ee27e5bf",
+    "title": "人工智能学院2027年免试生预报名说明",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "sourceIds": [
+      "src-0cf492287e7f41fcdc"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-0cf492287e7f41fcdc",
+        "url": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+        "title": "人工智能学院2027年免试生预报名说明",
+        "excerpt": "2026年8月10日9:00开始报名，2026年9月10日24:00报名截止。"
+      }
+    ],
+    "firstSeenAt": "2026-09-08T01:03:38+08:00",
+    "updatedAt": "2026-09-08T01:03:38+08:00",
+    "applicationStart": {
+      "value": "2026-08-10T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日9:00开始报名，2026年9月10日24:00报名截止。",
+      "sourceId": "src-0cf492287e7f41fcdc"
+    },
+    "applicationEnd": {
+      "value": "2026-09-11T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日9:00开始报名，2026年9月10日24:00报名截止。",
+      "sourceId": "src-0cf492287e7f41fcdc"
+    },
+    "verification": "pending",
+    "availability": "announced",
+    "notes": "已逐条人工核对官方报名时间；逐项核对浙江大学研招官方API中该学院的报名截止字段；每个学院单独记录，不套用校级总时间。"
+  },
+  {
+    "id": "opp-11b568cd94dd49217720",
+    "schoolId": "zju",
+    "unitId": "zju-d44e9404bb",
+    "title": "软件学院2027年免试生预报名说明",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "materialsEnd": null,
+    "assessment": "",
+    "applicationUrl": null,
+    "noticeUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "sourceIds": [
+      "src-7a62541c6f73ba152e"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-7a62541c6f73ba152e",
+        "url": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+        "title": "软件学院2027年免试生预报名说明",
+        "excerpt": "2026年8月10日起开放报名，2026年9月10日24:00报名截止。"
+      }
+    ],
+    "firstSeenAt": "2026-09-08T01:03:38+08:00",
+    "updatedAt": "2026-09-08T01:03:38+08:00",
+    "applicationStart": {
+      "value": "2026-08-10",
+      "precision": "date",
+      "raw": "2026年8月10日起开放报名，2026年9月10日24:00报名截止。",
+      "sourceId": "src-7a62541c6f73ba152e"
+    },
+    "applicationEnd": {
+      "value": "2026-09-11T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日起开放报名，2026年9月10日24:00报名截止。",
+      "sourceId": "src-7a62541c6f73ba152e"
+    },
+    "verification": "pending",
+    "availability": "announced",
+    "notes": "已逐条人工核对官方报名时间；逐项核对浙江大学研招官方API中该学院的报名截止字段；每个学院单独记录，不套用校级总时间。"
+  },
+  {
+    "id": "opp-nudt-cs-2027-round-2",
+    "schoolId": "nudt",
+    "unitId": "nudt-d6aeec6db0",
+    "title": "计算机学院接收第二轮2027级地方院校推荐免试硕士研究生（含直博生）工作方案",
+    "year": 2027,
+    "season": 2026,
+    "batch": "第二轮",
+    "degrees": [
+      "academic",
+      "professional"
+    ],
+    "disciplines": [
+      "计算机",
+      "软件工程",
+      "网络安全",
+      "电子信息",
+      "集成电路"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "报名时间：即日起至9月10日12:00。",
+      "sourceId": "src-nudt-cs-2027-round-2-pdf"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名时间：即日起至9月10日12:00。",
+      "sourceId": "src-nudt-cs-2027-round-2-pdf"
+    },
+    "materialsEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "在推免预报名同时，上传报名系统“材料上传”处，并同步发送至学院研究生教务邮箱。",
+      "sourceId": "src-nudt-cs-2027-round-2-pdf"
+    },
+    "assessment": "推免复试：2026年9月15日至17日；具体环节以官方工作方案为准。",
+    "applicationUrl": "http://yjszsxt.nudt.edu.cn",
+    "noticeUrl": "https://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14937",
+    "sourceIds": [
+      "src-nudt-cs-2027-round-2",
+      "src-nudt-cs-2027-round-2-pdf"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-nudt-cs-2027-round-2-pdf",
+        "url": "https://yjszs.nudt.edu.cn/attached/file/20260904/20260904185822_736.pdf",
+        "title": "计算机学院接收第二轮2027级地方院校推荐免试硕士研究生（含直博生）工作方案 · PDF第1页",
+        "excerpt": "硕士专业含计算机科学与技术、软件工程、网络空间安全、集成电路科学与工程及电子信息。报名时间：即日起至9月10日12:00。"
+      }
+    ],
+    "verification": "pending",
+    "availability": "open",
+    "firstSeenAt": "2026-09-08T01:20:49+08:00",
+    "updatedAt": "2026-09-08T01:20:49+08:00",
+    "notes": "本条仅展示地方硕士适用范围，含学硕与专硕。附件同时招直博，未借用直博专用时间。材料要求与报名同时提交，不另推定未公布的独立材料截止时刻。"
+  }
+]

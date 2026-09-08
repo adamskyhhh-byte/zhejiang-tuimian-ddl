@@ -1,7 +1,9 @@
 node_modules/
+.pnpm-store/
 dist/
 .venv/
 .uv-cache/
+.cache/
 __pycache__/
 *.py[cod]
 .pytest_cache/

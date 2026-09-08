@@ -1,0 +1,1634 @@
+[
+  {
+    "id": "thu",
+    "name": "清华大学",
+    "province": "北京",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0202 应用经济学",
+      "0307 中共党史党建学",
+      "0701 数学",
+      "0702 物理学",
+      "0703 化学",
+      "0710 生物学",
+      "0801 力学",
+      "0802 机械工程",
+      "0805 材料科学与工程",
+      "0807 动力工程及工程热物理",
+      "0808 电气工程",
+      "0809 电子科学与技术",
+      "0810 信息与通信工程",
+      "0811 控制科学与工程",
+      "0812 计算机科学与技术",
+      "0813 建筑学",
+      "0814 土木工程",
+      "0815 水利工程",
+      "0817 化学工程与技术",
+      "0827 核科学与技术",
+      "0830 环境科学与工程",
+      "0831 生物医学工程",
+      "0833 城乡规划学",
+      "0835 软件工程"
+    ],
+    "homepage": "https://www.tsinghua.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及2个院系目录，记录15个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "pku",
+    "name": "北京大学",
+    "province": "北京",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0201 理论经济学",
+      "0202 应用经济学",
+      "0307 中共党史党建学",
+      "0701 数学",
+      "0702 物理学",
+      "0703 化学",
+      "0710 生物学",
+      "0713 生态学",
+      "0714 统计学",
+      "0801 力学",
+      "0805 材料科学与工程",
+      "0809 电子科学与技术",
+      "0810 信息与通信工程",
+      "0812 计算机科学与技术",
+      "0827 核科学与技术",
+      "0830 环境科学与工程",
+      "0835 软件工程",
+      "1004 公共卫生与预防医学",
+      "1007 药学"
+    ],
+    "homepage": "https://www.pku.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录6个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "ruc",
+    "name": "中国人民大学",
+    "province": "北京",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0201 理论经济学",
+      "0202 应用经济学",
+      "0307 中共党史党建学",
+      "0714 统计学"
+    ],
+    "homepage": "https://www.ruc.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录6个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "buaa",
+    "name": "北京航空航天大学",
+    "province": "北京",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0801 力学",
+      "0802 机械工程",
+      "0805 材料科学与工程",
+      "0810 信息与通信工程",
+      "0811 控制科学与工程",
+      "0812 计算机科学与技术",
+      "0823 交通运输工程",
+      "0825 航空宇航科学与技术",
+      "0831 生物医学工程",
+      "0835 软件工程"
+    ],
+    "homepage": "https://www.buaa.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录10个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "bit",
+    "name": "北京理工大学",
+    "province": "北京",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0702 物理学",
+      "0802 机械工程",
+      "0805 材料科学与工程",
+      "0810 信息与通信工程",
+      "0811 控制科学与工程",
+      "0812 计算机科学与技术",
+      "0817 化学工程与技术"
+    ],
+    "homepage": "https://www.bit.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录7个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "cau",
+    "name": "中国农业大学",
+    "province": "北京",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0710 生物学",
+      "0903 农业资源与环境"
+    ],
+    "homepage": "https://www.cau.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录1个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "bnu",
+    "name": "北京师范大学",
+    "province": "北京",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0201 理论经济学",
+      "0701 数学",
+      "0713 生态学",
+      "0830 环境科学与工程"
+    ],
+    "homepage": "https://www.bnu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录1个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "muc",
+    "name": "中央民族大学",
+    "province": "北京",
+    "groups": [
+      "常规·省市及县乡"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.muc.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录1个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "nankai",
+    "name": "南开大学",
+    "province": "天津",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0201 理论经济学",
+      "0202 应用经济学",
+      "0701 数学",
+      "0703 化学",
+      "0710 生物学",
+      "0714 统计学",
+      "0830 环境科学与工程"
+    ],
+    "homepage": "https://www.nankai.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录5个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "tju",
+    "name": "天津大学",
+    "province": "天津",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0801 力学",
+      "0802 机械工程",
+      "0805 材料科学与工程",
+      "0807 动力工程及工程热物理",
+      "0813 建筑学",
+      "0814 土木工程",
+      "0815 水利工程",
+      "0817 化学工程与技术",
+      "0830 环境科学与工程",
+      "0833 城乡规划学",
+      "0835 软件工程"
+    ],
+    "homepage": "https://www.tju.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录10个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "dlut",
+    "name": "大连理工大学",
+    "province": "辽宁",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0801 力学",
+      "0802 机械工程",
+      "0814 土木工程",
+      "0817 化学工程与技术",
+      "0830 环境科学与工程"
+    ],
+    "homepage": "https://www.dlut.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录7个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "jlu",
+    "name": "吉林大学",
+    "province": "吉林",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0307 中共党史党建学",
+      "0701 数学",
+      "0702 物理学",
+      "0703 化学",
+      "0802 机械工程",
+      "0812 计算机科学与技术"
+    ],
+    "homepage": "https://www.jlu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及2个院系目录，记录8个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。 研招入口本次访问异常，需检查证书、地址或动态访问限制。"
+  },
+  {
+    "id": "hit",
+    "name": "哈尔滨工业大学",
+    "province": "黑龙江",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0701 数学",
+      "0801 力学",
+      "0802 机械工程",
+      "0805 材料科学与工程",
+      "0807 动力工程及工程热物理",
+      "0808 电气工程",
+      "0810 信息与通信工程",
+      "0811 控制科学与工程",
+      "0812 计算机科学与技术",
+      "0814 土木工程",
+      "0817 化学工程与技术",
+      "0830 环境科学与工程",
+      "0833 城乡规划学",
+      "0835 软件工程"
+    ],
+    "homepage": "https://www.hit.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及2个院系目录，记录14个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "fudan",
+    "name": "复旦大学",
+    "province": "上海",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0201 理论经济学",
+      "0202 应用经济学",
+      "0307 中共党史党建学",
+      "0701 数学",
+      "0702 物理学",
+      "0703 化学",
+      "0710 生物学",
+      "0713 生态学",
+      "0809 电子科学与技术",
+      "1004 公共卫生与预防医学",
+      "1007 药学"
+    ],
+    "homepage": "https://www.fudan.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录9个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "tongji",
+    "name": "同济大学",
+    "province": "上海",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0701 数学",
+      "0802 机械工程",
+      "0812 计算机科学与技术",
+      "0813 建筑学",
+      "0814 土木工程",
+      "0823 交通运输工程",
+      "0830 环境科学与工程",
+      "0833 城乡规划学",
+      "0835 软件工程"
+    ],
+    "homepage": "https://www.tongji.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录4个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "sjtu",
+    "name": "上海交通大学",
+    "province": "上海",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0701 数学",
+      "0702 物理学",
+      "0703 化学",
+      "0710 生物学",
+      "0802 机械工程",
+      "0805 材料科学与工程",
+      "0807 动力工程及工程热物理",
+      "0809 电子科学与技术",
+      "0810 信息与通信工程",
+      "0811 控制科学与工程",
+      "0812 计算机科学与技术",
+      "0824 船舶与海洋工程",
+      "0830 环境科学与工程",
+      "0831 生物医学工程",
+      "0835 软件工程"
+    ],
+    "homepage": "https://www.sjtu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录1个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "ecnu",
+    "name": "华东师范大学",
+    "province": "上海",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0307 中共党史党建学",
+      "0701 数学",
+      "0713 生态学",
+      "0714 统计学",
+      "0835 软件工程"
+    ],
+    "homepage": "https://www.ecnu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及2个院系目录，记录11个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "nju",
+    "name": "南京大学",
+    "province": "江苏",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0201 理论经济学",
+      "0701 数学",
+      "0702 物理学",
+      "0703 化学",
+      "0710 生物学",
+      "0713 生态学",
+      "0809 电子科学与技术",
+      "0812 计算机科学与技术",
+      "0830 环境科学与工程",
+      "0835 软件工程"
+    ],
+    "homepage": "https://www.nju.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录8个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "seu",
+    "name": "东南大学",
+    "province": "江苏",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0809 电子科学与技术",
+      "0810 信息与通信工程",
+      "0811 控制科学与工程",
+      "0813 建筑学",
+      "0814 土木工程",
+      "0823 交通运输工程",
+      "0831 生物医学工程",
+      "0833 城乡规划学"
+    ],
+    "homepage": "https://www.seu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及2个院系目录，记录13个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "zju",
+    "name": "浙江大学",
+    "province": "浙江",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0201 理论经济学",
+      "0701 数学",
+      "0703 化学",
+      "0710 生物学",
+      "0713 生态学",
+      "0802 机械工程",
+      "0805 材料科学与工程",
+      "0807 动力工程及工程热物理",
+      "0808 电气工程",
+      "0809 电子科学与技术",
+      "0811 控制科学与工程",
+      "0812 计算机科学与技术",
+      "0814 土木工程",
+      "0817 化学工程与技术",
+      "0830 环境科学与工程",
+      "0831 生物医学工程",
+      "0835 软件工程",
+      "0903 农业资源与环境",
+      "1007 药学"
+    ],
+    "homepage": "https://www.zju.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录6个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。 研招入口本次访问异常，需检查证书、地址或动态访问限制。"
+  },
+  {
+    "id": "ustc",
+    "name": "中国科学技术大学",
+    "province": "安徽",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0701 数学",
+      "0702 物理学",
+      "0703 化学",
+      "0710 生物学",
+      "0805 材料科学与工程",
+      "0812 计算机科学与技术",
+      "0827 核科学与技术",
+      "0830 环境科学与工程",
+      "0835 软件工程",
+      "0837 安全科学与工程"
+    ],
+    "homepage": "https://www.ustc.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录7个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "xmu",
+    "name": "厦门大学",
+    "province": "福建",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0202 应用经济学",
+      "0703 化学",
+      "0707 海洋科学",
+      "0710 生物学",
+      "0714 统计学"
+    ],
+    "homepage": "https://www.xmu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录6个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "sdu",
+    "name": "山东大学",
+    "province": "山东",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0202 应用经济学",
+      "0307 中共党史党建学",
+      "0701 数学",
+      "0811 控制科学与工程"
+    ],
+    "homepage": "https://www.sdu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录11个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "ouc",
+    "name": "中国海洋大学",
+    "province": "山东",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0707 海洋科学"
+    ],
+    "homepage": "https://www.ouc.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及2个院系目录，记录2个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "whu",
+    "name": "武汉大学",
+    "province": "湖北",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0201 理论经济学",
+      "0701 数学",
+      "0703 化学",
+      "0710 生物学",
+      "0812 计算机科学与技术",
+      "0815 水利工程",
+      "0835 软件工程"
+    ],
+    "homepage": "https://www.whu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录12个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "hust",
+    "name": "华中科技大学",
+    "province": "湖北",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0710 生物学",
+      "0802 机械工程",
+      "0807 动力工程及工程热物理",
+      "0808 电气工程",
+      "0811 控制科学与工程",
+      "0812 计算机科学与技术",
+      "0831 生物医学工程",
+      "1004 公共卫生与预防医学"
+    ],
+    "homepage": "https://www.hust.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及2个院系目录，记录8个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。 研招入口本次访问异常，需检查证书、地址或动态访问限制。"
+  },
+  {
+    "id": "csu",
+    "name": "中南大学",
+    "province": "湖南",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0802 机械工程",
+      "0805 材料科学与工程",
+      "0811 控制科学与工程",
+      "0812 计算机科学与技术",
+      "0814 土木工程",
+      "0837 安全科学与工程"
+    ],
+    "homepage": "https://www.csu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录6个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "sysu",
+    "name": "中山大学",
+    "province": "广东",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0307 中共党史党建学",
+      "0701 数学",
+      "0703 化学",
+      "0710 生物学",
+      "0713 生态学",
+      "1007 药学"
+    ],
+    "homepage": "https://www.sysu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录14个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "scut",
+    "name": "华南理工大学",
+    "province": "广东",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0802 机械工程",
+      "0805 材料科学与工程",
+      "0813 建筑学",
+      "0817 化学工程与技术",
+      "0830 环境科学与工程"
+    ],
+    "homepage": "https://www.scut.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录1个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "scu",
+    "name": "四川大学",
+    "province": "四川",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0701 数学",
+      "0703 化学",
+      "0710 生物学",
+      "0805 材料科学与工程",
+      "0817 化学工程与技术",
+      "0831 生物医学工程",
+      "0835 软件工程"
+    ],
+    "homepage": "https://www.scu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录3个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "uestc",
+    "name": "电子科技大学",
+    "province": "四川",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0809 电子科学与技术",
+      "0810 信息与通信工程",
+      "0812 计算机科学与技术"
+    ],
+    "homepage": "https://www.uestc.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录1个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "cqu",
+    "name": "重庆大学",
+    "province": "重庆",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0802 机械工程",
+      "0808 电气工程"
+    ],
+    "homepage": "https://www.cqu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录4个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "xjtu",
+    "name": "西安交通大学",
+    "province": "陕西",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0202 应用经济学",
+      "0701 数学",
+      "0801 力学",
+      "0802 机械工程",
+      "0805 材料科学与工程",
+      "0807 动力工程及工程热物理",
+      "0808 电气工程",
+      "0809 电子科学与技术",
+      "0811 控制科学与工程",
+      "0812 计算机科学与技术"
+    ],
+    "homepage": "https://www.xjtu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录10个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "nwpu",
+    "name": "西北工业大学",
+    "province": "陕西",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0805 材料科学与工程",
+      "0812 计算机科学与技术",
+      "0825 航空宇航科学与技术"
+    ],
+    "homepage": "https://www.nwpu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录13个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "lzu",
+    "name": "兰州大学",
+    "province": "甘肃",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0713 生态学"
+    ],
+    "homepage": "https://www.lzu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录1个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。 研招入口本次访问异常，需检查证书、地址或动态访问限制。"
+  },
+  {
+    "id": "nudt",
+    "name": "国防科技大学",
+    "province": "湖南",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0802 机械工程",
+      "0810 信息与通信工程",
+      "0811 控制科学与工程",
+      "0812 计算机科学与技术",
+      "0835 软件工程"
+    ],
+    "homepage": "https://www.nudt.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已按官方院所目录复核10个计算相关培养单位或明确交叉候选，计算机学院2027级第二轮硕士预报名及PDF时间已人工核验。其余单位当季具体硕士方向与批次仍需逐项核对；智能科学学院第三批仅直博通知不计入硕士报名。"
+  },
+  {
+    "id": "ucas",
+    "name": "中国科学院大学",
+    "province": "北京",
+    "groups": [
+      "常规·省市及县乡"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。研究所培养单位须核对实际学籍、毕业证及选调职位要求。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.ucas.ac.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及2个院系目录，记录23个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "ucass",
+    "name": "中国社会科学院大学",
+    "province": "北京",
+    "groups": [
+      "常规·省市及县乡",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [
+      "0307 中共党史党建学"
+    ],
+    "homepage": "https://www.ucass.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校与研究生招生官网，公开招生以人文社科为主；尚未核实具有明确计算方向的硕士培养单位。不得把未发现解释为不存在，须进一步盘点数字经济、数据法治与数量经济等交叉方向。"
+  },
+  {
+    "id": "westlake",
+    "name": "西湖大学",
+    "province": "浙江",
+    "groups": [
+      "常规·省市及县乡"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.westlake.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已读取工学院官方博士生招生栏目（https://engineering.westlake.edu.cn/Admission/GraduateProgram/），有计算/AI研究方向但当前公开招生为博士；未发现2027硕士预推免证据，博士项目不进入报名列表。"
+  },
+  {
+    "id": "caa",
+    "name": "中国美术学院",
+    "province": "浙江",
+    "groups": [
+      "常规·浙江省内重点本科"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规选调以县乡机关为主；部分市直职位同时面向本组，另有专门资格条件。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.caa.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录2个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "zjut",
+    "name": "浙江工业大学",
+    "province": "浙江",
+    "groups": [
+      "常规·浙江省内重点本科"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规选调以县乡机关为主；部分市直职位同时面向本组，另有专门资格条件。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.zjut.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录2个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。 研招入口本次访问异常，需检查证书、地址或动态访问限制。"
+  },
+  {
+    "id": "zjnu",
+    "name": "浙江师范大学",
+    "province": "浙江",
+    "groups": [
+      "常规·浙江省内重点本科"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规选调以县乡机关为主；部分市直职位同时面向本组，另有专门资格条件。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.zjnu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录6个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "nbu",
+    "name": "宁波大学",
+    "province": "浙江",
+    "groups": [
+      "常规·浙江省内重点本科"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规选调以县乡机关为主；部分市直职位同时面向本组，另有专门资格条件。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.nbu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录1个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "zstu",
+    "name": "浙江理工大学",
+    "province": "浙江",
+    "groups": [
+      "常规·浙江省内重点本科"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规选调以县乡机关为主；部分市直职位同时面向本组，另有专门资格条件。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.zstu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录1个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "hdu",
+    "name": "杭州电子科技大学",
+    "province": "浙江",
+    "groups": [
+      "常规·浙江省内重点本科"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规选调以县乡机关为主；部分市直职位同时面向本组，另有专门资格条件。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.hdu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及2个院系目录，记录8个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "zjgsu",
+    "name": "浙江工商大学",
+    "province": "浙江",
+    "groups": [
+      "常规·浙江省内重点本科"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规选调以县乡机关为主；部分市直职位同时面向本组，另有专门资格条件。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.zjgsu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录2个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "cjlu",
+    "name": "中国计量大学",
+    "province": "浙江",
+    "groups": [
+      "常规·浙江省内重点本科"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规选调以县乡机关为主；部分市直职位同时面向本组，另有专门资格条件。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.cjlu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录2个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。 研招入口本次访问异常，需检查证书、地址或动态访问限制。"
+  },
+  {
+    "id": "zcmu",
+    "name": "浙江中医药大学",
+    "province": "浙江",
+    "groups": [
+      "常规·浙江省内重点本科"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规选调以县乡机关为主；部分市直职位同时面向本组，另有专门资格条件。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.zcmu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录1个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "zjou",
+    "name": "浙江海洋大学",
+    "province": "浙江",
+    "groups": [
+      "常规·浙江省内重点本科"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规选调以县乡机关为主；部分市直职位同时面向本组，另有专门资格条件。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.zjou.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录1个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "zafu",
+    "name": "浙江农林大学",
+    "province": "浙江",
+    "groups": [
+      "常规·浙江省内重点本科"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规选调以县乡机关为主；部分市直职位同时面向本组，另有专门资格条件。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.zafu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录3个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "wmu",
+    "name": "温州医科大学",
+    "province": "浙江",
+    "groups": [
+      "常规·浙江省内重点本科"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规选调以县乡机关为主；部分市直职位同时面向本组，另有专门资格条件。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.wmu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录2个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "zufe",
+    "name": "浙江财经大学",
+    "province": "浙江",
+    "groups": [
+      "常规·浙江省内重点本科"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规选调以县乡机关为主；部分市直职位同时面向本组，另有专门资格条件。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.zufe.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录2个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。 研招入口本次访问异常，需检查证书、地址或动态访问限制。"
+  },
+  {
+    "id": "hznu",
+    "name": "杭州师范大学",
+    "province": "浙江",
+    "groups": [
+      "常规·浙江省内重点本科"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规选调以县乡机关为主；部分市直职位同时面向本组，另有专门资格条件。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.hznu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及2个院系目录，记录2个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "wzu",
+    "name": "温州大学",
+    "province": "浙江",
+    "groups": [
+      "常规·浙江省内重点本科"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规选调以县乡机关为主；部分市直职位同时面向本组，另有专门资格条件。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.wzu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录2个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。 研招入口本次访问异常，需检查证书、地址或动态访问限制。"
+  },
+  {
+    "id": "cupl",
+    "name": "中国政法大学",
+    "province": "北京",
+    "groups": [
+      "常规·政法专项"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规范围仅限公告列明的纪检监察、公检法司等要求法律专业背景职位。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.cupl.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录1个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。 研招入口本次访问异常，需检查证书、地址或动态访问限制。"
+  },
+  {
+    "id": "swupl",
+    "name": "西南政法大学",
+    "province": "重庆",
+    "groups": [
+      "常规·政法专项"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规范围仅限公告列明的纪检监察、公检法司等要求法律专业背景职位。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.swupl.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录1个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。 研招入口本次访问异常，需检查证书、地址或动态访问限制。"
+  },
+  {
+    "id": "ecupl",
+    "name": "华东政法大学",
+    "province": "上海",
+    "groups": [
+      "常规·政法专项"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规范围仅限公告列明的纪检监察、公检法司等要求法律专业背景职位。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.ecupl.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及2个院系目录，记录2个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。 研招入口本次访问异常，需检查证书、地址或动态访问限制。"
+  },
+  {
+    "id": "zuel",
+    "name": "中南财经政法大学",
+    "province": "湖北",
+    "groups": [
+      "常规·政法专项",
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规范围仅限公告列明的纪检监察、公检法司等要求法律专业背景职位。",
+    "disciplineRestrictions": [
+      "0202 应用经济学"
+    ],
+    "homepage": "https://www.zuel.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录1个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。 研招入口本次访问异常，需检查证书、地址或动态访问限制。"
+  },
+  {
+    "id": "nwupl",
+    "name": "西北政法大学",
+    "province": "陕西",
+    "groups": [
+      "常规·政法专项"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/18c2ab3a-6e32-4a82-a1f7-580e247c8065.doc"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。常规范围仅限公告列明的纪检监察、公检法司等要求法律专业背景职位。",
+    "disciplineRestrictions": [],
+    "homepage": "https://www.nwupl.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及2个院系目录，记录1个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "cufe",
+    "name": "中央财经大学",
+    "province": "北京",
+    "groups": [
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。本校仅因指定紧缺专业纳入；页面计算相关学院不当然符合该专业范围。",
+    "disciplineRestrictions": [
+      "0202 应用经济学"
+    ],
+    "homepage": "https://www.cufe.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录3个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "ccps",
+    "name": "中共中央党校（国家行政学院）",
+    "province": "北京",
+    "groups": [
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。本校仅因指定紧缺专业纳入；页面计算相关学院不当然符合该专业范围。",
+    "disciplineRestrictions": [
+      "0307 中共党史党建学"
+    ],
+    "homepage": "https://www.ccps.gov.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已核对官方机构目录及研究生教育介绍（https://www.ccps.gov.cn/jypx/yjsjy/）。介绍当前以全日制博士招生为主；未发现计算相关硕士预推免证据，电子政务研究中心不是已确认硕士招生单位。后续继续复查。"
+  },
+  {
+    "id": "nenu",
+    "name": "东北师范大学",
+    "province": "吉林",
+    "groups": [
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。本校仅因指定紧缺专业纳入；页面计算相关学院不当然符合该专业范围。",
+    "disciplineRestrictions": [
+      "0307 中共党史党建学"
+    ],
+    "homepage": "https://www.nenu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录3个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "njnu",
+    "name": "南京师范大学",
+    "province": "江苏",
+    "groups": [
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。本校仅因指定紧缺专业纳入；页面计算相关学院不当然符合该专业范围。",
+    "disciplineRestrictions": [
+      "0307 中共党史党建学"
+    ],
+    "homepage": "https://www.nnu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录2个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "xtu",
+    "name": "湘潭大学",
+    "province": "湖南",
+    "groups": [
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。本校仅因指定紧缺专业纳入；页面计算相关学院不当然符合该专业范围。",
+    "disciplineRestrictions": [
+      "0307 中共党史党建学"
+    ],
+    "homepage": "https://www.xtu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录2个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "sdnu",
+    "name": "山东师范大学",
+    "province": "山东",
+    "groups": [
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。本校仅因指定紧缺专业纳入；页面计算相关学院不当然符合该专业范围。",
+    "disciplineRestrictions": [
+      "0307 中共党史党建学"
+    ],
+    "homepage": "https://www.sdnu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录3个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。 研招入口本次访问异常，需检查证书、地址或动态访问限制。"
+  },
+  {
+    "id": "xidian",
+    "name": "西安电子科技大学",
+    "province": "陕西",
+    "groups": [
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。本校仅因指定紧缺专业纳入；页面计算相关学院不当然符合该专业范围。",
+    "disciplineRestrictions": [
+      "0809 电子科学与技术",
+      "0810 信息与通信工程",
+      "0812 计算机科学与技术"
+    ],
+    "homepage": "https://www.xidian.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及0个院系目录，记录16个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "hhu",
+    "name": "河海大学",
+    "province": "江苏",
+    "groups": [
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。本校仅因指定紧缺专业纳入；页面计算相关学院不当然符合该专业范围。",
+    "disciplineRestrictions": [
+      "0814 土木工程",
+      "0815 水利工程",
+      "0830 环境科学与工程"
+    ],
+    "homepage": "https://www.hhu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及1个院系目录，记录4个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  },
+  {
+    "id": "njmu",
+    "name": "南京医科大学",
+    "province": "江苏",
+    "groups": [
+      "定向紧缺专业"
+    ],
+    "rosterYear": 2026,
+    "rosterSources": [
+      "https://xds.ecnu.edu.cn/68/b9/c51123a747705/page.psp",
+      "https://xds.ecnu.edu.cn/_upload/article/files/22/1e/62aa2a224e2492364d292ceb6f20/532fa022-470d-48a8-bcfc-1cf1768e67ac.xlsx"
+    ],
+    "eligibilityNote": "学校入选不代表所有专业和学历层次均符合职位条件，需结合具体职位表核对。本校仅因指定紧缺专业纳入；页面计算相关学院不当然符合该专业范围。",
+    "disciplineRestrictions": [
+      "1004 公共卫生与预防医学"
+    ],
+    "homepage": "https://www.njmu.edu.cn/",
+    "inventoryStatus": "pending",
+    "inventoryNote": "已检查学校官网、研招入口及2个院系目录，记录1个相关培养单位。 招生专业目录、交叉方向与研究所清单仍需逐项补全；不将已发现单位数解释为完整覆盖。"
+  }
+]
