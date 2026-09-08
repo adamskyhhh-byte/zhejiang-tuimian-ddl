@@ -1,0 +1,4995 @@
+[
+  {
+    "id": "thu-b8d6908807",
+    "schoolId": "thu",
+    "name": "信息科学技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.tsinghua.edu.cn/yxsz.htm",
+    "admissionUrl": "http://www.sist.tsinghua.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "thu-ae18cab9f7",
+    "schoolId": "thu",
+    "name": "集成电路学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.tsinghua.edu.cn/yxsz.htm",
+    "admissionUrl": "http://www.sic.tsinghua.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "thu-4fc93aa4d2",
+    "schoolId": "thu",
+    "name": "网络科学与网络空间研究院",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.tsinghua.edu.cn/yxsz.htm",
+    "admissionUrl": "http://www.insc.tsinghua.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "thu-d44e9404bb",
+    "schoolId": "thu",
+    "name": "软件学院",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.tsinghua.edu.cn/yxsz.htm",
+    "admissionUrl": "https://www.thss.tsinghua.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "thu-6e268ef2c7",
+    "schoolId": "thu",
+    "name": "信息国家研究中心",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.tsinghua.edu.cn/yxsz.htm",
+    "admissionUrl": "http://www.bnrist.tsinghua.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "thu-54ee27e5bf",
+    "schoolId": "thu",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.tsinghua.edu.cn/yxsz.htm",
+    "admissionUrl": "https://collegeai.tsinghua.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "thu-61aa253fdf",
+    "schoolId": "thu",
+    "name": "统计与数据科学系",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.tsinghua.edu.cn/yxsz.htm",
+    "admissionUrl": "https://www.stat.tsinghua.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "thu-b744c7aded",
+    "schoolId": "thu",
+    "name": "交叉信息研究院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.tsinghua.edu.cn/yxsz.htm",
+    "admissionUrl": "https://iiis.tsinghua.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "thu-df3bd90a79",
+    "schoolId": "thu",
+    "name": "数学科学中心",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.tsinghua.edu.cn/yxsz.htm",
+    "admissionUrl": "https://ymsc.tsinghua.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "thu-fe81625c3a",
+    "schoolId": "thu",
+    "name": "智能产业研究院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.tsinghua.edu.cn/yxsz.htm",
+    "admissionUrl": "https://air.tsinghua.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "pku-ac970d5210",
+    "schoolId": "pku",
+    "name": "信息科学与技术学部",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.pku.edu.cn/",
+    "admissionUrl": "https://www.pku.edu.cn/department.html#item2",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "ruc-fd211000c2",
+    "schoolId": "ruc",
+    "name": "信息资源管理学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ruc.edu.cn/zuzhijigou.html",
+    "admissionUrl": "https://irm.ruc.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "ruc-c64258b4a0",
+    "schoolId": "ruc",
+    "name": "信息学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ruc.edu.cn/zuzhijigou.html",
+    "admissionUrl": "http://info.ruc.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "ruc-8fc5d7e97c",
+    "schoolId": "ruc",
+    "name": "统计学院",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ruc.edu.cn/zuzhijigou.html",
+    "admissionUrl": "http://stat.ruc.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ruc-79ed0f0fe2",
+    "schoolId": "ruc",
+    "name": "统计与大数据研究院",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ruc.edu.cn/zuzhijigou.html",
+    "admissionUrl": "http://isbd.ruc.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ruc-be80419028",
+    "schoolId": "ruc",
+    "name": "数学学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ruc.edu.cn/zuzhijigou.html",
+    "admissionUrl": "http://math.ruc.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "ruc-1ce6f6c662",
+    "schoolId": "ruc",
+    "name": "高瓴人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.ruc.edu.cn/zuzhijigou.html",
+    "admissionUrl": "https://ai.ruc.edu.cn/newslist/notice/20260904001.html",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "buaa-5a83e4ec4a",
+    "schoolId": "buaa",
+    "name": "机械工程及自动化学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.buaa.edu.cn/jgsz/jxkyjg02.htm",
+    "admissionUrl": "http://www.me.buaa.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "buaa-e61b828d81",
+    "schoolId": "buaa",
+    "name": "电子信息工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.buaa.edu.cn/jgsz/jxkyjg02.htm",
+    "admissionUrl": "http://www.ee.buaa.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "buaa-d44e9404bb",
+    "schoolId": "buaa",
+    "name": "软件学院",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.buaa.edu.cn/jgsz/jxkyjg02.htm",
+    "admissionUrl": "http://soft.buaa.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "buaa-81763136eb",
+    "schoolId": "buaa",
+    "name": "自动化科学与电气工程学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.buaa.edu.cn/jgsz/jxkyjg02.htm",
+    "admissionUrl": "http://dept3.buaa.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "buaa-7be1433646",
+    "schoolId": "buaa",
+    "name": "网络空间安全学院",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.buaa.edu.cn/jgsz/jxkyjg02.htm",
+    "admissionUrl": "http://cst.buaa.edu.cn",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "buaa-d6aeec6db0",
+    "schoolId": "buaa",
+    "name": "计算机学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.buaa.edu.cn/jgsz/jxkyjg02.htm",
+    "admissionUrl": "http://scse.buaa.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "buaa-23cf3385e3",
+    "schoolId": "buaa",
+    "name": "集成电路科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.buaa.edu.cn/jgsz/jxkyjg02.htm",
+    "admissionUrl": "https://ic.buaa.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "buaa-54ee27e5bf",
+    "schoolId": "buaa",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.buaa.edu.cn/jgsz/jxkyjg02.htm",
+    "admissionUrl": "http://iai.buaa.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "buaa-9ce53d3795",
+    "schoolId": "buaa",
+    "name": "数学科学学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.buaa.edu.cn/jgsz/jxkyjg02.htm",
+    "admissionUrl": "http://math.buaa.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "bit-8985148a3a",
+    "schoolId": "bit",
+    "name": "数学与统计学院",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.bit.edu.cn/gbxxgk/gbgljg/index.htm",
+    "admissionUrl": "http://math.bit.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "bit-73dfac186a",
+    "schoolId": "bit",
+    "name": "信息与电子学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.bit.edu.cn/gbxxgk/gbgljg/index.htm",
+    "admissionUrl": "http://sie.bit.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "bit-7c85fed371",
+    "schoolId": "bit",
+    "name": "集成电路与电子学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.bit.edu.cn/gbxxgk/gbgljg/index.htm",
+    "admissionUrl": "https://ice.bit.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "bit-9476055247",
+    "schoolId": "bit",
+    "name": "自动化学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.bit.edu.cn/gbxxgk/gbgljg/index.htm",
+    "admissionUrl": "http://ac.bit.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "bit-d6aeec6db0",
+    "schoolId": "bit",
+    "name": "计算机学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.bit.edu.cn/gbxxgk/gbgljg/index.htm",
+    "admissionUrl": "http://cs.bit.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "bit-7be1433646",
+    "schoolId": "bit",
+    "name": "网络空间安全学院",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.bit.edu.cn/gbxxgk/gbgljg/index.htm",
+    "admissionUrl": "https://cst.bit.edu.cn/xxfw/tzgg/58a147115f154c439a0851311c8fc0d0.htm",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "bit-54ee27e5bf",
+    "schoolId": "bit",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.bit.edu.cn/gbxxgk/gbgljg/index.htm",
+    "admissionUrl": "https://ai.bit.edu.cn",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "jlu-be80419028",
+    "schoolId": "jlu",
+    "name": "数学学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.jlu.edu.cn/jgsz/yxsz.htm",
+    "admissionUrl": "https://math.jlu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "jlu-38508d24ad",
+    "schoolId": "jlu",
+    "name": "电子科学与工程学院、集成电路学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.jlu.edu.cn/jgsz/yxsz.htm",
+    "admissionUrl": "https://ee.jlu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "jlu-68fd4b54d0",
+    "schoolId": "jlu",
+    "name": "计算机科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.jlu.edu.cn/jgsz/yxsz.htm",
+    "admissionUrl": "https://ccst.jlu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "jlu-d44e9404bb",
+    "schoolId": "jlu",
+    "name": "软件学院",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.jlu.edu.cn/jgsz/yxsz.htm",
+    "admissionUrl": "https://csw.jlu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "jlu-fdb55d3847",
+    "schoolId": "jlu",
+    "name": "公共计算机教学与研究中心",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.jlu.edu.cn/jgsz/yxsz.htm",
+    "admissionUrl": "https://ccfe.jlu.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "jlu-54ee27e5bf",
+    "schoolId": "jlu",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.jlu.edu.cn/jgsz/yxsz.htm",
+    "admissionUrl": "https://sai.jlu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hit-9ac0e66b58",
+    "schoolId": "hit",
+    "name": "电子与信息工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.hit.edu.cn/",
+    "admissionUrl": "https://www.hit.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "hit-7c25901865",
+    "schoolId": "hit",
+    "name": "电气工程及自动化学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.hit.edu.cn/",
+    "admissionUrl": "https://www.hit.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "hit-be80419028",
+    "schoolId": "hit",
+    "name": "数学学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.hit.edu.cn/",
+    "admissionUrl": "https://www.hit.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "hit-5f2d8b12b6",
+    "schoolId": "hit",
+    "name": "计算学部",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.hit.edu.cn/",
+    "admissionUrl": "https://cs.hit.edu.cn/2026/0726/c11271a398409/page.htm",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hit-7be1433646",
+    "schoolId": "hit",
+    "name": "网络空间安全学院",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.hit.edu.cn/",
+    "admissionUrl": "https://www.hit.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "hit-68fd4b54d0",
+    "schoolId": "hit",
+    "name": "计算机科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.hit.edu.cn/",
+    "admissionUrl": "https://www.hit.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "hit-c951f329e0",
+    "schoolId": "hit",
+    "name": "国家示范性软件学院",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.hit.edu.cn/",
+    "admissionUrl": "https://www.hit.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "fudan-9ce53d3795",
+    "schoolId": "fudan",
+    "name": "数学科学学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.fudan.edu.cn/",
+    "admissionUrl": "http://math.fudan.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "fudan-6525ce363b",
+    "schoolId": "fudan",
+    "name": "微电子学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.fudan.edu.cn/",
+    "admissionUrl": "https://sme.fudan.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "fudan-b70662adee",
+    "schoolId": "fudan",
+    "name": "大数据学院",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.fudan.edu.cn/",
+    "admissionUrl": "http://www.sds.fudan.edu.cn/wp/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "fudan-6b615cc706",
+    "schoolId": "fudan",
+    "name": "集成电路与微纳电子创新学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.fudan.edu.cn/",
+    "admissionUrl": "https://icmne.fudan.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "fudan-3cc2dff65f",
+    "schoolId": "fudan",
+    "name": "计算与智能创新学院",
+    "campus": "",
+    "disciplines": [
+      "计算机",
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.fudan.edu.cn/",
+    "admissionUrl": "https://ai.fudan.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "fudan-47bb626b37",
+    "schoolId": "fudan",
+    "name": "智能机器人与先进制造创新学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能",
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.fudan.edu.cn/",
+    "admissionUrl": "https://ciram.fudan.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "fudan-e6bf452ac7",
+    "schoolId": "fudan",
+    "name": "智能材料与未来能源创新学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.fudan.edu.cn/",
+    "admissionUrl": "https://icome.fudan.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "fudan-aa8cce210c",
+    "schoolId": "fudan",
+    "name": "未来信息创新学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.fudan.edu.cn/",
+    "admissionUrl": "https://fit.fudan.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "fudan-e6d38f135c",
+    "schoolId": "fudan",
+    "name": "国家数学中心",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "http://www.fudan.edu.cn/489/list.htm",
+    "admissionUrl": "https://www.fudan.edu.cn/gjsxzx/list.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ecnu-03dd5c8fd7",
+    "schoolId": "ecnu",
+    "name": "上海智能教育研究院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ecnu.edu.cn/wzcd/xxgk/jgsz.htm",
+    "admissionUrl": "https://aiedu.ecnu.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "ecnu-8fc5d7e97c",
+    "schoolId": "ecnu",
+    "name": "统计学院",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ecnu.edu.cn/wzcd/xxgk/yxsz.htm",
+    "admissionUrl": "https://stat.ecnu.edu.cn/c3/29/c9708a770857/page.htm",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ecnu-9ce53d3795",
+    "schoolId": "ecnu",
+    "name": "数学科学学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ecnu.edu.cn/wzcd/xxgk/yxsz.htm",
+    "admissionUrl": "http://math.ecnu.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "ecnu-68fd4b54d0",
+    "schoolId": "ecnu",
+    "name": "计算机科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.ecnu.edu.cn/wzcd/xxgk/yxsz.htm",
+    "admissionUrl": "https://cs.ecnu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ecnu-03321df4f5",
+    "schoolId": "ecnu",
+    "name": "软件工程学院",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.ecnu.edu.cn/wzcd/xxgk/yxsz.htm",
+    "admissionUrl": "https://sei.ecnu.edu.cn/_upload/article/files/55/5a/217f03734763aff606388556d210/7afd3011-6a67-4ded-b971-3e8d937f4008.pdf",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "ecnu-6793503382",
+    "schoolId": "ecnu",
+    "name": "数据科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.ecnu.edu.cn/wzcd/xxgk/yxsz.htm",
+    "admissionUrl": "https://dase.ecnu.edu.cn/_upload/article/files/ef/b7/8ce4634b46aeb6697638fa0718f7/901c46e7-91ce-4622-9a48-2c7293196931.pdf",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "ecnu-202313367a",
+    "schoolId": "ecnu",
+    "name": "信息与电子工程学院（集成电路科学与工程学院）",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ecnu.edu.cn/wzcd/xxgk/yxsz.htm",
+    "admissionUrl": "https://ieeic.ecnu.edu.cn/c4/1e/c4170a771102/page.htm",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ecnu-7fc552f98b",
+    "schoolId": "ecnu",
+    "name": "空间人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.ecnu.edu.cn/wzcd/xxgk/yxsz.htm",
+    "admissionUrl": "https://geoai.ecnu.edu.cn",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ecnu-ce0dc65f05",
+    "schoolId": "ecnu",
+    "name": "智能交互学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ecnu.edu.cn/wzcd/xxgk/yxsz.htm",
+    "admissionUrl": "https://sii.ecnu.edu.cn/c6/2d/c52126a771629/page.htm",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ecnu-03661f8ca5",
+    "schoolId": "ecnu",
+    "name": "上海人工智能金融学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.ecnu.edu.cn/wzcd/xxgk/yxsz.htm",
+    "admissionUrl": "https://saifs.ecnu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ecnu-f011483bd5",
+    "schoolId": "ecnu",
+    "name": "人工智能新药创智中心",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.ecnu.edu.cn/wzcd/xxgk/yxsz.htm",
+    "admissionUrl": "https://icaidd.ecnu.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "seu-dd33538b75",
+    "schoolId": "seu",
+    "name": "信息科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.seu.edu.cn/yxsz/list.htm",
+    "admissionUrl": "http://radio.seu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "seu-b68f57251f",
+    "schoolId": "seu",
+    "name": "电子科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.seu.edu.cn/yxsz/list.htm",
+    "admissionUrl": "http://electronic.seu.edu.cn",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "seu-be80419028",
+    "schoolId": "seu",
+    "name": "数学学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.seu.edu.cn/yxsz/list.htm",
+    "admissionUrl": "http://math.seu.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "seu-9476055247",
+    "schoolId": "seu",
+    "name": "自动化学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.seu.edu.cn/yxsz/list.htm",
+    "admissionUrl": "http://automation.seu.edu.cn",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "seu-2b0ca4d267",
+    "schoolId": "seu",
+    "name": "计算机科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.seu.edu.cn/yxsz/list.htm",
+    "admissionUrl": "http://cs.seu.edu.cn",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "seu-d44e9404bb",
+    "schoolId": "seu",
+    "name": "软件学院",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.seu.edu.cn/yxsz/list.htm",
+    "admissionUrl": "http://cose.seu.edu.cn",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "seu-ae18cab9f7",
+    "schoolId": "seu",
+    "name": "集成电路学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.seu.edu.cn/yxsz/list.htm",
+    "admissionUrl": "http://ic.seu.edu.cn",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "seu-7be1433646",
+    "schoolId": "seu",
+    "name": "网络空间安全学院",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.seu.edu.cn/yxsz/list.htm",
+    "admissionUrl": "http://cyber.seu.edu.cn",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "seu-54ee27e5bf",
+    "schoolId": "seu",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.seu.edu.cn/yxsz/list.htm",
+    "admissionUrl": "http://ai.seu.edu.cn",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "seu-ece8ceb68b",
+    "schoolId": "seu",
+    "name": "统计与数据科学学院",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.seu.edu.cn/yxsz/list.htm",
+    "admissionUrl": "http://stat.seu.edu.cn",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "seu-cd2eb398e9",
+    "schoolId": "seu",
+    "name": "智能科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.seu.edu.cn/yxsz/list.htm",
+    "admissionUrl": "https://www.seu.edu.cn/yxsz/list.htm",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "ouc-5b8f016ad2",
+    "schoolId": "ouc",
+    "name": "信息科学与工程学部",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ouc.edu.cn/xbyx/list.htm",
+    "admissionUrl": "https://it.ouc.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ouc-9ce53d3795",
+    "schoolId": "ouc",
+    "name": "数学科学学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ouc.edu.cn/xbyx/list.htm",
+    "admissionUrl": "https://math.ouc.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "whu-cd84c53eec",
+    "schoolId": "whu",
+    "name": "信息管理学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.whu.edu.cn/jgsz/yxsz.htm",
+    "admissionUrl": "http://sim.whu.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "whu-8985148a3a",
+    "schoolId": "whu",
+    "name": "数学与统计学院",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.whu.edu.cn/jgsz/yxsz.htm",
+    "admissionUrl": "http://maths.whu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "whu-7cdc02185c",
+    "schoolId": "whu",
+    "name": "电气与自动化学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.whu.edu.cn/jgsz/yxsz.htm",
+    "admissionUrl": "http://eea.whu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "whu-6113bec669",
+    "schoolId": "whu",
+    "name": "机器人学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.whu.edu.cn/jgsz/yxsz.htm",
+    "admissionUrl": "https://robotics.whu.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "whu-ae18cab9f7",
+    "schoolId": "whu",
+    "name": "集成电路学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.whu.edu.cn/jgsz/yxsz.htm",
+    "admissionUrl": "http://ic.whu.edu.cn",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "whu-654d5d15bc",
+    "schoolId": "whu",
+    "name": "电子信息学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.whu.edu.cn/jgsz/yxsz.htm",
+    "admissionUrl": "http://eis.whu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "whu-d6aeec6db0",
+    "schoolId": "whu",
+    "name": "计算机学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.whu.edu.cn/jgsz/yxsz.htm",
+    "admissionUrl": "https://cs.whu.edu.cn/info/1071/65501.htm",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "whu-e9b826c010",
+    "schoolId": "whu",
+    "name": "遥感信息工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.whu.edu.cn/jgsz/yxsz.htm",
+    "admissionUrl": "http://rsgis.whu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "whu-54ee27e5bf",
+    "schoolId": "whu",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.whu.edu.cn/jgsz/yxsz.htm",
+    "admissionUrl": "https://sai.whu.edu.cn/info/1601/20141.htm",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hust-8c75116e85",
+    "schoolId": "hust",
+    "name": "电气与电子工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.hust.edu.cn/yxsz.htm",
+    "admissionUrl": "http://seee.hust.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hust-e9a022e663",
+    "schoolId": "hust",
+    "name": "电子信息与通信学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.hust.edu.cn/yxsz.htm",
+    "admissionUrl": "http://ei.hust.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hust-2b47485092",
+    "schoolId": "hust",
+    "name": "光学与电子信息学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.hust.edu.cn/yxsz.htm",
+    "admissionUrl": "http://oei.hust.edu.cn",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hust-ae18cab9f7",
+    "schoolId": "hust",
+    "name": "集成电路学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.hust.edu.cn/yxsz.htm",
+    "admissionUrl": "http://ic.hust.edu.cn",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hust-bb23d6c860",
+    "schoolId": "hust",
+    "name": "人工智能与自动化学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能",
+      "自动化"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.hust.edu.cn/yxsz.htm",
+    "admissionUrl": "http://aia.hust.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hust-68fd4b54d0",
+    "schoolId": "hust",
+    "name": "计算机科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.hust.edu.cn/yxsz.htm",
+    "admissionUrl": "http://www.cs.hust.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hust-7be1433646",
+    "schoolId": "hust",
+    "name": "网络空间安全学院",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.hust.edu.cn/yxsz.htm",
+    "admissionUrl": "http://cse.hust.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hust-d44e9404bb",
+    "schoolId": "hust",
+    "name": "软件学院",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.hust.edu.cn/yxsz.htm",
+    "admissionUrl": "http://sse.hust.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "csu-8985148a3a",
+    "schoolId": "csu",
+    "name": "数学与统计学院",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.csu.edu.cn/",
+    "admissionUrl": "http://math.csu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "csu-b54316a8b8",
+    "schoolId": "csu",
+    "name": "地球科学与信息物理学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.csu.edu.cn/",
+    "admissionUrl": "http://gip.csu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "csu-9476055247",
+    "schoolId": "csu",
+    "name": "自动化学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.csu.edu.cn/",
+    "admissionUrl": "http://soa.csu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "csu-d6aeec6db0",
+    "schoolId": "csu",
+    "name": "计算机学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.csu.edu.cn/",
+    "admissionUrl": "http://cse.csu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "csu-654d5d15bc",
+    "schoolId": "csu",
+    "name": "电子信息学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.csu.edu.cn/",
+    "admissionUrl": "https://ei.csu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "csu-54ee27e5bf",
+    "schoolId": "csu",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.csu.edu.cn/zjzn/jgsz.htm",
+    "admissionUrl": "https://ai.csu.edu.cn/info/1030/1386.htm",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sysu-cd84c53eec",
+    "schoolId": "sysu",
+    "name": "信息管理学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.sysu.edu.cn/yxsz.htm",
+    "admissionUrl": "http://ischool.sysu.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "sysu-be80419028",
+    "schoolId": "sysu",
+    "name": "数学学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.sysu.edu.cn/yxsz.htm",
+    "admissionUrl": "http://math.sysu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sysu-9ac0e66b58",
+    "schoolId": "sysu",
+    "name": "电子与信息工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.sysu.edu.cn/yxsz.htm",
+    "admissionUrl": "http://seit.sysu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sysu-6525ce363b",
+    "schoolId": "sysu",
+    "name": "微电子学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.sysu.edu.cn/yxsz.htm",
+    "admissionUrl": "https://www.sysu.edu.cn/yxsz.htm",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "sysu-d6aeec6db0",
+    "schoolId": "sysu",
+    "name": "计算机学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.sysu.edu.cn/yxsz.htm",
+    "admissionUrl": "http://cse.sysu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sysu-5f1b30845c",
+    "schoolId": "sysu",
+    "name": "电子与通信工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.sysu.edu.cn/yxsz.htm",
+    "admissionUrl": "http://sece.sysu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sysu-71ad3aa513",
+    "schoolId": "sysu",
+    "name": "智能工程学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.sysu.edu.cn/yxsz.htm",
+    "admissionUrl": "https://ise.sysu.edu.cn/article/1745",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sysu-ae18cab9f7",
+    "schoolId": "sysu",
+    "name": "集成电路学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.sysu.edu.cn/yxsz.htm",
+    "admissionUrl": "https://sic.sysu.edu.cn/rc/rc05/1421838.htm",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sysu-7be1433646",
+    "schoolId": "sysu",
+    "name": "网络空间安全学院",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.sysu.edu.cn/yxsz.htm",
+    "admissionUrl": "https://scst.sysu.edu.cn/article/502",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sysu-e22d3f5d04",
+    "schoolId": "sysu",
+    "name": "柔性电子学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.sysu.edu.cn/yxsz.htm",
+    "admissionUrl": "https://sofe.sysu.edu.cn/zh-hans/article/511",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sysu-0ca0e91882",
+    "schoolId": "sysu",
+    "name": "微电子科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.sysu.edu.cn/yxsz.htm",
+    "admissionUrl": "https://mst.sysu.edu.cn/node/1355",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sysu-54ee27e5bf",
+    "schoolId": "sysu",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.sysu.edu.cn/yxsz.htm",
+    "admissionUrl": "http://sai.sysu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sysu-03321df4f5",
+    "schoolId": "sysu",
+    "name": "软件工程学院",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.sysu.edu.cn/yxsz.htm",
+    "admissionUrl": "http://sse.sysu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xjtu-be80419028",
+    "schoolId": "xjtu",
+    "name": "数学学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.xjtu.edu.cn/",
+    "admissionUrl": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1026",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xjtu-54ee27e5bf",
+    "schoolId": "xjtu",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.xjtu.edu.cn/",
+    "admissionUrl": "https://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=2207",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nudt-d6aeec6db0",
+    "schoolId": "nudt",
+    "name": "计算机学院",
+    "campus": "",
+    "disciplines": [
+      "计算机",
+      "软件工程",
+      "网络安全",
+      "电子信息",
+      "集成电路"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.nudt.edu.cn/yssz/jsjxy/index.htm",
+    "admissionUrl": "https://yjszs.nudt.edu.cn/",
+    "coverage": "published",
+    "note": "已核对官方2027级计算机学院第二轮硕士预报名通知及附件。包含学硕和专硕，9月10日12:00截止。"
+  },
+  {
+    "id": "nudt-6dd91bb371",
+    "schoolId": "nudt",
+    "name": "电子科学学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.nudt.edu.cn/",
+    "admissionUrl": "https://www.nudt.edu.cn/yssz/dzkxxy/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nudt-d5563a0909",
+    "schoolId": "nudt",
+    "name": "智能科学学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.nudt.edu.cn/",
+    "admissionUrl": "https://www.nudt.edu.cn/yssz/znkxxy/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nudt-b6a8d80b73",
+    "schoolId": "nudt",
+    "name": "电子对抗学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.nudt.edu.cn/",
+    "admissionUrl": "https://www.nudt.edu.cn/yssz/dzdkxy/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-534fd7388b",
+    "schoolId": "ucas",
+    "name": "电子电气与通信工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-ae18cab9f7",
+    "schoolId": "ucas",
+    "name": "集成电路学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-68fd4b54d0",
+    "schoolId": "ucas",
+    "name": "计算机科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-54ee27e5bf",
+    "schoolId": "ucas",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-9ce53d3795",
+    "schoolId": "ucas",
+    "name": "数学科学学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-7be1433646",
+    "schoolId": "ucas",
+    "name": "网络空间安全学院",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-617c9965f9",
+    "schoolId": "ucas",
+    "name": "成都计算机应用研究所",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-8b47910f82",
+    "schoolId": "ucas",
+    "name": "重庆绿色智能技术研究院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-8e550b01d7",
+    "schoolId": "ucas",
+    "name": "计算技术研究所",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-56f0f79e3e",
+    "schoolId": "ucas",
+    "name": "空天信息创新研究院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.aircas.ac.cn/ykjs/yqjj/",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。 已核对名称别名「空天信息研究院」，合并到本单位；依据见data/unit-aliases.json。"
+  },
+  {
+    "id": "ucas-79e916ef0c",
+    "schoolId": "ucas",
+    "name": "脑科学与智能技术卓越创新中心",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-22602cf5e4",
+    "schoolId": "ucas",
+    "name": "软件研究所",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-e22730f43d",
+    "schoolId": "ucas",
+    "name": "数学与系统科学研究院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-3cfa8d94c7",
+    "schoolId": "ucas",
+    "name": "沈阳计算技术研究所",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-8fac45f24e",
+    "schoolId": "ucas",
+    "name": "沈阳自动化研究所",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://sia.cas.cn/zpjy/yjsjy/zs/zsgg/202608/t20260826_8265512.html",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-52a57bfb7e",
+    "schoolId": "ucas",
+    "name": "微电子研究所",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-bf8159fc1c",
+    "schoolId": "ucas",
+    "name": "信息工程研究所",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-a9052e74af",
+    "schoolId": "ucas",
+    "name": "自动化研究所",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "admissionUrl": "https://www.ucas.ac.cn/zzjg/pydw/index.htm",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "zjnu-b7f5d1171f",
+    "schoolId": "zjnu",
+    "name": "信息中心",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.zjnu.edu.cn/",
+    "admissionUrl": "http://info.zjnu.edu.cn",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "zjnu-d6aeec6db0",
+    "schoolId": "zjnu",
+    "name": "计算机学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.zjnu.edu.cn/",
+    "admissionUrl": "http://cs.zjnu.edu.cn",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "zjnu-c7cb12e720",
+    "schoolId": "zjnu",
+    "name": "杭州自动化学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.zjnu.edu.cn/",
+    "admissionUrl": "https://autoai.zjnu.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "zjnu-235e534d59",
+    "schoolId": "zjnu",
+    "name": "中非数学中心",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.zjnu.edu.cn/",
+    "admissionUrl": "http://cacm.zjnu.edu.cn",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "zjnu-0a58298b6c",
+    "schoolId": "zjnu",
+    "name": "信息光学研究所",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.zjnu.edu.cn/",
+    "admissionUrl": "http://opticins.zjnu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "zjnu-67e47dba92",
+    "schoolId": "zjnu",
+    "name": "信息实验中心",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.zjnu.edu.cn/4000/list.htm",
+    "admissionUrl": "http://xxcb.zjnu.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "zstu-4017b253f5",
+    "schoolId": "zstu",
+    "name": "工业人工智能研究院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.zstu.edu.cn/",
+    "admissionUrl": "https://www.zstu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hdu-654d5d15bc",
+    "schoolId": "hdu",
+    "name": "电子信息学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.hdu.edu.cn/jgsz/list.htm",
+    "admissionUrl": "http://www.hdu.edu.cn/13317/list.htm",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "hdu-0925183fb0",
+    "schoolId": "hdu",
+    "name": "自动化学院（人工智能学院）",
+    "campus": "",
+    "disciplines": [
+      "人工智能",
+      "自动化"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.hdu.edu.cn/jgsz/list.htm",
+    "admissionUrl": "http://www.hdu.edu.cn/13319/list.htm",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "hdu-2dcf585ecf",
+    "schoolId": "hdu",
+    "name": "计算机学院（软件学院）",
+    "campus": "",
+    "disciplines": [
+      "计算机",
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.hdu.edu.cn/jgsz/list.htm",
+    "admissionUrl": "http://www.hdu.edu.cn/13320/list.htm",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "hdu-7f90fd2ba1",
+    "schoolId": "hdu",
+    "name": "网络空间安全学院（浙江保密学院）",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.hdu.edu.cn/jgsz/list.htm",
+    "admissionUrl": "http://www.hdu.edu.cn/13321/list.htm",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "hdu-23cf3385e3",
+    "schoolId": "hdu",
+    "name": "集成电路科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.hdu.edu.cn/jgsz/list.htm",
+    "admissionUrl": "https://ic.hdu.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "hdu-b7ef62d6b2",
+    "schoolId": "hdu",
+    "name": "杭州电子科技大学圣光机联合学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.hdu.edu.cn/jgsz/list.htm",
+    "admissionUrl": "http://www.hdu.edu.cn/13335/list.htm",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "hdu-fe53a60350",
+    "schoolId": "hdu",
+    "name": "杭州电子科技大学信息工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.hdu.edu.cn/jgsz/list.htm",
+    "admissionUrl": "https://www.hziee.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "hdu-8bd499c4fc",
+    "schoolId": "hdu",
+    "name": "数据科学与智能决策实验中心",
+    "campus": "",
+    "disciplines": [
+      "人工智能",
+      "数据科学"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.hdu.edu.cn/jgsz/list.htm",
+    "admissionUrl": "https://www.hdu.edu.cn/2024/0925/c11793a270785/page.htm",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "zcmu-b7f5d1171f",
+    "schoolId": "zcmu",
+    "name": "信息中心",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.zcmu.edu.cn/",
+    "admissionUrl": "https://itc.zcmu.edu.cn",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "zafu-a4a0a98fc3",
+    "schoolId": "zafu",
+    "name": "信息与教育技术中心",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.zafu.edu.cn/",
+    "admissionUrl": "http://metc.zafu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "zafu-54ee27e5bf",
+    "schoolId": "zafu",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.zafu.edu.cn/zzjg.htm",
+    "admissionUrl": "https://ie.zafu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "zafu-9a8df6e697",
+    "schoolId": "zafu",
+    "name": "光机电工程学院（智能装备工程学院）",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.zafu.edu.cn/zzjg.htm",
+    "admissionUrl": "https://gjdxy.zafu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "wmu-a6a5a3bd0d",
+    "schoolId": "wmu",
+    "name": "第一临床医学院（信息与工程学院）",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.wmu.edu.cn/",
+    "admissionUrl": "https://ygb.wzhospital.cn:10443/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "wmu-0c420a7ea8",
+    "schoolId": "wmu",
+    "name": "数字化医学与智能技术研究院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.wmu.edu.cn/",
+    "admissionUrl": "https://www.wmu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "zufe-0170c147be",
+    "schoolId": "zufe",
+    "name": "信息技术与人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.zufe.edu.cn/zcgk/jgsz.htm",
+    "admissionUrl": "http://info.zufe.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "zufe-0afec577a1",
+    "schoolId": "zufe",
+    "name": "数据科学学院",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.zufe.edu.cn/zcgk/jgsz.htm",
+    "admissionUrl": "http://ds.zufe.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hznu-be80419028",
+    "schoolId": "hznu",
+    "name": "数学学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.hznu.edu.cn/c/2020-06-19/2429004.shtml",
+    "admissionUrl": "http://sxxy.hznu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hznu-28e6dfae1f",
+    "schoolId": "hznu",
+    "name": "信息科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.hznu.edu.cn/c/2020-06-19/2429004.shtml",
+    "admissionUrl": "http://hise.hznu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nenu-8985148a3a",
+    "schoolId": "nenu",
+    "name": "数学与统计学院",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.nenu.edu.cn/zzjg.htm",
+    "admissionUrl": "http://math.nenu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nenu-28e6dfae1f",
+    "schoolId": "nenu",
+    "name": "信息科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.nenu.edu.cn/zzjg.htm",
+    "admissionUrl": "http://ist.nenu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nenu-03ea604b1b",
+    "schoolId": "nenu",
+    "name": "吉林省教育与人工智能融合创新工程研究中心",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.nenu.edu.cn/zzjg.htm",
+    "admissionUrl": "http://aiedu.nenu.edu.cn/sgc.html",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "sdnu-8985148a3a",
+    "schoolId": "sdnu",
+    "name": "数学与统计学院",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.sdnu.edu.cn/overview/organization.htm",
+    "admissionUrl": "https://maths.sdnu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sdnu-0098b0de37",
+    "schoolId": "sdnu",
+    "name": "计算机与人工智能学院(人工智能现代产业学院)",
+    "campus": "",
+    "disciplines": [
+      "计算机",
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.sdnu.edu.cn/overview/organization.htm",
+    "admissionUrl": "https://ischool.sdnu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sdnu-dec04b1218",
+    "schoolId": "sdnu",
+    "name": "通信与电子工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.sdnu.edu.cn/overview/organization.htm",
+    "admissionUrl": "https://txydz.sdnu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xidian-03c405d5f1",
+    "schoolId": "xidian",
+    "name": "信息力学与感知工程学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.xidian.edu.cn/",
+    "admissionUrl": "https://imse.xidian.edu.cn/info/1030/6891.htm",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xidian-e920773c62",
+    "schoolId": "xidian",
+    "name": "信息网络技术中心",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.xidian.edu.cn/",
+    "admissionUrl": "https://xxzx.xidian.edu.cn",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "xidian-a2566a2cd5",
+    "schoolId": "xidian",
+    "name": "电子工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.xidian.edu.cn/jgsz.htm",
+    "admissionUrl": "https://see.xidian.edu.cn/info/1053/104161.htm",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xidian-68fd4b54d0",
+    "schoolId": "xidian",
+    "name": "计算机科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.xidian.edu.cn/jgsz.htm",
+    "admissionUrl": "https://cs.xidian.edu.cn/info/1003/25704.htm",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xidian-8985148a3a",
+    "schoolId": "xidian",
+    "name": "数学与统计学院",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.xidian.edu.cn/jgsz.htm",
+    "admissionUrl": "http://math.xidian.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xidian-a9b87b0697",
+    "schoolId": "xidian",
+    "name": "语言智能学部",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.xidian.edu.cn/jgsz.htm",
+    "admissionUrl": "http://sfl.xidian.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "xidian-79b252f057",
+    "schoolId": "xidian",
+    "name": "集成电路学部",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.xidian.edu.cn/jgsz.htm",
+    "admissionUrl": "https://sme.xidian.edu.cn/html/tzgg/jl/2026/0720/3660.html",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xidian-6525ce363b",
+    "schoolId": "xidian",
+    "name": "微电子学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.xidian.edu.cn/jgsz.htm",
+    "admissionUrl": "https://sme.xidian.edu.cn/index.html",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xidian-ae18cab9f7",
+    "schoolId": "xidian",
+    "name": "集成电路学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.xidian.edu.cn/jgsz.htm",
+    "admissionUrl": "https://jcdlyjy.xidian.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xidian-fea5847e05",
+    "schoolId": "xidian",
+    "name": "网络与信息安全学院",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.xidian.edu.cn/jgsz.htm",
+    "admissionUrl": "http://ce.xidian.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xidian-54ee27e5bf",
+    "schoolId": "xidian",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.xidian.edu.cn/jgsz.htm",
+    "admissionUrl": "https://sai.xidian.edu.cn/info/1106/28372.htm",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xidian-5faa87e5eb",
+    "schoolId": "xidian",
+    "name": "信息交叉学部",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.xidian.edu.cn/jgsz.htm",
+    "admissionUrl": "https://inforx.xidian.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xidian-c6b99893e3",
+    "schoolId": "xidian",
+    "name": "数学与交叉科学研究院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.xidian.edu.cn/jgsz.htm",
+    "admissionUrl": "https://imis.xidian.edu.cn/",
+    "coverage": "pending",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "xidian-5a5160a638",
+    "schoolId": "xidian",
+    "name": "信息感知集成攻关研究院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.xidian.edu.cn/jgsz.htm",
+    "admissionUrl": "https://iis.xidian.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hhu-fd436c270d",
+    "schoolId": "hhu",
+    "name": "计算机与软件学院",
+    "campus": "",
+    "disciplines": [
+      "计算机",
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.hhu.edu.cn/191/list.htm",
+    "admissionUrl": "https://gs.hhu.edu.cn/_upload/article/files/47/5c/9af8b397401d8ce19b389fdfec3e/cf875c71-1190-460a-bbdd-02256f1dd05a.pdf",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hhu-dd33538b75",
+    "schoolId": "hhu",
+    "name": "信息科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.hhu.edu.cn/191/list.htm",
+    "admissionUrl": "https://gs.hhu.edu.cn/_upload/article/files/47/5c/9af8b397401d8ce19b389fdfec3e/cf875c71-1190-460a-bbdd-02256f1dd05a.pdf",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hhu-bb23d6c860",
+    "schoolId": "hhu",
+    "name": "人工智能与自动化学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能",
+      "自动化"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.hhu.edu.cn/191/list.htm",
+    "admissionUrl": "https://gs.hhu.edu.cn/_upload/article/files/47/5c/9af8b397401d8ce19b389fdfec3e/cf875c71-1190-460a-bbdd-02256f1dd05a.pdf",
+    "coverage": "published",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hhu-be80419028",
+    "schoolId": "hhu",
+    "name": "数学学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.hhu.edu.cn/191/list.htm",
+    "admissionUrl": "https://math.hhu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "njmu-279bd60838",
+    "schoolId": "njmu",
+    "name": "生物医学工程与信息学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.njmu.edu.cn/574/list.htm",
+    "admissionUrl": "http://bmei.njmu.edu.cn/",
+    "coverage": "not_found",
+    "note": "官网院系/机构目录可追溯；仍需核对2027硕士招生方向。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "seu-b5ee289a21",
+    "schoolId": "seu",
+    "name": "雷恩研究生学院计算机技术专业",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://cs.seu.edu.cn/_upload/article/files/9c/9a/b7be7f6a477f841a57016443ddf4/1ae52cde-6e64-4dba-835a-293551fc9e84.pdf",
+    "admissionUrl": "https://cs.seu.edu.cn/_upload/article/files/9c/9a/b7be7f6a477f841a57016443ddf4/1ae52cde-6e64-4dba-835a-293551fc9e84.pdf",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "nju-d6aeec6db0",
+    "schoolId": "nju",
+    "name": "计算机学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://cs.nju.edu.cn/d4/59/c1702a840793/page.htm",
+    "admissionUrl": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "nju-54ee27e5bf",
+    "schoolId": "nju",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://ai.nju.edu.cn/d4/5c/c53055a840796/page.htm",
+    "admissionUrl": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "nju-bb00eb5eed",
+    "schoolId": "nju",
+    "name": "智能科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://is.nju.edu.cn/d4/5b/c57162a840795/page.htm",
+    "admissionUrl": "https://is.nju.edu.cn/d4/5b/c57162a840795/page.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nju-d44e9404bb",
+    "schoolId": "nju",
+    "name": "软件学院",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://software.nju.edu.cn/tzgg/20260803/i406944.html",
+    "admissionUrl": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "muc-f662d585bc",
+    "schoolId": "muc",
+    "name": "信息工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://xingong.muc.edu.cn/info/1041/6425.htm",
+    "admissionUrl": "https://xingong.muc.edu.cn/info/1041/6425.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "sysu-bcf177c57d",
+    "schoolId": "sysu",
+    "name": "电子与信息工程学院（微电子学院）",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://seit.sysu.edu.cn/article/3068",
+    "admissionUrl": "https://seit.sysu.edu.cn/article/3068",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xmu-dacbbeb44f",
+    "schoolId": "xmu",
+    "name": "航空航天学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://aerospace.xmu.edu.cn/info/2723/64484.htm",
+    "admissionUrl": "https://aerospace.xmu.edu.cn/info/2723/64484.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "uestc-a6b7bcb1bd",
+    "schoolId": "uestc",
+    "name": "信息与通信工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.sice.uestc.edu.cn/info/1142/16511.htm",
+    "admissionUrl": "https://www.sice.uestc.edu.cn/info/1142/16511.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "tongji-8ac6af1376",
+    "schoolId": "tongji",
+    "name": "上海自主智能无人系统科学中心",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://srias.tongji.edu.cn/_upload/article/files/c3/a0/9961854b4d45bf0547ad2198e401/d6c245f3-7996-478a-ac13-e959f494e4a5.pdf",
+    "admissionUrl": "https://srias.tongji.edu.cn/_upload/article/files/c3/a0/9961854b4d45bf0547ad2198e401/d6c245f3-7996-478a-ac13-e959f494e4a5.pdf",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "jlu-1038036630",
+    "schoolId": "jlu",
+    "name": "公共卫生学院医学信息学",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://sph.jlu.edu.cn/info/1146/9760.htm",
+    "admissionUrl": "https://sph.jlu.edu.cn/info/1146/9760.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nankai-54ee27e5bf",
+    "schoolId": "nankai",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://ai.nankai.edu.cn/info/1024/6632.htm",
+    "admissionUrl": "https://ai.nankai.edu.cn/info/1024/6632.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "tongji-9ac0e66b58",
+    "schoolId": "tongji",
+    "name": "电子与信息工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://see.tongji.edu.cn/__local/0/CA/40/80ACF42AA9C448546B4B52A25D2_433060EA_4F2DE.pdf",
+    "admissionUrl": "https://see.tongji.edu.cn/__local/0/CA/40/80ACF42AA9C448546B4B52A25D2_433060EA_4F2DE.pdf",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "tongji-68fd4b54d0",
+    "schoolId": "tongji",
+    "name": "计算机科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://cs.tongji.edu.cn/__local/9/60/A0/E754D70DC091A39226FD77BEB2B_082455BA_396B5.pdf",
+    "admissionUrl": "https://cs.tongji.edu.cn/__local/9/60/A0/E754D70DC091A39226FD77BEB2B_082455BA_396B5.pdf",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "xmu-39121bdb22",
+    "schoolId": "xmu",
+    "name": "智能制造学院（萨本栋微米纳米科学技术研究院）",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://sbd.xmu.edu.cn/info/1468/13070.htm",
+    "admissionUrl": "https://sbd.xmu.edu.cn/info/1468/13070.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hit-cab13f24ef",
+    "schoolId": "hit",
+    "name": "信息学部计算机科学与技术学院",
+    "campus": "深圳",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "http://cist.hitsz.edu.cn/info/1038/2789.htm",
+    "admissionUrl": "http://cist.hitsz.edu.cn/info/1038/2789.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nankai-ece8ceb68b",
+    "schoolId": "nankai",
+    "name": "统计与数据科学学院",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://stat.nankai.edu.cn/2026/0811/c12324a601148/page.htm",
+    "admissionUrl": "https://stat.nankai.edu.cn/2026/0811/c12324a601148/page.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "tju-6525ce363b",
+    "schoolId": "tju",
+    "name": "微电子学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "admissionUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "cufe-c64258b4a0",
+    "schoolId": "cufe",
+    "name": "信息学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://ie.cufe.edu.cn/info/1341/7639.htm",
+    "admissionUrl": "https://ie.cufe.edu.cn/info/1341/7639.htm",
+    "coverage": "pending",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "nju-099d51df58",
+    "schoolId": "nju",
+    "name": "现代工程与应用科学学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yzb.nju.edu.cn/_upload/article/files/6d/28/c2ddfc694cb192448c458c76ca1a/a0783ea9-abbc-484f-83cb-8a75941d88a5.pdf",
+    "admissionUrl": "https://yzb.nju.edu.cn/_upload/article/files/6d/28/c2ddfc694cb192448c458c76ca1a/a0783ea9-abbc-484f-83cb-8a75941d88a5.pdf",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "cau-b587a6b42b",
+    "schoolId": "cau",
+    "name": "信息与电气工程学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yt.cau.edu.cn/art/2026/7/14/art_43337_1122495.html",
+    "admissionUrl": "https://yt.cau.edu.cn/art/2026/7/14/art_43337_1122495.html",
+    "coverage": "pending",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "tongji-0135ce5046",
+    "schoolId": "tongji",
+    "name": "机械工程与机器人学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://mefaculty.tongji.edu.cn/__local/9/8F/1E/EF80B7C77367C08D362E48D4FA8_EA54D00C_32012.pdf",
+    "admissionUrl": "https://mefaculty.tongji.edu.cn/__local/9/8F/1E/EF80B7C77367C08D362E48D4FA8_EA54D00C_32012.pdf",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "nju-ae18cab9f7",
+    "schoolId": "nju",
+    "name": "集成电路学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://ic.nju.edu.cn/d4/5f/c59160a840799/page.htm",
+    "admissionUrl": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "xmu-f590ffc413",
+    "schoolId": "xmu",
+    "name": "人工智能研究院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://iai.xmu.edu.cn/info/1120/6145.htm",
+    "admissionUrl": "https://iai.xmu.edu.cn/info/1120/6145.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nju-b68f57251f",
+    "schoolId": "nju",
+    "name": "电子科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://ese.nju.edu.cn/d4/6d/c22673a840813/page.htm",
+    "admissionUrl": "https://ese.nju.edu.cn/d4/6d/c22673a840813/page.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-052b3a83fb",
+    "schoolId": "ucas",
+    "name": "空间应用工程与技术中心",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "http://www.csu.cas.cn/gb/yjsjy2/tzygg/202608/t20260819_8262176.html",
+    "admissionUrl": "http://www.csu.cas.cn/gb/yjsjy2/tzygg/202608/t20260819_8262176.html",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nankai-d8ae6af2c4",
+    "schoolId": "nankai",
+    "name": "电子信息与光学工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://ceo.nankai.edu.cn/info/1099/4648.htm",
+    "admissionUrl": "https://ceo.nankai.edu.cn/info/1099/4648.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "tju-54ee27e5bf",
+    "schoolId": "tju",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://sai.tju.edu.cn/info/1151/6011.htm",
+    "admissionUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "cufe-f590ffc413",
+    "schoolId": "cufe",
+    "name": "人工智能研究院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://gs.cufe.edu.cn/info/1028/7101.htm",
+    "admissionUrl": "https://gs.cufe.edu.cn/info/1028/7101.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "cufe-34969b1093",
+    "schoolId": "cufe",
+    "name": "国家数据工程与安全学院（国家金融安全教育部工程研究中心）",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://sndes.cufe.edu.cn/info/1017/1381.htm",
+    "admissionUrl": "https://sndes.cufe.edu.cn/info/1017/1381.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "tju-841a8910e1",
+    "schoolId": "tju",
+    "name": "网络安全学院",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "admissionUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "dlut-68fd4b54d0",
+    "schoolId": "dlut",
+    "name": "计算机科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "admissionUrl": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "dlut-5f278a3ad8",
+    "schoolId": "dlut",
+    "name": "光电工程与仪器科学学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://oeis.dlut.edu.cn/info/1045/9985.htm",
+    "admissionUrl": "https://oeis.dlut.edu.cn/info/1045/9985.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "dlut-c8db326793",
+    "schoolId": "dlut",
+    "name": "控制科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://scse.dlut.edu.cn/info/1471/15392.htm",
+    "admissionUrl": "https://scse.dlut.edu.cn/info/1471/15392.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xmu-efb96ffeee",
+    "schoolId": "xmu",
+    "name": "信息学院（特色化示范性软件学院）",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://informatics.xmu.edu.cn/info/1072/203131.htm",
+    "admissionUrl": "https://informatics.xmu.edu.cn/info/1072/203131.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "dlut-d44e9404bb",
+    "schoolId": "dlut",
+    "name": "软件学院",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "admissionUrl": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "pku-f662d585bc",
+    "schoolId": "pku",
+    "name": "信息工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ece.pku.edu.cn/info/1025/3213.htm",
+    "admissionUrl": "https://www.ece.pku.edu.cn/info/1025/3213.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "pku-d06382f1da",
+    "schoolId": "pku",
+    "name": "软件与微电子学院",
+    "campus": "",
+    "disciplines": [
+      "软件",
+      "电子信息"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://ss.pku.edu.cn/zsxx/zstz/55e02c72d8c54e7f91d8c4d3961fb09e.htm",
+    "admissionUrl": "https://ss.pku.edu.cn/zsxx/zstz/55e02c72d8c54e7f91d8c4d3961fb09e.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nankai-8790883450",
+    "schoolId": "nankai",
+    "name": "信息与传播学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://ic.nankai.edu.cn/2026/0903/c19738a601773/page.htm",
+    "admissionUrl": "https://ic.nankai.edu.cn/2026/0903/c19738a601773/page.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ustc-9b76c637a5",
+    "schoolId": "ustc",
+    "name": "人工智能与数据科学学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能",
+      "数据科学"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://saids.ustc.edu.cn/2026/0831/c15435a751553/page.htm",
+    "admissionUrl": "https://saids.ustc.edu.cn/2026/0526/c15435a741761/page.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "whu-a851488137",
+    "schoolId": "whu",
+    "name": "湖北应用数学中心",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://aais.whu.edu.cn/info/2021/21561.htm",
+    "admissionUrl": "https://aais.whu.edu.cn/info/2021/21561.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "bnu-54ee27e5bf",
+    "schoolId": "bnu",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://ai.bnu.edu.cn/ggjxz/tzgg/df9187fe0a2b4ef4a98e9d0edf5d77b5.htm",
+    "admissionUrl": "https://ai.bnu.edu.cn/ggjxz/tzgg/df9187fe0a2b4ef4a98e9d0edf5d77b5.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "buaa-4f01417bb3",
+    "schoolId": "buaa",
+    "name": "航天智能科学与技术系",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "http://www.sa.buaa.edu.cn/__local/5/2A/7A/7E1E900D9B9F00B7B41D4766F25_58E43B19_41717.pdf",
+    "admissionUrl": "http://www.sa.buaa.edu.cn/__local/5/2A/7A/7E1E900D9B9F00B7B41D4766F25_58E43B19_41717.pdf",
+    "coverage": "pending",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "whu-06d9a2d997",
+    "schoolId": "whu",
+    "name": "国家网络安全学院",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://cse.whu.edu.cn/__local/5/25/DE/51582978060F518921AD789313B_5C9D8C5A_1ECBA.pdf",
+    "admissionUrl": "https://cse.whu.edu.cn/__local/5/25/DE/51582978060F518921AD789313B_5C9D8C5A_1ECBA.pdf",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "ustc-7be1433646",
+    "schoolId": "ustc",
+    "name": "网络空间安全学院",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://cybersec.ustc.edu.cn/2026/0903/c23826a752108/page.htm",
+    "admissionUrl": "https://cybersec.ustc.edu.cn/2026/0903/c23826a752108/page.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sdu-be80419028",
+    "schoolId": "sdu",
+    "name": "数学学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.math.sdu.edu.cn/info/1031/22054.htm",
+    "admissionUrl": "https://www.math.sdu.edu.cn/info/1031/22054.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sdu-605588488b",
+    "schoolId": "sdu",
+    "name": "数据科学研究院",
+    "campus": "",
+    "disciplines": [
+      "数据科学"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://dsi.sdu.edu.cn/info/1093/4664.htm",
+    "admissionUrl": "https://dsi.sdu.edu.cn/info/1093/4664.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sdu-7be1433646",
+    "schoolId": "sdu",
+    "name": "网络空间安全学院",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://cst.qd.sdu.edu.cn/info/1023/4169.htm",
+    "admissionUrl": "https://cst.qd.sdu.edu.cn/info/1023/4169.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sdu-ae18cab9f7",
+    "schoolId": "sdu",
+    "name": "集成电路学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://ic.sdu.edu.cn/info/1036/5206.htm",
+    "admissionUrl": "https://ic.sdu.edu.cn/info/1036/5206.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "whu-78e852b100",
+    "schoolId": "whu",
+    "name": "测绘学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.sgg.whu.edu.cn/info/1380/45961.htm",
+    "admissionUrl": "https://www.sgg.whu.edu.cn/info/1380/45961.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hit-5b5629be26",
+    "schoolId": "hit",
+    "name": "集成电路学院",
+    "campus": "深圳",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "http://ic.hitsz.edu.cn/info/1032/2697.htm",
+    "admissionUrl": "http://ic.hitsz.edu.cn/info/1032/2697.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "zju-ae18cab9f7",
+    "schoolId": "zju",
+    "name": "集成电路学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "admissionUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "coverage": "pending",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "ustc-8a0e725800",
+    "schoolId": "ustc",
+    "name": "环境科学与光电技术学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://env.ustc.edu.cn/2026/0902/c9571a751849/page.htm",
+    "admissionUrl": "https://env.ustc.edu.cn/2026/0902/c9571a751849/page.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xmu-4ee0ff0077",
+    "schoolId": "xmu",
+    "name": "电子科学与技术学院（国家示范性微电子学院）",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://ese.xmu.edu.cn/info/1018/35601.htm",
+    "admissionUrl": "https://ese.xmu.edu.cn/info/1018/35601.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hit-eef157a8bb",
+    "schoolId": "hit",
+    "name": "航天学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://sa.hit.edu.cn/2026/0731/c6582a398912/page.htm",
+    "admissionUrl": "https://sa.hit.edu.cn/2026/0731/c6582a398925/page.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "hit-2bd8bf83bc",
+    "schoolId": "hit",
+    "name": "信息科学与技术学院",
+    "campus": "深圳",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "http://cist.hitsz.edu.cn/info/1038/2790.htm",
+    "admissionUrl": "http://cist.hitsz.edu.cn/info/1038/2790.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hit-84e4e65030",
+    "schoolId": "hit",
+    "name": "智能学部机器人与先进制造学院",
+    "campus": "深圳",
+    "disciplines": [
+      "人工智能",
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1923",
+    "admissionUrl": "http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1923",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hit-cf35e01609",
+    "schoolId": "hit",
+    "name": "智能科学与工程学院",
+    "campus": "深圳",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1924",
+    "admissionUrl": "http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1924",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "zju-54ee27e5bf",
+    "schoolId": "zju",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "admissionUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "zju-db560ef727",
+    "schoolId": "zju",
+    "name": "信息与电子工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "admissionUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "zju-c8db326793",
+    "schoolId": "zju",
+    "name": "控制科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "admissionUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "zju-68fd4b54d0",
+    "schoolId": "zju",
+    "name": "计算机科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "admissionUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "zju-d44e9404bb",
+    "schoolId": "zju",
+    "name": "软件学院",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "admissionUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "sdu-dd33538b75",
+    "schoolId": "sdu",
+    "name": "信息科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ise.sdu.edu.cn/info/1096/16821.htm",
+    "admissionUrl": "https://www.ise.sdu.edu.cn/info/1096/16821.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sjtu-105a99aabd",
+    "schoolId": "sjtu",
+    "name": "集成电路学院（信息与电子工程学院）",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://icisee.sjtu.edu.cn/yanjiusheng-zsgz-sszs/3427.html",
+    "admissionUrl": "https://icisee.sjtu.edu.cn/yanjiusheng-zsgz-sszs/3427.html",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sdu-d44e9404bb",
+    "schoolId": "sdu",
+    "name": "软件学院",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.sc.sdu.edu.cn/info/1019/6068.htm",
+    "admissionUrl": "https://www.sc.sdu.edu.cn/info/1019/6068.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sdu-c8db326793",
+    "schoolId": "sdu",
+    "name": "控制科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://control.sdu.edu.cn/info/1018/8238.htm",
+    "admissionUrl": "https://control.sdu.edu.cn/info/1018/8238.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sdu-066a0201ed",
+    "schoolId": "sdu",
+    "name": "浪潮人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.ai.sdu.edu.cn/info/1088/1524.htm",
+    "admissionUrl": "https://www.ai.sdu.edu.cn/info/1088/1524.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sdu-68fd4b54d0",
+    "schoolId": "sdu",
+    "name": "计算机科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.cs.sdu.edu.cn/info/1068/6891.htm",
+    "admissionUrl": "https://www.cs.sdu.edu.cn/info/1068/6891.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "tju-2a9efd150f",
+    "schoolId": "tju",
+    "name": "电气自动化与信息工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息",
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+    "admissionUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "tju-28afcd4b7a",
+    "schoolId": "tju",
+    "name": "精密仪器与光电子工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+    "admissionUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "tju-68fd4b54d0",
+    "schoolId": "tju",
+    "name": "计算机科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+    "admissionUrl": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-47cdfe6110",
+    "schoolId": "ucas",
+    "name": "北京基因组研究所（国家生物信息中心）",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://big.cas.cn/yjs/zsxx/kjrh/202609/t20260901_8275480.html",
+    "admissionUrl": "https://big.cas.cn/yjs/zsxx/kjrh/202609/t20260901_8275480.html",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nankai-7578132f48",
+    "schoolId": "nankai",
+    "name": "计算机学院、密码与网络空间安全学院",
+    "campus": "",
+    "disciplines": [
+      "计算机",
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://cc.nankai.edu.cn/2026/0709/c13297a600172/page.htm",
+    "admissionUrl": "https://cc.nankai.edu.cn/2026/0709/c13297a600172/page.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "dlut-a6b7bcb1bd",
+    "schoolId": "dlut",
+    "name": "信息与通信工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://ice.dlut.edu.cn/info/1208/7667.htm",
+    "admissionUrl": "https://ice.dlut.edu.cn/info/1208/7667.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ustc-3dd6757b7d",
+    "schoolId": "ustc",
+    "name": "电子工程与信息科学系",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://eeis.ustc.edu.cn/2026/0904/c2702a752148/page.htm",
+    "admissionUrl": "https://eeis.ustc.edu.cn/2026/0904/c2702a752148/page.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xjtu-40528b7d89",
+    "schoolId": "xjtu",
+    "name": "电子与信息学部—信息与通信工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yz.xjtu.edu.cn/xjtutjms_2027.pdf",
+    "admissionUrl": "https://yz.xjtu.edu.cn/xjtutjms_2027.pdf",
+    "coverage": "pending",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "xjtu-4ad0fee3c2",
+    "schoolId": "xjtu",
+    "name": "电子与信息学部—微电子学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yz.xjtu.edu.cn/xjtutjms_2027.pdf",
+    "admissionUrl": "https://yz.xjtu.edu.cn/xjtutjms_2027.pdf",
+    "coverage": "pending",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "xjtu-2b6ef86721",
+    "schoolId": "xjtu",
+    "name": "电子与信息学部—电子科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yz.xjtu.edu.cn/xjtutjms_2027.pdf",
+    "admissionUrl": "https://yz.xjtu.edu.cn/xjtutjms_2027.pdf",
+    "coverage": "pending",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "xjtu-1aa5808266",
+    "schoolId": "xjtu",
+    "name": "电子与信息学部—网络空间安全学院",
+    "campus": "",
+    "disciplines": [
+      "网络安全",
+      "电子信息"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://yz.xjtu.edu.cn/xjtutjms_2027.pdf",
+    "admissionUrl": "https://yz.xjtu.edu.cn/xjtutjms_2027.pdf",
+    "coverage": "pending",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "xjtu-b7f9a4998d",
+    "schoolId": "xjtu",
+    "name": "电子与信息学部—自动化科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息",
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yz.xjtu.edu.cn/xjtutjms_2027.pdf",
+    "admissionUrl": "https://yz.xjtu.edu.cn/xjtutjms_2027.pdf",
+    "coverage": "pending",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "xjtu-210ca32e2a",
+    "schoolId": "xjtu",
+    "name": "电子与信息学部—计算机科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算机",
+      "电子信息"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://yz.xjtu.edu.cn/xjtutjms_2027.pdf",
+    "admissionUrl": "https://yz.xjtu.edu.cn/xjtutjms_2027.pdf",
+    "coverage": "pending",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "xjtu-d85647f025",
+    "schoolId": "xjtu",
+    "name": "电子与信息学部—软件学院",
+    "campus": "",
+    "disciplines": [
+      "软件",
+      "电子信息"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://yz.xjtu.edu.cn/xjtutjms_2027.pdf",
+    "admissionUrl": "https://yz.xjtu.edu.cn/xjtutjms_2027.pdf",
+    "coverage": "pending",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "xidian-0cc4f0a7a9",
+    "schoolId": "xidian",
+    "name": "空间科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://sast.xidian.edu.cn/info/1014/20977.htm",
+    "admissionUrl": "https://sast.xidian.edu.cn/info/1014/20977.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "dlut-54ee27e5bf",
+    "schoolId": "dlut",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "admissionUrl": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sdu-a571143029",
+    "schoolId": "sdu",
+    "name": "智能通信技术研究院",
+    "campus": "",
+    "disciplines": [
+      "人工智能",
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://iict.sdu.edu.cn/info/1027/1367.htm",
+    "admissionUrl": "https://iict.sdu.edu.cn/info/1027/1367.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nwpu-e1b6be8199",
+    "schoolId": "nwpu",
+    "name": "人工智能学院/无人系统技术研究院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://wurenxitong.nwpu.edu.cn/info/1373/14048.htm",
+    "admissionUrl": "https://wurenxitong.nwpu.edu.cn/info/1373/14048.htm",
+    "coverage": "published",
+    "note": "2027年官方预报名通知明确同时接收硕士与直博；本项目只提取硕士适用信息，学院截止不使用校级总通知覆盖。人工智能学院与无人系统技术研究院合署招生，名称前后次序及省略分隔符的记录均合并到本单位，依据见data/unit-aliases.json。已配置学院研究生招生栏目每日检查。"
+  },
+  {
+    "id": "ustc-9b4d8eb224",
+    "schoolId": "ustc",
+    "name": "自动化系",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://auto.ustc.edu.cn/2026/0903/c26085a752098/page.htm",
+    "admissionUrl": "https://auto.ustc.edu.cn/2026/0903/c26085a752098/page.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "dlut-ae18cab9f7",
+    "schoolId": "dlut",
+    "name": "集成电路学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "admissionUrl": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xidian-ed598c9153",
+    "schoolId": "xidian",
+    "name": "光电工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://soe.xidian.edu.cn/info/1095/17675.htm",
+    "admissionUrl": "https://soe.xidian.edu.cn/info/1095/17675.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nwpu-19bc14692b",
+    "schoolId": "nwpu",
+    "name": "光电与智能研究院",
+    "campus": "",
+    "disciplines": [
+      "人工智能",
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "admissionUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nwpu-e22d3f5d04",
+    "schoolId": "nwpu",
+    "name": "柔性电子学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://sfe.nwpu.edu.cn/info/1175/17605.htm",
+    "admissionUrl": "https://sfe.nwpu.edu.cn/info/1175/17605.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nwpu-654d5d15bc",
+    "schoolId": "nwpu",
+    "name": "电子信息学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "admissionUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nwpu-7be1433646",
+    "schoolId": "nwpu",
+    "name": "网络空间安全学院",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "admissionUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nwpu-9476055247",
+    "schoolId": "nwpu",
+    "name": "自动化学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "admissionUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nwpu-d6aeec6db0",
+    "schoolId": "nwpu",
+    "name": "计算机学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "admissionUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nwpu-d44e9404bb",
+    "schoolId": "nwpu",
+    "name": "软件学院",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "admissionUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nwpu-eee7676ab9",
+    "schoolId": "nwpu",
+    "name": "集成电路学院（微电子学院）",
+    "campus": "",
+    "disciplines": [
+      "电子信息",
+      "集成电路",
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://weidianzi.nwpu.edu.cn/info/1138/18983.htm",
+    "admissionUrl": "https://weidianzi.nwpu.edu.cn/index/tzgg.htm",
+    "coverage": "not_found",
+    "note": "学院2027年专属硕士预报名通知明确电子科学与技术、集成电路及人工智能，报名9月4日15:00至9月20日18:00；硕士与直博范围分别处理。2026目录018微电子学院与2027目录018集成电路学院（微电子学院）为同一单位，名称别名依据见data/unit-aliases.json。已配置学院通知公告栏目每日检查。"
+  },
+  {
+    "id": "tju-d6aeec6db0",
+    "schoolId": "tju",
+    "name": "计算机学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "admissionUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "tju-d44e9404bb",
+    "schoolId": "tju",
+    "name": "软件学院",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "admissionUrl": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "tju-b9125379c4",
+    "schoolId": "tju",
+    "name": "医疗机器人与智能系统研究院",
+    "campus": "",
+    "disciplines": [
+      "人工智能",
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://imris.tju.edu.cn/info/1012/2352.htm",
+    "admissionUrl": "https://imris.tju.edu.cn/info/1012/2352.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-b979b2d42b",
+    "schoolId": "ucas",
+    "name": "声学研究所",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://ioa.cas.cn/yjs/zsxx/zstz/202608/t20260804_8259122.html",
+    "admissionUrl": "https://ioa.cas.cn/yjs/zsxx/zstz/202608/t20260804_8259122.html",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-ad1c4b012e",
+    "schoolId": "ucas",
+    "name": "国家空间科学中心",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://nssc.cas.cn/yjsb/zsxx/zsdt/202607/t20260703_8241596.html",
+    "admissionUrl": "https://nssc.cas.cn/yjsb/zsxx/zsdt/202607/t20260703_8241596.html",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "hit-67fc018b65",
+    "schoolId": "hit",
+    "name": "信息科学与工程学院",
+    "campus": "威海",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://siee.hitwh.edu.cn/2026/0723/c1677a216258/page.htm",
+    "admissionUrl": "https://siee.hitwh.edu.cn/2026/0723/c1677a216258/page.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "tju-70abab4705",
+    "schoolId": "tju",
+    "name": "纳电子科学与芯片工程学院（纳米中心）",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://ticnn.tju.edu.cn/info/1052/2873.htm",
+    "admissionUrl": "https://ticnn.tju.edu.cn/info/1052/2813.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "seu-31056baed5",
+    "schoolId": "seu",
+    "name": "东南大学-蒙纳士大学国际学院（苏州）",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://smjgs.seu.edu.cn/2026/0710/c8471a576384/page.htm",
+    "admissionUrl": "https://smjgs.seu.edu.cn/2026/0710/c8471a576384/page.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ustc-68fd4b54d0",
+    "schoolId": "ustc",
+    "name": "计算机科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://cs.ustc.edu.cn/2026/0519/c22511a741173/page.htm",
+    "admissionUrl": "https://cs.ustc.edu.cn/2026/0519/c22511a741173/page.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ustc-d44e9404bb",
+    "schoolId": "ustc",
+    "name": "软件学院",
+    "campus": "",
+    "disciplines": [
+      "软件"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://sse.ustc.edu.cn/2026/0708/c19741a746681/pagem.htm",
+    "admissionUrl": "https://sse.ustc.edu.cn/2026/0708/c19741a746681/pagem.htm",
+    "coverage": "published",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "ucas-983bcbedc0",
+    "schoolId": "ucas",
+    "name": "杭州高等研究院智能科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "http://hias.ucas.edu.cn/znkxyjs/info/1118/1461.htm",
+    "admissionUrl": "http://hias.ucas.edu.cn/znkxyjs/info/1118/1461.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "pku-f590ffc413",
+    "schoolId": "pku",
+    "name": "人工智能研究院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.ai.pku.edu.cn/info/1088/4090.htm",
+    "admissionUrl": "https://www.ai.pku.edu.cn/info/1088/4090.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "pku-d6aeec6db0",
+    "schoolId": "pku",
+    "name": "计算机学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://cs.pku.edu.cn/info/1051/5810.htm",
+    "admissionUrl": "https://cs.pku.edu.cn/info/1051/5810.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "pku-ae18cab9f7",
+    "schoolId": "pku",
+    "name": "集成电路学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://ic.pku.edu.cn/rcpy/yjszs/d075666e55f5443fb3cf317e28bff60e.htm",
+    "admissionUrl": "https://ic.pku.edu.cn/rcpy/yjszs/d075666e55f5443fb3cf317e28bff60e.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "scut-8e827b4007",
+    "schoolId": "scut",
+    "name": "电子与信息学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www2.scut.edu.cn/ee/2026/0618/c37550a630317/page.htm",
+    "admissionUrl": "https://www2.scut.edu.cn/ee/2026/0618/c37550a630317/page.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "nju-233b130594",
+    "schoolId": "nju",
+    "name": "智能科学与技术学院/Skoltech",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://is.nju.edu.cn/b0/d4/c57656a831700/page.htm",
+    "admissionUrl": "https://is.nju.edu.cn/b0/d4/c57656a831700/page.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xmu-c64258b4a0",
+    "schoolId": "xmu",
+    "name": "信息学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://informatics.xmu.edu.cn/info/1072/202371.htm",
+    "admissionUrl": "https://informatics.xmu.edu.cn/info/1072/202371.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "jlu-b68f57251f",
+    "schoolId": "jlu",
+    "name": "电子科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://ee.jlu.edu.cn/info/1273/9587.htm",
+    "admissionUrl": "https://ee.jlu.edu.cn/info/1273/9587.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "scu-54ee27e5bf",
+    "schoolId": "scu",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://ai.scu.edu.cn/info/1245/1212.htm",
+    "admissionUrl": "https://ai.scu.edu.cn/info/1245/1212.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "scu-654d5d15bc",
+    "schoolId": "scu",
+    "name": "电子信息学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://eie.scu.edu.cn/info/1025/15213.htm",
+    "admissionUrl": "https://eie.scu.edu.cn/info/1025/15213.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "scu-7be1433646",
+    "schoolId": "scu",
+    "name": "网络空间安全学院",
+    "campus": "",
+    "disciplines": [
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://ccs.scu.edu.cn/info/1013/2252.htm",
+    "admissionUrl": "https://ccs.scu.edu.cn/info/1013/2252.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "sdu-54ee27e5bf",
+    "schoolId": "sdu",
+    "name": "人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.ai.sdu.edu.cn/info/1088/1506.htm",
+    "admissionUrl": "https://www.ai.sdu.edu.cn/info/1088/1506.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "thu-37cb12cb5f",
+    "schoolId": "thu",
+    "name": "深圳国际研究生院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.sigs.tsinghua.edu.cn/2026/0630/c7769a291820/page.htm",
+    "admissionUrl": "https://www.sigs.tsinghua.edu.cn/2026/0630/c7769a291820/page.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "thu-f1602b3636",
+    "schoolId": "thu",
+    "name": "深圳国际研究生院智慧物流与工业智能",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.sigs.tsinghua.edu.cn/2026/0630/c7769a291820/page.htm",
+    "admissionUrl": "https://www.sigs.tsinghua.edu.cn/2026/0630/c7769a291820/page.htm",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "thu-3ef8a64873",
+    "schoolId": "thu",
+    "name": "电子工程系",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/3645e3d1-9783-416d-933b-5f0d844a870b?yxsdm=023",
+    "admissionUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/3645e3d1-9783-416d-933b-5f0d844a870b?yxsdm=023",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "thu-9b4d8eb224",
+    "schoolId": "thu",
+    "name": "自动化系",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/e16d784f-403e-4ac4-98ff-15fd79e051a4?yxsdm=025",
+    "admissionUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/e16d784f-403e-4ac4-98ff-15fd79e051a4?yxsdm=025",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "thu-dcdc0d398f",
+    "schoolId": "thu",
+    "name": "计算机科学与技术系",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/df93bde9-53c9-40dc-8fe1-b160d8b4be9f?yxsdm=024",
+    "admissionUrl": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/df93bde9-53c9-40dc-8fe1-b160d8b4be9f?yxsdm=024",
+    "coverage": "not_found",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xjtu-c70cf2f41f",
+    "schoolId": "xjtu",
+    "name": "电子与信息学部-计算机科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算机",
+      "电子信息"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://v.xjtu.edu.cn/live-show-detail/869",
+    "admissionUrl": "https://v.xjtu.edu.cn/live-show-detail/869",
+    "coverage": "pending",
+    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "cqu-d6aeec6db0",
+    "schoolId": "cqu",
+    "name": "计算机学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.cs.cqu.edu.cn/",
+    "admissionUrl": "https://www.cs.cqu.edu.cn/",
+    "coverage": "pending",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "cqu-64d13a4073",
+    "schoolId": "cqu",
+    "name": "大数据与软件学院",
+    "campus": "",
+    "disciplines": [
+      "软件",
+      "数据科学"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://www.cse.cqu.edu.cn/",
+    "admissionUrl": "https://www.cse.cqu.edu.cn/",
+    "coverage": "pending",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "cqu-9476055247",
+    "schoolId": "cqu",
+    "name": "自动化学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.au.cqu.edu.cn/",
+    "admissionUrl": "https://www.au.cqu.edu.cn/",
+    "coverage": "pending",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "cqu-a9df3b010c",
+    "schoolId": "cqu",
+    "name": "微电子与通信工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ccee.cqu.edu.cn/",
+    "admissionUrl": "https://www.ccee.cqu.edu.cn/",
+    "coverage": "pending",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "lzu-dd33538b75",
+    "schoolId": "lzu",
+    "name": "信息科学与工程学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://xxxy.lzu.edu.cn/",
+    "admissionUrl": "https://xxxy.lzu.edu.cn/",
+    "coverage": "pending",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "westlake-e4b81d86e1",
+    "schoolId": "westlake",
+    "name": "工学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://engineering.westlake.edu.cn/Admission/GraduateProgram/",
+    "admissionUrl": "https://engineering.westlake.edu.cn/Admission/GraduateProgram/",
+    "coverage": "no_related",
+    "note": "工学院有计算与AI研究方向；已查官方博士招生栏目，当前未发现适用本项目的硕士预推免，不收录博士申请截止。"
+  },
+  {
+    "id": "caa-4eddf6f473",
+    "schoolId": "caa",
+    "name": "创新设计学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.caa.edu.cn/xy/jxjg/cxsjxy.htm",
+    "admissionUrl": "https://www.caa.edu.cn/xy/jxjg/cxsjxy.htm",
+    "coverage": "pending",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "caa-a8df35920e",
+    "schoolId": "caa",
+    "name": "文创设计制造业协同创新中心",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://ai.caa.edu.cn/",
+    "admissionUrl": "https://ai.caa.edu.cn/",
+    "coverage": "pending",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "zjut-75a8c1c952",
+    "schoolId": "zjut",
+    "name": "计算机科学与技术学院（软件学院、人工智能学院）",
+    "campus": "",
+    "disciplines": [
+      "计算机",
+      "软件",
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://cs.zjut.edu.cn/",
+    "admissionUrl": "https://cs.zjut.edu.cn/",
+    "coverage": "pending",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "zjut-f662d585bc",
+    "schoolId": "zjut",
+    "name": "信息工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.ie.zjut.edu.cn/",
+    "admissionUrl": "https://www.ie.zjut.edu.cn/",
+    "coverage": "pending",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "nbu-f7b870cd40",
+    "schoolId": "nbu",
+    "name": "信息科学与工程学院（人工智能学院）",
+    "campus": "",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://eecs.nbu.edu.cn/",
+    "admissionUrl": "https://eecs.nbu.edu.cn/",
+    "coverage": "not_found",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "zjgsu-68fd4b54d0",
+    "schoolId": "zjgsu",
+    "name": "计算机科学与技术学院",
+    "campus": "",
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://scie.zjgsu.edu.cn/",
+    "admissionUrl": "https://scie.zjgsu.edu.cn/",
+    "coverage": "pending",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "zjgsu-db560ef727",
+    "schoolId": "zjgsu",
+    "name": "信息与电子工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://iee.zjgsu.edu.cn/",
+    "admissionUrl": "https://iee.zjgsu.edu.cn/",
+    "coverage": "not_found",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "cjlu-f662d585bc",
+    "schoolId": "cjlu",
+    "name": "信息工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://xxgcxy.cjlu.edu.cn/",
+    "admissionUrl": "https://xxgcxy.cjlu.edu.cn/",
+    "coverage": "pending",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "cjlu-8fe0388122",
+    "schoolId": "cjlu",
+    "name": "机电工程学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://jdxy.cjlu.edu.cn/",
+    "admissionUrl": "https://jdxy.cjlu.edu.cn/",
+    "coverage": "pending",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "zjou-f662d585bc",
+    "schoolId": "zjou",
+    "name": "信息工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://ie.zjou.edu.cn/",
+    "admissionUrl": "https://ie.zjou.edu.cn/",
+    "coverage": "not_found",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "wzu-f49bb31d89",
+    "schoolId": "wzu",
+    "name": "计算机与人工智能学院",
+    "campus": "",
+    "disciplines": [
+      "计算机",
+      "人工智能"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://ai.wzu.edu.cn/",
+    "admissionUrl": "https://ai.wzu.edu.cn/",
+    "coverage": "pending",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "wzu-8c75116e85",
+    "schoolId": "wzu",
+    "name": "电气与电子工程学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://eee.wzu.edu.cn/",
+    "admissionUrl": "https://eee.wzu.edu.cn/",
+    "coverage": "pending",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "xtu-c5088228e6",
+    "schoolId": "xtu",
+    "name": "计算机学院·网络空间安全学院",
+    "campus": "",
+    "disciplines": [
+      "计算机",
+      "网络安全"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://jwxy.xtu.edu.cn/",
+    "admissionUrl": "https://jwxy.xtu.edu.cn/",
+    "coverage": "not_found",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "xtu-aa04dbc595",
+    "schoolId": "xtu",
+    "name": "自动化与电子信息学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息",
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://auto.xtu.edu.cn/",
+    "admissionUrl": "https://auto.xtu.edu.cn/",
+    "coverage": "pending",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。"
+  },
+  {
+    "id": "njnu-18fc431884",
+    "schoolId": "njnu",
+    "name": "计算机与电子信息学院（人工智能学院）",
+    "campus": "",
+    "disciplines": [
+      "计算机",
+      "人工智能",
+      "电子信息"
+    ],
+    "relevance": "core",
+    "directoryUrl": "https://ceai.njnu.edu.cn/",
+    "admissionUrl": "https://ceai.njnu.edu.cn/",
+    "coverage": "pending",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 尚未确认专门硕士招生栏目；目前从官网首页发现新通知。 已核对名称别名「计算机与电子信息学院 人工智能学院」，合并到本单位；依据见data/unit-aliases.json。"
+  },
+  {
+    "id": "njnu-d12b4d3213",
+    "schoolId": "njnu",
+    "name": "电气与自动化工程学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "http://eae.njnu.edu.cn/",
+    "admissionUrl": "http://eae.njnu.edu.cn/",
+    "coverage": "not_found",
+    "note": "已人工补查官方学院介绍；2027硕士预推免入口和方向继续复核。 已配置公告栏目每日检查。"
+  },
+  {
+    "id": "swupl-9b072a4086",
+    "schoolId": "swupl",
+    "name": "人工智能法学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yjsy.swupl.edu.cn/docs/2025-09/55b1906bba3545fd983610725289ab5b.pdf",
+    "admissionUrl": "https://alc.swupl.edu.cn/",
+    "coverage": "error",
+    "note": "2026级官方硕士目录确认数据法、网络法、算法规制与智慧司法；2027预报名尚未核验。学院入口本次HTTP 412。"
+  },
+  {
+    "id": "zuel-f662d585bc",
+    "schoolId": "zuel",
+    "name": "信息工程学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yjsy.zuel.edu.cn/_upload/article/files/5d/fe/b1504aed49c5b361f318ac7b5d84/9b0d3034-5dce-49ea-b540-fb8e256c4cd7.pdf",
+    "admissionUrl": "https://xagx.zuel.edu.cn/",
+    "coverage": "error",
+    "note": "官方历史目录确认计算机、信息系统与信息管理、数据科学与智能管理；2027预报名待核验，入口TLS异常。"
+  },
+  {
+    "id": "cupl-ab35e229c8",
+    "schoolId": "cupl",
+    "name": "数据法治研究院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://xxgk.cupl.edu.cn/__local/6/A3/74/B097FE57D1582EB8CB877E6F1FB_FFFAF046_162257.pdf?e=.pdf",
+    "admissionUrl": "https://yjsy.cupl.edu.cn/",
+    "coverage": "error",
+    "note": "学校研究生质量报告确认单独招收数据法学硕士；2027预报名未发现，研招入口TLS异常。"
+  },
+  {
+    "id": "nwupl-0854801912",
+    "schoolId": "nwupl",
+    "name": "经济法学院（知识产权学院）",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://grs.nwupl.edu.cn/ggtz/151454.htm",
+    "admissionUrl": "https://grs.nwupl.edu.cn/info/iList.jsp?cat_id=10503",
+    "coverage": "not_found",
+    "note": "官方硕士介绍有数字版权、AI生成内容与人工智能著作权交叉方向；目前未发现2027预推免通知。"
+  },
+  {
+    "id": "ecupl-1dbcf6a9b5",
+    "schoolId": "ecupl",
+    "name": "中国法治战略研究院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227578/page.htm",
+    "admissionUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227578/page.htm",
+    "coverage": "published",
+    "note": "人工智能法治人才专项班招法律专硕，明确接受计算机、软件、网安、AI等本科背景。"
+  },
+  {
+    "id": "ecupl-1753e1026d",
+    "schoolId": "ecupl",
+    "name": "知识产权学院",
+    "campus": "",
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227574/page.htm",
+    "admissionUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227574/page.htm",
+    "coverage": "published",
+    "note": "通信、集成电路专项班招法律专硕，明确接受计算机、电子与通信等背景。"
+  },
+  {
+    "id": "nudt-science",
+    "schoolId": "nudt",
+    "name": "理学院",
+    "campus": "",
+    "disciplines": [
+      "数据科学",
+      "计算数学",
+      "密码算法"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.nudt.edu.cn/yssz/lxy/index.htm",
+    "admissionUrl": "https://yjszs.nudt.edu.cn/",
+    "coverage": "pending",
+    "note": "官方介绍明确数值计算、密码算法、量子信息方向及应用统计硕士授权点。 已确认学科关联，当年硕士具体专业和预报名公告继续盘点。"
+  },
+  {
+    "id": "nudt-frontier",
+    "schoolId": "nudt",
+    "name": "前沿交叉学科学院",
+    "campus": "",
+    "disciplines": [
+      "电子信息",
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.nudt.edu.cn/yssz/qyjcxkxy/index.htm",
+    "admissionUrl": "https://yjszs.nudt.edu.cn/",
+    "coverage": "pending",
+    "note": "官方介绍明确光电子技术与智能无人系统研究任务。 已确认学科关联，当年硕士具体专业和预报名公告继续盘点。"
+  },
+  {
+    "id": "nudt-systems",
+    "schoolId": "nudt",
+    "name": "系统工程学院",
+    "campus": "",
+    "disciplines": [
+      "自动化",
+      "数据科学",
+      "建模仿真"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.nudt.edu.cn/yssz/xtgcxy/index.htm",
+    "admissionUrl": "https://yjszs.nudt.edu.cn/",
+    "coverage": "pending",
+    "note": "官方介绍明确控制科学与工程、军事建模仿真和作战数据工程。 已确认学科关联，当年硕士具体专业和预报名公告继续盘点。"
+  },
+  {
+    "id": "nudt-aerospace",
+    "schoolId": "nudt",
+    "name": "空天科学学院",
+    "campus": "",
+    "disciplines": [
+      "计算机视觉",
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.nudt.edu.cn/yssz/ktkxxy/index.htm",
+    "admissionUrl": "https://yjszs.nudt.edu.cn/",
+    "coverage": "pending",
+    "note": "官方介绍明确图像测量、视觉导航和智能飞行器技术；仅收相关交叉方向，非所有航空材料专业。 已确认学科关联，当年硕士具体专业和预报名公告继续盘点。"
+  },
+  {
+    "id": "nudt-meteorology",
+    "schoolId": "nudt",
+    "name": "气象海洋学院",
+    "campus": "",
+    "disciplines": [
+      "数据科学",
+      "人工智能",
+      "计算科学"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.nudt.edu.cn/yssz/qxhyxy/index.htm",
+    "admissionUrl": "https://yjszs.nudt.edu.cn/",
+    "coverage": "pending",
+    "note": "官方介绍明确计算机/软件交叉、数值预报、大数据、多源融合、智能感知和高性能计算。 已确认学科关联，当年硕士具体专业和预报名公告继续盘点。"
+  },
+  {
+    "id": "nudt-institute63",
+    "schoolId": "nudt",
+    "name": "第六十三研究所",
+    "campus": "",
+    "disciplines": [
+      "电子信息",
+      "信息通信",
+      "数据科学"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://www.nudt.edu.cn/yssz/dlssyjs/index.htm",
+    "admissionUrl": "https://yjszs.nudt.edu.cn/",
+    "coverage": "pending",
+    "note": "官方介绍明确信息通信电子防御、装备数据工程与硕士生导师；当季地方硕士招生资格需按目录进一步确认。 已确认学科关联，当年硕士具体专业和预报名公告继续盘点。"
+  },
+  {
+    "id": "nwpu-aeronautics",
+    "schoolId": "nwpu",
+    "name": "航空学院",
+    "campus": "",
+    "disciplines": [
+      "人工智能",
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "admissionUrl": "https://hangkong.nwpu.edu.cn/zsjy1/yjszs.htm",
+    "coverage": "pending",
+    "note": "学校2027年硕士目录001航空学院明确085410人工智能、085406控制工程，按计算交叉纳入。已检查学院研究生招生栏目，当前未检索到学院专属2027预报名通知；不将校级系统9月20日截止当作学院确认截止。"
+  },
+  {
+    "id": "nwpu-astronautics",
+    "schoolId": "nwpu",
+    "name": "航天学院",
+    "campus": "",
+    "disciplines": [
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "admissionUrl": "https://hangtian.nwpu.edu.cn/jyjx/zsxx/yjszs.htm",
+    "coverage": "pending",
+    "note": "学校2027年硕士目录002航天学院明确081100控制科学与工程、085406控制工程，按控制与自动化交叉纳入。已检查学院研究生招生栏目，当前未检索到学院专属2027预报名通知；继续检查，不据此推断尚未开放。"
+  },
+  {
+    "id": "nwpu-marine",
+    "schoolId": "nwpu",
+    "name": "航海学院",
+    "campus": "",
+    "disciplines": [
+      "信息通信",
+      "电子信息",
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "admissionUrl": "https://hanghai.nwpu.edu.cn/ztlm/zsxc.htm",
+    "coverage": "pending",
+    "note": "2027年学院预报名通知明确硕士081000信息与通信工程、081100控制科学与工程、085401电子信息、085406控制工程，按计算交叉纳入。已核对学院报名时间9月4日15:00至9月15日中午12:00，分别记录硕士与博士适用范围；材料随报名提供，考核形式另行通知。"
+  },
+  {
+    "id": "nwpu-mechanical",
+    "schoolId": "nwpu",
+    "name": "机电学院",
+    "campus": "",
+    "disciplines": [
+      "机器人",
+      "集成电路",
+      "自动化"
+    ],
+    "relevance": "related",
+    "directoryUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+    "admissionUrl": "https://jidian.nwpu.edu.cn/index/tzgg.htm",
+    "coverage": "pending",
+    "note": "学校2027年硕士目录005机电学院明确140100集成电路科学与工程、085509智能制造技术、085510机器人工程。已发现2026年9月4日发布的学院预推免时间通知（9月4日9:00至9月15日18:00）；短文未写入学年及硕士范围，需与当季学校目录联合核验，不由标题的2026误判为2026级招生。"
+  }
+]

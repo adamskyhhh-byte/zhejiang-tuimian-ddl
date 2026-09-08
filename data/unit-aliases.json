@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "aliases": [
+    {
+      "aliasId": "nwpu-a0ff30037a",
+      "canonicalId": "nwpu-e1b6be8199",
+      "schoolId": "nwpu",
+      "aliasName": "无人系统技术研究院/人工智能学院",
+      "canonicalName": "人工智能学院/无人系统技术研究院",
+      "reason": "同一学院与研究院合署招生的名称次序差异；2026暑期通知与2027硕士预报名通知在同一官方栏目互链，联系人、联系方式及招生咨询群相同。",
+      "evidenceUrls": [
+        "https://wurenxitong.nwpu.edu.cn/info/1373/14048.htm",
+        "https://wurenxitong.nwpu.edu.cn/info/1373/13728.htm"
+      ],
+      "verifiedAt": "2026-09-08"
+    },
+    {
+      "aliasId": "nwpu-4ea9bd8739",
+      "canonicalId": "nwpu-e1b6be8199",
+      "schoolId": "nwpu",
+      "aliasName": "无人系统技术研究院人工智能学院",
+      "canonicalName": "人工智能学院/无人系统技术研究院",
+      "reason": "同一官方学院名称省略分隔符产生的重复记录；与人工智能学院/无人系统技术研究院属于同一合署招生单位。",
+      "evidenceUrls": [
+        "https://wurenxitong.nwpu.edu.cn/info/1373/14048.htm",
+        "https://wurenxitong.nwpu.edu.cn/info/1373/13728.htm"
+      ],
+      "verifiedAt": "2026-09-08"
+    },
+    {
+      "aliasId": "nwpu-6525ce363b",
+      "canonicalId": "nwpu-eee7676ab9",
+      "schoolId": "nwpu",
+      "aliasName": "微电子学院",
+      "canonicalName": "集成电路学院（微电子学院）",
+      "reason": "2027官方硕士目录称018集成电路学院（微电子学院）；2026目录称018微电子学院，单位代码及联系电话相同，学院官网亦使用新名称。",
+      "evidenceUrls": [
+        "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+        "https://weidianzi.nwpu.edu.cn/",
+        "https://yzb.nwpu.edu.cn/__local/8/B0/B5/14CF80A60BF4DCDBAAEC25077E4_3B451FA3_190D0A.pdf"
+      ],
+      "verifiedAt": "2026-09-08"
+    },
+    {
+      "aliasId": "njnu-53e296025a",
+      "canonicalId": "njnu-18fc431884",
+      "schoolId": "njnu",
+      "aliasName": "计算机与电子信息学院 人工智能学院",
+      "canonicalName": "计算机与电子信息学院（人工智能学院）",
+      "reason": "空格与括号写法差异；两条记录均指向ceai.njnu.edu.cn，学校官网将计算机与电子信息学院、人工智能学院名称列为同一学院入口。",
+      "evidenceUrls": [
+        "https://www.nnu.edu.cn/",
+        "https://ceai.njnu.edu.cn/"
+      ],
+      "verifiedAt": "2026-09-08"
+    },
+    {
+      "aliasId": "ucas-1452318fa3",
+      "canonicalId": "ucas-56f0f79e3e",
+      "schoolId": "ucas",
+      "aliasName": "空天信息研究院",
+      "canonicalName": "空天信息创新研究院",
+      "reason": "空天院官方招聘站使用空天信息研究院简称，院情简介使用空天信息创新研究院全称，均描述同一整合组建主体并指向aircas.ac.cn官网。",
+      "evidenceUrls": [
+        "https://zhaopin.aircas.ac.cn/commonIndexNav/bjyq/aboutUs",
+        "https://www.aircas.ac.cn/ykjs/yqjj/"
+      ],
+      "verifiedAt": "2026-09-08"
+    }
+  ]
+}

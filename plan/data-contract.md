@@ -19,3 +19,11 @@ type Catalog = { schemaVersion: 1; generatedAt: string; rosterYear: 2026; admiss
 抓取状态、持久 ID、已发现通知、正文 hash 和历史保存在 `data/state.json`；生成静态 catalog 使用独立导出命令。状态包含 published 机会，错误时不得覆盖成空。原页面声明只招直博时必须排除；模糊硕士时间进入 pending。
 
 前端自行根据当前北京时间计算报名状态，verification 和新鲜度是独立维度。缺少开始时间且 availability 非 open，不能自动认定报名中。截止仅日期时当天显示今日截止时刻未公布，次日已截止。精确截止到达即已截止。已宣布 open 但截止未知允许显示报名中/截止未知；conflict 一律提示状态待核验，不能列作确认报名中。
+
+`degrees: []` 表示已确定为硕士预推免，但公告未细分学硕／专硕；前端仍展示，并标记“硕士类型未细分”。仅直博公告由采集器按原文范围排除，不能用空数组代表直博。
+
+v1 的兼容新增字段：Opportunity 的 `assessmentMode` 默认为 `unknown`，可取 `online|offline|hybrid|unknown`；`programTags` 默认为空数组，明确硕士联合培养时可含 `joint`。现有快照缺字段时前端使用相同默认值。形式依据与范围保留在原文证据或人工修正理由中，不能将线上报名推断为线上考核。
+
+人工范围核验另存 `data/review-decisions.json`：`excludedOpportunities` 以项目 ID 对应排除理由和官方证据 URL，`opportunityAliases` 将重复项目指向保留 ID。公开快照过滤误收项并将别名历史关联至保留项目，持久状态保留原记录；误收排除不解释为官方取消招生。`data/unit-aliases.json` 保存院系更名与别名迁移的官方依据。
+
+来源配置 `noticeScope: auto|school|unit` 区分校级与单位通知；共享校级栏目不能仅凭配置的 unitId 把整校时间赋给学院。校级通知须有明确对应学院的报名段落，纯院系链接目录只用于发现通知。

@@ -1,0 +1,592 @@
+{
+  "opp-585b6c2418f9b4615d86": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "applicationStart": {
+      "value": "2026-07-13T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "（主校区）计算机科学与技术学院2026年7月13日9：00--9月7日09：00",
+      "sourceId": "src-3ac18ef4031fab0699"
+    },
+    "applicationEnd": {
+      "value": "2026-09-07T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "（主校区）计算机科学与技术学院2026年7月13日9：00--9月7日09：00",
+      "sourceId": "src-3ac18ef4031fab0699"
+    },
+    "verification": "verified"
+  },
+  "opp-16aa098407ef53e8bbe2": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://sei.ecnu.edu.cn/_upload/article/files/55/5a/217f03734763aff606388556d210/7afd3011-6a67-4ded-b971-3e8d937f4008.pdf 硕士联培仅限085405软件工程的02信息技术创新方向、法国蔚蓝海岸大学联培项目；其他联培项目属于统招阶段，不在本站联培标签适用范围。",
+    "applicationStart": {
+      "value": "2026-07-27T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我院预报名的起止时间为2026年7月27日09：00——2026年9月7日中午12：00",
+      "sourceId": "src-6b440a8638139a26a7"
+    },
+    "applicationEnd": {
+      "value": "2026-09-07T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我院预报名的起止时间为2026年7月27日09：00——2026年9月7日中午12：00",
+      "sourceId": "src-6b440a8638139a26a7"
+    },
+    "verification": "verified",
+    "programTags": [
+      "joint"
+    ]
+  },
+  "opp-ea798fbc14206c88859a": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://ai.csu.edu.cn/info/1030/1386.htm 2026-09-08 逐条读取官方缓存原文，人工智能学院当批硕士资格审查材料有独立截止，复试明确线下面试；https://ai.csu.edu.cn/info/1030/1386.htm",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "官方未给出精确开放时间",
+      "sourceId": "src-27615dbeeed755533b"
+    },
+    "applicationEnd": {
+      "value": "2026-09-07T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "申请时间：2026年9月7日17:00前通过“中南大学推免生服务系统”进行网上报名",
+      "sourceId": "src-27615dbeeed755533b"
+    },
+    "verification": "verified",
+    "materialsEnd": {
+      "value": "2026-09-08T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "完成网上申请的学生于9月8日12:00前提交资格审查材料至电子邮箱。",
+      "sourceId": "src-27615dbeeed755533b"
+    },
+    "assessmentMode": "offline"
+  },
+  "opp-6e43d5eb55624b20435b": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://informatics.xmu.edu.cn/info/1072/203131.htm",
+    "applicationStart": {
+      "value": "2026-09-01T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "二、报名时间9月1日00:00至9月7日24:00",
+      "sourceId": "src-73b1dce61db81962be"
+    },
+    "applicationEnd": {
+      "value": "2026-09-08T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "二、报名时间9月1日00:00至9月7日24:00",
+      "sourceId": "src-73b1dce61db81962be"
+    },
+    "verification": "verified"
+  },
+  "opp-2a674418466b6737dd8e": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "applicationStart": {
+      "value": "2026-07-25T08:00:00+08:00",
+      "precision": "datetime",
+      "raw": "（开发区校区）软件学院2026年7月25日8：00--9月8日8：00",
+      "sourceId": "src-544d4e86518b575976"
+    },
+    "applicationEnd": {
+      "value": "2026-09-08T08:00:00+08:00",
+      "precision": "datetime",
+      "raw": "（开发区校区）软件学院2026年7月25日8：00--9月8日8：00",
+      "sourceId": "src-544d4e86518b575976"
+    },
+    "verification": "verified"
+  },
+  "opp-d151b9af27686e7117cf": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://dase.ecnu.edu.cn/_upload/article/files/ef/b7/8ce4634b46aeb6697638fa0718f7/901c46e7-91ce-4622-9a48-2c7293196931.pdf",
+    "applicationStart": {
+      "value": "2026-07-27T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我院预报名的起止时间为：2026年7月27日9:00~2026年9月8日12:00",
+      "sourceId": "src-5c6fb9518b237987a7"
+    },
+    "applicationEnd": {
+      "value": "2026-09-08T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我院预报名的起止时间为：2026年7月27日9:00~2026年9月8日12:00",
+      "sourceId": "src-5c6fb9518b237987a7"
+    },
+    "verification": "verified"
+  },
+  "opp-b0e466c0d27fcbce5dc4": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://sai.whu.edu.cn/info/1601/20141.htm",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "官方未给出精确开放时间",
+      "sourceId": "src-85e07395836cce1704"
+    },
+    "applicationEnd": {
+      "value": "2026-09-09T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "预报名时间：即日起至9月8日24：00",
+      "sourceId": "src-85e07395836cce1704"
+    },
+    "verification": "verified"
+  },
+  "opp-f5dc63fbdf4847faa7dd": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://cs.whu.edu.cn/info/1071/65501.htm",
+    "applicationStart": {
+      "value": "2026-09-04T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "（一）预报名时间2026年9月4日17:00—9月10日上午8:00",
+      "sourceId": "src-01fa4c73609861212d"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T08:00:00+08:00",
+      "precision": "datetime",
+      "raw": "（一）预报名时间2026年9月4日17:00—9月10日上午8:00",
+      "sourceId": "src-01fa4c73609861212d"
+    },
+    "verification": "verified"
+  },
+  "opp-20d18a5e6e84fc4f4317": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://ai.bnu.edu.cn/ggjxz/tzgg/df9187fe0a2b4ef4a98e9d0edf5d77b5.htm",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "官方未给出精确开放时间",
+      "sourceId": "src-be66a18a1837ab3072"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "请考生在9月10日12:00前登录北京师范大学2027年推免申请系统进行申请",
+      "sourceId": "src-be66a18a1837ab3072"
+    },
+    "verification": "verified"
+  },
+  "opp-f605bf852c593a8b059d": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://cse.whu.edu.cn/__local/5/25/DE/51582978060F518921AD789313B_5C9D8C5A_1ECBA.pdf 考核形式依据同PDF：9月16—19日期间采用线下方式。",
+    "applicationStart": {
+      "value": "2026-09-03",
+      "precision": "date",
+      "raw": "预报名系统开放时间：2026年9月3日—9月10日中午12:00",
+      "sourceId": "src-36f4af1ef93da744bb"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "预报名系统开放时间：2026年9月3日—9月10日中午12:00",
+      "sourceId": "src-36f4af1ef93da744bb"
+    },
+    "verification": "verified",
+    "assessmentMode": "offline"
+  },
+  "opp-0c1a19c97ffb47990448": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://cybersec.ustc.edu.cn/2026/0903/c23826a752108/page.htm 2026-09-08 逐条读取官方缓存原文，网络空间安全学院只公布网上报名截止，材料随报名系统上传，无独立9月10日全天截止；面试明确线下；https://cybersec.ustc.edu.cn/2026/0903/c23826a752108/page.htm",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "官方未给出精确开放时间",
+      "sourceId": "src-5114001bc2d7d924a8"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名截止日期：2026年9月10日下午17:00",
+      "sourceId": "src-5114001bc2d7d924a8"
+    },
+    "verification": "verified",
+    "materialsEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "进入“推免生预报名”选择“网络空间安全学院”进行在线报名并提交相关材料。未另行公布独立材料截止。",
+      "sourceId": "src-5114001bc2d7d924a8"
+    },
+    "assessmentMode": "offline"
+  },
+  "opp-0bce9dc5bf5bd12e7d32": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://dsi.sdu.edu.cn/info/1093/4664.htm",
+    "applicationStart": {
+      "value": "2026-09-01T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名时间：2026年9月1日9:00-9月10日17:00",
+      "sourceId": "src-58052e54c8efe90a51"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名时间：2026年9月1日9:00-9月10日17:00",
+      "sourceId": "src-58052e54c8efe90a51"
+    },
+    "verification": "verified"
+  },
+  "opp-5c303e7735fc75468a99": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://cst.qd.sdu.edu.cn/info/1023/4169.htm",
+    "applicationStart": {
+      "value": "2026-09-01T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名时间：2026年9月1日9:00-2026年9月10日17:00",
+      "sourceId": "src-a272cd2b1bba173d55"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名时间：2026年9月1日9:00-2026年9月10日17:00",
+      "sourceId": "src-a272cd2b1bba173d55"
+    },
+    "verification": "verified"
+  },
+  "opp-20caa717a53ba9e97a48": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://cs.xidian.edu.cn/info/1003/25704.htm",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "官方未给出精确开放时间",
+      "sourceId": "src-cf91f870a60180d055"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名时间：即日起-9月10日17:00",
+      "sourceId": "src-cf91f870a60180d055"
+    },
+    "verification": "verified"
+  },
+  "opp-7786c21661338ed80379": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://ai.ruc.edu.cn/newslist/notice/20260904001.html",
+    "applicationStart": {
+      "value": "2026-09-04T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "系统开放时间为2026年9月4日9:00-9月10日18:00",
+      "sourceId": "src-a72c776d5d2e5a5ef8"
+    },
+    "applicationEnd": {
+      "value": "2026-09-10T18:00:00+08:00",
+      "precision": "datetime",
+      "raw": "系统开放时间为2026年9月4日9:00-9月10日18:00",
+      "sourceId": "src-a72c776d5d2e5a5ef8"
+    },
+    "verification": "verified"
+  },
+  "opp-d6430f4ebdca62c1de3d": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://www.sc.sdu.edu.cn/info/1019/6068.htm",
+    "applicationStart": {
+      "value": "2026-09-02T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名开始时间：2026年9月2日09:00，截止时间2026年9月11日12：00",
+      "sourceId": "src-c447cddb6c508ee3ce"
+    },
+    "applicationEnd": {
+      "value": "2026-09-11T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名开始时间：2026年9月2日09:00，截止时间2026年9月11日12：00",
+      "sourceId": "src-c447cddb6c508ee3ce"
+    },
+    "verification": "verified"
+  },
+  "opp-20d0dbefbf5b90e5e96d": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://www.cs.sdu.edu.cn/info/1068/6891.htm",
+    "applicationStart": {
+      "value": "2026-09-01T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名开始时间：2026年9月1日09：00-9月11日17:00",
+      "sourceId": "src-8a6ba90a32ba04a558"
+    },
+    "applicationEnd": {
+      "value": "2026-09-11T17:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名开始时间：2026年9月1日09：00-9月11日17:00",
+      "sourceId": "src-8a6ba90a32ba04a558"
+    },
+    "verification": "verified"
+  },
+  "opp-a98999c995abe9111361": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://cc.nankai.edu.cn/2026/0709/c13297a600172/page.htm",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "官方未给出精确开放时间",
+      "sourceId": "src-147a598727fd28ce36"
+    },
+    "applicationEnd": {
+      "value": "2026-09-12",
+      "precision": "date",
+      "raw": "四、报名起止时间：即日起至2026年9月12日",
+      "sourceId": "src-147a598727fd28ce36"
+    },
+    "verification": "verified"
+  },
+  "opp-e09cc48e879a3fce3a43": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "applicationStart": {
+      "value": "2026-07-13T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "（主校区）人工智能学院2026年7月13日9：00--9月15日12：00",
+      "sourceId": "src-9f12af9402e875b3df"
+    },
+    "applicationEnd": {
+      "value": "2026-09-15T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "（主校区）人工智能学院2026年7月13日9：00--9月15日12：00",
+      "sourceId": "src-9f12af9402e875b3df"
+    },
+    "verification": "verified"
+  },
+  "opp-2ea64399eb8f017dce34": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://wurenxitong.nwpu.edu.cn/info/1373/14048.htm",
+    "applicationStart": {
+      "value": "2026-09-04T15:00:00+08:00",
+      "precision": "datetime",
+      "raw": "预报名时间：9月4日15:00—9月15日18:00",
+      "sourceId": "src-aaa9330f8000bcaabd"
+    },
+    "applicationEnd": {
+      "value": "2026-09-15T18:00:00+08:00",
+      "precision": "datetime",
+      "raw": "预报名时间：9月4日15:00—9月15日18:00",
+      "sourceId": "src-aaa9330f8000bcaabd"
+    },
+    "verification": "verified"
+  },
+  "opp-972305d230d171e335be": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://sai.xidian.edu.cn/info/1106/28372.htm",
+    "applicationStart": {
+      "value": "2026-07-16",
+      "precision": "date",
+      "raw": "学院2027年推免生预报名系统将于2026年7月16日至9月18日向考生开放",
+      "sourceId": "src-f19ba318c90b34ff76"
+    },
+    "applicationEnd": {
+      "value": "2026-09-18",
+      "precision": "date",
+      "raw": "学院2027年推免生预报名系统将于2026年7月16日至9月18日向考生开放",
+      "sourceId": "src-f19ba318c90b34ff76"
+    },
+    "verification": "verified"
+  },
+  "opp-100ad9f8220ba88872c2": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://gs.ecupl.edu.cn/2026/0831/c13332a227578/page.htm",
+    "applicationStart": {
+      "value": "2026-09-09T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我校2027年接收校内外推荐免试研究生系统的开放时间拟定为2026年9月9日（周三）12时至9月15日（周二）12时。",
+      "sourceId": "src-90f70fd06a1e8faa5e"
+    },
+    "applicationEnd": {
+      "value": "2026-09-15T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我校2027年接收校内外推荐免试研究生系统的开放时间拟定为2026年9月9日（周三）12时至9月15日（周二）12时。",
+      "sourceId": "src-90f70fd06a1e8faa5e"
+    },
+    "verification": "verified"
+  },
+  "opp-ca01300adcfd794bdd8e": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://gs.ecupl.edu.cn/2026/0831/c13332a227574/page.htm",
+    "applicationStart": {
+      "value": "2026-09-09T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我校2027年接收校内外推荐免试研究生系统的开放时间拟定为2026年9月9日（周三）12时至9月15日（周二）12时。",
+      "sourceId": "src-bda4e1a93ecde45c03"
+    },
+    "applicationEnd": {
+      "value": "2026-09-15T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我校2027年接收校内外推荐免试研究生系统的开放时间拟定为2026年9月9日（周三）12时至9月15日（周二）12时。",
+      "sourceId": "src-bda4e1a93ecde45c03"
+    },
+    "verification": "verified"
+  },
+  "opp-8bbcff9df64a74027810": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "applicationStart": {
+      "value": "2026-08-10T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日9:00开始报名，2026年9月10日24：00报名截止。",
+      "sourceId": "src-77de7456068012ff35"
+    },
+    "applicationEnd": {
+      "value": "2026-09-11T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日9:00开始报名，2026年9月10日24：00报名截止。",
+      "sourceId": "src-77de7456068012ff35"
+    },
+    "verification": "verified"
+  },
+  "opp-89d149c1369e2571e4a6": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "applicationStart": {
+      "value": "2026-08-10T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日9:00-9月10日24:00",
+      "sourceId": "src-95b3b1eb428a2c1b6d"
+    },
+    "applicationEnd": {
+      "value": "2026-09-11T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日9:00-9月10日24:00",
+      "sourceId": "src-95b3b1eb428a2c1b6d"
+    },
+    "verification": "verified"
+  },
+  "opp-1668644eec7b4520c241": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "applicationStart": {
+      "value": "2026-08-10T08:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日8:00起开放报名，2026年9月10日24点报名截止",
+      "sourceId": "src-d714c6620bc6ccd1c9"
+    },
+    "applicationEnd": {
+      "value": "2026-09-11T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日8:00起开放报名，2026年9月10日24点报名截止",
+      "sourceId": "src-d714c6620bc6ccd1c9"
+    },
+    "verification": "verified"
+  },
+  "opp-10641c087f21e126d652": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "applicationStart": {
+      "value": "2026-08-10T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日9:00开始报名，2026年9月10日24:00报名截止。",
+      "sourceId": "src-0cf492287e7f41fcdc"
+    },
+    "applicationEnd": {
+      "value": "2026-09-11T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日9:00开始报名，2026年9月10日24:00报名截止。",
+      "sourceId": "src-0cf492287e7f41fcdc"
+    },
+    "verification": "verified"
+  },
+  "opp-11b568cd94dd49217720": {
+    "reason": "2026-09-08逐条人工阅读并核对官方正文，仅去除版式空白：https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+    "applicationStart": {
+      "value": "2026-08-10",
+      "precision": "date",
+      "raw": "2026年8月10日起开放报名，2026年9月10日24:00报名截止。",
+      "sourceId": "src-7a62541c6f73ba152e"
+    },
+    "applicationEnd": {
+      "value": "2026-09-11T00:00:00+08:00",
+      "precision": "datetime",
+      "raw": "2026年8月10日起开放报名，2026年9月10日24:00报名截止。",
+      "sourceId": "src-7a62541c6f73ba152e"
+    },
+    "verification": "verified"
+  },
+  "opp-nudt-cs-2027-round-2": {
+    "reason": "2026-09-08人工逐页核对9月4日官方通知附件：第1页硕士专业与报名时间，第2页材料同时上传要求。https://yjszs.nudt.edu.cn/attached/file/20260904/20260904185822_736.pdf",
+    "verification": "verified",
+    "applicationEnd": {
+      "value": "2026-09-10T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名时间：即日起至9月10日12:00。",
+      "sourceId": "src-nudt-cs-2027-round-2-pdf"
+    },
+    "availability": "open",
+    "degrees": [
+      "academic",
+      "professional"
+    ]
+  },
+  "opp-86bbde4df276859e52d2": {
+    "reason": "2026-09-08复核官方正文：9月20日是复试完成时间，9月21日至10月20日是全国正式推免系统，均非学院预报名截止。https://ai.bit.edu.cn/tzgg/503eb8c373914764a9535df836c0b29d.htm 2026-09-08人工核对考核形式：复试方式为线下面试。报名截止核验与形式核验分别记录。 https://ai.bit.edu.cn/tzgg/503eb8c373914764a9535df836c0b29d.htm",
+    "title": "北京理工大学人工智能学院2027年接收优秀应届本科毕业生推荐免试攻读研究生（含本直博生）办法",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "即日起有意愿报考我院的推免生即可联系相关导师并向导师提交相关申请材料电子版。",
+      "sourceId": "source-977ecdf2cb039f28aec2"
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "通知未明确学院内预报名截止；全国系统开放时间不作为学院预报名截止。",
+      "sourceId": "source-977ecdf2cb039f28aec2"
+    },
+    "materialsEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "即日起向相关导师提交材料，通知未明确材料截止。",
+      "sourceId": "source-977ecdf2cb039f28aec2"
+    },
+    "assessment": "通过初审者于9月20日前完成复试。",
+    "availability": "open",
+    "verification": "pending",
+    "notes": "学院内预报名已宣布开放；截止未明确。已人工清除把复试和全国正式系统时间误读为预报名时间的提取结果，待采集规则复核。",
+    "assessmentMode": "offline"
+  },
+  "opp-bd9ca477b944f6c3fd39": {
+    "reason": " 2026-09-08人工核对考核形式：复试采取线上面试形式。硕士适用范围已核对。 https://cst.bit.edu.cn/xxfw/tzgg/58a147115f154c439a0851311c8fc0d0.htm",
+    "assessmentMode": "online"
+  },
+  "opp-79f444ae584502d7d861": {
+    "reason": " 2026-09-08人工核对考核形式：本次预推免复试线下进行，复试时间、地点另行通知。 https://cs.tongji.edu.cn/__local/9/60/A0/E754D70DC091A39226FD77BEB2B_082455BA_396B5.pdf",
+    "assessmentMode": "offline"
+  },
+  "opp-30da51aca63d2e2d7b39": {
+    "reason": " 2026-09-08人工核对考核形式：我院预计于9月上旬开展线下复试，考核形式一般包括笔试与面试。属于预计安排，需关注后续通知。 https://see.tongji.edu.cn/__local/0/CA/40/80ACF42AA9C448546B4B52A25D2_433060EA_4F2DE.pdf",
+    "assessmentMode": "offline"
+  },
+  "opp-7d416a77e349fc7c1ff8": {
+    "reason": "2026-09-08人工核对考核形式：推免接收复试工作采取现场复试形式进行。 https://www.ece.pku.edu.cn/info/1025/3213.htm 2026-09-08 逐条读取官方缓存原文，信息工程学院当批电子申请材料单独截止9月8日12:00，纸质材料另须9月10日前寄达；https://www.ece.pku.edu.cn/info/1025/3213.htm",
+    "assessmentMode": "offline",
+    "materialsEnd": {
+      "value": "2026-09-08T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "电子版材料：请将以上（1）-（7）项材料中除（3）专家推荐信以外的所有申请材料按顺序扫描并合并成1个PDF文件后于2026年9月8日12:00前发送。",
+      "sourceId": "src-038f71234ef55cff1e"
+    },
+    "notes": "公告未明确学硕／专硕类型。 人工修正： 2026-09-08人工核对考核形式：推免接收复试工作采取现场复试形式进行。 https://www.ece.pku.edu.cn/info/1025/3213.htm 电子材料于9月8日12:00前发送；纸质材料须于9月10日前寄达，后者只公布日期。"
+  },
+  "opp-a2d679212d173feba51d": {
+    "reason": "2026-09-08 逐条读取官方缓存原文，统计学院当批硕士预报名明确中午12点，日期后括号星期导致自动漏时刻；https://stat.ecnu.edu.cn/c3/29/c9708a770857/page.htm",
+    "applicationEnd": {
+      "value": "2026-09-14T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "我院推免预报名截止时间为：2026年9月14日（周一）中午12点。",
+      "sourceId": "src-07475af15232a0cbb9"
+    }
+  },
+  "opp-585557cd71e9e7f4cef9": {
+    "reason": "2026-09-08 逐条读取官方缓存原文，智能通信技术研究院当批学硕预报名明确09:00，版式空白导致开始时间降为日期；https://iict.sdu.edu.cn/info/1027/1367.htm",
+    "applicationStart": {
+      "value": "2026-09-04T09:00:00+08:00",
+      "precision": "datetime",
+      "raw": "报名时间：2026 年 9 月 4 日 09 ： 00-9 月 15 日 17:00。",
+      "sourceId": "src-5695ac72978fae2dcf"
+    }
+  },
+  "opp-12ef434f7627af875cc1": {
+    "reason": "2026-09-08 逐条读取官方缓存原文，电子信息与光学工程学院材料适用于硕士及直博，和网报截止分别保存；https://ceo.nankai.edu.cn/info/1099/4648.htm",
+    "materialsEnd": {
+      "value": "2026-09-07T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "以上材料须按次序扫描制成一个PDF文件，以“姓名+硕士/直博+报考专业+本科学校”命名，请于9月7日中午12点前上传至WPS表单。",
+      "sourceId": "src-19d6b7c42a16002b27"
+    }
+  },
+  "opp-bed4a7e7c00beaf998c1": {
+    "reason": "2026-09-08 逐条读取官方缓存原文，信息与传播学院当批硕士网报及材料截止分别公布；数智社会与新闻传播含数智传播方向，可作为明确交叉收录；https://ic.nankai.edu.cn/2026/0903/c19738a601773/page.htm",
+    "materialsEnd": {
+      "value": "2026-09-09T12:00:00+08:00",
+      "precision": "datetime",
+      "raw": "9月9日12:00前，请按以下顺序将报名材料扫描制成一个PDF文档。",
+      "sourceId": "src-9083c3677985c6fde1"
+    },
+    "assessmentMode": "offline"
+  },
+  "opp-e0967896a5753e58e1bb": {
+    "reason": "2026-09-08 逐条读取官方缓存原文，网络空间安全学院硕士当批原文明确“本次复试采取线上复试形式”；https://ccs.scu.edu.cn/info/1013/2311.htm",
+    "assessmentMode": "online"
+  },
+  "opp-c956857459ab4a98352e": {
+    "reason": "2026-09-08 逐条读取官方缓存原文，计算学部2027年9月5日至6日是补充报名独立批次，标题明确“补充报名”，不能标成首批；更名保留现有项目ID；https://cs.hit.edu.cn/2026/0905/c11271a401043/page.htm",
+    "batch": "补充报名"
+  },
+  "opp-8717f7565bad6109c2de": {
+    "verification": "pending",
+    "reason": "2026-09-08人工范围核验：学院短通知仅写2026年预推免报名时间，未明确2027级入学及硕士适用范围。校级2027目录有机电学院集成电路、智能制造、机器人工程硕士，仍不足将该短通知直接核验为这些硕士的报名窗口；保留原文时段作为待核验线索，不能据此确认正在报名。https://jidian.nwpu.edu.cn/info/1017/16039.htm"
+  },
+  "opp-4d131a2031859e521183": {
+    "verification": "verified",
+    "applicationUrl": "https://yjszs.nwpu.edu.cn/pp/#/exam-free-apply/master/declare/200875/index",
+    "reason": "2026-09-08逐条人工核对当批硕士预报名起止时刻与官方报名入口，证据：https://hanghai.nwpu.edu.cn/info/1946/26972.htm"
+  },
+  "opp-20e6870ea26e35a379bd": {
+    "verification": "verified",
+    "applicationUrl": "https://yjsjy.nwpu.edu.cn/zsbm/tmsgl",
+    "reason": "2026-09-08逐条人工核对当批硕士预报名起止时刻与官方报名入口，证据：https://weidianzi.nwpu.edu.cn/info/1138/18983.htm"
+  }
+}

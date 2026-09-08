@@ -1,0 +1,322 @@
+{
+  "excludedOpportunities": {
+    "opp-3a771cf8332ead9a558d": {
+      "reason": "校级总通知明确具体时间以各学院公布为准；保留总通知来源，不能发布成具有独立截止的学院项目。已确认的学院专属通知单独收录。",
+      "evidenceUrls": [
+        "https://yzb.nwpu.edu.cn/info/1174/10478.htm"
+      ]
+    },
+    "opp-acc42b55ff5c559f4474": {
+      "reason": "校级总通知明确具体时间以各学院公布为准；保留总通知来源，不能发布成具有独立截止的学院项目。已确认的学院专属通知单独收录。",
+      "evidenceUrls": [
+        "https://yzb.nwpu.edu.cn/info/1174/10478.htm"
+      ]
+    },
+    "opp-462edd5ee121613ae51f": {
+      "reason": "哈工大力学学科公告仅列力学及可申请本科相近专业，无明确计算/控制培养方向；本科控制/数学可报不等同于培养方向，先排除并保留待补证。",
+      "evidenceUrls": [
+        "https://sa.hit.edu.cn/2026/0731/c6582a398922/page.htm"
+      ]
+    },
+    "opp-1c8b676c23617b6e1d1a": {
+      "reason": "哈工大航空宇航学科公告仅航空宇航/机械相关，无明确计算/机器人/控制培养方向，先排除并保留待补证。",
+      "evidenceUrls": [
+        "https://sa.hit.edu.cn/2026/0731/c6582a398918/page.htm"
+      ]
+    },
+    "opp-3e14fe7f25b1b056e1e8": {
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0905/c13332a227664/page.htm"
+      ]
+    },
+    "opp-b808da326633fcb4b4cc": {
+      "reason": "校级总办法只给统一系统窗口及各学院联系人，不能当成知识产权学院/中国法治战略研究院的特定计算交叉项目；保留为来源，不发布成独立学院项目。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0904/c13332a227634/page.htm"
+      ]
+    },
+    "opp-887da5a91341f18dc89d": {
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0831/c13332a227572/page.htm"
+      ]
+    },
+    "opp-0f0754c7de63dd93bd2c": {
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0831/c13332a227573/page.htm"
+      ]
+    },
+    "opp-2b954b24faa5bf625da2": {
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0831/c13332a227576/page.htm"
+      ]
+    },
+    "opp-286c4bfbbacc75dcfc7e": {
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0831/c13332a227577/page.htm"
+      ]
+    },
+    "opp-9c91d2f7f1439d7e9c5a": {
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0831/c13332a227579/page.htm"
+      ]
+    },
+    "opp-14ca29b958e26a67b98f": {
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0831/c13332a227580/page.htm"
+      ]
+    },
+    "opp-7c239cbcf5b9c7a129ca": {
+      "reason": "校级总通知明确具体时间以各学院公布为准；保留总通知来源，不能发布成具有独立截止的学院项目。已确认的学院专属通知单独收录。",
+      "evidenceUrls": [
+        "https://yzb.nwpu.edu.cn/info/1174/10478.htm"
+      ]
+    },
+    "opp-2f43304a860e617a2767": {
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0905/c13332a227664/page.htm"
+      ]
+    },
+    "opp-874b18f92177d58809c8": {
+      "reason": "校级总办法只给统一系统窗口及各学院联系人，不能当成知识产权学院/中国法治战略研究院的特定计算交叉项目；保留为来源，不发布成独立学院项目。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0904/c13332a227634/page.htm"
+      ]
+    },
+    "opp-3ce587657044514e9223": {
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0831/c13332a227572/page.htm"
+      ]
+    },
+    "opp-be17f3f49f78e14f8244": {
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0831/c13332a227573/page.htm"
+      ]
+    },
+    "opp-df8c0748ee3c80493138": {
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0831/c13332a227576/page.htm"
+      ]
+    },
+    "opp-b150a63a24576a9441b1": {
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0831/c13332a227577/page.htm"
+      ]
+    },
+    "opp-a9fc3197f66e946c1aeb": {
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0831/c13332a227579/page.htm"
+      ]
+    },
+    "opp-48de4b932a040747a515": {
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0831/c13332a227580/page.htm"
+      ]
+    },
+    "opp-eac7d9c3880a12570d9e": {
+      "reason": "校级统一系统窗口明确以各学院公布为准，不应建立一个学院特定截止项目。",
+      "evidenceUrls": [
+        "https://yzb.nwpu.edu.cn/info/1174/10478.htm"
+      ]
+    },
+    "opp-adc59da8d83d26ef5c0b": {
+      "reason": "校级统一系统窗口明确以各学院公布为准，不应建立一个学院特定截止项目。",
+      "evidenceUrls": [
+        "https://yzb.nwpu.edu.cn/info/1174/10478.htm"
+      ]
+    },
+    "opp-b9f6531f7a8f60589dd4": {
+      "reason": "校级统一系统窗口明确以各学院公布为准，不应建立一个学院特定截止项目。",
+      "evidenceUrls": [
+        "https://yzb.nwpu.edu.cn/info/1174/10478.htm"
+      ]
+    },
+    "opp-938cbb7f3342b20d9f3d": {
+      "reason": "校级统一系统窗口明确以各学院公布为准，不应建立一个学院特定截止项目。",
+      "evidenceUrls": [
+        "https://yzb.nwpu.edu.cn/info/1174/10478.htm"
+      ]
+    },
+    "opp-bcd233041436c4c91737": {
+      "reason": "校级统一系统窗口明确以各学院公布为准，不应建立一个学院特定截止项目。",
+      "evidenceUrls": [
+        "https://yzb.nwpu.edu.cn/info/1174/10478.htm"
+      ]
+    },
+    "opp-5677054c2d939bc5b0a0": {
+      "reason": "校级统一系统窗口明确以各学院公布为准，不应建立一个学院特定截止项目。",
+      "evidenceUrls": [
+        "https://yzb.nwpu.edu.cn/info/1174/10478.htm"
+      ]
+    },
+    "opp-20ab522c39b140a26ee0": {
+      "reason": "实际是7月科学营（有营员/食宿/营期），虽使用推免生预报名系统，仍属于原计划明确排除的夏令营阶段。",
+      "evidenceUrls": [
+        "https://saids.ustc.edu.cn/2026/0526/c15435a741761/page.htm"
+      ]
+    },
+    "opp-e87183f70222344cf46f": {
+      "reason": "实际是7月科学营（有营员/食宿/营期），虽使用推免生预报名系统，仍属于原计划明确排除的夏令营阶段。",
+      "evidenceUrls": [
+        "https://cybersec.ustc.edu.cn/2026/0520/c23826a741220/page.htm"
+      ]
+    },
+    "opp-7a521ed4b63de67c4e71": {
+      "reason": "实际是7月科学营（有营员/食宿/营期），虽使用推免生预报名系统，仍属于原计划明确排除的夏令营阶段。",
+      "evidenceUrls": [
+        "https://sse.ustc.edu.cn/2026/0708/c19741a746681/pagem.htm"
+      ]
+    },
+    "opp-14c5bf7689a217b21fb4": {
+      "reason": "原文申请条件为2025级/2026级全日制在学硕士、在博士网报系统申请博士学位；不是2027届本科生申请硕士预推免。",
+      "evidenceUrls": [
+        "https://gs.dlut.edu.cn/info/1173/51602.htm"
+      ]
+    },
+    "opp-54337ce2896252315e87": {
+      "reason": "原文申请条件为2025级/2026级全日制在学硕士、在博士网报系统申请博士学位；不是2027届本科生申请硕士预推免。",
+      "evidenceUrls": [
+        "https://gs.dlut.edu.cn/info/1173/51602.htm"
+      ]
+    },
+    "opp-f7d573c867f96dad1c0e": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm"
+      ]
+    },
+    "opp-3239a3d6e5eef08ce10f": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm"
+      ]
+    },
+    "opp-c16170299144551ec9b8": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm"
+      ]
+    },
+    "opp-5d1767aa0f1a89786dca": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm"
+      ]
+    },
+    "opp-c6da7daad10cf3d799df": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm"
+      ]
+    },
+    "opp-78c91bcc871bfb3910e5": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm"
+      ]
+    },
+    "opp-2fd0f1070e43f002ceed": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm"
+      ]
+    },
+    "opp-a4cf236198ea7909dc28": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm"
+      ]
+    },
+    "opp-de7aef12c917f0b0ec63": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm"
+      ]
+    },
+    "opp-89f5fc1926f46a34e272": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm"
+      ]
+    },
+    "opp-08967595adeab838c1f3": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm"
+      ]
+    },
+    "opp-96e2c13da6afa5f2e9ba": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm"
+      ]
+    },
+    "opp-41dcb35233a84145a6ca": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm"
+      ]
+    },
+    "opp-f3c2b0465cce1b7a0d29": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm"
+      ]
+    },
+    "opp-3e4bc50994046cfdfe98": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm"
+      ]
+    },
+    "opp-643d301cdd0c8ed740b7": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm"
+      ]
+    },
+    "opp-d114129a250f94c22687": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm"
+      ]
+    },
+    "opp-e30ef959343bff800f5b": {
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。",
+      "evidenceUrls": [
+        "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm"
+      ]
+    },
+    "opp-3f85715970156afe97d1": {
+      "reason": "原文申请条件为2025级/2026级全日制在学硕士、在博士网报系统申请博士学位；不是2027届本科生申请硕士预推免。",
+      "evidenceUrls": [
+        "https://gs.dlut.edu.cn/info/1173/51602.htm"
+      ]
+    },
+    "opp-00b96f7b8edb8f42173a": {
+      "reason": "原文申请条件为2025级/2026级全日制在学硕士、在博士网报系统申请博士学位；不是2027届本科生申请硕士预推免。",
+      "evidenceUrls": [
+        "https://gs.dlut.edu.cn/info/1173/51602.htm"
+      ]
+    }
+  },
+  "opportunityAliases": {
+    "opp-6f4e24ea05f58a48fc38": "opp-afcc801584b5ac66e513",
+    "opp-e2fded1498ac6da632d6": "opp-2ea64399eb8f017dce34",
+    "opp-b8bff9d7aec6a94a2216": "opp-100ad9f8220ba88872c2",
+    "opp-3af735041c5feffb9f7f": "opp-cd642c03a1c3caefd35a"
+  }
+}

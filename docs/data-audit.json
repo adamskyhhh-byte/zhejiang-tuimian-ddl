@@ -1,0 +1,2657 @@
+{
+  "schemaVersion": 1,
+  "auditedAt": "2026-09-08T09:07:13.924285+08:00",
+  "sourceRun": {
+    "startedAt": "2026-09-08T08:51:56+08:00",
+    "finishedAt": "2026-09-08T08:57:04+08:00",
+    "status": "partial",
+    "checked": 1298,
+    "succeeded": 1069,
+    "failed": 229,
+    "discovered": 463,
+    "changed": 183
+  },
+  "scope": "对2026-09-08 08:57官方采集快照的76条verified逐条核对硕士范围、培养单位和时间；另对117条pending/conflict作范围快审。排除决定保留历史，不等于学校不招生。缓存缺失的既有人工核验条目使用保存的官方证据，本报告不声称所有学院盘点完成。",
+  "summary": {
+    "verifiedRecordsAudited": 76,
+    "pendingOrConflictScopeReviewed": 117,
+    "exclusionsSuggested": 52,
+    "aliasesSuggested": 4,
+    "additionalVerifiedRecordsAudited": 2,
+    "additionalScopePending": 1
+  },
+  "verifiedRecordDecisions": [
+    {
+      "id": "opp-4ac6f67b34e2ce5fae1e",
+      "title": "雷恩研究生学院计算机技术专业｜推免预报名",
+      "schoolId": "seu",
+      "unitId": "seu-b5ee289a21",
+      "noticeUrl": "https://cs.seu.edu.cn/_upload/article/files/9c/9a/b7be7f6a477f841a57016443ddf4/1ae52cde-6e64-4dba-835a-293551fc9e84.pdf",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-07-13T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026 年 7 月 13 日中午 12:00",
+          "sourceId": "src-450c64c65b90daa450"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-08-10T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026 年 8 月10日中午12:00",
+          "sourceId": "src-450c64c65b90daa450"
+        }
+      ],
+      "cachedSources": [
+        "src-450c64c65b90daa450"
+      ]
+    },
+    {
+      "id": "opp-c9bc3e58b290acc1d4f5",
+      "title": "信息工程学院关于2027年接收推荐免试研究生预报名的通知-信息工程学院",
+      "schoolId": "muc",
+      "unitId": "muc-f662d585bc",
+      "noticeUrl": "https://xingong.muc.edu.cn/info/1041/6425.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-08-01T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026 年 8 月 1 日 0 时",
+          "sourceId": "src-45f02524331b67bd2f"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-08-18T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "8 月 18 日 17 时",
+          "sourceId": "src-45f02524331b67bd2f"
+        }
+      ],
+      "cachedSources": [
+        "src-45f02524331b67bd2f"
+      ]
+    },
+    {
+      "id": "opp-79f444ae584502d7d861",
+      "title": "计算机科学与技术学院（软件学院）｜2027年接收推荐免试研究生（含直接攻博）预报名",
+      "schoolId": "tongji",
+      "unitId": "tongji-68fd4b54d0",
+      "noticeUrl": "https://cs.tongji.edu.cn/__local/9/60/A0/E754D70DC091A39226FD77BEB2B_082455BA_396B5.pdf",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-08-25T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月25日12:00",
+          "sourceId": "src-0dd3595c1550b6a56d"
+        }
+      ],
+      "cachedSources": [
+        "src-0dd3595c1550b6a56d"
+      ]
+    },
+    {
+      "id": "opp-4fbcfeb78698d4d51168",
+      "title": "统计与数据科学学院2027年推免预报名通知",
+      "schoolId": "nankai",
+      "unitId": "nankai-ece8ceb68b",
+      "noticeUrl": "https://stat.nankai.edu.cn/2026/0811/c12324a601148/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-08-29T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026 年 8 月 28 日 24:00",
+          "sourceId": "src-318ccaa9b5304ba376"
+        }
+      ],
+      "cachedSources": [
+        "src-318ccaa9b5304ba376"
+      ]
+    },
+    {
+      "id": "opp-13fbd84fbe70afe2baa4",
+      "title": "机械工程与机器人学院｜2027年接收推荐免试研究生（含直接攻博）预报名及选拔复试",
+      "schoolId": "tongji",
+      "unitId": "tongji-0135ce5046",
+      "noticeUrl": "https://mefaculty.tongji.edu.cn/__local/9/8F/1E/EF80B7C77367C08D362E48D4FA8_EA54D00C_32012.pdf",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-08-01T08:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月1日8:00",
+          "sourceId": "src-73e720e4df95e21bff"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-01T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年9月1日 12:00",
+          "sourceId": "src-73e720e4df95e21bff"
+        }
+      ],
+      "cachedSources": [
+        "src-73e720e4df95e21bff"
+      ]
+    },
+    {
+      "id": "opp-afcc801584b5ac66e513",
+      "title": "（9月2日更新）推免生预报名公告 | 华东师范大学智能交互学院2027年招收推荐免试攻读研究生",
+      "schoolId": "ecnu",
+      "unitId": "ecnu-ce0dc65f05",
+      "noticeUrl": "https://sii.ecnu.edu.cn/c6/2d/c52126a771629/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-07T16:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9 月 7 日 16:00",
+          "sourceId": "src-93c78c81322f62ac06"
+        }
+      ],
+      "cachedSources": [
+        "src-93c78c81322f62ac06"
+      ]
+    },
+    {
+      "id": "opp-0f0a9b7a4efb97451267",
+      "title": "中国科学院空间应用工程与技术中心2027年接收推荐免试研究生预报名通知--中国科学院空间应用工程与技术中心",
+      "schoolId": "ucas",
+      "unitId": "ucas-052b3a83fb",
+      "noticeUrl": "http://www.csu.cas.cn/gb/yjsjy2/tzygg/202608/t20260819_8262176.html",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-08-19",
+          "precision": "date",
+          "raw": "2026年8月19日",
+          "sourceId": "src-8651e0cbe0d4ec6573"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-04",
+          "precision": "date",
+          "raw": "9月4日",
+          "sourceId": "src-8651e0cbe0d4ec6573"
+        }
+      ],
+      "cachedSources": [
+        "src-8651e0cbe0d4ec6573"
+      ]
+    },
+    {
+      "id": "opp-12ef434f7627af875cc1",
+      "title": "【2027推免】南开大学电子信息与光学工程学院接收2027年优秀应届本科毕业生免试攻读研究生（含直博生）预报名的通知-南开大学电子信息与光学工程学院",
+      "schoolId": "nankai",
+      "unitId": "nankai-d8ae6af2c4",
+      "noticeUrl": "https://ceo.nankai.edu.cn/info/1099/4648.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "correct",
+      "targetId": null,
+      "reason": "2026-09-08 逐条读取官方缓存原文，电子信息与光学工程学院材料适用于硕士及直博，和网报截止分别保存；https://ceo.nankai.edu.cn/info/1099/4648.htm",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-05T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年9月4日晚上24:00",
+          "sourceId": "src-19d6b7c42a16002b27"
+        }
+      ],
+      "cachedSources": [
+        "src-19d6b7c42a16002b27"
+      ]
+    },
+    {
+      "id": "opp-585b6c2418f9b4615d86",
+      "title": "关于大连理工大学各院系接收2027年推荐免试研究生预报名陆续开放的通知-大连理工大学研究生院（新）",
+      "schoolId": "dlut",
+      "unitId": "dlut-68fd4b54d0",
+      "noticeUrl": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "学校官方汇总按学院逐行列日期，已核对对应学院行；与只有校统一窗口不同，当前单位日期有明确行级证据。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-07-13T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "（主校区）计算机科学与技术学院2026年7月13日9：00--9月7日09：00",
+          "sourceId": "src-3ac18ef4031fab0699"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-07T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "（主校区）计算机科学与技术学院2026年7月13日9：00--9月7日09：00",
+          "sourceId": "src-3ac18ef4031fab0699"
+        }
+      ],
+      "cachedSources": [
+        "src-3ac18ef4031fab0699",
+        "source-34906acfc78177d9d7c9",
+        "source-3813e2bba2b987c50624"
+      ]
+    },
+    {
+      "id": "opp-16aa098407ef53e8bbe2",
+      "title": "软件工程学院（滴水湖国际软件学院）｜2027年接收优秀应届本科毕业生免试攻读研究生预报名",
+      "schoolId": "ecnu",
+      "unitId": "ecnu-03321df4f5",
+      "noticeUrl": "https://sei.ecnu.edu.cn/_upload/article/files/55/5a/217f03734763aff606388556d210/7afd3011-6a67-4ded-b971-3e8d937f4008.pdf",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-07-27T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "我院预报名的起止时间为2026年7月27日09：00——2026年9月7日中午12：00",
+          "sourceId": "src-6b440a8638139a26a7"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-07T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "我院预报名的起止时间为2026年7月27日09：00——2026年9月7日中午12：00",
+          "sourceId": "src-6b440a8638139a26a7"
+        }
+      ],
+      "cachedSources": [
+        "src-6b440a8638139a26a7"
+      ]
+    },
+    {
+      "id": "opp-7b1fd7d8cf18f91c929a",
+      "title": "大连理工大学光电工程与仪器科学学院2027年接收推荐免试研究生预报名开放通知-光电工程与仪器科学学院",
+      "schoolId": "dlut",
+      "unitId": "dlut-5f278a3ad8",
+      "noticeUrl": "https://oeis.dlut.edu.cn/info/1045/9985.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-08-12T08:00:00+08:00",
+          "precision": "datetime",
+          "raw": "8月12日8:00",
+          "sourceId": "src-a944fb3b9ca6e1c3cb"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-07T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月7日中午12:00",
+          "sourceId": "src-a944fb3b9ca6e1c3cb"
+        }
+      ],
+      "cachedSources": [
+        "src-a944fb3b9ca6e1c3cb"
+      ]
+    },
+    {
+      "id": "opp-cd642c03a1c3caefd35a",
+      "title": "大连理工大学控制科学与工程学院2027年接收推荐免试研究生预报名通知-大连理工大学控制科学与工程学院",
+      "schoolId": "dlut",
+      "unitId": "dlut-c8db326793",
+      "noticeUrl": "https://scse.dlut.edu.cn/info/1471/15392.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-07-20",
+          "precision": "date",
+          "raw": "7 月 20 日",
+          "sourceId": "src-bb2aabb65249183986"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-08T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月 7 日 24：00",
+          "sourceId": "src-bb2aabb65249183986"
+        }
+      ],
+      "cachedSources": [
+        "src-bb2aabb65249183986"
+      ]
+    },
+    {
+      "id": "opp-2a674418466b6737dd8e",
+      "title": "关于大连理工大学各院系接收2027年推荐免试研究生预报名陆续开放的通知-大连理工大学研究生院（新）",
+      "schoolId": "dlut",
+      "unitId": "dlut-d44e9404bb",
+      "noticeUrl": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "学校官方汇总按学院逐行列日期，已核对对应学院行；与只有校统一窗口不同，当前单位日期有明确行级证据。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-07-25T08:00:00+08:00",
+          "precision": "datetime",
+          "raw": "（开发区校区）软件学院2026年7月25日8：00--9月8日8：00",
+          "sourceId": "src-544d4e86518b575976"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-08T08:00:00+08:00",
+          "precision": "datetime",
+          "raw": "（开发区校区）软件学院2026年7月25日8：00--9月8日8：00",
+          "sourceId": "src-544d4e86518b575976"
+        }
+      ],
+      "cachedSources": [
+        "src-544d4e86518b575976",
+        "source-3813e2bba2b987c50624",
+        "source-93023a3fa51b408cf405"
+      ]
+    },
+    {
+      "id": "opp-7d416a77e349fc7c1ff8",
+      "title": "北京大学信息工程学院2027年接收推荐免试研究生说明-北京大学信息工程学院",
+      "schoolId": "pku",
+      "unitId": "pku-f662d585bc",
+      "noticeUrl": "https://www.ece.pku.edu.cn/info/1025/3213.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "correct",
+      "targetId": null,
+      "reason": "2026-09-08 逐条读取官方缓存原文，信息工程学院当批电子申请材料单独截止9月8日12:00，纸质材料另须9月10日前寄达；https://www.ece.pku.edu.cn/info/1025/3213.htm",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-01T10:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年9月1日10:00",
+          "sourceId": "src-038f71234ef55cff1e"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-08T10:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月8日10:00",
+          "sourceId": "src-038f71234ef55cff1e"
+        }
+      ],
+      "cachedSources": [
+        "src-038f71234ef55cff1e"
+      ]
+    },
+    {
+      "id": "opp-d151b9af27686e7117cf",
+      "title": "数据科学与工程学院｜2027年接收优秀应届本科毕业生免试攻读研究生预报名",
+      "schoolId": "ecnu",
+      "unitId": "ecnu-6793503382",
+      "noticeUrl": "https://dase.ecnu.edu.cn/_upload/article/files/ef/b7/8ce4634b46aeb6697638fa0718f7/901c46e7-91ce-4622-9a48-2c7293196931.pdf",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-07-27T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "我院预报名的起止时间为：2026年7月27日9:00~2026年9月8日12:00",
+          "sourceId": "src-5c6fb9518b237987a7"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-08T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "我院预报名的起止时间为：2026年7月27日9:00~2026年9月8日12:00",
+          "sourceId": "src-5c6fb9518b237987a7"
+        }
+      ],
+      "cachedSources": [
+        "src-5c6fb9518b237987a7"
+      ]
+    },
+    {
+      "id": "opp-bed4a7e7c00beaf998c1",
+      "title": "信息与传播学院关于2027年推荐免试硕士研究生预报名的通知",
+      "schoolId": "nankai",
+      "unitId": "nankai-8790883450",
+      "noticeUrl": "https://ic.nankai.edu.cn/2026/0903/c19738a601773/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "correct",
+      "targetId": null,
+      "reason": "2026-09-08 逐条读取官方缓存原文，信息与传播学院当批硕士网报及材料截止分别公布；数智社会与新闻传播含数智传播方向，可作为明确交叉收录；https://ic.nankai.edu.cn/2026/0903/c19738a601773/page.htm",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-09T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9 月 8 日 24:00",
+          "sourceId": "src-9083c3677985c6fde1"
+        }
+      ],
+      "cachedSources": [
+        "src-9083c3677985c6fde1"
+      ]
+    },
+    {
+      "id": "opp-b0e466c0d27fcbce5dc4",
+      "title": "关于武汉大学人工智能学院2027年推免生接收预报名的通知-武汉大学人工智能学院",
+      "schoolId": "whu",
+      "unitId": "whu-54ee27e5bf",
+      "noticeUrl": "https://sai.whu.edu.cn/info/1601/20141.htm",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-09T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "预报名时间：即日起至9月8日24：00",
+          "sourceId": "src-85e07395836cce1704"
+        }
+      ],
+      "cachedSources": []
+    },
+    {
+      "id": "opp-f5dc63fbdf4847faa7dd",
+      "title": "计算机学院关于接收2027年推免生预报名的通知-武汉大学计算机学院",
+      "schoolId": "whu",
+      "unitId": "whu-d6aeec6db0",
+      "noticeUrl": "https://cs.whu.edu.cn/info/1071/65501.htm",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-04T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "（一）预报名时间2026年9月4日17:00—9月10日上午8:00",
+          "sourceId": "src-01fa4c73609861212d"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-10T08:00:00+08:00",
+          "precision": "datetime",
+          "raw": "（一）预报名时间2026年9月4日17:00—9月10日上午8:00",
+          "sourceId": "src-01fa4c73609861212d"
+        }
+      ],
+      "cachedSources": []
+    },
+    {
+      "id": "opp-f605bf852c593a8b059d",
+      "title": "国家网络安全学院2027年接收推免生预报名的通知",
+      "schoolId": "whu",
+      "unitId": "whu-06d9a2d997",
+      "noticeUrl": "https://cse.whu.edu.cn/__local/5/25/DE/51582978060F518921AD789313B_5C9D8C5A_1ECBA.pdf",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-03",
+          "precision": "date",
+          "raw": "预报名系统开放时间：2026年9月3日—9月10日中午12:00",
+          "sourceId": "src-36f4af1ef93da744bb"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-10T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "预报名系统开放时间：2026年9月3日—9月10日中午12:00",
+          "sourceId": "src-36f4af1ef93da744bb"
+        }
+      ],
+      "cachedSources": []
+    },
+    {
+      "id": "opp-0c1a19c97ffb47990448",
+      "title": "2026年网络空间安全学院预推免招生公告",
+      "schoolId": "ustc",
+      "unitId": "ustc-7be1433646",
+      "noticeUrl": "https://cybersec.ustc.edu.cn/2026/0903/c23826a752108/page.htm",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "correct",
+      "targetId": null,
+      "reason": "2026-09-08 逐条读取官方缓存原文，网络空间安全学院只公布网上报名截止，材料随报名系统上传，无独立9月10日全天截止；面试明确线下；https://cybersec.ustc.edu.cn/2026/0903/c23826a752108/page.htm",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-10T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "报名截止日期：2026年9月10日下午17:00",
+          "sourceId": "src-5114001bc2d7d924a8"
+        },
+        {
+          "field": "materialsEnd",
+          "value": "2026-09-10",
+          "precision": "date",
+          "raw": "2026年9月10日",
+          "sourceId": "src-5114001bc2d7d924a8"
+        }
+      ],
+      "cachedSources": [
+        "src-5114001bc2d7d924a8"
+      ]
+    },
+    {
+      "id": "opp-da1abc5f77cefd73cdd0",
+      "title": "山东大学数学学院2027年接收推荐免试硕士研究生预报名通知-山东大学数学学院",
+      "schoolId": "sdu",
+      "unitId": "sdu-be80419028",
+      "noticeUrl": "https://www.math.sdu.edu.cn/info/1031/22054.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-01T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026 年9月1日9:00",
+          "sourceId": "src-fe1307c0ce3f0f1b0b"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-10T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月10日17:00",
+          "sourceId": "src-fe1307c0ce3f0f1b0b"
+        }
+      ],
+      "cachedSources": [
+        "src-fe1307c0ce3f0f1b0b"
+      ]
+    },
+    {
+      "id": "opp-0bce9dc5bf5bd12e7d32",
+      "title": "山东大学数据科学研究院2027年接收推荐免试研究生预报名通知-山东大学数据科学研究院",
+      "schoolId": "sdu",
+      "unitId": "sdu-605588488b",
+      "noticeUrl": "https://dsi.sdu.edu.cn/info/1093/4664.htm",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-01T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "报名时间：2026年9月1日9:00-9月10日17:00",
+          "sourceId": "src-58052e54c8efe90a51"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-10T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "报名时间：2026年9月1日9:00-9月10日17:00",
+          "sourceId": "src-58052e54c8efe90a51"
+        }
+      ],
+      "cachedSources": [
+        "src-58052e54c8efe90a51"
+      ]
+    },
+    {
+      "id": "opp-5c303e7735fc75468a99",
+      "title": "山东大学网络空间安全学院2027年接收推荐免试硕士研究生和本科直博生预报名通知-网络空间安全学院",
+      "schoolId": "sdu",
+      "unitId": "sdu-7be1433646",
+      "noticeUrl": "https://cst.qd.sdu.edu.cn/info/1023/4169.htm",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-01T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "报名时间：2026年9月1日9:00-2026年9月10日17:00",
+          "sourceId": "src-a272cd2b1bba173d55"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-10T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "报名时间：2026年9月1日9:00-2026年9月10日17:00",
+          "sourceId": "src-a272cd2b1bba173d55"
+        }
+      ],
+      "cachedSources": [
+        "src-a272cd2b1bba173d55"
+      ]
+    },
+    {
+      "id": "opp-e120b0dc477b51bad1f7",
+      "title": "测绘学院关于2027年接收推荐免试研究生（含直博生）预报名的通知-武汉大学测绘学院",
+      "schoolId": "whu",
+      "unitId": "whu-78e852b100",
+      "noticeUrl": "https://www.sgg.whu.edu.cn/info/1380/45961.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-03T10:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年9月3日10:00",
+          "sourceId": "src-30cc05f0b9bb5ef251"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-10T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月10日17:00",
+          "sourceId": "src-30cc05f0b9bb5ef251"
+        }
+      ],
+      "cachedSources": [
+        "src-30cc05f0b9bb5ef251"
+      ]
+    },
+    {
+      "id": "opp-20caa717a53ba9e97a48",
+      "title": "计算机科学与技术学院2027年推荐免试研究生招生预报名的通知-西安电子科技大学计算机科学与技术学院",
+      "schoolId": "xidian",
+      "unitId": "xidian-68fd4b54d0",
+      "noticeUrl": "https://cs.xidian.edu.cn/info/1003/25704.htm",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-10T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "报名时间：即日起-9月10日17:00",
+          "sourceId": "src-cf91f870a60180d055"
+        }
+      ],
+      "cachedSources": []
+    },
+    {
+      "id": "opp-f541ac4815d6f0142794",
+      "title": "哈尔滨工业大学集成电路科学与工程学科2027年推免生（含直博生）报名通知",
+      "schoolId": "hit",
+      "unitId": "hit-eef157a8bb",
+      "noticeUrl": "https://sa.hit.edu.cn/2026/0731/c6582a398925/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-10",
+          "precision": "date",
+          "raw": "2026 年 9 月 10 日",
+          "sourceId": "src-15b1d76b61a650927e"
+        }
+      ],
+      "cachedSources": [
+        "src-15b1d76b61a650927e"
+      ]
+    },
+    {
+      "id": "opp-d6430f4ebdca62c1de3d",
+      "title": "山东大学软件学院2027年接收推荐免试硕士研究生和本科直博生预报名通知-山东大学软件学院",
+      "schoolId": "sdu",
+      "unitId": "sdu-d44e9404bb",
+      "noticeUrl": "https://www.sc.sdu.edu.cn/info/1019/6068.htm",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-02T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "报名开始时间：2026年9月2日09:00，截止时间2026年9月11日12：00",
+          "sourceId": "src-c447cddb6c508ee3ce"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-11T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "报名开始时间：2026年9月2日09:00，截止时间2026年9月11日12：00",
+          "sourceId": "src-c447cddb6c508ee3ce"
+        }
+      ],
+      "cachedSources": [
+        "src-c447cddb6c508ee3ce"
+      ]
+    },
+    {
+      "id": "opp-5579ed843d61e6d4725f",
+      "title": "控制科学与工程学院2027年接收推荐免试硕士研究生和本科直博生预报名通知-控制科学与工程学院",
+      "schoolId": "sdu",
+      "unitId": "sdu-c8db326793",
+      "noticeUrl": "https://control.sdu.edu.cn/info/1018/8238.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-01T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年9月1日09：00",
+          "sourceId": "src-b02441c00cbe916fd2"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-11T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月11日17:00",
+          "sourceId": "src-b02441c00cbe916fd2"
+        }
+      ],
+      "cachedSources": [
+        "src-b02441c00cbe916fd2"
+      ]
+    },
+    {
+      "id": "opp-a98999c995abe9111361",
+      "title": "【2027推免】南开大学计算机学院、密码与网络空间安全学院2027年接收优秀应届本科毕业生免试攻读研究生预报名的通知",
+      "schoolId": "nankai",
+      "unitId": "nankai-7578132f48",
+      "noticeUrl": "https://cc.nankai.edu.cn/2026/0709/c13297a600172/page.htm",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-12",
+          "precision": "date",
+          "raw": "四、报名起止时间：即日起至2026年9月12日",
+          "sourceId": "src-147a598727fd28ce36"
+        }
+      ],
+      "cachedSources": [
+        "src-147a598727fd28ce36"
+      ]
+    },
+    {
+      "id": "opp-c4433e3ab475bddcb2d2",
+      "title": "信息与电子工程学院 （集成电路科学与工程学院） 2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名的通知",
+      "schoolId": "ecnu",
+      "unitId": "ecnu-202313367a",
+      "noticeUrl": "https://ieeic.ecnu.edu.cn/c4/1e/c4170a771102/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-07-26T08:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年7月26日8:00",
+          "sourceId": "src-d04db24a3ec0316135"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-13T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年9月13日17:00",
+          "sourceId": "src-d04db24a3ec0316135"
+        }
+      ],
+      "cachedSources": [
+        "src-d04db24a3ec0316135"
+      ]
+    },
+    {
+      "id": "opp-a2d679212d173feba51d",
+      "title": "华东师范大学统计学院2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名通知",
+      "schoolId": "ecnu",
+      "unitId": "ecnu-8fc5d7e97c",
+      "noticeUrl": "https://stat.ecnu.edu.cn/c3/29/c9708a770857/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "correct",
+      "targetId": null,
+      "reason": "2026-09-08 逐条读取官方缓存原文，统计学院当批硕士预报名明确中午12点，日期后括号星期导致自动漏时刻；https://stat.ecnu.edu.cn/c3/29/c9708a770857/page.htm",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-14",
+          "precision": "date",
+          "raw": "2026年9月14日",
+          "sourceId": "src-07475af15232a0cbb9"
+        }
+      ],
+      "cachedSources": [
+        "src-07475af15232a0cbb9"
+      ]
+    },
+    {
+      "id": "opp-e09cc48e879a3fce3a43",
+      "title": "关于大连理工大学各院系接收2027年推荐免试研究生预报名陆续开放的通知-大连理工大学研究生院（新）",
+      "schoolId": "dlut",
+      "unitId": "dlut-54ee27e5bf",
+      "noticeUrl": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "学校官方汇总按学院逐行列日期，已核对对应学院行；与只有校统一窗口不同，当前单位日期有明确行级证据。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-07-13T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "（主校区）人工智能学院2026年7月13日9：00--9月15日12：00",
+          "sourceId": "src-9f12af9402e875b3df"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "（主校区）人工智能学院2026年7月13日9：00--9月15日12：00",
+          "sourceId": "src-9f12af9402e875b3df"
+        }
+      ],
+      "cachedSources": [
+        "src-9f12af9402e875b3df",
+        "source-14728da5d58cc7de73e5",
+        "source-3813e2bba2b987c50624"
+      ]
+    },
+    {
+      "id": "opp-585557cd71e9e7f4cef9",
+      "title": "智能通信技术研究院2027年接收推荐免试研究生预报名的通知-山东大学智能通信技术研究院",
+      "schoolId": "sdu",
+      "unitId": "sdu-a571143029",
+      "noticeUrl": "https://iict.sdu.edu.cn/info/1027/1367.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "correct",
+      "targetId": null,
+      "reason": "2026-09-08 逐条读取官方缓存原文，智能通信技术研究院当批学硕预报名明确09:00，版式空白导致开始时间降为日期；https://iict.sdu.edu.cn/info/1027/1367.htm",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-04",
+          "precision": "date",
+          "raw": "2026 年 9 月 4 日",
+          "sourceId": "src-5695ac72978fae2dcf"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9 月 15 日 17:00",
+          "sourceId": "src-5695ac72978fae2dcf"
+        }
+      ],
+      "cachedSources": [
+        "src-5695ac72978fae2dcf"
+      ]
+    },
+    {
+      "id": "opp-2ea64399eb8f017dce34",
+      "title": "西北工业大学人工智能学院/无人系统技术研究院2027年接收推荐免试研究生预报名的通知-无人系统技术研究院",
+      "schoolId": "nwpu",
+      "unitId": "nwpu-e1b6be8199",
+      "noticeUrl": "https://wurenxitong.nwpu.edu.cn/info/1373/14048.htm",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-04T15:00:00+08:00",
+          "precision": "datetime",
+          "raw": "预报名时间：9月4日15:00—9月15日18:00",
+          "sourceId": "src-aaa9330f8000bcaabd"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15T18:00:00+08:00",
+          "precision": "datetime",
+          "raw": "预报名时间：9月4日15:00—9月15日18:00",
+          "sourceId": "src-aaa9330f8000bcaabd"
+        }
+      ],
+      "cachedSources": [
+        "src-aaa9330f8000bcaabd"
+      ]
+    },
+    {
+      "id": "opp-972305d230d171e335be",
+      "title": "人工智能学院 2027年推荐免试研究生招生预报名通知-西安电子科技大学-人工智能学院",
+      "schoolId": "xidian",
+      "unitId": "xidian-54ee27e5bf",
+      "noticeUrl": "https://sai.xidian.edu.cn/info/1106/28372.htm",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-07-16",
+          "precision": "date",
+          "raw": "学院2027年推免生预报名系统将于2026年7月16日至9月18日向考生开放",
+          "sourceId": "src-f19ba318c90b34ff76"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-18",
+          "precision": "date",
+          "raw": "学院2027年推免生预报名系统将于2026年7月16日至9月18日向考生开放",
+          "sourceId": "src-f19ba318c90b34ff76"
+        }
+      ],
+      "cachedSources": []
+    },
+    {
+      "id": "opp-b8a631ea18974d1bbbde",
+      "title": "西北工业大学柔性电子学院2027年接收推荐免试研究生预报名的通知-柔性电子学院（School of Flexible Electronics）",
+      "schoolId": "nwpu",
+      "unitId": "nwpu-e22d3f5d04",
+      "noticeUrl": "https://sfe.nwpu.edu.cn/info/1175/17605.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-04T15:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月4日15:00",
+          "sourceId": "src-10ccc375c9eafb8317"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-20T18:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月20日18:00",
+          "sourceId": "src-10ccc375c9eafb8317"
+        }
+      ],
+      "cachedSources": [
+        "src-10ccc375c9eafb8317"
+      ]
+    },
+    {
+      "id": "opp-3a771cf8332ead9a558d",
+      "title": "西北工业大学2027年接收推荐免试研究生预报名的通知-研究生招生信息网",
+      "schoolId": "nwpu",
+      "unitId": "nwpu-d44e9404bb",
+      "noticeUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "西工大校级总通知明确“具体时间以各学院公布为准”，不能作为该学院已核验截止；人工智能学院实际专属公告9月15日18时截止，更不能被9月20日覆盖。建议保留总通知为来源，不单独发布学院项目。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-04T15:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9 月 4 日 15:00",
+          "sourceId": "source-6e2e7ea040e895be7be1"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-20T18:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9 月 20 日 18:00",
+          "sourceId": "source-6e2e7ea040e895be7be1"
+        }
+      ],
+      "cachedSources": [
+        "src-57d9556e7b124a2150",
+        "source-eee4dd97db466b344030",
+        "source-6e2e7ea040e895be7be1"
+      ]
+    },
+    {
+      "id": "opp-ea798fbc14206c88859a",
+      "title": "人工智能学院2027年推荐优秀应届本科毕业生免试攻读研究生考核录取工作通知-人工智能学院",
+      "schoolId": "csu",
+      "unitId": "csu-54ee27e5bf",
+      "noticeUrl": "https://ai.csu.edu.cn/info/1030/1386.htm",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "correct",
+      "targetId": null,
+      "reason": "2026-09-08 逐条读取官方缓存原文，人工智能学院当批硕士资格审查材料有独立截止，复试明确线下面试；https://ai.csu.edu.cn/info/1030/1386.htm",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-07T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "申请时间：2026年9月7日17:00前通过“中南大学推免生服务系统”进行网上报名",
+          "sourceId": "src-27615dbeeed755533b"
+        }
+      ],
+      "cachedSources": [
+        "src-27615dbeeed755533b"
+      ]
+    },
+    {
+      "id": "opp-6e43d5eb55624b20435b",
+      "title": "信息学院（特色化示范性软件学院）关于2027年接收推荐免试研究生（含直博生）预报名的通知（第二批）-厦门大学信息学院",
+      "schoolId": "xmu",
+      "unitId": "xmu-efb96ffeee",
+      "noticeUrl": "https://informatics.xmu.edu.cn/info/1072/203131.htm",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-01T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "二、报名时间9月1日00:00至9月7日24:00",
+          "sourceId": "src-73b1dce61db81962be"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-08T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "二、报名时间9月1日00:00至9月7日24:00",
+          "sourceId": "src-73b1dce61db81962be"
+        }
+      ],
+      "cachedSources": [
+        "src-73b1dce61db81962be"
+      ]
+    },
+    {
+      "id": "opp-20d18a5e6e84fc4f4317",
+      "title": "北京师范大学人工智能学院",
+      "schoolId": "bnu",
+      "unitId": "bnu-54ee27e5bf",
+      "noticeUrl": "https://ai.bnu.edu.cn/ggjxz/tzgg/df9187fe0a2b4ef4a98e9d0edf5d77b5.htm",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-10T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "请考生在9月10日12:00前登录北京师范大学2027年推免申请系统进行申请",
+          "sourceId": "src-be66a18a1837ab3072"
+        }
+      ],
+      "cachedSources": [
+        "src-be66a18a1837ab3072"
+      ]
+    },
+    {
+      "id": "opp-7786c21661338ed80379",
+      "title": "中国人民大学2027年工程硕博士培养改革专项推免研究生招生报名通知",
+      "schoolId": "ruc",
+      "unitId": "ruc-1ce6f6c662",
+      "noticeUrl": "https://ai.ruc.edu.cn/newslist/notice/20260904001.html",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-04T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "系统开放时间为2026年9月4日9:00-9月10日18:00",
+          "sourceId": "src-a72c776d5d2e5a5ef8"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-10T18:00:00+08:00",
+          "precision": "datetime",
+          "raw": "系统开放时间为2026年9月4日9:00-9月10日18:00",
+          "sourceId": "src-a72c776d5d2e5a5ef8"
+        }
+      ],
+      "cachedSources": [
+        "src-a72c776d5d2e5a5ef8"
+      ]
+    },
+    {
+      "id": "opp-8bbcff9df64a74027810",
+      "title": "浙江大学2027年推荐免试研究生预报名时间",
+      "schoolId": "zju",
+      "unitId": "zju-68fd4b54d0",
+      "noticeUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "学校官方汇总按学院逐行列日期，已核对对应学院行；与只有校统一窗口不同，当前单位日期有明确行级证据。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-08-10T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月10日9:00开始报名，2026年9月10日24：00报名截止。",
+          "sourceId": "src-77de7456068012ff35"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-11T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月10日9:00开始报名，2026年9月10日24：00报名截止。",
+          "sourceId": "src-77de7456068012ff35"
+        }
+      ],
+      "cachedSources": [
+        "src-77de7456068012ff35"
+      ]
+    },
+    {
+      "id": "opp-89d149c1369e2571e4a6",
+      "title": "浙江大学2027年推荐免试研究生预报名时间",
+      "schoolId": "zju",
+      "unitId": "zju-db560ef727",
+      "noticeUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "学校官方汇总按学院逐行列日期，已核对对应学院行；与只有校统一窗口不同，当前单位日期有明确行级证据。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-08-10T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月10日9:00-9月10日24:00",
+          "sourceId": "src-95b3b1eb428a2c1b6d"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-11T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月10日9:00-9月10日24:00",
+          "sourceId": "src-95b3b1eb428a2c1b6d"
+        }
+      ],
+      "cachedSources": [
+        "src-95b3b1eb428a2c1b6d"
+      ]
+    },
+    {
+      "id": "opp-1668644eec7b4520c241",
+      "title": "浙江大学2027年推荐免试研究生预报名时间",
+      "schoolId": "zju",
+      "unitId": "zju-c8db326793",
+      "noticeUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "学校官方汇总按学院逐行列日期，已核对对应学院行；与只有校统一窗口不同，当前单位日期有明确行级证据。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-08-10T08:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月10日8:00起开放报名，2026年9月10日24点报名截止",
+          "sourceId": "src-d714c6620bc6ccd1c9"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-11T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月10日8:00起开放报名，2026年9月10日24点报名截止",
+          "sourceId": "src-d714c6620bc6ccd1c9"
+        }
+      ],
+      "cachedSources": [
+        "src-d714c6620bc6ccd1c9"
+      ]
+    },
+    {
+      "id": "opp-10641c087f21e126d652",
+      "title": "浙江大学2027年推荐免试研究生预报名时间",
+      "schoolId": "zju",
+      "unitId": "zju-54ee27e5bf",
+      "noticeUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "学校官方汇总按学院逐行列日期，已核对对应学院行；与只有校统一窗口不同，当前单位日期有明确行级证据。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-08-10T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月10日9:00开始报名，2026年9月10日24:00报名截止。",
+          "sourceId": "src-0cf492287e7f41fcdc"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-11T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月10日9:00开始报名，2026年9月10日24:00报名截止。",
+          "sourceId": "src-0cf492287e7f41fcdc"
+        }
+      ],
+      "cachedSources": [
+        "src-0cf492287e7f41fcdc"
+      ]
+    },
+    {
+      "id": "opp-11b568cd94dd49217720",
+      "title": "浙江大学2027年推荐免试研究生预报名时间",
+      "schoolId": "zju",
+      "unitId": "zju-d44e9404bb",
+      "noticeUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "学校官方汇总按学院逐行列日期，已核对对应学院行；与只有校统一窗口不同，当前单位日期有明确行级证据。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-08-10",
+          "precision": "date",
+          "raw": "2026年8月10日起开放报名，2026年9月10日24:00报名截止。",
+          "sourceId": "src-7a62541c6f73ba152e"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-11T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月10日起开放报名，2026年9月10日24:00报名截止。",
+          "sourceId": "src-7a62541c6f73ba152e"
+        }
+      ],
+      "cachedSources": [
+        "src-7a62541c6f73ba152e"
+      ]
+    },
+    {
+      "id": "opp-nudt-cs-2027-round-2",
+      "title": "计算机学院接收第二轮2027级地方院校推荐免试硕士研究生（含直博生）工作方案",
+      "schoolId": "nudt",
+      "unitId": "nudt-d6aeec6db0",
+      "noticeUrl": "https://yjszs.nudt.edu.cn/attached/file/20260904/20260904185822_736.pdf",
+      "autoWithoutVerifiedOverride": false,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-10T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "报名时间：即日起至9月10日12:00。",
+          "sourceId": "src-nudt-cs-2027-round-2-pdf"
+        }
+      ],
+      "cachedSources": [
+        "src-nudt-cs-2027-round-2",
+        "src-nudt-cs-2027-round-2-pdf"
+      ]
+    },
+    {
+      "id": "opp-3f3a7e3c792e9c378940",
+      "title": "西安电子科技大学集成电路学部2027年推荐免试硕士研究生招生预报名通知_西安电子科技大学集成电路学部_微电子学院",
+      "schoolId": "xidian",
+      "unitId": "xidian-6525ce363b",
+      "noticeUrl": "https://sme.xidian.edu.cn/html/tzgg/jl/2026/0720/3660.html",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "硕士预报名窗口与当前官方原文一致；未借用直博或全国正式推免时间。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-07-20",
+          "precision": "date",
+          "raw": "2026年7月20日",
+          "sourceId": "source-d2c83c849b9e5401b0b1"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月15日",
+          "sourceId": "source-d2c83c849b9e5401b0b1"
+        }
+      ],
+      "cachedSources": [
+        "source-d2c83c849b9e5401b0b1"
+      ]
+    },
+    {
+      "id": "opp-6ead08294b1b4b0f3c71",
+      "title": "浙江大学2027年推荐免试研究生预报名时间",
+      "schoolId": "zju",
+      "unitId": "zju-ae18cab9f7",
+      "noticeUrl": "https://yjsy.zju.edu.cn/dataapi/open/zsss/listBksm?nf=2027&bksmlx=2&pageNo=1&pageSize=100",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "学校官方汇总按学院逐行列日期，已核对对应学院行；与只有校统一窗口不同，当前单位日期有明确行级证据。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-08-10",
+          "precision": "date",
+          "raw": "8月10日",
+          "sourceId": "src-7cc107393810baaa98"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-10",
+          "precision": "date",
+          "raw": "9月10日",
+          "sourceId": "src-7cc107393810baaa98"
+        }
+      ],
+      "cachedSources": [
+        "src-7cc107393810baaa98"
+      ]
+    },
+    {
+      "id": "opp-6f4e24ea05f58a48fc38",
+      "title": "（9月2日更新）推免生预报名公告 | 华东师范大学智能交互学院2027年招收推荐免试攻读研究生",
+      "schoolId": "ecnu",
+      "unitId": "ecnu-ce0dc65f05",
+      "noticeUrl": "https://sii.ecnu.edu.cn/c6/2d/c52124a771629/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "merge",
+      "targetId": "opp-afcc801584b5ac66e513",
+      "reason": "同一WebPlus文章a771629，栏目c52124/c52126不同，标题、正文、单位和截止相同。",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-07T16:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9 月 7 日 16:00",
+          "sourceId": "source-935963e2b459757aa762"
+        }
+      ],
+      "cachedSources": [
+        "source-935963e2b459757aa762"
+      ]
+    },
+    {
+      "id": "opp-e2fded1498ac6da632d6",
+      "title": "西北工业大学人工智能学院/无人系统技术研究院2027年接收推荐免试研究生预报名的通知-无人系统技术研究院",
+      "schoolId": "nwpu",
+      "unitId": "nwpu-4ea9bd8739",
+      "noticeUrl": "https://wurenxitong.nwpu.edu.cn/info/1373/14048.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "merge",
+      "targetId": "opp-2ea64399eb8f017dce34",
+      "reason": "同一西工大人工智能学院/无人系统研究院/1373/14048.htm公告；两个培养单位仅斜线版式别名。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-04T15:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月4日15:00",
+          "sourceId": "source-61f5697d472ca704200c"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15T18:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月15日18:00",
+          "sourceId": "source-61f5697d472ca704200c"
+        }
+      ],
+      "cachedSources": [
+        "source-61f5697d472ca704200c"
+      ]
+    },
+    {
+      "id": "opp-e0967896a5753e58e1bb",
+      "title": "四川大学网络空间安全学院2027年接收推荐免试攻读硕士学位研究生预报名通知-四川大学网络空间安全学院",
+      "schoolId": "scu",
+      "unitId": "scu-7be1433646",
+      "noticeUrl": "https://ccs.scu.edu.cn/info/1013/2311.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "correct",
+      "targetId": null,
+      "reason": "2026-09-08 逐条读取官方缓存原文，网络空间安全学院硕士当批原文明确“本次复试采取线上复试形式”；https://ccs.scu.edu.cn/info/1013/2311.htm",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-11T22:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026 年 9 月 11 日 22:00",
+          "sourceId": "source-537ccc5a15c05f288859"
+        }
+      ],
+      "cachedSources": [
+        "source-537ccc5a15c05f288859"
+      ]
+    },
+    {
+      "id": "opp-acc42b55ff5c559f4474",
+      "title": "西北工业大学2027年接收推荐免试研究生预报名的通知-研究生招生信息网",
+      "schoolId": "nwpu",
+      "unitId": "nwpu-a0ff30037a",
+      "noticeUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "西工大校级总通知明确“具体时间以各学院公布为准”，不能作为该学院已核验截止；人工智能学院实际专属公告9月15日18时截止，更不能被9月20日覆盖。建议保留总通知为来源，不单独发布学院项目。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-04T15:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9 月 4 日 15:00",
+          "sourceId": "source-55e691c5e3219561204b"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-20T18:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9 月 20 日 18:00",
+          "sourceId": "source-55e691c5e3219561204b"
+        }
+      ],
+      "cachedSources": [
+        "source-55e691c5e3219561204b"
+      ]
+    },
+    {
+      "id": "opp-c956857459ab4a98352e",
+      "title": "哈尔滨工业大学计算学部关于接收2027年优秀应届本科毕业生免试攻读研究生补充报名的通知",
+      "schoolId": "hit",
+      "unitId": "hit-5f2d8b12b6",
+      "noticeUrl": "https://cs.hit.edu.cn/2026/0905/c11271a401043/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "correct",
+      "targetId": null,
+      "reason": "2026-09-08 逐条读取官方缓存原文，计算学部2027年9月5日至6日是补充报名独立批次，标题明确“补充报名”，不能标成首批；更名保留现有项目ID；https://cs.hit.edu.cn/2026/0905/c11271a401043/page.htm",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-05",
+          "precision": "date",
+          "raw": "9月5日",
+          "sourceId": "source-554350da28b443a99ca6"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-06",
+          "precision": "date",
+          "raw": "9月6日",
+          "sourceId": "source-554350da28b443a99ca6"
+        }
+      ],
+      "cachedSources": [
+        "source-554350da28b443a99ca6"
+      ]
+    },
+    {
+      "id": "opp-1a81a926670342854afc",
+      "title": "哈尔滨工业大学光学工程学科 2027年推免生（含直博生）报名通知",
+      "schoolId": "hit",
+      "unitId": "hit-eef157a8bb",
+      "noticeUrl": "https://sa.hit.edu.cn/2026/0731/c6582a398924/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "retain",
+      "targetId": null,
+      "reason": "原文明示光学工程、电子信息领域及光电子/空间光学方向，硕士与直博共用9月10日日期，可作为电子信息交叉保留。",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-10",
+          "precision": "date",
+          "raw": "2026 年 9 月 10 日",
+          "sourceId": "source-c368c9c7270541a6a0e2"
+        }
+      ],
+      "cachedSources": [
+        "source-c368c9c7270541a6a0e2"
+      ]
+    },
+    {
+      "id": "opp-462edd5ee121613ae51f",
+      "title": "哈尔滨工业大学力学学科2027年推免生（含直博生）报名通知",
+      "schoolId": "hit",
+      "unitId": "hit-eef157a8bb",
+      "noticeUrl": "https://sa.hit.edu.cn/2026/0731/c6582a398922/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "哈工大力学学科公告仅列力学及可申请本科相近专业，无明确计算/控制培养方向；本科控制/数学可报不等同于培养方向，先排除并保留待补证。",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "2026 年 9 月 15 日",
+          "sourceId": "source-516fac735b99bb6a2e18"
+        }
+      ],
+      "cachedSources": [
+        "source-516fac735b99bb6a2e18"
+      ]
+    },
+    {
+      "id": "opp-1c8b676c23617b6e1d1a",
+      "title": "哈尔滨工业大学航空宇航科学与技术学科2027年推免生（含直博生）报名通知",
+      "schoolId": "hit",
+      "unitId": "hit-eef157a8bb",
+      "noticeUrl": "https://sa.hit.edu.cn/2026/0731/c6582a398918/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "哈工大航空宇航学科公告仅航空宇航/机械相关，无明确计算/机器人/控制培养方向，先排除并保留待补证。",
+      "timesReviewed": [
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-10",
+          "precision": "date",
+          "raw": "2026 年 9 月 10 日",
+          "sourceId": "source-420ae27582f37be034ad"
+        }
+      ],
+      "cachedSources": [
+        "source-420ae27582f37be034ad"
+      ]
+    },
+    {
+      "id": "opp-3e14fe7f25b1b056e1e8",
+      "title": "华东政法大学法律硕士（非法学）“国家安全法律实务”2027年接收推荐免试研究生报名的通知",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1753e1026d",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0905/c13332a227664/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "2026年9月9日",
+          "sourceId": "source-a4e4324b595786285e45"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月15日",
+          "sourceId": "source-a4e4324b595786285e45"
+        }
+      ],
+      "cachedSources": [
+        "source-a4e4324b595786285e45"
+      ]
+    },
+    {
+      "id": "opp-b808da326633fcb4b4cc",
+      "title": "华东政法大学2027年招收推荐免试攻读硕士学位研究生办法",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1753e1026d",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0904/c13332a227634/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "校级总办法只给统一系统窗口及各学院联系人，不能当成知识产权学院/中国法治战略研究院的特定计算交叉项目；保留为来源，不发布成独立学院项目。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "9月9日",
+          "sourceId": "source-6d275bfb7977b5b72e84"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月15日",
+          "sourceId": "source-6d275bfb7977b5b72e84"
+        },
+        {
+          "field": "materialsEnd",
+          "value": "2026-09-15T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月 15 日 12 时",
+          "sourceId": "source-6d275bfb7977b5b72e84"
+        }
+      ],
+      "cachedSources": [
+        "source-6d275bfb7977b5b72e84"
+      ]
+    },
+    {
+      "id": "opp-887da5a91341f18dc89d",
+      "title": "华东政法大学“国际组织实训班” 2027年接收推荐免试研究生报名的通知",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1753e1026d",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227572/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "2026 年 9月 9 日",
+          "sourceId": "source-10042583e2e5e2354246"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月 15 日",
+          "sourceId": "source-10042583e2e5e2354246"
+        }
+      ],
+      "cachedSources": [
+        "source-10042583e2e5e2354246"
+      ]
+    },
+    {
+      "id": "opp-0f0754c7de63dd93bd2c",
+      "title": "华东政法大学“出海企业实战班（含涉外法治建筑工程方向）”2027年接收推荐免试研究生报名的通知",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1753e1026d",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227573/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "2026 年 9月 9 日",
+          "sourceId": "source-cd539a76f56a8ab2d0ac"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月 15 日",
+          "sourceId": "source-cd539a76f56a8ab2d0ac"
+        }
+      ],
+      "cachedSources": [
+        "source-cd539a76f56a8ab2d0ac"
+      ]
+    },
+    {
+      "id": "opp-2b954b24faa5bf625da2",
+      "title": "华东政法大学“国际金融法治人才专项班”2027年接收推荐免试研究生报名的通知",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1753e1026d",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227576/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "2026 年 9月 9 日",
+          "sourceId": "source-8a07f200f22e46f37280"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月 15 日",
+          "sourceId": "source-8a07f200f22e46f37280"
+        }
+      ],
+      "cachedSources": [
+        "source-8a07f200f22e46f37280"
+      ]
+    },
+    {
+      "id": "opp-286c4bfbbacc75dcfc7e",
+      "title": "华东政法大学“国际航空法治人才专项班”2027年接收推荐免试研究生报名的通知",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1753e1026d",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227577/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "2026 年 9月 9 日",
+          "sourceId": "source-b845cff76dacf1f84de7"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月 15 日",
+          "sourceId": "source-b845cff76dacf1f84de7"
+        }
+      ],
+      "cachedSources": [
+        "source-b845cff76dacf1f84de7"
+      ]
+    },
+    {
+      "id": "opp-b8bff9d7aec6a94a2216",
+      "title": "华东政法大学“人工智能法治人才专项班”2027年接收推荐免试研究生报名的通知",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1753e1026d",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227578/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "merge",
+      "targetId": "opp-100ad9f8220ba88872c2",
+      "reason": "人工智能法治专项原文明示设于中国法治战略研究院，误落入知识产权学院；并入已有正确单位和专项批次ID。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "2026 年 9月 9 日",
+          "sourceId": "source-9362df5c2bffd971c863"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月 15 日",
+          "sourceId": "source-9362df5c2bffd971c863"
+        }
+      ],
+      "cachedSources": [
+        "source-9362df5c2bffd971c863"
+      ]
+    },
+    {
+      "id": "opp-9c91d2f7f1439d7e9c5a",
+      "title": "华东政法大学法律硕士（非法学）“卫生健康法治实务”2027年接收推荐免试研究生报名的通知",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1753e1026d",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227579/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "2026 年 9月 9 日",
+          "sourceId": "source-cef94bed1099f687ed21"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月 15 日",
+          "sourceId": "source-cef94bed1099f687ed21"
+        }
+      ],
+      "cachedSources": [
+        "source-cef94bed1099f687ed21"
+      ]
+    },
+    {
+      "id": "opp-14ca29b958e26a67b98f",
+      "title": "华东政法大学法律硕士（非法学）“教育法治实务”2027年接收推荐免试研究生报名的通知",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1753e1026d",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227580/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "2026年9月9日",
+          "sourceId": "source-7bf5d561e94e4b9a4a90"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月15日",
+          "sourceId": "source-7bf5d561e94e4b9a4a90"
+        }
+      ],
+      "cachedSources": [
+        "source-7bf5d561e94e4b9a4a90"
+      ]
+    },
+    {
+      "id": "opp-7c239cbcf5b9c7a129ca",
+      "title": "西北工业大学2027年接收推荐免试研究生预报名的通知-研究生招生信息网",
+      "schoolId": "nwpu",
+      "unitId": "nwpu-eee7676ab9",
+      "noticeUrl": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "西工大校级总通知明确“具体时间以各学院公布为准”，不能作为该学院已核验截止；人工智能学院实际专属公告9月15日18时截止，更不能被9月20日覆盖。建议保留总通知为来源，不单独发布学院项目。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-04T15:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9 月 4 日 15:00",
+          "sourceId": "source-f1dd998de929d18a2bb0"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-20T18:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9 月 20 日 18:00",
+          "sourceId": "source-f1dd998de929d18a2bb0"
+        }
+      ],
+      "cachedSources": [
+        "source-f1dd998de929d18a2bb0"
+      ]
+    },
+    {
+      "id": "opp-2f43304a860e617a2767",
+      "title": "华东政法大学法律硕士（非法学）“国家安全法律实务”2027年接收推荐免试研究生报名的通知",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1dbcf6a9b5",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0905/c13332a227664/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "2026年9月9日",
+          "sourceId": "source-f3612d59271ae5785c08"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月15日",
+          "sourceId": "source-f3612d59271ae5785c08"
+        }
+      ],
+      "cachedSources": [
+        "source-f3612d59271ae5785c08"
+      ]
+    },
+    {
+      "id": "opp-874b18f92177d58809c8",
+      "title": "华东政法大学2027年招收推荐免试攻读硕士学位研究生办法",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1dbcf6a9b5",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0904/c13332a227634/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "校级总办法只给统一系统窗口及各学院联系人，不能当成知识产权学院/中国法治战略研究院的特定计算交叉项目；保留为来源，不发布成独立学院项目。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "9月9日",
+          "sourceId": "source-1b583a780cfc20364109"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月15日",
+          "sourceId": "source-1b583a780cfc20364109"
+        },
+        {
+          "field": "materialsEnd",
+          "value": "2026-09-15T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月 15 日 12 时",
+          "sourceId": "source-1b583a780cfc20364109"
+        }
+      ],
+      "cachedSources": [
+        "source-1b583a780cfc20364109"
+      ]
+    },
+    {
+      "id": "opp-3ce587657044514e9223",
+      "title": "华东政法大学“国际组织实训班” 2027年接收推荐免试研究生报名的通知",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1dbcf6a9b5",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227572/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "2026 年 9月 9 日",
+          "sourceId": "source-87f5228caae8f5c04abc"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月 15 日",
+          "sourceId": "source-87f5228caae8f5c04abc"
+        }
+      ],
+      "cachedSources": [
+        "source-87f5228caae8f5c04abc"
+      ]
+    },
+    {
+      "id": "opp-be17f3f49f78e14f8244",
+      "title": "华东政法大学“出海企业实战班（含涉外法治建筑工程方向）”2027年接收推荐免试研究生报名的通知",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1dbcf6a9b5",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227573/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "2026 年 9月 9 日",
+          "sourceId": "source-d6b5d919e3e5fee7a2bc"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月 15 日",
+          "sourceId": "source-d6b5d919e3e5fee7a2bc"
+        }
+      ],
+      "cachedSources": [
+        "source-d6b5d919e3e5fee7a2bc"
+      ]
+    },
+    {
+      "id": "opp-df8c0748ee3c80493138",
+      "title": "华东政法大学“国际金融法治人才专项班”2027年接收推荐免试研究生报名的通知",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1dbcf6a9b5",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227576/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "2026 年 9月 9 日",
+          "sourceId": "source-2444fef4958ee2a24200"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月 15 日",
+          "sourceId": "source-2444fef4958ee2a24200"
+        }
+      ],
+      "cachedSources": [
+        "source-2444fef4958ee2a24200"
+      ]
+    },
+    {
+      "id": "opp-b150a63a24576a9441b1",
+      "title": "华东政法大学“国际航空法治人才专项班”2027年接收推荐免试研究生报名的通知",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1dbcf6a9b5",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227577/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "2026 年 9月 9 日",
+          "sourceId": "source-a5652be9704c9d54f197"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月 15 日",
+          "sourceId": "source-a5652be9704c9d54f197"
+        }
+      ],
+      "cachedSources": [
+        "source-a5652be9704c9d54f197"
+      ]
+    },
+    {
+      "id": "opp-a9fc3197f66e946c1aeb",
+      "title": "华东政法大学法律硕士（非法学）“卫生健康法治实务”2027年接收推荐免试研究生报名的通知",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1dbcf6a9b5",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227579/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "2026 年 9月 9 日",
+          "sourceId": "source-b1fcfe6c0b2540376774"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月 15 日",
+          "sourceId": "source-b1fcfe6c0b2540376774"
+        }
+      ],
+      "cachedSources": [
+        "source-b1fcfe6c0b2540376774"
+      ]
+    },
+    {
+      "id": "opp-48de4b932a040747a515",
+      "title": "华东政法大学法律硕士（非法学）“教育法治实务”2027年接收推荐免试研究生报名的通知",
+      "schoolId": "ecupl",
+      "unitId": "ecupl-1dbcf6a9b5",
+      "noticeUrl": "https://gs.ecupl.edu.cn/2026/0831/c13332a227580/page.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "exclude",
+      "targetId": null,
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "2026年9月9日",
+          "sourceId": "source-9b73bd56ed4c161457c4"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-15",
+          "precision": "date",
+          "raw": "9月15日",
+          "sourceId": "source-9b73bd56ed4c161457c4"
+        }
+      ],
+      "cachedSources": [
+        "source-9b73bd56ed4c161457c4"
+      ]
+    },
+    {
+      "id": "opp-3af735041c5feffb9f7f",
+      "title": "大连理工大学控制科学与工程学院2027年接收推荐免试研究生预报名通知-大连理工大学控制科学与工程学院",
+      "schoolId": "dlut",
+      "unitId": "dlut-c8db326793",
+      "noticeUrl": "https://scse.dlut.edu.cn/info/1181/15402.htm",
+      "autoWithoutVerifiedOverride": true,
+      "decision": "merge",
+      "targetId": "opp-cd642c03a1c3caefd35a",
+      "reason": "大连理工控制学院旧/info/1471/15392.htm与新/info/1181/15402.htm为转载同文；两份state.pages hash完全相同：b846e41b950ed6d37f437e79c016442977ab6080bae6662d22266fe072148267。单位、批次和日期相同，可手工identityKey指向旧URL。",
+      "timesReviewed": [
+        {
+          "field": "applicationStart",
+          "value": "2026-07-20",
+          "precision": "date",
+          "raw": "7 月 20 日",
+          "sourceId": "source-73bae16b9544e7eaa933"
+        },
+        {
+          "field": "applicationEnd",
+          "value": "2026-09-08T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月 7 日 24：00",
+          "sourceId": "source-73bae16b9544e7eaa933"
+        }
+      ],
+      "cachedSources": [
+        "source-73bae16b9544e7eaa933"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "id": "opp-3e14fe7f25b1b056e1e8",
+      "url": "https://gs.ecupl.edu.cn/2026/0905/c13332a227664/page.htm",
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。"
+    },
+    {
+      "id": "opp-b808da326633fcb4b4cc",
+      "url": "https://gs.ecupl.edu.cn/2026/0904/c13332a227634/page.htm",
+      "reason": "校级总办法只给统一系统窗口及各学院联系人，不能当成知识产权学院/中国法治战略研究院的特定计算交叉项目；保留为来源，不发布成独立学院项目。"
+    },
+    {
+      "id": "opp-887da5a91341f18dc89d",
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227572/page.htm",
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。"
+    },
+    {
+      "id": "opp-0f0754c7de63dd93bd2c",
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227573/page.htm",
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。"
+    },
+    {
+      "id": "opp-2b954b24faa5bf625da2",
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227576/page.htm",
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。"
+    },
+    {
+      "id": "opp-286c4bfbbacc75dcfc7e",
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227577/page.htm",
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。"
+    },
+    {
+      "id": "opp-9c91d2f7f1439d7e9c5a",
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227579/page.htm",
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。"
+    },
+    {
+      "id": "opp-14ca29b958e26a67b98f",
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227580/page.htm",
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。"
+    },
+    {
+      "id": "opp-2f43304a860e617a2767",
+      "url": "https://gs.ecupl.edu.cn/2026/0905/c13332a227664/page.htm",
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。"
+    },
+    {
+      "id": "opp-874b18f92177d58809c8",
+      "url": "https://gs.ecupl.edu.cn/2026/0904/c13332a227634/page.htm",
+      "reason": "校级总办法只给统一系统窗口及各学院联系人，不能当成知识产权学院/中国法治战略研究院的特定计算交叉项目；保留为来源，不发布成独立学院项目。"
+    },
+    {
+      "id": "opp-3ce587657044514e9223",
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227572/page.htm",
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。"
+    },
+    {
+      "id": "opp-be17f3f49f78e14f8244",
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227573/page.htm",
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。"
+    },
+    {
+      "id": "opp-df8c0748ee3c80493138",
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227576/page.htm",
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。"
+    },
+    {
+      "id": "opp-b150a63a24576a9441b1",
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227577/page.htm",
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。"
+    },
+    {
+      "id": "opp-a9fc3197f66e946c1aeb",
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227579/page.htm",
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。"
+    },
+    {
+      "id": "opp-48de4b932a040747a515",
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227580/page.htm",
+      "reason": "专项培养内容为国家安全法律、国际组织、出海建筑、金融法律、航空法律、卫生健康或教育法律；正文没有明确计算/AI/网络安全培养方向，且不能因配置的列表所属单位将专项自动归给知识产权学院/中国法治战略研究院。"
+    },
+    {
+      "id": "opp-3a771cf8332ead9a558d",
+      "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+      "reason": "西工大校级总通知明确“具体时间以各学院公布为准”，不能作为该学院已核验截止；人工智能学院实际专属公告9月15日18时截止，更不能被9月20日覆盖。建议保留总通知为来源，不单独发布学院项目。"
+    },
+    {
+      "id": "opp-acc42b55ff5c559f4474",
+      "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+      "reason": "西工大校级总通知明确“具体时间以各学院公布为准”，不能作为该学院已核验截止；人工智能学院实际专属公告9月15日18时截止，更不能被9月20日覆盖。建议保留总通知为来源，不单独发布学院项目。"
+    },
+    {
+      "id": "opp-7c239cbcf5b9c7a129ca",
+      "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+      "reason": "西工大校级总通知明确“具体时间以各学院公布为准”，不能作为该学院已核验截止；人工智能学院实际专属公告9月15日18时截止，更不能被9月20日覆盖。建议保留总通知为来源，不单独发布学院项目。"
+    },
+    {
+      "id": "opp-462edd5ee121613ae51f",
+      "url": "https://sa.hit.edu.cn/2026/0731/c6582a398922/page.htm",
+      "reason": "哈工大力学学科公告仅列力学及可申请本科相近专业，无明确计算/控制培养方向；本科控制/数学可报不等同于培养方向，先排除并保留待补证。"
+    },
+    {
+      "id": "opp-1c8b676c23617b6e1d1a",
+      "url": "https://sa.hit.edu.cn/2026/0731/c6582a398918/page.htm",
+      "reason": "哈工大航空宇航学科公告仅航空宇航/机械相关，无明确计算/机器人/控制培养方向，先排除并保留待补证。"
+    },
+    {
+      "id": "opp-eac7d9c3880a12570d9e",
+      "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+      "reason": "校级统一系统窗口明确以各学院公布为准，不应建立一个学院特定截止项目。"
+    },
+    {
+      "id": "opp-adc59da8d83d26ef5c0b",
+      "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+      "reason": "校级统一系统窗口明确以各学院公布为准，不应建立一个学院特定截止项目。"
+    },
+    {
+      "id": "opp-b9f6531f7a8f60589dd4",
+      "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+      "reason": "校级统一系统窗口明确以各学院公布为准，不应建立一个学院特定截止项目。"
+    },
+    {
+      "id": "opp-938cbb7f3342b20d9f3d",
+      "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+      "reason": "校级统一系统窗口明确以各学院公布为准，不应建立一个学院特定截止项目。"
+    },
+    {
+      "id": "opp-bcd233041436c4c91737",
+      "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+      "reason": "校级统一系统窗口明确以各学院公布为准，不应建立一个学院特定截止项目。"
+    },
+    {
+      "id": "opp-20ab522c39b140a26ee0",
+      "url": "https://saids.ustc.edu.cn/2026/0526/c15435a741761/page.htm",
+      "reason": "实际是7月科学营（有营员/食宿/营期），虽使用推免生预报名系统，仍属于原计划明确排除的夏令营阶段。"
+    },
+    {
+      "id": "opp-e87183f70222344cf46f",
+      "url": "https://cybersec.ustc.edu.cn/2026/0520/c23826a741220/page.htm",
+      "reason": "实际是7月科学营（有营员/食宿/营期），虽使用推免生预报名系统，仍属于原计划明确排除的夏令营阶段。"
+    },
+    {
+      "id": "opp-7a521ed4b63de67c4e71",
+      "url": "https://sse.ustc.edu.cn/2026/0708/c19741a746681/pagem.htm",
+      "reason": "实际是7月科学营（有营员/食宿/营期），虽使用推免生预报名系统，仍属于原计划明确排除的夏令营阶段。"
+    },
+    {
+      "id": "opp-14c5bf7689a217b21fb4",
+      "url": "https://gs.dlut.edu.cn/info/1173/51602.htm",
+      "reason": "原文申请条件为2025级/2026级全日制在学硕士、在博士网报系统申请博士学位；不是2027届本科生申请硕士预推免。"
+    },
+    {
+      "id": "opp-54337ce2896252315e87",
+      "url": "https://gs.dlut.edu.cn/info/1173/51602.htm",
+      "reason": "原文申请条件为2025级/2026级全日制在学硕士、在博士网报系统申请博士学位；不是2027届本科生申请硕士预推免。"
+    },
+    {
+      "id": "opp-f7d573c867f96dad1c0e",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-3239a3d6e5eef08ce10f",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-c16170299144551ec9b8",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-5d1767aa0f1a89786dca",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-c6da7daad10cf3d799df",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-78c91bcc871bfb3910e5",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-2fd0f1070e43f002ceed",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-a4cf236198ea7909dc28",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-de7aef12c917f0b0ec63",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43264a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-89f5fc1926f46a34e272",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-08967595adeab838c1f3",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-96e2c13da6afa5f2e9ba",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-41dcb35233a84145a6ca",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-f3c2b0465cce1b7a0d29",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-3e4bc50994046cfdfe98",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-643d301cdd0c8ed740b7",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-d114129a250f94c22687",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-e30ef959343bff800f5b",
+      "url": "https://yjszs.ecnu.edu.cn/c3/cb/c43265a771019/page.htm",
+      "reason": "正文仅含带链接院系名称目录，没有该院系项目或独立时间信息；应用作listing来源发现实际院系公告，不应建立重复未知截止项目。"
+    },
+    {
+      "id": "opp-3f85715970156afe97d1",
+      "url": "https://gs.dlut.edu.cn/info/1173/51602.htm",
+      "reason": "原文申请条件为2025级/2026级全日制在学硕士、在博士网报系统申请博士学位；不是2027届本科生申请硕士预推免。"
+    },
+    {
+      "id": "opp-5677054c2d939bc5b0a0",
+      "url": "https://yzb.nwpu.edu.cn/info/1174/10478.htm",
+      "reason": "校级统一系统窗口明确以各学院公布为准，不应建立一个学院特定截止项目。"
+    },
+    {
+      "id": "opp-00b96f7b8edb8f42173a",
+      "url": "https://gs.dlut.edu.cn/info/1173/51602.htm",
+      "reason": "原文申请条件为2025级/2026级全日制在学硕士、在博士网报系统申请博士学位；不是2027届本科生申请硕士预推免。"
+    }
+  ],
+  "aliases": [
+    {
+      "id": "opp-6f4e24ea05f58a48fc38",
+      "targetId": "opp-afcc801584b5ac66e513",
+      "url": "https://sii.ecnu.edu.cn/c6/2d/c52124a771629/page.htm",
+      "reason": "同一WebPlus文章a771629，栏目c52124/c52126不同，标题、正文、单位和截止相同。"
+    },
+    {
+      "id": "opp-3af735041c5feffb9f7f",
+      "targetId": "opp-cd642c03a1c3caefd35a",
+      "url": "https://scse.dlut.edu.cn/info/1181/15402.htm",
+      "reason": "大连理工控制学院旧/info/1471/15392.htm与新/info/1181/15402.htm为转载同文；两份state.pages hash完全相同：b846e41b950ed6d37f437e79c016442977ab6080bae6662d22266fe072148267。单位、批次和日期相同，可手工identityKey指向旧URL。"
+    },
+    {
+      "id": "opp-e2fded1498ac6da632d6",
+      "targetId": "opp-2ea64399eb8f017dce34",
+      "url": "https://wurenxitong.nwpu.edu.cn/info/1373/14048.htm",
+      "reason": "同一西工大人工智能学院/无人系统研究院/1373/14048.htm公告；两个培养单位仅斜线版式别名。"
+    },
+    {
+      "id": "opp-b8bff9d7aec6a94a2216",
+      "targetId": "opp-100ad9f8220ba88872c2",
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227578/page.htm",
+      "reason": "人工智能法治专项原文明示设于中国法治战略研究院，误落入知识产权学院；并入已有正确单位和专项批次ID。"
+    }
+  ],
+  "manualCorrections": {
+    "opp-a2d679212d173feba51d": {
+      "reason": "2026-09-08 逐条读取官方缓存原文，统计学院当批硕士预报名明确中午12点，日期后括号星期导致自动漏时刻；https://stat.ecnu.edu.cn/c3/29/c9708a770857/page.htm",
+      "applicationEnd": {
+        "value": "2026-09-14T12:00:00+08:00",
+        "precision": "datetime",
+        "raw": "我院推免预报名截止时间为：2026年9月14日（周一）中午12点。",
+        "sourceId": "src-07475af15232a0cbb9"
+      }
+    },
+    "opp-585557cd71e9e7f4cef9": {
+      "reason": "2026-09-08 逐条读取官方缓存原文，智能通信技术研究院当批学硕预报名明确09:00，版式空白导致开始时间降为日期；https://iict.sdu.edu.cn/info/1027/1367.htm",
+      "applicationStart": {
+        "value": "2026-09-04T09:00:00+08:00",
+        "precision": "datetime",
+        "raw": "报名时间：2026 年 9 月 4 日 09 ： 00-9 月 15 日 17:00。",
+        "sourceId": "src-5695ac72978fae2dcf"
+      }
+    },
+    "opp-12ef434f7627af875cc1": {
+      "reason": "2026-09-08 逐条读取官方缓存原文，电子信息与光学工程学院材料适用于硕士及直博，和网报截止分别保存；https://ceo.nankai.edu.cn/info/1099/4648.htm",
+      "materialsEnd": {
+        "value": "2026-09-07T12:00:00+08:00",
+        "precision": "datetime",
+        "raw": "以上材料须按次序扫描制成一个PDF文件，以“姓名+硕士/直博+报考专业+本科学校”命名，请于9月7日中午12点前上传至WPS表单。",
+        "sourceId": "src-19d6b7c42a16002b27"
+      }
+    },
+    "opp-7d416a77e349fc7c1ff8": {
+      "reason": "2026-09-08 逐条读取官方缓存原文，信息工程学院当批电子申请材料单独截止9月8日12:00，纸质材料另须9月10日前寄达；https://www.ece.pku.edu.cn/info/1025/3213.htm",
+      "materialsEnd": {
+        "value": "2026-09-08T12:00:00+08:00",
+        "precision": "datetime",
+        "raw": "电子版材料：请将以上（1）-（7）项材料中除（3）专家推荐信以外的所有申请材料按顺序扫描并合并成1个PDF文件后于2026年9月8日12:00前发送。",
+        "sourceId": "src-038f71234ef55cff1e"
+      },
+      "notes": "公告未明确学硕／专硕类型。 人工修正： 2026-09-08人工核对考核形式：推免接收复试工作采取现场复试形式进行。 https://www.ece.pku.edu.cn/info/1025/3213.htm 电子材料于9月8日12:00前发送；纸质材料须于9月10日前寄达，后者只公布日期。"
+    },
+    "opp-bed4a7e7c00beaf998c1": {
+      "reason": "2026-09-08 逐条读取官方缓存原文，信息与传播学院当批硕士网报及材料截止分别公布；数智社会与新闻传播含数智传播方向，可作为明确交叉收录；https://ic.nankai.edu.cn/2026/0903/c19738a601773/page.htm",
+      "materialsEnd": {
+        "value": "2026-09-09T12:00:00+08:00",
+        "precision": "datetime",
+        "raw": "9月9日12:00前，请按以下顺序将报名材料扫描制成一个PDF文档。",
+        "sourceId": "src-9083c3677985c6fde1"
+      },
+      "assessmentMode": "offline"
+    },
+    "opp-ea798fbc14206c88859a": {
+      "reason": "2026-09-08 逐条读取官方缓存原文，人工智能学院当批硕士资格审查材料有独立截止，复试明确线下面试；https://ai.csu.edu.cn/info/1030/1386.htm",
+      "materialsEnd": {
+        "value": "2026-09-08T12:00:00+08:00",
+        "precision": "datetime",
+        "raw": "完成网上申请的学生于9月8日12:00前提交资格审查材料至电子邮箱。",
+        "sourceId": "src-27615dbeeed755533b"
+      },
+      "assessmentMode": "offline"
+    },
+    "opp-0c1a19c97ffb47990448": {
+      "reason": "2026-09-08 逐条读取官方缓存原文，网络空间安全学院只公布网上报名截止，材料随报名系统上传，无独立9月10日全天截止；面试明确线下；https://cybersec.ustc.edu.cn/2026/0903/c23826a752108/page.htm",
+      "materialsEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "进入“推免生预报名”选择“网络空间安全学院”进行在线报名并提交相关材料。未另行公布独立材料截止。",
+        "sourceId": "src-5114001bc2d7d924a8"
+      },
+      "assessmentMode": "offline"
+    },
+    "opp-e0967896a5753e58e1bb": {
+      "reason": "2026-09-08 逐条读取官方缓存原文，网络空间安全学院硕士当批原文明确“本次复试采取线上复试形式”；https://ccs.scu.edu.cn/info/1013/2311.htm",
+      "assessmentMode": "online"
+    },
+    "opp-c956857459ab4a98352e": {
+      "reason": "2026-09-08 逐条读取官方缓存原文，计算学部2027年9月5日至6日是补充报名独立批次，标题明确“补充报名”，不能标成首批；更名保留现有项目ID；https://cs.hit.edu.cn/2026/0905/c11271a401043/page.htm",
+      "batch": "补充报名"
+    }
+  },
+  "additionalOfficialChecks": {
+    "auditedAt": "2026-09-08T09:13:45.344877+08:00",
+    "sourceRun": {
+      "startedAt": "2026-09-08T09:12:38+08:00",
+      "finishedAt": "2026-09-08T09:12:43+08:00",
+      "status": "partial",
+      "checked": 26,
+      "succeeded": 25,
+      "failed": 1,
+      "discovered": 8,
+      "changed": 6
+    },
+    "scope": "追加审查正常网络小范围复查发现的2条西北工业大学硕士预报名，未将沙箱网络失败计作官网故障。 同时检查1条机电学院短通知，时间保留、硕士适用范围待核验。",
+    "records": [
+      {
+        "id": "opp-4d131a2031859e521183",
+        "title": "航海学院2027年接收推荐免试研究生预报名的通知-航海学院",
+        "schoolId": "nwpu",
+        "unitId": "nwpu-marine",
+        "noticeUrl": "https://hanghai.nwpu.edu.cn/info/1946/26972.htm",
+        "decision": "retain",
+        "reason": "航海学院公告明确2027届本科生预报名和学硕/专硕；硕士招生表含081000信息与通信工程、081100控制科学与工程、085401电子信息及085406控制工程。四（一）报名窗口为9月4日15:00至9月15日中午12:00，适用于硕士，非全国正式推免或博士单独截止。",
+        "timesReviewed": [
+          {
+            "field": "applicationStart",
+            "value": "2026-09-04T15:00:00+08:00",
+            "precision": "datetime",
+            "raw": "9月4日 15:00",
+            "sourceId": "src-nwpu-marine-2027-pre"
+          },
+          {
+            "field": "applicationEnd",
+            "value": "2026-09-15T12:00:00+08:00",
+            "precision": "datetime",
+            "raw": "9月 15 日 中午 12:00",
+            "sourceId": "src-nwpu-marine-2027-pre"
+          }
+        ],
+        "materialsReview": "材料在预报名系统提交，无独立材料截止，materialsEnd=null适当。",
+        "verification": "verified"
+      },
+      {
+        "id": "opp-20e6870ea26e35a379bd",
+        "title": "西北工业大学集成电路学院（微电子学院）2027年接收推荐免试研究生预报名的通知-集成电路学院（微电子学院）",
+        "schoolId": "nwpu",
+        "unitId": "nwpu-eee7676ab9",
+        "noticeUrl": "https://weidianzi.nwpu.edu.cn/info/1138/18983.htm",
+        "decision": "retain",
+        "reason": "集成电路学院院级公告明确硕士32人左右及学术型/专业型招生，专业含电子科学、集成电路、电子信息和人工智能。四（一）预报名窗口为9月4日15:00至9月20日18:00，适用于硕士，学院专属原文确认，非校级总窗口无条件套用。",
+        "timesReviewed": [
+          {
+            "field": "applicationStart",
+            "value": "2026-09-04T15:00:00+08:00",
+            "precision": "datetime",
+            "raw": "9月4日15:00",
+            "sourceId": "src-nwpu-micro-2027-pre"
+          },
+          {
+            "field": "applicationEnd",
+            "value": "2026-09-20T18:00:00+08:00",
+            "precision": "datetime",
+            "raw": "9月20日18:00",
+            "sourceId": "src-nwpu-micro-2027-pre"
+          }
+        ],
+        "materialsReview": "材料在预报名系统提交，无独立材料截止，materialsEnd=null适当。",
+        "verification": "verified"
+      },
+      {
+        "id": "opp-8717f7565bad6109c2de",
+        "title": "关于机电学院2026年预推免报名时间的通知-西北工业大学机电学院",
+        "schoolId": "nwpu",
+        "unitId": "nwpu-mechanical",
+        "noticeUrl": "https://jidian.nwpu.edu.cn/info/1017/16039.htm",
+        "decision": "pending",
+        "reason": "机电学院2026年预推免短通知仅明确9月4日9:00至9月15日18:00及报名后统一审核，未明示2027级入学、硕士或硕博共同适用范围。学校2027年硕士招生目录虽列机电学院的集成电路科学与工程、智能制造技术、机器人工程等相关硕士专业，但不足以证明这份短通知的时间必然适用于该硕士范围。保留官方已公布时间，核验状态设pending，待学院补充或人工确认。",
+        "evidenceUrls": [
+          "https://jidian.nwpu.edu.cn/info/1017/16039.htm",
+          "https://yzb.nwpu.edu.cn/info/1174/10478.htm"
+        ],
+        "timesReviewed": [
+          {
+            "field": "applicationStart",
+            "value": "2026-09-04T09:00:00+08:00",
+            "precision": "datetime",
+            "raw": "9月4日9:00",
+            "sourceId": "src-nwpu-mechanical-2026-pre"
+          },
+          {
+            "field": "applicationEnd",
+            "value": "2026-09-15T18:00:00+08:00",
+            "precision": "datetime",
+            "raw": "9月15日18:00",
+            "sourceId": "src-nwpu-mechanical-2026-pre"
+          }
+        ],
+        "verification": "pending"
+      }
+    ]
+  }
+}
