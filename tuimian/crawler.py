@@ -185,21 +185,30 @@ async def crawl(
     run = Run(startedAt=timestamp, finishedAt=timestamp)
     owned_fetcher = fetcher is None
     fetcher = fetcher or Fetcher()
+    pending: dict[asyncio.Task, SourceConfig] = {}
     try:
-        while queue and (limit is None or run.checked < limit):
-            size = min(6, limit - run.checked) if limit is not None else 6
-            batch, queue = queue[:size], queue[size:]
-            batch = [s for s in batch if s.id not in visited]
-            if not batch:
-                continue
-            for source in batch:
+        while queue or pending:
+            while (
+                queue and len(pending) < 6 and (limit is None or run.checked + len(pending) < limit)
+            ):
+                source = queue.pop(0)
+                if source.id in visited:
+                    continue
                 visited.add(source.id)
                 status = state["sourceStatus"].setdefault(source.id, {})
                 status["lastAttemptAt"] = now_iso()
-            pages = await asyncio.gather(
-                *(fetcher.fetch(s, state["pages"].get(s.id)) for s in batch), return_exceptions=True
-            )
-            for source, result in zip(batch, pages):
+                task = asyncio.create_task(fetcher.fetch(source, state["pages"].get(source.id)))
+                pending[task] = source
+            if not pending:
+                break
+            # 任一来源完成即可腾出并发槽；状态归并与发现处理仍按顺序执行。
+            completed, _ = await asyncio.wait(pending, return_when=asyncio.FIRST_COMPLETED)
+            for task in [task for task in pending if task in completed]:
+                source = pending.pop(task)
+                try:
+                    result = task.result()
+                except BaseException as exc:
+                    result = exc
                 run.checked += 1
                 status = state["sourceStatus"].setdefault(source.id, {})
                 timestamp = now_iso()
@@ -332,6 +341,11 @@ async def crawl(
                     status.update(lastSuccessAt=timestamp, lastParsedAt=timestamp, error=None)
                 logger.info("已检查 %s (%s)", source.id, source.kind)
     finally:
+        # 中断时先回收所有请求任务，再关闭连接；不写入未完成的抓取状态。
+        for task in pending:
+            task.cancel()
+        if pending:
+            await asyncio.gather(*pending, return_exceptions=True)
         if owned_fetcher:
             await fetcher.close()
     run.finishedAt = now_iso()

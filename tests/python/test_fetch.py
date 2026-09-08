@@ -181,3 +181,37 @@ def test_non_ascii_download_headers_and_invalid_etag_do_not_break_fetch():
             assert "if-none-match" not in headers[-1]
 
     asyncio.run(check())
+
+
+def test_robots_crawl_delay_applies_only_to_its_host(monkeypatch):
+    waits = []
+
+    async def fake_sleep(seconds):
+        waits.append(seconds)
+
+    monkeypatch.setattr("tuimian.fetch.time.monotonic", lambda: 1000.0)
+    monkeypatch.setattr("tuimian.fetch.asyncio.sleep", fake_sleep)
+
+    def handler(request):
+        if request.url.path == "/robots.txt":
+            robots = "User-agent: *\nAllow: /"
+            if request.url.host == "slow.edu.cn":
+                robots += "\nCrawl-delay: 10"
+            return httpx.Response(200, text=robots)
+        return httpx.Response(
+            200,
+            text="<h1>2027年硕士预推免报名通知</h1><p>硕士预推免报名截止2026年9月10日，请及时完成报名申请。</p>",
+        )
+
+    async def check():
+        async with httpx.AsyncClient(transport=httpx.MockTransport(handler)) as client:
+            fetcher = Fetcher(client, delay=1)
+            slow = source().model_copy(update={"url": "https://slow.edu.cn/notice"})
+            await fetcher.fetch(slow)
+            assert waits == [10]
+            waits.clear()
+            await fetcher.fetch(source())
+            assert waits == [1]
+            assert fetcher.delay == 1
+
+    asyncio.run(check())
