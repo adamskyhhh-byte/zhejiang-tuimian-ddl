@@ -13,7 +13,7 @@
   import { deriveRows, applyFilters } from '$lib/filter';
   import { clock, startClock } from '$lib/clock.svelte';
   import { filters, saved, initFilterSync, clearFilters } from '$lib/urlState.svelte';
-  import { dateKey, formatTimestamp, withinDays } from '$lib/time';
+  import { dateKey, dueWithinDays, formatTimestamp } from '$lib/time';
 
   let catalog = $state<Catalog | null>(null);
   let loading = $state(true);
@@ -45,8 +45,8 @@
   const selected = $derived(allRows.find(r => r.opportunity.id === selectedId));
   const stats = $derived([
     { id: 'open' as Quick, label: '正在报名', value: allRows.filter(r => r.status === 'open').length, note: '把握每一次机会', tone: 'green' },
-    { id: 'three' as Quick, label: '3 天内截止', value: allRows.filter(r => r.status === 'open' && withinDays(r.opportunity.applicationEnd, clock.now, 3)).length, note: '优先准备申请材料', tone: 'orange' },
-    { id: 'seven' as Quick, label: '7 天内截止', value: allRows.filter(r => r.status === 'open' && withinDays(r.opportunity.applicationEnd, clock.now, 7)).length, note: '提前规划申请节奏', tone: 'neutral' },
+    { id: 'three' as Quick, label: '3 天内截止', value: allRows.filter(r => dueWithinDays(r, clock.now, 3)).length, note: '含已核验的材料截止', tone: 'orange' },
+    { id: 'seven' as Quick, label: '7 天内截止', value: allRows.filter(r => dueWithinDays(r, clock.now, 7)).length, note: '含已核验的材料截止', tone: 'neutral' },
     { id: 'today' as Quick, label: '今日新增 / 变更', value: allRows.filter(r => dateKey(Date.parse(r.opportunity.updatedAt)) === dateKey(clock.now)).length, note: '持续追踪官方公告', tone: 'neutral' },
   ]);
   const staleCount = $derived(allRows.filter(r => r.stale).length);

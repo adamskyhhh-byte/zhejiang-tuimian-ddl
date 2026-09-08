@@ -4188,15 +4188,17 @@
     "id": "ucas-983bcbedc0",
     "schoolId": "ucas",
     "name": "杭州高等研究院智能科学与技术学院",
-    "campus": "",
+    "campus": "浙江杭州（杭高院）",
     "disciplines": [
-      "人工智能"
+      "计算机",
+      "人工智能",
+      "电子信息"
     ],
-    "relevance": "related",
-    "directoryUrl": "http://hias.ucas.edu.cn/znkxyjs/info/1118/1461.htm",
-    "admissionUrl": "http://hias.ucas.edu.cn/znkxyjs/info/1118/1461.htm",
-    "coverage": "not_found",
-    "note": "已读取官方公告确认培养单位线索；该公告可能是夏令营/仅直博，须另核2027硕士预推免。 已配置公告栏目每日检查。"
+    "relevance": "core",
+    "directoryUrl": "http://hias.ucas.ac.cn/znkxyjs/",
+    "admissionUrl": "http://hias.ucas.edu.cn/znkxyjs/zsjy/zsxx.htm",
+    "coverage": "published",
+    "note": "计算机应用技术学硕；计算机技术、人工智能、光电信息工程专硕。"
   },
   {
     "id": "pku-f590ffc413",
@@ -4991,5 +4993,80 @@
     "admissionUrl": "https://jidian.nwpu.edu.cn/index/tzgg.htm",
     "coverage": "pending",
     "note": "学校2027年硕士目录005机电学院明确140100集成电路科学与工程、085509智能制造技术、085510机器人工程。已发现2026年9月4日发布的学院预推免时间通知（9月4日9:00至9月15日18:00）；短文未写入学年及硕士范围，需与当季学校目录联合核验，不由标题的2026误判为2026级招生。"
+  },
+  {
+    "id": "ucas-9ab395a06d",
+    "schoolId": "ucas",
+    "name": "杭州高等研究院基础物理与数学科学学院",
+    "campus": "浙江杭州（杭高院）",
+    "disciplines": [
+      "人工智能",
+      "计算科学",
+      "数据科学"
+    ],
+    "relevance": "related",
+    "directoryUrl": "http://hias.ucas.ac.cn/mathphys/",
+    "admissionUrl": "http://hias.ucas.ac.cn/mathphys/jyjx1/zsxx.htm",
+    "coverage": "published",
+    "note": "仅限公告明确的机器学习与量子计算、数值相对论软件、计算宇宙学、引力波数据分析、AI4S等交叉方向。"
+  },
+  {
+    "id": "ucas-35f03ee7b6",
+    "schoolId": "ucas",
+    "name": "杭州高等研究院物理与光电工程学院",
+    "campus": "浙江杭州（杭高院）",
+    "disciplines": [
+      "电子信息",
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "http://hias.ucas.ac.cn/wlgd/",
+    "admissionUrl": "http://hias.ucas.ac.cn/wlgd/zsjy/yjszs.htm",
+    "coverage": "published",
+    "note": "只收录光电信息、人工智能、计算视觉等相关方向；不代表所有物理方向均属于计算机。"
+  },
+  {
+    "id": "ucas-3a1ac991e8",
+    "schoolId": "ucas",
+    "name": "杭州高等研究院生命与健康科学学院",
+    "campus": "浙江杭州（杭高院）",
+    "disciplines": [
+      "生物信息",
+      "数据科学"
+    ],
+    "relevance": "related",
+    "directoryUrl": "http://hias.ucas.ac.cn/life/",
+    "admissionUrl": "http://hias.ucas.ac.cn/life/yjspy/yjszs.htm",
+    "coverage": "published",
+    "note": "学硕0710J3生物信息学（生物大数据分析）；专硕086001的生物信息及计算系统生物学等方向。"
+  },
+  {
+    "id": "ucas-61221f1fbf",
+    "schoolId": "ucas",
+    "name": "杭州高等研究院分子医学院",
+    "campus": "浙江杭州（杭高院）",
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "directoryUrl": "http://hias.ucas.ac.cn/fzyxy/",
+    "admissionUrl": "http://hias.ucas.ac.cn/fzyxy/zsgz/zsxx.htm",
+    "coverage": "published",
+    "note": "本条仅收录085410人工智能专硕；不把生物化学学硕统称为计算方向。"
+  },
+  {
+    "id": "ucas-d29866ac0a",
+    "schoolId": "ucas",
+    "name": "杭州高等研究院药物科学与技术学院",
+    "campus": "浙江杭州（杭高院）",
+    "disciplines": [
+      "人工智能",
+      "计算科学"
+    ],
+    "relevance": "related",
+    "directoryUrl": "http://hias.ucas.ac.cn/ywkxyjsxy/zsjy/dsdw1/zmyjsgzs.htm",
+    "admissionUrl": "http://hias.ucas.ac.cn/ywkxyjsxy/zsjy/zsxx.htm",
+    "coverage": "published",
+    "note": "限人工智能药物设计与评价、AI药理学、计算机辅助药物设计等方向。公告由学院官网招生列表链接到学院官方公众号。"
   }
 ]

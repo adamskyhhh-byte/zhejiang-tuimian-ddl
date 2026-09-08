@@ -5,11 +5,11 @@
   import type { Row } from '$lib/types';
   import { STATUS_LABELS, ASSESSMENT_LABELS } from '$lib/types';
   import { assessmentModeOf } from '$lib/filter';
-  import { deadlineLabel, formatPoint, withinDays } from '$lib/time';
+  import { deadlineLabel, dueWithinDays, formatPoint } from '$lib/time';
   import { clock } from '$lib/clock.svelte';
   import { saved, toggleFavorite } from '$lib/urlState.svelte';
   let { row, onSelect }: { row: Row; onSelect: (id: string) => void } = $props();
-  const urgent = $derived(row.status === 'open' && withinDays(row.opportunity.applicationEnd, clock.now, 3));
+  const urgent = $derived(dueWithinDays(row, clock.now, 3));
   const p = $derived(row.opportunity);
   const logoPath = $derived((logoMap as Record<string, string>)[row.school.id]);
   let failedLogo = $state<string | undefined>();
@@ -28,8 +28,9 @@
       <div class="row-tags"><span class="row-location"><MapPin size={10}/>{row.school.province}</span><span class="format-label" title="考核形式，以官方考核安排为准">{assessmentModeOf(p) === 'unknown' ? '形式未核验' : ASSESSMENT_LABELS[assessmentModeOf(p)] + '考核'}</span><span>{p.batch || '预推免'}</span>{#each p.degrees as degree}<span>{degree === 'academic' ? '学硕' : '专硕'}</span>{:else}<span>硕士类型未细分</span>{/each}<span class:related={p.relevance === 'related'}>{p.relevance === 'core' ? '核心相关' : '交叉相关'}</span><small>{p.disciplines.join(' / ')}</small></div>
     </div>
     <div class="deadline-block" class:danger={urgent}>
+      {#if row.deadline.kind === 'materials'}<small>材料提交截止</small>{/if}
       <strong>{deadlineLabel(row, clock.now)}</strong>
-      <span>{p.applicationEnd.precision === 'date' && row.endDay ? '具体时刻未公布' : row.endDay ? formatPoint(p.applicationEnd).replace('2026/', '') : '以官方通知为准'}</span>
+      <span>{row.deadline.point.precision === 'date' && row.endDay ? '具体时刻未公布' : row.endDay ? formatPoint(row.deadline.point).replace(p.season + '/', '') : '查看原文时间要求'}</span>
       {#if row.status === 'review'}<small>时间信息待核验</small>{/if}
     </div>
     <ChevronRight size={15} class="row-chevron"/>

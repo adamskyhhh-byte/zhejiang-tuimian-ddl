@@ -1,0 +1,79 @@
+{
+  "reviewedAt": "2026-09-09T01:35:31+08:00",
+  "schoolId": "ucas",
+  "schoolCountUnchanged": 68,
+  "units": [
+    {
+      "name": "智能科学与技术学院",
+      "unitId": "ucas-983bcbedc0",
+      "opportunityId": "opp-a3d14b9c62c1fa8571ca",
+      "status": "included",
+      "officialNotice": "http://hias.ucas.edu.cn/znkxyjs/info/1118/1491.htm",
+      "listingUrl": "http://hias.ucas.edu.cn/znkxyjs/zsjy/zsxx.htm",
+      "reason": "计算机应用技术学硕；计算机技术、人工智能、光电信息工程专硕。",
+      "deadlineNote": "即日起至2026年9月14日（周一）下午17:00。"
+    },
+    {
+      "name": "基础物理与数学科学学院",
+      "unitId": "ucas-9ab395a06d",
+      "opportunityId": "opp-fdd1d7829c5ee01fa438",
+      "status": "included",
+      "officialNotice": "http://hias.ucas.ac.cn/mathphys/info/1166/1521.htm",
+      "listingUrl": "http://hias.ucas.ac.cn/mathphys/jyjx1/zsxx.htm",
+      "reason": "仅限公告明确的机器学习与量子计算、数值相对论软件、计算宇宙学、引力波数据分析、AI4S等交叉方向。",
+      "deadlineNote": "申请材料于2026年9月13日24:00前发送至学院邮箱；保存为9月14日00:00。"
+    },
+    {
+      "name": "物理与光电工程学院",
+      "unitId": "ucas-35f03ee7b6",
+      "opportunityId": "opp-a3910093c3e391dd19fa",
+      "status": "included",
+      "officialNotice": "http://hias.ucas.ac.cn/wlgd/info/1020/1631.htm",
+      "listingUrl": "http://hias.ucas.ac.cn/wlgd/zsjy/yjszs.htm",
+      "reason": "只收录光电信息、人工智能、计算视觉等相关方向；不代表所有物理方向均属于计算机。",
+      "deadlineNote": "申请者应在9月14日前发送申请材料至学院邮箱；未公布具体时刻。"
+    },
+    {
+      "name": "生命与健康科学学院",
+      "unitId": "ucas-3a1ac991e8",
+      "opportunityId": "opp-12191b0eddb62c7fd478",
+      "status": "included",
+      "officialNotice": "http://hias.ucas.ac.cn/life/info/1437/2360.htm",
+      "listingUrl": "http://hias.ucas.ac.cn/life/yjspy/yjszs.htm",
+      "reason": "学硕0710J3生物信息学（生物大数据分析）；专硕086001的生物信息及计算系统生物学等方向。",
+      "deadlineNote": "申请时间截至2026年9月14日上午9:00。"
+    },
+    {
+      "name": "分子医学院",
+      "unitId": "ucas-61221f1fbf",
+      "opportunityId": "opp-a48b69e0f8c3ad8634de",
+      "status": "included",
+      "officialNotice": "http://hias.ucas.ac.cn/fzyxy/info/1065/1822.htm",
+      "listingUrl": "http://hias.ucas.ac.cn/fzyxy/zsgz/zsxx.htm",
+      "reason": "本条仅收录085410人工智能专硕；不把生物化学学硕统称为计算方向。",
+      "deadlineNote": "即日起至2026年9月13日17:00前。"
+    },
+    {
+      "name": "药物科学与技术学院",
+      "unitId": "ucas-d29866ac0a",
+      "opportunityId": "opp-9d67b5d9fffcf6c780e5",
+      "status": "included",
+      "officialNotice": "https://mp.weixin.qq.com/s/kX63nwJSrEtalJrtIrgLwg",
+      "listingUrl": "http://hias.ucas.ac.cn/ywkxyjsxy/zsjy/zsxx.htm",
+      "reason": "限人工智能药物设计与评价、AI药理学、计算机辅助药物设计等方向。公告由学院官网招生列表链接到学院官方公众号。",
+      "deadlineNote": "建议在9月13日12:00前完成报名。该时间是官方建议，未明确硬性截止。"
+    },
+    {
+      "name": "化学与材料科学学院",
+      "status": "relevance_pending",
+      "officialNotice": "http://hias.ucas.ac.cn/hxyclkxxy/info/1118/1891.htm",
+      "reason": "已发现2027级公告，但当前招生说明中未确认计算相关方向；保留相关性核验缺口，暂不发布为计算类项目。"
+    },
+    {
+      "name": "环境学院",
+      "status": "relevance_pending",
+      "officialNotice": "http://hias.ucas.ac.cn/hjxy/info/1024/2101.htm",
+      "reason": "已发现2027年硕士公告（9月15日24:00），文字主要为环境科学/环境工程；导师方向图尚不足以确认计算招生方向，暂不发布为计算类项目。"
+    }
+  ]
+}

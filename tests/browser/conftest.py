@@ -29,30 +29,61 @@ def point(value: str | None, precision: str = "datetime") -> dict:
 def catalog() -> dict:
     schools = json.loads((ROOT / "data/schools.json").read_text(encoding="utf-8"))
     unit = {
-        "id": "fixture-unit", "schoolId": "zju", "name": "计算机学院测试培养单位",
-        "campus": "杭州", "disciplines": ["计算机"], "relevance": "core",
-        "directoryUrl": "https://www.zju.edu.cn/", "admissionUrl": "https://www.zju.edu.cn/",
-        "coverage": "published", "note": "浏览器测试数据，不发布到生产快照。",
+        "id": "fixture-unit",
+        "schoolId": "zju",
+        "name": "计算机学院测试培养单位",
+        "campus": "杭州",
+        "disciplines": ["计算机"],
+        "relevance": "core",
+        "directoryUrl": "https://www.zju.edu.cn/",
+        "admissionUrl": "https://www.zju.edu.cn/",
+        "coverage": "published",
+        "note": "浏览器测试数据，不发布到生产快照。",
     }
     source = {
-        "id": "fixture-source", "schoolId": "zju", "unitId": unit["id"],
-        "url": "https://www.zju.edu.cn/", "title": "官方报名通知", "kind": "notice",
-        "lastAttemptAt": NOW, "lastSuccessAt": NOW, "lastParsedAt": NOW, "error": None,
+        "id": "fixture-source",
+        "schoolId": "zju",
+        "unitId": unit["id"],
+        "url": "https://www.zju.edu.cn/",
+        "title": "官方报名通知",
+        "kind": "notice",
+        "lastAttemptAt": NOW,
+        "lastSuccessAt": NOW,
+        "lastParsedAt": NOW,
+        "error": None,
     }
     base = {
-        "id": "fixture-1", "schoolId": "zju", "unitId": unit["id"],
-        "title": "硕士预推免第一批", "year": 2027, "season": 2026, "batch": "第一批",
-        "degrees": ["academic", "professional"], "disciplines": ["计算机"],
-        "relevance": "core", "stage": "pre_admission",
+        "id": "fixture-1",
+        "schoolId": "zju",
+        "unitId": unit["id"],
+        "title": "硕士预推免第一批",
+        "year": 2027,
+        "season": 2026,
+        "batch": "第一批",
+        "degrees": ["academic", "professional"],
+        "disciplines": ["计算机"],
+        "relevance": "core",
+        "stage": "pre_admission",
         "applicationStart": point("2026-09-01T09:00:00+08:00"),
         "applicationEnd": point("2026-09-10T12:00:00+08:00"),
-        "materialsEnd": point("2026-09-11T12:00:00+08:00"), "assessment": "考核另行通知",
-        "applicationUrl": "https://www.zju.edu.cn/", "noticeUrl": "https://www.zju.edu.cn/",
+        "materialsEnd": point("2026-09-11T12:00:00+08:00"),
+        "assessment": "考核另行通知",
+        "applicationUrl": "https://www.zju.edu.cn/",
+        "noticeUrl": "https://www.zju.edu.cn/",
         "sourceIds": [source["id"]],
-        "evidence": [{"sourceId": source["id"], "url": source["url"], "title": source["title"],
-                      "excerpt": "报名截至9月10日12:00，材料截至9月11日12:00。"}],
-        "verification": "verified", "availability": "open", "firstSeenAt": NOW,
-        "updatedAt": NOW, "notes": "浏览器隔离测试样例。",
+        "evidence": [
+            {
+                "sourceId": source["id"],
+                "url": source["url"],
+                "title": source["title"],
+                "excerpt": "报名截至9月10日12:00，材料截至9月11日12:00。",
+            }
+        ],
+        "verification": "verified",
+        "availability": "open",
+        "firstSeenAt": NOW,
+        "updatedAt": NOW,
+        "notes": "浏览器隔离测试样例。",
     }
     opportunities = []
     for number in range(1, 6):
@@ -70,6 +101,7 @@ def catalog() -> dict:
     unknown = copy.deepcopy(base)
     unknown.update(id="fixture-unknown", title="截止未知项目", batch="未知截止批次")
     unknown["applicationEnd"] = point(None)
+    unknown["materialsEnd"] = None
     opportunities.append(unknown)
     closed = copy.deepcopy(base)
     closed.update(id="fixture-closed", title="历史批次项目", batch="历史批次")
@@ -78,15 +110,34 @@ def catalog() -> dict:
     stale = copy.deepcopy(base)
     stale.update(id="fixture-stale", title="单源失效项目", batch="来源失效批次")
     stale["sourceIds"] = ["fixture-stale-source"]
-    stale_source = {**source, "id": "fixture-stale-source",
-                    "lastSuccessAt": "2026-09-05T12:00:00+08:00", "error": "HTTP 503"}
+    stale_source = {
+        **source,
+        "id": "fixture-stale-source",
+        "lastSuccessAt": "2026-09-05T12:00:00+08:00",
+        "error": "HTTP 503",
+    }
     opportunities.append(stale)
     return {
-        "schemaVersion": 1, "generatedAt": NOW, "rosterYear": 2026, "admissionYear": 2027,
-        "season": 2026, "schools": schools, "units": [unit], "sources": [source, stale_source],
-        "opportunities": opportunities, "changes": [],
-        "run": {"startedAt": NOW, "finishedAt": NOW, "status": "partial", "checked": 2,
-                "succeeded": 1, "failed": 1, "discovered": 0, "changed": 0},
+        "schemaVersion": 1,
+        "generatedAt": NOW,
+        "rosterYear": 2026,
+        "admissionYear": 2027,
+        "season": 2026,
+        "schools": schools,
+        "units": [unit],
+        "sources": [source, stale_source],
+        "opportunities": opportunities,
+        "changes": [],
+        "run": {
+            "startedAt": NOW,
+            "finishedAt": NOW,
+            "status": "partial",
+            "checked": 2,
+            "succeeded": 1,
+            "failed": 1,
+            "discovered": 0,
+            "changed": 0,
+        },
     }
 
 
@@ -126,7 +177,9 @@ def browser():
 
 @pytest.fixture
 def page(browser, catalog, site_url):
-    context = browser.new_context(viewport={"width": 1440, "height": 1000}, timezone_id="America/Los_Angeles")
+    context = browser.new_context(
+        viewport={"width": 1440, "height": 1000}, timezone_id="America/Los_Angeles"
+    )
     page = context.new_page()
     page.clock.set_fixed_time(datetime(2026, 9, 8, 4, tzinfo=timezone.utc))
     page.route("**/data/catalog.json", lambda route: route.fulfill(json=catalog))

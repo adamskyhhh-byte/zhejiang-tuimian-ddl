@@ -6,11 +6,110 @@ from test_crawler import setup_root
 from test_parser import unit
 
 from tuimian.__main__ import main
-from tuimian.crawler import crawl
+from tuimian.crawler import _invalidate_source, crawl
 from tuimian.models import SourceConfig
 from tuimian.parser import parse_notice
 from tuimian.reconcile import merge_candidate
-from tuimian.storage import empty_state, load_catalog, override_opportunity, read_json
+from tuimian.storage import (
+    empty_state,
+    load_catalog,
+    override_opportunity,
+    read_json,
+    review_signature,
+)
+
+
+def test_manual_deadline_review_accepts_only_the_reviewed_official_content():
+    source = SourceConfig(
+        id="n",
+        schoolId="s",
+        unitId="s-ai",
+        kind="notice",
+        url="https://s.edu.cn/n",
+        title="2027年硕士预推免",
+    )
+    item = parse_notice(source.title, "硕士预推免申请时间见正文图片。", source, unit()).model_dump()
+    override = {
+        item["id"]: {
+            "reason": "人工核对官方正文图片：9月13日17:00前提交申请材料。",
+            "materialsEnd": {
+                "value": "2026-09-13T17:00:00+08:00",
+                "precision": "datetime",
+                "raw": "9月13日17:00前",
+                "sourceId": "n",
+            },
+            "verification": "verified",
+            "reviewedSourceHashes": {"n": "a" * 64},
+            "reviewedAutomaticHash": review_signature(item),
+        }
+    }
+    reviewed = override_opportunity(item, override, {"n": {"hash": "a" * 64}})
+    assert reviewed["verification"] == "verified"
+    assert reviewed["applicationEnd"]["value"] is None
+    for pages in [{}, {"n": {"hash": "b" * 64}}]:
+        changed = override_opportunity(item, override, pages)
+        assert changed["verification"] == "conflict"
+        assert changed["materialsEnd"]["value"] == reviewed["materialsEnd"]["value"]
+    incoming = item | {"sourceIds": ["n", "new-official-correction"]}
+    assert (
+        override_opportunity(incoming, override, {"n": {"hash": "a" * 64}})["verification"]
+        == "conflict"
+    )
+
+
+def test_replaced_attachment_invalidates_review_even_when_pending_and_old_pdf_reappears():
+    source = SourceConfig(
+        id="old-pdf",
+        schoolId="s",
+        unitId="s-ai",
+        kind="pdf",
+        url="https://s.edu.cn/a.pdf",
+        title="2027年硕士预推免",
+    )
+    candidate = parse_notice(source.title, "硕士预推免申请时间见正文图片。", source, unit())
+    state = empty_state()
+    state["opportunities"][candidate.id] = candidate.model_dump()
+    original = state["opportunities"][candidate.id]
+    override = {
+        candidate.id: {
+            "reason": "人工核验原附件",
+            "verification": "verified",
+            "reviewedSourceHashes": {source.id: "a" * 64},
+            "reviewedAutomaticHash": review_signature(original),
+        }
+    }
+    parent = source.model_copy(
+        update={"id": "parent", "kind": "notice", "url": "https://s.edu.cn/n"}
+    )
+    _invalidate_source(state, parent, {source.url})
+    assert state["opportunities"][candidate.id]["verification"] == "pending"
+    merge_candidate(state, candidate, source, "2026-09-09T02:00:00+08:00")
+    retained = state["opportunities"][candidate.id]
+    assert retained["reviewRevision"] == 1
+    assert (
+        override_opportunity(retained, override, {source.id: {"hash": "a" * 64}})["verification"]
+        == "conflict"
+    )
+
+
+def test_readable_retired_pdf_cannot_restore_automatic_verification():
+    source = SourceConfig(
+        id="old",
+        schoolId="s",
+        unitId="s-ai",
+        kind="pdf",
+        url="https://s.edu.cn/a.pdf",
+        title="2027年硕士预推免",
+    )
+    candidate = parse_notice(source.title, "硕士预报名截止9月10日。", source, unit())
+    state = empty_state()
+    state["opportunities"][candidate.id] = candidate.model_dump()
+    assert candidate.verification == "verified"
+    parent = source.model_copy(update={"id": "parent", "url": "https://s.edu.cn/n"})
+    _invalidate_source(state, parent, {source.url})
+    assert not merge_candidate(state, candidate, source, "2026-09-09T02:00:00+08:00")
+    assert state["opportunities"][candidate.id]["verification"] == "pending"
+    assert state["opportunities"][candidate.id]["applicationEnd"]["value"] == "2026-09-10"
 
 
 def test_offline_export_validate_and_unknown_source(tmp_path, monkeypatch):

@@ -68,6 +68,53 @@ def notice(day="10", batch=""):
     return f"<html><h1>2027年硕士预推免{batch}报名通知</h1><article>硕士学术学位预推免。<p>报名时间：2026年9月1日9:00至9月{day}日17:00。</p></article></html>"
 
 
+def test_attachment_replacement_and_official_restoration(tmp_path):
+    root = setup_root(tmp_path)
+    path = root / "data/sources.json"
+    parent = read_json(path, [])[0] | {
+        "id": "parent",
+        "kind": "notice",
+        "url": "https://s.edu.cn/n",
+        "title": "2027年硕士预推免",
+    }
+    path.write_text(json.dumps([parent]), encoding="utf-8")
+    attachment = "a"
+
+    class FixtureFetcher:
+        async def fetch(self, source, cache=None):
+            if source.id == "parent":
+                return Page(
+                    title=parent["title"],
+                    text="正文 PDF",
+                    links=[{"url": f"https://s.edu.cn/{attachment}.pdf", "title": "正文"}],
+                    hash=attachment,
+                    attachmentOnly=True,
+                )
+            if source.url.endswith("b.pdf"):
+                return Page(
+                    title=parent["title"],
+                    text="",
+                    links=[],
+                    hash="new-scan",
+                    parseError="扫描件待核验",
+                )
+            return Page(
+                title=parent["title"], text="硕士预报名截止9月10日。", links=[], hash="original"
+            )
+
+    asyncio.run(crawl(root, fetcher=FixtureFetcher()))
+    assert load_catalog(root).opportunities[0].verification == "verified"
+    attachment = "b"
+    asyncio.run(crawl(root, fetcher=FixtureFetcher()))
+    assert load_catalog(root).opportunities[0].verification == "pending"
+    attachment = "a"
+    asyncio.run(crawl(root, fetcher=FixtureFetcher()))
+    restored = load_catalog(root)
+    assert len(restored.opportunities) == 1
+    assert restored.opportunities[0].verification == "verified"
+    assert restored.opportunities[0].applicationEnd.value == "2026-09-10"
+
+
 def test_incremental_id_no_duplicate_original_url_extension_and_failure(tmp_path):
     root = setup_root(tmp_path)
     deadline = "10"

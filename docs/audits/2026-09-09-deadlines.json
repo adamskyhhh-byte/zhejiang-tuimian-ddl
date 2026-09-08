@@ -1,0 +1,4735 @@
+{
+  "reviewedAt": "2026-09-09T01:35:31+08:00",
+  "scope": "本次复核开始时全部73条报名截止为空的项目（40个不同官方公告URL），以及沿官方链接发现的相关漏项。",
+  "originalUnknownCount": 73,
+  "originalNoticeUrlCount": 40,
+  "decisions": [
+    {
+      "opportunityId": "opp-fb8f5c83860b7c94e925",
+      "action": "alias",
+      "canonicalId": "opp-a3706eba325fab6ed55a",
+      "reason": "厦大航空航天两个栏目转载的正文、培养单位、批次与报名窗口完全一致。",
+      "evidenceUrls": [
+        "https://aerospace.xmu.edu.cn/info/2983/64474.htm",
+        "https://aerospace.xmu.edu.cn/info/2723/64484.htm"
+      ]
+    },
+    {
+      "opportunityId": "opp-927b623ea1f61dbe90f4",
+      "action": "alias",
+      "canonicalId": "opp-9560c2e5e6e8cef42603",
+      "reason": "山东大学人工智能学院和浪潮人工智能学院对应同一官网、同一公告和招生专业。",
+      "evidenceUrls": [
+        "https://www.ai.sdu.edu.cn/info/1088/1524.htm",
+        "https://www.ai.sdu.edu.cn/info/1088/1524.htm"
+      ]
+    },
+    {
+      "opportunityId": "opp-5868cfb3ed70cec7223f",
+      "action": "alias",
+      "canonicalId": "opp-13fbd84fbe70afe2baa4",
+      "reason": "同济机械学院 HTML 仅嵌入已有 PDF 正文。",
+      "evidenceUrls": [
+        "https://mefaculty.tongji.edu.cn/info/1023/5599.htm",
+        "https://mefaculty.tongji.edu.cn/__local/9/8F/1E/EF80B7C77367C08D362E48D4FA8_EA54D00C_32012.pdf"
+      ]
+    },
+    {
+      "opportunityId": "opp-9b5f0fd3de067abd32bc",
+      "action": "alias",
+      "canonicalId": "opp-a82004c2a571e4786324",
+      "reason": "同济校级汇总直接链接无人系统学院的同一正文 PDF。",
+      "evidenceUrls": [
+        "https://yz.tongji.edu.cn/info/1010/4220.htm",
+        "https://srias.tongji.edu.cn/_upload/article/files/c3/a0/9961854b4d45bf0547ad2198e401/d6c245f3-7996-478a-ac13-e959f494e4a5.pdf"
+      ]
+    },
+    {
+      "opportunityId": "opp-a08589644002b8bf7535",
+      "action": "alias",
+      "canonicalId": "opp-30da51aca63d2e2d7b39",
+      "reason": "同济校级汇总直接链接电子学院的同一正文 PDF。",
+      "evidenceUrls": [
+        "https://yz.tongji.edu.cn/info/1010/4220.htm",
+        "https://see.tongji.edu.cn/__local/0/CA/40/80ACF42AA9C448546B4B52A25D2_433060EA_4F2DE.pdf"
+      ]
+    },
+    {
+      "opportunityId": "opp-b51be5034ea9b4a47b02",
+      "action": "alias",
+      "canonicalId": "opp-79f444ae584502d7d861",
+      "reason": "同济校级汇总直接链接计算机学院的同一正文 PDF。",
+      "evidenceUrls": [
+        "https://yz.tongji.edu.cn/info/1010/4220.htm",
+        "https://cs.tongji.edu.cn/__local/9/60/A0/E754D70DC091A39226FD77BEB2B_082455BA_396B5.pdf"
+      ]
+    },
+    {
+      "opportunityId": "opp-0e209090199027129113",
+      "action": "alias",
+      "canonicalId": "opp-13fbd84fbe70afe2baa4",
+      "reason": "同济校级汇总直接链接机械学院的同一正文 PDF。",
+      "evidenceUrls": [
+        "https://yz.tongji.edu.cn/info/1010/4220.htm",
+        "https://mefaculty.tongji.edu.cn/__local/9/8F/1E/EF80B7C77367C08D362E48D4FA8_EA54D00C_32012.pdf"
+      ]
+    },
+    {
+      "opportunityId": "opp-8cbf58efca99b9068104",
+      "action": "alias",
+      "canonicalId": "opp-100ad9f8220ba88872c2",
+      "reason": "涉外法治总通知第六项人工智能法治班已有中国法治战略研究院专项通知，不重复列总通知。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0831/c13332a227571/page.htm",
+        "https://gs.ecupl.edu.cn/2026/0831/c13332a227578/page.htm"
+      ]
+    },
+    {
+      "opportunityId": "opp-06183ec80f33ca0bedcb",
+      "action": "alias",
+      "canonicalId": "opp-ca01300adcfd794bdd8e",
+      "reason": "涉外法治总通知中通信/集成电路项目已有知识产权学院专项通知，不把总通知另列为常规批次。",
+      "evidenceUrls": [
+        "https://gs.ecupl.edu.cn/2026/0831/c13332a227571/page.htm",
+        "https://gs.ecupl.edu.cn/2026/0831/c13332a227574/page.htm"
+      ]
+    },
+    {
+      "opportunityId": "opp-f7583c4046004b6c1855",
+      "action": "alias",
+      "canonicalId": "opp-d2ae923e03a0fe2af855",
+      "reason": "天津大学同一校级公告 HTTP/HTTPS 与学院名称检索别名重复；保留同单位原项目及各次集中审核说明。",
+      "evidenceUrls": [
+        "http://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm"
+      ]
+    },
+    {
+      "opportunityId": "opp-d3615ccf8df9cd871edc",
+      "action": "alias",
+      "canonicalId": "opp-6a1521458aa575021058",
+      "reason": "天津大学同一校级公告 HTTP/HTTPS 与学院名称检索别名重复；保留同单位原项目及各次集中审核说明。",
+      "evidenceUrls": [
+        "http://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm"
+      ]
+    },
+    {
+      "opportunityId": "opp-bd51eeeb2fe2d4936acf",
+      "action": "alias",
+      "canonicalId": "opp-6a1521458aa575021058",
+      "reason": "天津大学同一校级公告 HTTP/HTTPS 与学院名称检索别名重复；保留同单位原项目及各次集中审核说明。",
+      "evidenceUrls": [
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm"
+      ]
+    },
+    {
+      "opportunityId": "opp-d0a2206718ac87ab534d",
+      "action": "alias",
+      "canonicalId": "opp-e7016e5043be9f421811",
+      "reason": "天津大学同一校级公告 HTTP/HTTPS 与学院名称检索别名重复；保留同单位原项目及各次集中审核说明。",
+      "evidenceUrls": [
+        "http://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm"
+      ]
+    },
+    {
+      "opportunityId": "opp-50c89f323bb400711fe8",
+      "action": "alias",
+      "canonicalId": "opp-cd2121589c2b406e2185",
+      "reason": "天津大学同一校级公告 HTTP/HTTPS 与学院名称检索别名重复；保留同单位原项目及各次集中审核说明。",
+      "evidenceUrls": [
+        "http://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm"
+      ]
+    },
+    {
+      "opportunityId": "opp-c4a1b7546399384d769a",
+      "action": "alias",
+      "canonicalId": "opp-0e49ff6191e7bc5bed20",
+      "reason": "天津大学同一校级公告 HTTP/HTTPS 与学院名称检索别名重复；保留同单位原项目及各次集中审核说明。",
+      "evidenceUrls": [
+        "http://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm"
+      ]
+    },
+    {
+      "opportunityId": "opp-9f9f3acb87e3d008a7bc",
+      "action": "alias",
+      "canonicalId": "opp-0208127eee2f3d48b66b",
+      "reason": "天津大学同一校级公告 HTTP/HTTPS 与学院名称检索别名重复；保留同单位原项目及各次集中审核说明。",
+      "evidenceUrls": [
+        "http://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm"
+      ]
+    },
+    {
+      "opportunityId": "opp-d7b5324af28638183dae",
+      "action": "alias",
+      "canonicalId": "opp-747c4fa6b20086ac3c1f",
+      "reason": "天津大学同一校级公告 HTTP/HTTPS 与学院名称检索别名重复；保留同单位原项目及各次集中审核说明。",
+      "evidenceUrls": [
+        "http://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm"
+      ]
+    },
+    {
+      "opportunityId": "opp-24a4581b42f38ace838a",
+      "action": "excluded",
+      "reason": "复旦该轮预选拔公告中，智能材料与未来能源创新学院仅出现在直博专业表，未出现在硕士表，不满足本网站硕士范围。",
+      "evidenceUrls": [
+        "https://gsao.fudan.edu.cn/0a/24/c15014a789028/page.htm"
+      ]
+    },
+    {
+      "opportunityId": "opp-23670c1abf34197c3bf3",
+      "action": "corrected",
+      "reason": "8月3日开放，8月14日17:00截止。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-08-14T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "8月3日开放，8月14日17:00截止。",
+          "sourceId": "src-b1b996a3ad1da8e5f0"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "applicationStart": {
+          "value": "2026-08-03",
+          "precision": "date",
+          "raw": "8月3日开放，8月14日17:00截止。",
+          "sourceId": "src-b1b996a3ad1da8e5f0"
+        }
+      },
+      "sourceId": "src-b1b996a3ad1da8e5f0",
+      "evidenceUrls": [
+        "https://ai.nju.edu.cn/d4/5c/c53055a840796/page.htm",
+        "https://ai.nju.edu.cn/_upload/article/files/87/d0/8692cf8b49aab99fd3ab4352dbfb/8fdbea08-676a-42f6-ae9f-ae6f6e3dc31d.pdf"
+      ],
+      "schoolId": "nju",
+      "unitId": "nju-54ee27e5bf",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-b1b996a3ad1da8e5f0"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "source-5fb1796d5d42a6b72dd5",
+      "reviewedSourceHashes": {
+        "src-b1b996a3ad1da8e5f0": "dd14d728a32c0400aa1aad9c7bb4e81565d7ff4087c866e305912ee1cc128269",
+        "source-5fb1796d5d42a6b72dd5": "7eb6174566515830731f0674edc81cae0b53d2ae772f5ef9c1effa8b8e6a48bf"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-08-03",
+          "precision": "date",
+          "raw": "8月3日开放，8月14日17:00截止。",
+          "sourceId": "source-5fb1796d5d42a6b72dd5"
+        },
+        "applicationEnd": {
+          "value": "2026-08-14T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "8月3日开放，8月14日17:00截止。",
+          "sourceId": "source-5fb1796d5d42a6b72dd5"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-5a385e04d673b98251a4",
+      "action": "corrected",
+      "reason": "2026年8月3日12:00至8月14日17:00。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-08-14T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月3日12:00至8月14日17:00。",
+          "sourceId": "src-5c334ba5cad4855b5b"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "applicationStart": {
+          "value": "2026-08-03T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月3日12:00至8月14日17:00。",
+          "sourceId": "src-5c334ba5cad4855b5b"
+        }
+      },
+      "sourceId": "src-5c334ba5cad4855b5b",
+      "evidenceUrls": [
+        "https://is.nju.edu.cn/d4/5b/c57162a840795/page.htm",
+        "https://is.nju.edu.cn/_upload/article/files/9b/0b/d5568b03465cb07caf194fc56f60/aea4abb7-8ae7-470f-b608-ff148856ceb9.pdf"
+      ],
+      "schoolId": "nju",
+      "unitId": "nju-bb00eb5eed",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-5c334ba5cad4855b5b"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "source-e9b1f7212b7eb30d4ef5",
+      "reviewedSourceHashes": {
+        "src-5c334ba5cad4855b5b": "017a513f4f489b870add6557f7cb536d832c63408bba9c1ca190576351bcbde6",
+        "source-e9b1f7212b7eb30d4ef5": "ee4479f306aca5bf9131bb99ff4efd48c944d84b86b25c1c508727fef81684fa"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-08-03T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月3日12:00至8月14日17:00。",
+          "sourceId": "source-e9b1f7212b7eb30d4ef5"
+        },
+        "applicationEnd": {
+          "value": "2026-08-14T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月3日12:00至8月14日17:00。",
+          "sourceId": "source-e9b1f7212b7eb30d4ef5"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-131428b78d71fd7b46fb",
+      "action": "corrected",
+      "reason": "官方扫描 PDF：2026年8月3日12:00:00至2026年8月17日00:00:00；8月17日零点是当天开始。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-08-17T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "官方扫描 PDF：2026年8月3日12:00:00至2026年8月17日00:00:00；8月17日零点是当天开始。",
+          "sourceId": "src-620d0287e919cbd29d"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "applicationStart": {
+          "value": "2026-08-03T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "官方扫描 PDF：2026年8月3日12:00:00至2026年8月17日00:00:00；8月17日零点是当天开始。",
+          "sourceId": "src-620d0287e919cbd29d"
+        }
+      },
+      "sourceId": "src-620d0287e919cbd29d",
+      "evidenceUrls": [
+        "https://software.nju.edu.cn/tzgg/20260803/i406944.html",
+        "https://software.nju.edu.cn/DFS//file/2026/08/03/20260803195621945n2slit.pdf"
+      ],
+      "schoolId": "nju",
+      "unitId": "nju-d44e9404bb",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-620d0287e919cbd29d"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "source-c519c8e1455d1ef9cd73",
+      "reviewedSourceHashes": {
+        "source-c519c8e1455d1ef9cd73": "32f5052ceb6e4f5489d565c386f2a8abc0569c60a23f656759d9dd719925a2ae",
+        "src-620d0287e919cbd29d": "7519d99fe1254cc433f6c69024914d4501e7fdb8acc77f56cf38ab7d16f6a6e0"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-08-03T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "官方扫描 PDF：2026年8月3日12:00:00至2026年8月17日00:00:00；8月17日零点是当天开始。",
+          "sourceId": "source-c519c8e1455d1ef9cd73"
+        },
+        "applicationEnd": {
+          "value": "2026-08-17T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "官方扫描 PDF：2026年8月3日12:00:00至2026年8月17日00:00:00；8月17日零点是当天开始。",
+          "sourceId": "source-c519c8e1455d1ef9cd73"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-397a0ee791fd8c6df032",
+      "action": "corrected",
+      "reason": "2026年8月3日12:00开放，2026年9月4日17:00关闭。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-04T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月3日12:00开放，2026年9月4日17:00关闭。",
+          "sourceId": "src-71e81bc947ac141ef7"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "applicationStart": {
+          "value": "2026-08-03T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月3日12:00开放，2026年9月4日17:00关闭。",
+          "sourceId": "src-71e81bc947ac141ef7"
+        }
+      },
+      "sourceId": "src-71e81bc947ac141ef7",
+      "evidenceUrls": [
+        "https://ese.nju.edu.cn/d4/6d/c22673a840813/page.htm",
+        "https://ese.nju.edu.cn/_upload/article/files/90/ad/1c7401fd4572980b61d0b9281437/3df27361-1e89-4ecf-9a46-8540ea7ae8a4.pdf"
+      ],
+      "schoolId": "nju",
+      "unitId": "nju-b68f57251f",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-71e81bc947ac141ef7"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "source-030d599b6e08a433e68a",
+      "reviewedSourceHashes": {
+        "src-71e81bc947ac141ef7": "2d6c2327540daea8e122a59c7ff02d0aa05e0b4eb899bdb493c64c82693059db",
+        "source-030d599b6e08a433e68a": "d22713e32750a0cdb603236518ae2bf22e5f8dbee42dc83ca947fd248662f66d"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-08-03T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月3日12:00开放，2026年9月4日17:00关闭。",
+          "sourceId": "source-030d599b6e08a433e68a"
+        },
+        "applicationEnd": {
+          "value": "2026-09-04T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年8月3日12:00开放，2026年9月4日17:00关闭。",
+          "sourceId": "source-030d599b6e08a433e68a"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-f3dabb3c274bd2d4860d",
+      "action": "corrected",
+      "reason": "开放系统报名开始时间：2026年8月3日12:00，报名截止时间：2026年9月1日17:00。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-01T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "开放系统报名开始时间：2026年8月3日12:00，报名截止时间：2026年9月1日17:00。",
+          "sourceId": "src-efa696a892d8501773"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "applicationStart": {
+          "value": "2026-08-03T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "开放系统报名开始时间：2026年8月3日12:00，报名截止时间：2026年9月1日17:00。",
+          "sourceId": "src-efa696a892d8501773"
+        },
+        "noticeUrl": "https://ic.nju.edu.cn/d4/5f/c59160a840799/page.htm"
+      },
+      "sourceId": "src-efa696a892d8501773",
+      "evidenceUrls": [
+        "https://ic.nju.edu.cn/d4/5f/c59160a840799/page.htm",
+        "https://ic.nju.edu.cn/_upload/article/files/1d/32/b9f4a18049b19fe7585e49fb82f9/6cc8ac4a-b6b2-48a0-b4fb-454766103c5b.pdf"
+      ],
+      "schoolId": "nju",
+      "unitId": "nju-ae18cab9f7",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-4cb801c0f9916261ec77"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "source-a654b3b74ce68622e6ce",
+      "reviewedSourceHashes": {
+        "src-efa696a892d8501773": "6e71fa7185b880c509a31e2fb29218eb8b496d46c5887e7e8ad74f2e9676ee73",
+        "source-4cb801c0f9916261ec77": "a120c067006540eb39225cd01a3a223f3de586cad072aca2c61a55b312f6a118",
+        "source-a654b3b74ce68622e6ce": "bbc5efc22a3779b1f640cd1ee43189a8811a7d6384afcb7bb63ec70308e73cfc"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-08-03T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "开放系统报名开始时间：2026年8月3日12:00，报名截止时间：2026年9月1日17:00。",
+          "sourceId": "source-a654b3b74ce68622e6ce"
+        },
+        "applicationEnd": {
+          "value": "2026-09-01T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "开放系统报名开始时间：2026年8月3日12:00，报名截止时间：2026年9月1日17:00。",
+          "sourceId": "source-a654b3b74ce68622e6ce"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-e22dc8771005f5d72be6",
+      "action": "corrected",
+      "reason": "报名时间：即日起至8月19日23:59。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-08-19T23:59:00+08:00",
+          "precision": "datetime",
+          "raw": "报名时间：即日起至8月19日23:59。",
+          "sourceId": "src-ddbeaa1e388babcb69"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "availability": "open"
+      },
+      "sourceId": "src-ddbeaa1e388babcb69",
+      "evidenceUrls": [
+        "https://seit.sysu.edu.cn/article/3068"
+      ],
+      "schoolId": "sysu",
+      "unitId": "sysu-bcf177c57d",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-ddbeaa1e388babcb69"
+      },
+      "oldMaterialsEnd": {
+        "value": "2026-08-19T23:59:00+08:00",
+        "precision": "datetime",
+        "raw": "8月19日23:59",
+        "sourceId": "src-ddbeaa1e388babcb69"
+      },
+      "evidenceSourceId": "src-ddbeaa1e388babcb69",
+      "reviewedSourceHashes": {
+        "src-ddbeaa1e388babcb69": "f18af51a8bf39efd81a490f437b368f9c244ced4c60c67f809cf2a35e7ca1a21"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-ddbeaa1e388babcb69"
+        },
+        "applicationEnd": {
+          "value": "2026-08-19T23:59:00+08:00",
+          "precision": "datetime",
+          "raw": "报名时间：即日起至8月19日23:59。",
+          "sourceId": "src-ddbeaa1e388babcb69"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-800a30c96c5cb8ef291e",
+      "action": "corrected",
+      "reason": "系统报名时间是：即日起至2026年8月23日；9月4日是复试名单公布时间。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-08-23",
+          "precision": "date",
+          "raw": "系统报名时间是：即日起至2026年8月23日；9月4日是复试名单公布时间。",
+          "sourceId": "src-45e2b66b71fa4ab867"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "availability": "open"
+      },
+      "sourceId": "src-45e2b66b71fa4ab867",
+      "evidenceUrls": [
+        "https://ise.sysu.edu.cn/article/1745"
+      ],
+      "schoolId": "sysu",
+      "unitId": "sysu-71ad3aa513",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-45e2b66b71fa4ab867"
+      },
+      "oldMaterialsEnd": {
+        "value": "2026-08-23",
+        "precision": "date",
+        "raw": "2026年8月23日",
+        "sourceId": "src-45e2b66b71fa4ab867"
+      },
+      "evidenceSourceId": "src-45e2b66b71fa4ab867",
+      "reviewedSourceHashes": {
+        "src-45e2b66b71fa4ab867": "20fb2013e44eeb2f13803548619ae371408cd7376ce6b43d8fcd68139bfdcf00"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-45e2b66b71fa4ab867"
+        },
+        "applicationEnd": {
+          "value": "2026-08-23",
+          "precision": "date",
+          "raw": "系统报名时间是：即日起至2026年8月23日；9月4日是复试名单公布时间。",
+          "sourceId": "src-45e2b66b71fa4ab867"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-b6e976c5f2f83cf8d6f6",
+      "action": "corrected",
+      "reason": "2026年8月25日前，请在中山大学研究生招生平台报名。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-08-25",
+          "precision": "date",
+          "raw": "2026年8月25日前，请在中山大学研究生招生平台报名。",
+          "sourceId": "src-ab2ffb98f356ee50a8"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      },
+      "sourceId": "src-ab2ffb98f356ee50a8",
+      "evidenceUrls": [
+        "https://scst.sysu.edu.cn/article/502"
+      ],
+      "schoolId": "sysu",
+      "unitId": "sysu-7be1433646",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-ab2ffb98f356ee50a8"
+      },
+      "oldMaterialsEnd": {
+        "value": "2026-08-25",
+        "precision": "date",
+        "raw": "2026年8月25日",
+        "sourceId": "src-ab2ffb98f356ee50a8"
+      },
+      "evidenceSourceId": "src-ab2ffb98f356ee50a8",
+      "reviewedSourceHashes": {
+        "src-ab2ffb98f356ee50a8": "519fbcecb4cfbc9aaa61879a6b261cd346c82bf3be296098541cc7ab7175acdc"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-ab2ffb98f356ee50a8"
+        },
+        "applicationEnd": {
+          "value": "2026-08-25",
+          "precision": "date",
+          "raw": "2026年8月25日前，请在中山大学研究生招生平台报名。",
+          "sourceId": "src-ab2ffb98f356ee50a8"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-b2ceb01261f02e8432e9",
+      "action": "corrected",
+      "reason": "即日起至2026年9月10日中午12:00前填写问卷并上传申请材料；两项缺一不予受理。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-10T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "即日起至2026年9月10日中午12:00前填写问卷并上传申请材料；两项缺一不予受理。",
+          "sourceId": "src-e645888c3d81ca1c65"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "availability": "open"
+      },
+      "sourceId": "src-e645888c3d81ca1c65",
+      "evidenceUrls": [
+        "https://sofe.sysu.edu.cn/zh-hans/article/511"
+      ],
+      "schoolId": "sysu",
+      "unitId": "sysu-e22d3f5d04",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-e645888c3d81ca1c65"
+      },
+      "oldMaterialsEnd": {
+        "value": "2026-09-10T12:00:00+08:00",
+        "precision": "datetime",
+        "raw": "2026年9月10日中午12：00",
+        "sourceId": "src-e645888c3d81ca1c65"
+      },
+      "evidenceSourceId": "src-e645888c3d81ca1c65",
+      "reviewedSourceHashes": {
+        "src-e645888c3d81ca1c65": "5d37d3c3a85e5fce15a8195268bf1a021bb27e8d4c476ead38ffc9151dd18da4"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-e645888c3d81ca1c65"
+        },
+        "applicationEnd": {
+          "value": "2026-09-10T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "即日起至2026年9月10日中午12:00前填写问卷并上传申请材料；两项缺一不予受理。",
+          "sourceId": "src-e645888c3d81ca1c65"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-cffb3680b2de4759ad0b",
+      "action": "corrected",
+      "reason": "2026年7月6日起至2026年7月17日23:59前填写问卷提交报名。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-07-17T23:59:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年7月6日起至2026年7月17日23:59前填写问卷提交报名。",
+          "sourceId": "src-bdf31c36a3e66416ad"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "applicationStart": {
+          "value": "2026-07-06",
+          "precision": "date",
+          "raw": "2026年7月6日起至2026年7月17日23:59前填写问卷提交报名。",
+          "sourceId": "src-bdf31c36a3e66416ad"
+        }
+      },
+      "sourceId": "src-bdf31c36a3e66416ad",
+      "evidenceUrls": [
+        "https://mst.sysu.edu.cn/node/1355"
+      ],
+      "schoolId": "sysu",
+      "unitId": "sysu-0ca0e91882",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-bdf31c36a3e66416ad"
+      },
+      "oldMaterialsEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-bdf31c36a3e66416ad"
+      },
+      "evidenceSourceId": "src-bdf31c36a3e66416ad",
+      "reviewedSourceHashes": {
+        "src-bdf31c36a3e66416ad": "e02b1a5aeb1e2363bfef5d6517d7bb9593b2106f438d06c95b25747cd7d6657a"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-07-06",
+          "precision": "date",
+          "raw": "2026年7月6日起至2026年7月17日23:59前填写问卷提交报名。",
+          "sourceId": "src-bdf31c36a3e66416ad"
+        },
+        "applicationEnd": {
+          "value": "2026-07-17T23:59:00+08:00",
+          "precision": "datetime",
+          "raw": "2026年7月6日起至2026年7月17日23:59前填写问卷提交报名。",
+          "sourceId": "src-bdf31c36a3e66416ad"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-a3706eba325fab6ed55a",
+      "action": "corrected",
+      "reason": "7月15日至8月20日，考生登陆厦门大学研究生院报考系统完成预报名。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-08-20",
+          "precision": "date",
+          "raw": "7月15日至8月20日，考生登陆厦门大学研究生院报考系统完成预报名。",
+          "sourceId": "src-4a1f449349db438ecd"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "applicationStart": {
+          "value": "2026-07-15",
+          "precision": "date",
+          "raw": "7月15日至8月20日，考生登陆厦门大学研究生院报考系统完成预报名。",
+          "sourceId": "src-4a1f449349db438ecd"
+        }
+      },
+      "sourceId": "src-4a1f449349db438ecd",
+      "evidenceUrls": [
+        "https://aerospace.xmu.edu.cn/info/2983/64474.htm",
+        "https://aerospace.xmu.edu.cn/info/2723/64484.htm"
+      ],
+      "schoolId": "xmu",
+      "unitId": "xmu-dacbbeb44f",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-4a1f449349db438ecd"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-4a1f449349db438ecd",
+      "reviewedSourceHashes": {
+        "src-4a1f449349db438ecd": "bf83066a27625053ad91c3c0971a18615c9c183d72c5e2996f1e9ab2ebab9069",
+        "source-b3b3e38f9968a51b9931": "bf83066a27625053ad91c3c0971a18615c9c183d72c5e2996f1e9ab2ebab9069"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-07-15",
+          "precision": "date",
+          "raw": "7月15日至8月20日，考生登陆厦门大学研究生院报考系统完成预报名。",
+          "sourceId": "src-4a1f449349db438ecd"
+        },
+        "applicationEnd": {
+          "value": "2026-08-20",
+          "precision": "date",
+          "raw": "7月15日至8月20日，考生登陆厦门大学研究生院报考系统完成预报名。",
+          "sourceId": "src-4a1f449349db438ecd"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-f30e733641ddbda519a1",
+      "action": "corrected",
+      "reason": "即日起—9月10日，在厦门大学研究生报考服务系统进行网上报名。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-10",
+          "precision": "date",
+          "raw": "即日起—9月10日，在厦门大学研究生报考服务系统进行网上报名。",
+          "sourceId": "src-20cd58da5322c69770"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "availability": "open"
+      },
+      "sourceId": "src-20cd58da5322c69770",
+      "evidenceUrls": [
+        "https://ese.xmu.edu.cn/info/1018/35601.htm"
+      ],
+      "schoolId": "xmu",
+      "unitId": "xmu-4ee0ff0077",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-20cd58da5322c69770"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-20cd58da5322c69770",
+      "reviewedSourceHashes": {
+        "src-20cd58da5322c69770": "e9dd76dfd21f5a9e8a779d98b559d4e1451a50204237f06c0d1b6c477afedbd8"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-20cd58da5322c69770"
+        },
+        "applicationEnd": {
+          "value": "2026-09-10",
+          "precision": "date",
+          "raw": "即日起—9月10日，在厦门大学研究生报考服务系统进行网上报名。",
+          "sourceId": "src-20cd58da5322c69770"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-a82004c2a571e4786324",
+      "action": "corrected",
+      "reason": "请于2026年8月23日17:00前在同济大学研究生招生系统进行预报名。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-08-23T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "请于2026年8月23日17:00前在同济大学研究生招生系统进行预报名。",
+          "sourceId": "src-a77032ebf7e434335d"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      },
+      "sourceId": "src-a77032ebf7e434335d",
+      "evidenceUrls": [
+        "https://yz.tongji.edu.cn/info/1010/4220.htm",
+        "https://srias.tongji.edu.cn/_upload/article/files/c3/a0/9961854b4d45bf0547ad2198e401/d6c245f3-7996-478a-ac13-e959f494e4a5.pdf"
+      ],
+      "schoolId": "tongji",
+      "unitId": "tongji-8ac6af1376",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-a77032ebf7e434335d"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-a77032ebf7e434335d",
+      "reviewedSourceHashes": {
+        "source-55be183a14b93d3398e1": "e8b895119ee901f5d6ddba65d17f53d926cfc643a5a2b6016f1a110779671bf8",
+        "src-a77032ebf7e434335d": "d260afb6f42a12d5155ad4230c93864a270e0381ee9da54435e36705acb1067e"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-a77032ebf7e434335d"
+        },
+        "applicationEnd": {
+          "value": "2026-08-23T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "请于2026年8月23日17:00前在同济大学研究生招生系统进行预报名。",
+          "sourceId": "src-a77032ebf7e434335d"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-30da51aca63d2e2d7b39",
+      "action": "corrected",
+      "reason": "报名时间：即日起至2026年8月25日12:00。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-08-25T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "报名时间：即日起至2026年8月25日12:00。",
+          "sourceId": "src-ff8d9198789e744d07"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      },
+      "sourceId": "src-ff8d9198789e744d07",
+      "evidenceUrls": [
+        "https://yz.tongji.edu.cn/info/1010/4220.htm",
+        "https://see.tongji.edu.cn/__local/0/CA/40/80ACF42AA9C448546B4B52A25D2_433060EA_4F2DE.pdf"
+      ],
+      "schoolId": "tongji",
+      "unitId": "tongji-9ac0e66b58",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-ff8d9198789e744d07"
+      },
+      "oldMaterialsEnd": {
+        "value": "2026-08-25T12:00:00+08:00",
+        "precision": "datetime",
+        "raw": "2026年8月25日12:00",
+        "sourceId": "src-ff8d9198789e744d07"
+      },
+      "evidenceSourceId": "src-ff8d9198789e744d07",
+      "reviewedSourceHashes": {
+        "src-ff8d9198789e744d07": "282eb1362ddc44a6376a2eb10ed67303c9b99ad0ce79cde3a5fe0e8ea56ca8b7",
+        "source-55be183a14b93d3398e1": "e8b895119ee901f5d6ddba65d17f53d926cfc643a5a2b6016f1a110779671bf8"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-ff8d9198789e744d07"
+        },
+        "applicationEnd": {
+          "value": "2026-08-25T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "报名时间：即日起至2026年8月25日12:00。",
+          "sourceId": "src-ff8d9198789e744d07"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-6e6bf609c3a02a2f6523",
+      "action": "corrected",
+      "reason": "普通项目报名截至8月28日；大模型与通用人工智能系统、中电信星辰大模型两个项目另截至9月13日，分别收录。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-08-28",
+          "precision": "date",
+          "raw": "普通项目报名截至8月28日；大模型与通用人工智能系统、中电信星辰大模型两个项目另截至9月13日，分别收录。",
+          "sourceId": "src-f2b96d4252703f26dc"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      },
+      "sourceId": "src-f2b96d4252703f26dc",
+      "evidenceUrls": [
+        "http://cist.hitsz.edu.cn/info/1038/2789.htm"
+      ],
+      "schoolId": "hit",
+      "unitId": "hit-cab13f24ef",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-f2b96d4252703f26dc"
+      },
+      "oldMaterialsEnd": {
+        "value": "2026-09-13",
+        "precision": "date",
+        "raw": "9月13日",
+        "sourceId": "src-f2b96d4252703f26dc"
+      },
+      "evidenceSourceId": "src-f2b96d4252703f26dc",
+      "reviewedSourceHashes": {
+        "src-f2b96d4252703f26dc": "cadb87e83a49f65366b0986c8e3359b0df332da16cd1ca2de6c48a93e2926f46"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-f2b96d4252703f26dc"
+        },
+        "applicationEnd": {
+          "value": "2026-08-28",
+          "precision": "date",
+          "raw": "普通项目报名截至8月28日；大模型与通用人工智能系统、中电信星辰大模型两个项目另截至9月13日，分别收录。",
+          "sourceId": "src-f2b96d4252703f26dc"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-24c783fbff92b74c9261",
+      "action": "corrected",
+      "reason": "报名截至时间：9月10日。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-10",
+          "precision": "date",
+          "raw": "报名截至时间：9月10日。",
+          "sourceId": "src-265c4f528eadebf49c"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      },
+      "sourceId": "src-265c4f528eadebf49c",
+      "evidenceUrls": [
+        "http://cist.hitsz.edu.cn/info/1038/2790.htm"
+      ],
+      "schoolId": "hit",
+      "unitId": "hit-2bd8bf83bc",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-265c4f528eadebf49c"
+      },
+      "oldMaterialsEnd": {
+        "value": "2026-09-10",
+        "precision": "date",
+        "raw": "9月10日",
+        "sourceId": "src-265c4f528eadebf49c"
+      },
+      "evidenceSourceId": "src-265c4f528eadebf49c",
+      "reviewedSourceHashes": {
+        "src-265c4f528eadebf49c": "334dfc792c20c9235bbda02b168868aadf95605240ebdfa81ace4ae1f0f32ea8"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-265c4f528eadebf49c"
+        },
+        "applicationEnd": {
+          "value": "2026-09-10",
+          "precision": "date",
+          "raw": "报名截至时间：9月10日。",
+          "sourceId": "src-265c4f528eadebf49c"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-b5ae0319ebd60f1cd814",
+      "action": "corrected",
+      "reason": "申请时间：9月1日9:00—9月11日8:00。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-11T08:00:00+08:00",
+          "precision": "datetime",
+          "raw": "申请时间：9月1日9:00—9月11日8:00。",
+          "sourceId": "src-59db20e2318cb65bae"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "applicationStart": {
+          "value": "2026-09-01T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "申请时间：9月1日9:00—9月11日8:00。",
+          "sourceId": "src-59db20e2318cb65bae"
+        }
+      },
+      "sourceId": "src-59db20e2318cb65bae",
+      "evidenceUrls": [
+        "https://www.ise.sdu.edu.cn/info/1096/16821.htm"
+      ],
+      "schoolId": "sdu",
+      "unitId": "sdu-dd33538b75",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-59db20e2318cb65bae"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-59db20e2318cb65bae",
+      "reviewedSourceHashes": {
+        "src-59db20e2318cb65bae": "0f3068e2aa4489b365ce4abf0acaeab9b2285beab2d2a670059e1fad6197dab5"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-09-01T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "申请时间：9月1日9:00—9月11日8:00。",
+          "sourceId": "src-59db20e2318cb65bae"
+        },
+        "applicationEnd": {
+          "value": "2026-09-11T08:00:00+08:00",
+          "precision": "datetime",
+          "raw": "申请时间：9月1日9:00—9月11日8:00。",
+          "sourceId": "src-59db20e2318cb65bae"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-9560c2e5e6e8cef42603",
+      "action": "corrected",
+      "reason": "申请起止时间：9月1日09:00—11日17:00；“11日”沿用9月。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-11T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "申请起止时间：9月1日09:00—11日17:00；“11日”沿用9月。",
+          "sourceId": "src-895710a2891d7a8787"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "applicationStart": {
+          "value": "2026-09-01T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "申请起止时间：9月1日09:00—11日17:00；“11日”沿用9月。",
+          "sourceId": "src-895710a2891d7a8787"
+        }
+      },
+      "sourceId": "src-895710a2891d7a8787",
+      "evidenceUrls": [
+        "https://www.ai.sdu.edu.cn/info/1088/1524.htm"
+      ],
+      "schoolId": "sdu",
+      "unitId": "sdu-066a0201ed",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-895710a2891d7a8787"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-895710a2891d7a8787",
+      "reviewedSourceHashes": {
+        "src-895710a2891d7a8787": "b1c58cbaa7d733de9c8278d214c97b9b9aa61f4ba8ffc20f1028eca8a1b3e8c0"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-09-01T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "申请起止时间：9月1日09:00—11日17:00；“11日”沿用9月。",
+          "sourceId": "src-895710a2891d7a8787"
+        },
+        "applicationEnd": {
+          "value": "2026-09-11T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "申请起止时间：9月1日09:00—11日17:00；“11日”沿用9月。",
+          "sourceId": "src-895710a2891d7a8787"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-2fe95388ee171e90ba2d",
+      "action": "corrected",
+      "reason": "9月6日至9月11日上午12:00；硕士仅收录集成电路专项装备班等明确直硕项目，不借用普通直博专业。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-11T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月6日至9月11日上午12:00；硕士仅收录集成电路专项装备班等明确直硕项目，不借用普通直博专业。",
+          "sourceId": "src-395027158227725d99"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅纳入通知明确列出的集成电路专项装备班直硕方向；其他普通专业仅招直博，不在本记录范围。",
+        "applicationStart": {
+          "value": "2026-09-06",
+          "precision": "date",
+          "raw": "9月6日至9月11日上午12:00；硕士仅收录集成电路专项装备班等明确直硕项目，不借用普通直博专业。",
+          "sourceId": "src-395027158227725d99"
+        },
+        "degrees": [
+          "professional"
+        ]
+      },
+      "sourceId": "src-395027158227725d99",
+      "evidenceUrls": [
+        "https://icisee.sjtu.edu.cn/yanjiusheng-zsgz-sszs/3427.html"
+      ],
+      "schoolId": "sjtu",
+      "unitId": "sjtu-105a99aabd",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-395027158227725d99"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-395027158227725d99",
+      "reviewedSourceHashes": {
+        "src-395027158227725d99": "d4679b6dcf5932475b4b26609780f758a1b1b6f3adb8007cff7493c868c59d81"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-09-06",
+          "precision": "date",
+          "raw": "9月6日至9月11日上午12:00；硕士仅收录集成电路专项装备班等明确直硕项目，不借用普通直博专业。",
+          "sourceId": "src-395027158227725d99"
+        },
+        "applicationEnd": {
+          "value": "2026-09-11T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月6日至9月11日上午12:00；硕士仅收录集成电路专项装备班等明确直硕项目，不借用普通直博专业。",
+          "sourceId": "src-395027158227725d99"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅纳入通知明确列出的集成电路专项装备班直硕方向；其他普通专业仅招直博，不在本记录范围。"
+      }
+    },
+    {
+      "opportunityId": "opp-e439460aef99e7ca47d4",
+      "action": "corrected",
+      "reason": "网上报名：即日起至2026年9月9日。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "网上报名：即日起至2026年9月9日。",
+          "sourceId": "src-eb6f3c9a8bf4106e3b"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "availability": "open"
+      },
+      "sourceId": "src-eb6f3c9a8bf4106e3b",
+      "evidenceUrls": [
+        "https://saids.ustc.edu.cn/2026/0831/c15435a751553/page.htm"
+      ],
+      "schoolId": "ustc",
+      "unitId": "ustc-9b76c637a5",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-eb6f3c9a8bf4106e3b"
+      },
+      "oldMaterialsEnd": {
+        "value": "2026-09-09",
+        "precision": "date",
+        "raw": "9 月 09 日",
+        "sourceId": "src-eb6f3c9a8bf4106e3b"
+      },
+      "evidenceSourceId": "src-eb6f3c9a8bf4106e3b",
+      "reviewedSourceHashes": {
+        "src-eb6f3c9a8bf4106e3b": "138525aecd34bcc9f4d48f83718aa7b4c68fe9543aea153469048dfeec16a0f6"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-eb6f3c9a8bf4106e3b"
+        },
+        "applicationEnd": {
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "网上报名：即日起至2026年9月9日。",
+          "sourceId": "src-eb6f3c9a8bf4106e3b"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-f0cfe8324a66d08f9983",
+      "action": "corrected",
+      "reason": "请于9月13日前登录中国科学技术大学研究生报考服务系统进行预报名。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-13",
+          "precision": "date",
+          "raw": "请于9月13日前登录中国科学技术大学研究生报考服务系统进行预报名。",
+          "sourceId": "src-8ee897ab6f806ba215"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      },
+      "sourceId": "src-8ee897ab6f806ba215",
+      "evidenceUrls": [
+        "https://eeis.ustc.edu.cn/2026/0904/c2702a752148/page.htm"
+      ],
+      "schoolId": "ustc",
+      "unitId": "ustc-3dd6757b7d",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-8ee897ab6f806ba215"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-8ee897ab6f806ba215",
+      "reviewedSourceHashes": {
+        "src-8ee897ab6f806ba215": "e3ca30386c23b809e91d74e3c434d939eac04f57fc46320a821b50781d50d376"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-8ee897ab6f806ba215"
+        },
+        "applicationEnd": {
+          "value": "2026-09-13",
+          "precision": "date",
+          "raw": "请于9月13日前登录中国科学技术大学研究生报考服务系统进行预报名。",
+          "sourceId": "src-8ee897ab6f806ba215"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-557c23b9058c1124fa23",
+      "action": "corrected",
+      "reason": "湖北应用数学中心1453S1数据科学：2026年8月24日—2026年9月9日。其他中心时间不适用于本项目。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "湖北应用数学中心1453S1数据科学：2026年8月24日—2026年9月9日。其他中心时间不适用于本项目。",
+          "sourceId": "src-57b889130a5097c80e"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "applicationStart": {
+          "value": "2026-08-24",
+          "precision": "date",
+          "raw": "湖北应用数学中心1453S1数据科学：2026年8月24日—2026年9月9日。其他中心时间不适用于本项目。",
+          "sourceId": "src-57b889130a5097c80e"
+        },
+        "degrees": [
+          "professional"
+        ],
+        "disciplines": [
+          "数据科学"
+        ]
+      },
+      "sourceId": "src-57b889130a5097c80e",
+      "evidenceUrls": [
+        "https://aais.whu.edu.cn/info/2021/21561.htm"
+      ],
+      "schoolId": "whu",
+      "unitId": "whu-a851488137",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-57b889130a5097c80e"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-57b889130a5097c80e",
+      "reviewedSourceHashes": {
+        "src-57b889130a5097c80e": "44dad46481f12acf65c20c24c110d3c21c0602f134ed6a1f0e9ac87eeeaa78c8"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-08-24",
+          "precision": "date",
+          "raw": "湖北应用数学中心1453S1数据科学：2026年8月24日—2026年9月9日。其他中心时间不适用于本项目。",
+          "sourceId": "src-57b889130a5097c80e"
+        },
+        "applicationEnd": {
+          "value": "2026-09-09",
+          "precision": "date",
+          "raw": "湖北应用数学中心1453S1数据科学：2026年8月24日—2026年9月9日。其他中心时间不适用于本项目。",
+          "sourceId": "src-57b889130a5097c80e"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-f6bd6c40dddff94600ef",
+      "action": "corrected",
+      "reason": "报名时间：即日起—2026年9月20日。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-20",
+          "precision": "date",
+          "raw": "报名时间：即日起—2026年9月20日。",
+          "sourceId": "src-602e5be30ef55ef5b0"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "availability": "open"
+      },
+      "sourceId": "src-602e5be30ef55ef5b0",
+      "evidenceUrls": [
+        "https://imse.xidian.edu.cn/info/1030/6891.htm"
+      ],
+      "schoolId": "xidian",
+      "unitId": "xidian-03c405d5f1",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-602e5be30ef55ef5b0"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-602e5be30ef55ef5b0",
+      "reviewedSourceHashes": {
+        "src-602e5be30ef55ef5b0": "a280bb2b93530486ab2816a0f404a60892d758f5797606bd7a8c5115ee53028f"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-602e5be30ef55ef5b0"
+        },
+        "applicationEnd": {
+          "value": "2026-09-20",
+          "precision": "date",
+          "raw": "报名时间：即日起—2026年9月20日。",
+          "sourceId": "src-602e5be30ef55ef5b0"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-771d2f1e7f0de8d99730",
+      "action": "corrected",
+      "reason": "集成电路学院报名时间：7月24日00:00—9月16日09:00。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-16T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "集成电路学院报名时间：7月24日00:00—9月16日09:00。",
+          "sourceId": "src-093dba287b45e5bc45"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "applicationStart": {
+          "value": "2026-07-24T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "集成电路学院报名时间：7月24日00:00—9月16日09:00。",
+          "sourceId": "src-093dba287b45e5bc45"
+        }
+      },
+      "sourceId": "src-093dba287b45e5bc45",
+      "evidenceUrls": [
+        "https://gs.dlut.edu.cn/info/1173/51492.htm"
+      ],
+      "schoolId": "dlut",
+      "unitId": "dlut-ae18cab9f7",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-3813e2bba2b987c50624"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-093dba287b45e5bc45",
+      "reviewedSourceHashes": {
+        "src-093dba287b45e5bc45": "f541f32b700b5c0a534e87f90721d13e5610dfb62f86794662a26749ae8523f6",
+        "source-1ab4b517a74db2f8d8dc": "f541f32b700b5c0a534e87f90721d13e5610dfb62f86794662a26749ae8523f6",
+        "source-3813e2bba2b987c50624": "f541f32b700b5c0a534e87f90721d13e5610dfb62f86794662a26749ae8523f6"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-07-24T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "集成电路学院报名时间：7月24日00:00—9月16日09:00。",
+          "sourceId": "src-093dba287b45e5bc45"
+        },
+        "applicationEnd": {
+          "value": "2026-09-16T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "集成电路学院报名时间：7月24日00:00—9月16日09:00。",
+          "sourceId": "src-093dba287b45e5bc45"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-4c2f8954854b6842db27",
+      "action": "corrected",
+      "reason": "光电工程与仪器科学学院：8月12日08:00—9月7日12:00。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-07T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "光电工程与仪器科学学院：8月12日08:00—9月7日12:00。",
+          "sourceId": "source-3813e2bba2b987c50624"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "applicationStart": {
+          "value": "2026-08-12T08:00:00+08:00",
+          "precision": "datetime",
+          "raw": "光电工程与仪器科学学院：8月12日08:00—9月7日12:00。",
+          "sourceId": "source-3813e2bba2b987c50624"
+        }
+      },
+      "sourceId": "source-3813e2bba2b987c50624",
+      "evidenceUrls": [
+        "https://gs.dlut.edu.cn/info/1173/51492.htm"
+      ],
+      "schoolId": "dlut",
+      "unitId": "dlut-5f278a3ad8",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-3813e2bba2b987c50624"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "source-3813e2bba2b987c50624",
+      "reviewedSourceHashes": {
+        "source-3813e2bba2b987c50624": "f541f32b700b5c0a534e87f90721d13e5610dfb62f86794662a26749ae8523f6"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-08-12T08:00:00+08:00",
+          "precision": "datetime",
+          "raw": "光电工程与仪器科学学院：8月12日08:00—9月7日12:00。",
+          "sourceId": "source-3813e2bba2b987c50624"
+        },
+        "applicationEnd": {
+          "value": "2026-09-07T12:00:00+08:00",
+          "precision": "datetime",
+          "raw": "光电工程与仪器科学学院：8月12日08:00—9月7日12:00。",
+          "sourceId": "source-3813e2bba2b987c50624"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-d40d3d557631a100d763",
+      "action": "corrected",
+      "reason": "信息与通信工程学院：7月13日13:00—9月13日24:00；24:00按次日00:00保存。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-14T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "信息与通信工程学院：7月13日13:00—9月13日24:00；24:00按次日00:00保存。",
+          "sourceId": "source-3813e2bba2b987c50624"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "applicationStart": {
+          "value": "2026-07-13T13:00:00+08:00",
+          "precision": "datetime",
+          "raw": "信息与通信工程学院：7月13日13:00—9月13日24:00；24:00按次日00:00保存。",
+          "sourceId": "source-3813e2bba2b987c50624"
+        }
+      },
+      "sourceId": "source-3813e2bba2b987c50624",
+      "evidenceUrls": [
+        "https://gs.dlut.edu.cn/info/1173/51492.htm"
+      ],
+      "schoolId": "dlut",
+      "unitId": "dlut-a6b7bcb1bd",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-3813e2bba2b987c50624"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "source-3813e2bba2b987c50624",
+      "reviewedSourceHashes": {
+        "source-3813e2bba2b987c50624": "f541f32b700b5c0a534e87f90721d13e5610dfb62f86794662a26749ae8523f6"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-07-13T13:00:00+08:00",
+          "precision": "datetime",
+          "raw": "信息与通信工程学院：7月13日13:00—9月13日24:00；24:00按次日00:00保存。",
+          "sourceId": "source-3813e2bba2b987c50624"
+        },
+        "applicationEnd": {
+          "value": "2026-09-14T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "信息与通信工程学院：7月13日13:00—9月13日24:00；24:00按次日00:00保存。",
+          "sourceId": "source-3813e2bba2b987c50624"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-2b7fef953e3785a71707",
+      "action": "corrected",
+      "reason": "电子信息（085400）计算机技术（大模型与通用人工智能系统项目）的报名截止时间为9月13日。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-13",
+          "precision": "date",
+          "raw": "电子信息（085400）计算机技术（大模型与通用人工智能系统项目）的报名截止时间为9月13日。",
+          "sourceId": "src-1baefb7a2762c0228b"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "同一公告普通项目8月28日截止；本记录只对应所标注专项。",
+        "degrees": [
+          "professional"
+        ],
+        "disciplines": [
+          "计算机",
+          "人工智能"
+        ]
+      },
+      "sourceId": "src-1baefb7a2762c0228b",
+      "evidenceUrls": [
+        "http://cist.hitsz.edu.cn/info/1038/2789.htm"
+      ],
+      "schoolId": "hit",
+      "unitId": "hit-cab13f24ef",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": null
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-1baefb7a2762c0228b",
+      "reviewedSourceHashes": {
+        "src-1baefb7a2762c0228b": "cadb87e83a49f65366b0986c8e3359b0df332da16cd1ca2de6c48a93e2926f46"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-1baefb7a2762c0228b"
+        },
+        "applicationEnd": {
+          "value": "2026-09-13",
+          "precision": "date",
+          "raw": "电子信息（085400）计算机技术（大模型与通用人工智能系统项目）的报名截止时间为9月13日。",
+          "sourceId": "src-1baefb7a2762c0228b"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "同一公告普通项目8月28日截止；本记录只对应所标注专项。"
+      }
+    },
+    {
+      "opportunityId": "opp-e0627d565ecd352a12ff",
+      "action": "corrected",
+      "reason": "电子信息（085400）计算机技术（中电信星辰大模型项目）的报名截止时间为9月13日。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-13",
+          "precision": "date",
+          "raw": "电子信息（085400）计算机技术（中电信星辰大模型项目）的报名截止时间为9月13日。",
+          "sourceId": "src-f2b9d67a8ac71b3fca"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "同一公告普通项目8月28日截止；本记录只对应所标注专项。",
+        "degrees": [
+          "professional"
+        ],
+        "disciplines": [
+          "计算机",
+          "人工智能"
+        ]
+      },
+      "sourceId": "src-f2b9d67a8ac71b3fca",
+      "evidenceUrls": [
+        "http://cist.hitsz.edu.cn/info/1038/2789.htm"
+      ],
+      "schoolId": "hit",
+      "unitId": "hit-cab13f24ef",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": null
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-f2b9d67a8ac71b3fca",
+      "reviewedSourceHashes": {
+        "src-f2b9d67a8ac71b3fca": "cadb87e83a49f65366b0986c8e3359b0df332da16cd1ca2de6c48a93e2926f46"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-f2b9d67a8ac71b3fca"
+        },
+        "applicationEnd": {
+          "value": "2026-09-13",
+          "precision": "date",
+          "raw": "电子信息（085400）计算机技术（中电信星辰大模型项目）的报名截止时间为9月13日。",
+          "sourceId": "src-f2b9d67a8ac71b3fca"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "同一公告普通项目8月28日截止；本记录只对应所标注专项。"
+      }
+    },
+    {
+      "opportunityId": "opp-709e42e5d8f58ac0158d",
+      "action": "corrected",
+      "reason": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-09T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-033e6be40d0ad3f8e7"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅纳入专业表明确列出的硕士专业；同表博士专业不在收录范围。",
+        "applicationStart": {
+          "value": "2026-08-31T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-033e6be40d0ad3f8e7"
+        },
+        "degrees": [
+          "professional"
+        ]
+      },
+      "sourceId": "src-033e6be40d0ad3f8e7",
+      "evidenceUrls": [
+        "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf"
+      ],
+      "schoolId": "nju",
+      "unitId": "nju-54ee27e5bf",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-033e6be40d0ad3f8e7"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-033e6be40d0ad3f8e7",
+      "reviewedSourceHashes": {
+        "src-033e6be40d0ad3f8e7": "ad5f6a425ecc02d6424d7c7ec4fa23a7a4f216fbee14b873da7edd296f4c4827"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-08-31T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-033e6be40d0ad3f8e7"
+        },
+        "applicationEnd": {
+          "value": "2026-09-09T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-033e6be40d0ad3f8e7"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅纳入专业表明确列出的硕士专业；同表博士专业不在收录范围。"
+      }
+    },
+    {
+      "opportunityId": "opp-9801e968081418a261fc",
+      "action": "corrected",
+      "reason": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-09T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-b27ff6a1b44072bc2a"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅纳入专业表明确列出的硕士专业；同表博士专业不在收录范围。",
+        "applicationStart": {
+          "value": "2026-08-31T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-b27ff6a1b44072bc2a"
+        },
+        "degrees": [
+          "professional"
+        ]
+      },
+      "sourceId": "src-b27ff6a1b44072bc2a",
+      "evidenceUrls": [
+        "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf"
+      ],
+      "schoolId": "nju",
+      "unitId": "nju-d6aeec6db0",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-b27ff6a1b44072bc2a"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-b27ff6a1b44072bc2a",
+      "reviewedSourceHashes": {
+        "src-b27ff6a1b44072bc2a": "ad5f6a425ecc02d6424d7c7ec4fa23a7a4f216fbee14b873da7edd296f4c4827"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-08-31T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-b27ff6a1b44072bc2a"
+        },
+        "applicationEnd": {
+          "value": "2026-09-09T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-b27ff6a1b44072bc2a"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅纳入专业表明确列出的硕士专业；同表博士专业不在收录范围。"
+      }
+    },
+    {
+      "opportunityId": "opp-8a17bac610cfcf32e5cf",
+      "action": "corrected",
+      "reason": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-09T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-26e1a117223fefee1f"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅纳入专业表明确列出的硕士专业；同表博士专业不在收录范围。",
+        "applicationStart": {
+          "value": "2026-08-31T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-26e1a117223fefee1f"
+        },
+        "degrees": [
+          "professional"
+        ]
+      },
+      "sourceId": "src-26e1a117223fefee1f",
+      "evidenceUrls": [
+        "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf"
+      ],
+      "schoolId": "nju",
+      "unitId": "nju-d44e9404bb",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-26e1a117223fefee1f"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-26e1a117223fefee1f",
+      "reviewedSourceHashes": {
+        "src-26e1a117223fefee1f": "ad5f6a425ecc02d6424d7c7ec4fa23a7a4f216fbee14b873da7edd296f4c4827"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-08-31T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-26e1a117223fefee1f"
+        },
+        "applicationEnd": {
+          "value": "2026-09-09T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-26e1a117223fefee1f"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅纳入专业表明确列出的硕士专业；同表博士专业不在收录范围。"
+      }
+    },
+    {
+      "opportunityId": "opp-3512daf9560d8b3627ab",
+      "action": "corrected",
+      "reason": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-09T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-878c6084c0a456de1b"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅纳入专业表明确列出的硕士专业；同表博士专业不在收录范围。",
+        "applicationStart": {
+          "value": "2026-08-31T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-878c6084c0a456de1b"
+        },
+        "degrees": [
+          "professional"
+        ]
+      },
+      "sourceId": "src-878c6084c0a456de1b",
+      "evidenceUrls": [
+        "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf"
+      ],
+      "schoolId": "nju",
+      "unitId": "nju-ae18cab9f7",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-878c6084c0a456de1b"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-878c6084c0a456de1b",
+      "reviewedSourceHashes": {
+        "src-878c6084c0a456de1b": "ad5f6a425ecc02d6424d7c7ec4fa23a7a4f216fbee14b873da7edd296f4c4827"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-08-31T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-878c6084c0a456de1b"
+        },
+        "applicationEnd": {
+          "value": "2026-09-09T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-878c6084c0a456de1b"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅纳入专业表明确列出的硕士专业；同表博士专业不在收录范围。"
+      }
+    },
+    {
+      "opportunityId": "opp-0f1d7f21fd74a926a623",
+      "action": "corrected",
+      "reason": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-09T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-6e8e89d50414ff77c5"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅纳入专业表明确列出的硕士专业；同表博士专业不在收录范围。",
+        "applicationStart": {
+          "value": "2026-08-31T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-6e8e89d50414ff77c5"
+        },
+        "degrees": [
+          "professional"
+        ]
+      },
+      "sourceId": "src-6e8e89d50414ff77c5",
+      "evidenceUrls": [
+        "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf"
+      ],
+      "schoolId": "nju",
+      "unitId": "nju-b68f57251f",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": null
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-6e8e89d50414ff77c5",
+      "reviewedSourceHashes": {
+        "src-6e8e89d50414ff77c5": "ad5f6a425ecc02d6424d7c7ec4fa23a7a4f216fbee14b873da7edd296f4c4827"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-08-31T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-6e8e89d50414ff77c5"
+        },
+        "applicationEnd": {
+          "value": "2026-09-09T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-6e8e89d50414ff77c5"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅纳入专业表明确列出的硕士专业；同表博士专业不在收录范围。"
+      }
+    },
+    {
+      "opportunityId": "opp-6f50cb170b94ed230115",
+      "action": "corrected",
+      "reason": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-09T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-447fb7e1ac37d13966"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅纳入专业表明确列出的硕士专业；同表博士专业不在收录范围。",
+        "applicationStart": {
+          "value": "2026-08-31T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-447fb7e1ac37d13966"
+        },
+        "degrees": [
+          "professional"
+        ]
+      },
+      "sourceId": "src-447fb7e1ac37d13966",
+      "evidenceUrls": [
+        "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf"
+      ],
+      "schoolId": "nju",
+      "unitId": "nju-099d51df58",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": null
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-447fb7e1ac37d13966",
+      "reviewedSourceHashes": {
+        "src-447fb7e1ac37d13966": "ad5f6a425ecc02d6424d7c7ec4fa23a7a4f216fbee14b873da7edd296f4c4827"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-08-31T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-447fb7e1ac37d13966"
+        },
+        "applicationEnd": {
+          "value": "2026-09-09T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-447fb7e1ac37d13966"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅纳入专业表明确列出的硕士专业；同表博士专业不在收录范围。"
+      }
+    },
+    {
+      "opportunityId": "opp-5d16031e4dfbcd78e75a",
+      "action": "corrected",
+      "reason": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-09T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-7213f8dccf445c0ad4"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅纳入专业表明确列出的硕士专业；同表博士专业不在收录范围。",
+        "applicationStart": {
+          "value": "2026-08-31T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-7213f8dccf445c0ad4"
+        },
+        "degrees": [
+          "professional"
+        ]
+      },
+      "sourceId": "src-7213f8dccf445c0ad4",
+      "evidenceUrls": [
+        "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf"
+      ],
+      "schoolId": "nju",
+      "unitId": "nju-bb00eb5eed",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": null
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-7213f8dccf445c0ad4",
+      "reviewedSourceHashes": {
+        "src-7213f8dccf445c0ad4": "ad5f6a425ecc02d6424d7c7ec4fa23a7a4f216fbee14b873da7edd296f4c4827"
+      },
+      "result": {
+        "applicationStart": {
+          "value": "2026-08-31T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-7213f8dccf445c0ad4"
+        },
+        "applicationEnd": {
+          "value": "2026-09-09T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "本专项硕士表列明招生单位与0854专业；2026年8月31日17:00至9月9日17:00报名。",
+          "sourceId": "src-7213f8dccf445c0ad4"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅纳入专业表明确列出的硕士专业；同表博士专业不在收录范围。"
+      }
+    },
+    {
+      "opportunityId": "opp-3b0c0f1bbee7f6c915f0",
+      "action": "no_exact_cutoff",
+      "reason": "专项通知要求以相关学院预报名截止时间为准，未独立给出日期。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "专项通知要求以相关学院预报名截止时间为准，未独立给出日期。",
+          "sourceId": "src-73baa840f87d327386"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "不能把另一个学院或普通批次截止直接套入本专项；需学院确认该专项对应窗口。"
+      },
+      "sourceId": "src-73baa840f87d327386",
+      "evidenceUrls": [
+        "https://yzb.nju.edu.cn/_upload/article/files/6d/28/c2ddfc694cb192448c458c76ca1a/a0783ea9-abbc-484f-83cb-8a75941d88a5.pdf"
+      ],
+      "schoolId": "nju",
+      "unitId": "nju-099d51df58",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-73baa840f87d327386"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-73baa840f87d327386",
+      "reviewedSourceHashes": {
+        "src-73baa840f87d327386": "8cfb35f60f7be13f403d2055696c781aac161f8db2b854ad17861b4c69f19007"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-73baa840f87d327386"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "专项通知要求以相关学院预报名截止时间为准，未独立给出日期。",
+          "sourceId": "src-73baa840f87d327386"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "不能把另一个学院或普通批次截止直接套入本专项；需学院确认该专项对应窗口。"
+      }
+    },
+    {
+      "opportunityId": "opp-52e596d84ce6ef7fc7a8",
+      "action": "no_exact_cutoff",
+      "reason": "专项通知要求以相关学院预报名截止时间为准，未独立给出日期。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "专项通知要求以相关学院预报名截止时间为准，未独立给出日期。",
+          "sourceId": "src-3d0b9129e8fceb0b32"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "不能把另一个学院或普通批次截止直接套入本专项；需学院确认该专项对应窗口。"
+      },
+      "sourceId": "src-3d0b9129e8fceb0b32",
+      "evidenceUrls": [
+        "https://yzb.nju.edu.cn/_upload/article/files/6d/28/c2ddfc694cb192448c458c76ca1a/a0783ea9-abbc-484f-83cb-8a75941d88a5.pdf"
+      ],
+      "schoolId": "nju",
+      "unitId": "nju-ae18cab9f7",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-3d0b9129e8fceb0b32"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-3d0b9129e8fceb0b32",
+      "reviewedSourceHashes": {
+        "src-3d0b9129e8fceb0b32": "8cfb35f60f7be13f403d2055696c781aac161f8db2b854ad17861b4c69f19007"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-3d0b9129e8fceb0b32"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "专项通知要求以相关学院预报名截止时间为准，未独立给出日期。",
+          "sourceId": "src-3d0b9129e8fceb0b32"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "不能把另一个学院或普通批次截止直接套入本专项；需学院确认该专项对应窗口。"
+      }
+    },
+    {
+      "opportunityId": "opp-86bbde4df276859e52d2",
+      "action": "no_exact_cutoff",
+      "reason": "即日起可向导师提交材料；未公布学院预报名截止。9月20日属于考核、9月21日至10月20日属于全国正式推免。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "即日起可向导师提交材料；未公布学院预报名截止。9月20日属于考核、9月21日至10月20日属于全国正式推免。",
+          "sourceId": "source-977ecdf2cb039f28aec2"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "即日起可向导师提交材料；未公布学院预报名截止。9月20日属于考核、9月21日至10月20日属于全国正式推免。",
+        "availability": "open"
+      },
+      "sourceId": "source-977ecdf2cb039f28aec2",
+      "evidenceUrls": [
+        "https://ai.bit.edu.cn/tzgg/503eb8c373914764a9535df836c0b29d.htm",
+        "https://ai.bit.edu.cn/docs/2026-09/994e2c556cb04b82b77276958ccf9961.pdf"
+      ],
+      "schoolId": "bit",
+      "unitId": "bit-54ee27e5bf",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "通知未明确学院内预报名截止；全国系统开放时间不作为学院预报名截止。",
+        "sourceId": "source-977ecdf2cb039f28aec2"
+      },
+      "oldMaterialsEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "即日起向相关导师提交材料，通知未明确材料截止。",
+        "sourceId": "source-977ecdf2cb039f28aec2"
+      },
+      "evidenceSourceId": "source-a9aaae066549ae9fa5d1",
+      "reviewedSourceHashes": {
+        "source-977ecdf2cb039f28aec2": "595cab8832edbb74f7f3950077444ad1e37c3a874a6d59e2b5e175f08ffad801",
+        "source-a9aaae066549ae9fa5d1": "aaa82d41fe3a99a05610e2818f998e0d6826c8126e374189a650f17ef98504dc"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "source-a9aaae066549ae9fa5d1"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "即日起可向导师提交材料；未公布学院预报名截止。9月20日属于考核、9月21日至10月20日属于全国正式推免。",
+          "sourceId": "source-a9aaae066549ae9fa5d1"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "即日起可向导师提交材料；未公布学院预报名截止。9月20日属于考核、9月21日至10月20日属于全国正式推免。"
+      }
+    },
+    {
+      "opportunityId": "opp-c16705656b2b235fbeb0",
+      "action": "no_exact_cutoff",
+      "reason": "即日起联系导师申请；未公布学院预报名截止。9月21日至10月20日为全国正式推免，不是预报名窗口。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "即日起联系导师申请；未公布学院预报名截止。9月21日至10月20日为全国正式推免，不是预报名窗口。",
+          "sourceId": "source-93bc74db1a8106d39d62"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "即日起联系导师申请；未公布学院预报名截止。9月21日至10月20日为全国正式推免，不是预报名窗口。",
+        "availability": "open"
+      },
+      "sourceId": "source-93bc74db1a8106d39d62",
+      "evidenceUrls": [
+        "https://ac.bit.edu.cn/tzgg/af26cb8dba7348f09274a6c1a5beb699.htm"
+      ],
+      "schoolId": "bit",
+      "unitId": "bit-9476055247",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-93bc74db1a8106d39d62"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "source-93bc74db1a8106d39d62",
+      "reviewedSourceHashes": {
+        "source-93bc74db1a8106d39d62": "6b11e82cc2cdb5502a6c853a277cd1fef677f068aa26f8b22c4fba4691185a0a"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "source-93bc74db1a8106d39d62"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "即日起联系导师申请；未公布学院预报名截止。9月21日至10月20日为全国正式推免，不是预报名窗口。",
+          "sourceId": "source-93bc74db1a8106d39d62"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "即日起联系导师申请；未公布学院预报名截止。9月21日至10月20日为全国正式推免，不是预报名窗口。"
+      }
+    },
+    {
+      "opportunityId": "opp-64d64ec18862693bec88",
+      "action": "no_exact_cutoff",
+      "reason": "报名自即日起，不设置截止时间，随时报名；请提前至少2天报名所选批次。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "报名自即日起，不设置截止时间，随时报名；请提前至少2天报名所选批次。",
+          "sourceId": "src-dc2b8ca91ad696ddfe"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "报名自即日起，不设置截止时间，随时报名；请提前至少2天报名所选批次。",
+        "availability": "open"
+      },
+      "sourceId": "src-dc2b8ca91ad696ddfe",
+      "evidenceUrls": [
+        "https://sia.cas.cn/zpjy/yjsjy/zs/zsgg/202608/t20260826_8265512.html"
+      ],
+      "schoolId": "ucas",
+      "unitId": "ucas-8fac45f24e",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-dc2b8ca91ad696ddfe"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-dc2b8ca91ad696ddfe",
+      "reviewedSourceHashes": {
+        "src-dc2b8ca91ad696ddfe": "e6a841d0388081aeb5df20a5893a8380832cec60a2c0d7688d7d1c5913ec05c8"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-dc2b8ca91ad696ddfe"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "报名自即日起，不设置截止时间，随时报名；请提前至少2天报名所选批次。",
+          "sourceId": "src-dc2b8ca91ad696ddfe"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "报名自即日起，不设置截止时间，随时报名；请提前至少2天报名所选批次。"
+      }
+    },
+    {
+      "opportunityId": "opp-9ac87d7abbf2a444a503",
+      "action": "no_exact_cutoff",
+      "reason": "各单位陆续开放申请系统，开始和截止时间请以各单位系统设置通知为准。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "各单位陆续开放申请系统，开始和截止时间请以各单位系统设置通知为准。",
+          "sourceId": "src-6ad539da371a6d74bd"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "校级公告未给出本学院独立窗口。系统需要登录，不能从总通知推断报名已开放。",
+        "availability": "announced"
+      },
+      "sourceId": "src-6ad539da371a6d74bd",
+      "evidenceUrls": [
+        "https://gs.hhu.edu.cn/_upload/article/files/47/5c/9af8b397401d8ce19b389fdfec3e/cf875c71-1190-460a-bbdd-02256f1dd05a.pdf"
+      ],
+      "schoolId": "hhu",
+      "unitId": "hhu-bb23d6c860",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-6ad539da371a6d74bd"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-6ad539da371a6d74bd",
+      "reviewedSourceHashes": {
+        "src-6ad539da371a6d74bd": "ec061356e9c36920a19652f2863ac3a1d7ea3c396fcfc5dee0df716b2621f5b5"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-6ad539da371a6d74bd"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "各单位陆续开放申请系统，开始和截止时间请以各单位系统设置通知为准。",
+          "sourceId": "src-6ad539da371a6d74bd"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "校级公告未给出本学院独立窗口。系统需要登录，不能从总通知推断报名已开放。"
+      }
+    },
+    {
+      "opportunityId": "opp-26f667d62b19ed352bf7",
+      "action": "no_exact_cutoff",
+      "reason": "各单位陆续开放申请系统，开始和截止时间请以各单位系统设置通知为准。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "各单位陆续开放申请系统，开始和截止时间请以各单位系统设置通知为准。",
+          "sourceId": "src-757958da747aa4d14a"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "校级公告未给出本学院独立窗口。系统需要登录，不能从总通知推断报名已开放。",
+        "availability": "announced"
+      },
+      "sourceId": "src-757958da747aa4d14a",
+      "evidenceUrls": [
+        "https://gs.hhu.edu.cn/_upload/article/files/47/5c/9af8b397401d8ce19b389fdfec3e/cf875c71-1190-460a-bbdd-02256f1dd05a.pdf"
+      ],
+      "schoolId": "hhu",
+      "unitId": "hhu-dd33538b75",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-757958da747aa4d14a"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-757958da747aa4d14a",
+      "reviewedSourceHashes": {
+        "src-757958da747aa4d14a": "ec061356e9c36920a19652f2863ac3a1d7ea3c396fcfc5dee0df716b2621f5b5"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-757958da747aa4d14a"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "各单位陆续开放申请系统，开始和截止时间请以各单位系统设置通知为准。",
+          "sourceId": "src-757958da747aa4d14a"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "校级公告未给出本学院独立窗口。系统需要登录，不能从总通知推断报名已开放。"
+      }
+    },
+    {
+      "opportunityId": "opp-ece422864f1c3fa9aebd",
+      "action": "no_exact_cutoff",
+      "reason": "各单位陆续开放申请系统，开始和截止时间请以各单位系统设置通知为准。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "各单位陆续开放申请系统，开始和截止时间请以各单位系统设置通知为准。",
+          "sourceId": "src-ec2bb1cb8af721b101"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "校级公告未给出本学院独立窗口。系统需要登录，不能从总通知推断报名已开放。",
+        "availability": "announced"
+      },
+      "sourceId": "src-ec2bb1cb8af721b101",
+      "evidenceUrls": [
+        "https://gs.hhu.edu.cn/_upload/article/files/47/5c/9af8b397401d8ce19b389fdfec3e/cf875c71-1190-460a-bbdd-02256f1dd05a.pdf"
+      ],
+      "schoolId": "hhu",
+      "unitId": "hhu-fd436c270d",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-ec2bb1cb8af721b101"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-ec2bb1cb8af721b101",
+      "reviewedSourceHashes": {
+        "src-ec2bb1cb8af721b101": "ec061356e9c36920a19652f2863ac3a1d7ea3c396fcfc5dee0df716b2621f5b5"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-ec2bb1cb8af721b101"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "各单位陆续开放申请系统，开始和截止时间请以各单位系统设置通知为准。",
+          "sourceId": "src-ec2bb1cb8af721b101"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "校级公告未给出本学院独立窗口。系统需要登录，不能从总通知推断报名已开放。"
+      }
+    },
+    {
+      "opportunityId": "opp-bd9ca477b944f6c3fd39",
+      "action": "materials",
+      "reason": "9月13日17:00前提交申请材料；9月15日开始各方向组组织复试；9月21日才开始全国系统网上报名。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "9月13日17:00前提交申请材料；9月15日开始各方向组组织复试；9月21日才开始全国系统网上报名。",
+          "sourceId": "src-168452151221216569"
+        },
+        "materialsEnd": {
+          "value": "2026-09-13T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月13日17:00前提交申请材料；9月15日开始各方向组组织复试；9月21日才开始全国系统网上报名。",
+          "sourceId": "src-168452151221216569"
+        },
+        "verification": "verified",
+        "notes": "列表展示已确认的申请材料提交截止。学院未单列网上报名起止时间，不以全国系统9月21日作为预报名开始。",
+        "availability": "announced"
+      },
+      "sourceId": "src-168452151221216569",
+      "evidenceUrls": [
+        "https://cst.bit.edu.cn/xxfw/tzgg/58a147115f154c439a0851311c8fc0d0.htm"
+      ],
+      "schoolId": "bit",
+      "unitId": "bit-7be1433646",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-168452151221216569"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-168452151221216569",
+      "reviewedSourceHashes": {
+        "src-168452151221216569": "d05240a49c096721e72fb38918e884e3df75e4a21155a5a900b20af092393cfb"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-168452151221216569"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "9月13日17:00前提交申请材料；9月15日开始各方向组组织复试；9月21日才开始全国系统网上报名。",
+          "sourceId": "src-168452151221216569"
+        },
+        "materialsEnd": {
+          "value": "2026-09-13T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "9月13日17:00前提交申请材料；9月15日开始各方向组组织复试；9月21日才开始全国系统网上报名。",
+          "sourceId": "src-168452151221216569"
+        },
+        "verification": "verified",
+        "notes": "列表展示已确认的申请材料提交截止。学院未单列网上报名起止时间，不以全国系统9月21日作为预报名开始。"
+      }
+    },
+    {
+      "opportunityId": "opp-b59abcc9cb6032683b98",
+      "action": "no_exact_cutoff",
+      "reason": "公告仅明确7月21日举行第一批预面试，未给出本批报名截止。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告仅明确7月21日举行第一批预面试，未给出本批报名截止。",
+          "sourceId": "src-f2683b34edbe464a0b"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "7月21日为考核日期，不得用作报名截止。"
+      },
+      "sourceId": "src-f2683b34edbe464a0b",
+      "evidenceUrls": [
+        "https://ticnn.tju.edu.cn/info/1052/2813.htm"
+      ],
+      "schoolId": "tju",
+      "unitId": "tju-70abab4705",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-f2683b34edbe464a0b"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-f2683b34edbe464a0b",
+      "reviewedSourceHashes": {
+        "src-f2683b34edbe464a0b": "6d88ef90c198f54fec3d9a54a18e5676575350b0ff5b127ba23120a3ed18210f"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-f2683b34edbe464a0b"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告仅明确7月21日举行第一批预面试，未给出本批报名截止。",
+          "sourceId": "src-f2683b34edbe464a0b"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "7月21日为考核日期，不得用作报名截止。"
+      }
+    },
+    {
+      "opportunityId": "opp-0208127eee2f3d48b66b",
+      "action": "no_exact_cutoff",
+      "reason": "学院集中审核日期：7月26日、8月30日、9月11日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学院集中审核日期：7月26日、8月30日、9月11日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+          "sourceId": "src-9d8cccf295361abc06"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "学院集中审核日期：7月26日、8月30日、9月11日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。"
+      },
+      "sourceId": "src-9d8cccf295361abc06",
+      "evidenceUrls": [
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm"
+      ],
+      "schoolId": "tju",
+      "unitId": "tju-6525ce363b",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-166b5b141d4b57399b5b"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-9d8cccf295361abc06",
+      "reviewedSourceHashes": {
+        "source-c53ab0958a5a0768ee34": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb",
+        "source-166b5b141d4b57399b5b": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb",
+        "src-9d8cccf295361abc06": "37586ec717a6fda1ef74cf02ea5395fe6ca91619e33419e6026e9988cb124bd0"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-9d8cccf295361abc06"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学院集中审核日期：7月26日、8月30日、9月11日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+          "sourceId": "src-9d8cccf295361abc06"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "学院集中审核日期：7月26日、8月30日、9月11日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。"
+      }
+    },
+    {
+      "opportunityId": "opp-d2ae923e03a0fe2af855",
+      "action": "no_exact_cutoff",
+      "reason": "学院集中审核日期：8月26日、9月6日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学院集中审核日期：8月26日、9月6日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+          "sourceId": "src-3392697905cfacba14"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "学院集中审核日期：8月26日、9月6日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。"
+      },
+      "sourceId": "src-3392697905cfacba14",
+      "evidenceUrls": [
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm"
+      ],
+      "schoolId": "tju",
+      "unitId": "tju-841a8910e1",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-a7ae342b3f800604688a"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-3392697905cfacba14",
+      "reviewedSourceHashes": {
+        "src-3392697905cfacba14": "37586ec717a6fda1ef74cf02ea5395fe6ca91619e33419e6026e9988cb124bd0",
+        "source-c53ab0958a5a0768ee34": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb",
+        "source-a7ae342b3f800604688a": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-3392697905cfacba14"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学院集中审核日期：8月26日、9月6日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+          "sourceId": "src-3392697905cfacba14"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "学院集中审核日期：8月26日、9月6日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。"
+      }
+    },
+    {
+      "opportunityId": "opp-e7016e5043be9f421811",
+      "action": "no_exact_cutoff",
+      "reason": "学院集中审核日期：7月25日、8月22日、9月11日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学院集中审核日期：7月25日、8月22日、9月11日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+          "sourceId": "src-6361888b8966b0d028"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "学院集中审核日期：7月25日、8月22日、9月11日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。"
+      },
+      "sourceId": "src-6361888b8966b0d028",
+      "evidenceUrls": [
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm"
+      ],
+      "schoolId": "tju",
+      "unitId": "tju-28afcd4b7a",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-f13d9338f462232e4e16"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-6361888b8966b0d028",
+      "reviewedSourceHashes": {
+        "src-6361888b8966b0d028": "37586ec717a6fda1ef74cf02ea5395fe6ca91619e33419e6026e9988cb124bd0",
+        "source-c53ab0958a5a0768ee34": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb",
+        "source-f13d9338f462232e4e16": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-6361888b8966b0d028"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学院集中审核日期：7月25日、8月22日、9月11日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+          "sourceId": "src-6361888b8966b0d028"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "学院集中审核日期：7月25日、8月22日、9月11日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。"
+      }
+    },
+    {
+      "opportunityId": "opp-747c4fa6b20086ac3c1f",
+      "action": "no_exact_cutoff",
+      "reason": "学院集中审核日期：8月27日、9月14日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学院集中审核日期：8月27日、9月14日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+          "sourceId": "src-ed0989f0143307aaa7"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "学院集中审核日期：8月27日、9月14日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。"
+      },
+      "sourceId": "src-ed0989f0143307aaa7",
+      "evidenceUrls": [
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm"
+      ],
+      "schoolId": "tju",
+      "unitId": "tju-54ee27e5bf",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-d2e50b552c742aa25433"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-ed0989f0143307aaa7",
+      "reviewedSourceHashes": {
+        "source-d2e50b552c742aa25433": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb",
+        "src-ed0989f0143307aaa7": "37586ec717a6fda1ef74cf02ea5395fe6ca91619e33419e6026e9988cb124bd0",
+        "source-c53ab0958a5a0768ee34": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-ed0989f0143307aaa7"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学院集中审核日期：8月27日、9月14日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+          "sourceId": "src-ed0989f0143307aaa7"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "学院集中审核日期：8月27日、9月14日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。"
+      }
+    },
+    {
+      "opportunityId": "opp-6a1521458aa575021058",
+      "action": "no_exact_cutoff",
+      "reason": "学院集中审核日期：8月27日、9月14日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学院集中审核日期：8月27日、9月14日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+          "sourceId": "src-5d00268393d4ee572d"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "学院集中审核日期：8月27日、9月14日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。"
+      },
+      "sourceId": "src-5d00268393d4ee572d",
+      "evidenceUrls": [
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm"
+      ],
+      "schoolId": "tju",
+      "unitId": "tju-d6aeec6db0",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-28d5a63b3a586599b743"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-5d00268393d4ee572d",
+      "reviewedSourceHashes": {
+        "source-28d5a63b3a586599b743": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb",
+        "source-c53ab0958a5a0768ee34": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb",
+        "src-5d00268393d4ee572d": "37586ec717a6fda1ef74cf02ea5395fe6ca91619e33419e6026e9988cb124bd0"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-5d00268393d4ee572d"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学院集中审核日期：8月27日、9月14日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+          "sourceId": "src-5d00268393d4ee572d"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "学院集中审核日期：8月27日、9月14日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。"
+      }
+    },
+    {
+      "opportunityId": "opp-cd2121589c2b406e2185",
+      "action": "no_exact_cutoff",
+      "reason": "学院集中审核日期：8月27日、9月10日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学院集中审核日期：8月27日、9月10日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+          "sourceId": "src-42af7fb30387636573"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "学院集中审核日期：8月27日、9月10日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。"
+      },
+      "sourceId": "src-42af7fb30387636573",
+      "evidenceUrls": [
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm"
+      ],
+      "schoolId": "tju",
+      "unitId": "tju-d44e9404bb",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-5d8045ca168f34c7f522"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-42af7fb30387636573",
+      "reviewedSourceHashes": {
+        "source-5d8045ca168f34c7f522": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb",
+        "src-42af7fb30387636573": "37586ec717a6fda1ef74cf02ea5395fe6ca91619e33419e6026e9988cb124bd0",
+        "source-c53ab0958a5a0768ee34": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-42af7fb30387636573"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学院集中审核日期：8月27日、9月10日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+          "sourceId": "src-42af7fb30387636573"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "学院集中审核日期：8月27日、9月10日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。"
+      }
+    },
+    {
+      "opportunityId": "opp-0e49ff6191e7bc5bed20",
+      "action": "no_exact_cutoff",
+      "reason": "学院集中审核日期：8月21日、9月11日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学院集中审核日期：8月21日、9月11日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+          "sourceId": "src-abe2d813f647dc904d"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "学院集中审核日期：8月21日、9月11日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。"
+      },
+      "sourceId": "src-abe2d813f647dc904d",
+      "evidenceUrls": [
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm"
+      ],
+      "schoolId": "tju",
+      "unitId": "tju-2a9efd150f",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-c53ab0958a5a0768ee34"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-abe2d813f647dc904d",
+      "reviewedSourceHashes": {
+        "src-abe2d813f647dc904d": "37586ec717a6fda1ef74cf02ea5395fe6ca91619e33419e6026e9988cb124bd0",
+        "source-c48b6a13413aa1934ef2": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb",
+        "source-c53ab0958a5a0768ee34": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-abe2d813f647dc904d"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学院集中审核日期：8月21日、9月11日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+          "sourceId": "src-abe2d813f647dc904d"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "学院集中审核日期：8月21日、9月11日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。"
+      }
+    },
+    {
+      "opportunityId": "opp-8c4be951549cac379fa4",
+      "action": "no_exact_cutoff",
+      "reason": "学院集中审核日期：8月1日、9月1日、9月15日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学院集中审核日期：8月1日、9月1日、9月15日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+          "sourceId": "source-c53ab0958a5a0768ee34"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "学院集中审核日期：8月1日、9月1日、9月15日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。"
+      },
+      "sourceId": "source-c53ab0958a5a0768ee34",
+      "evidenceUrls": [
+        "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm"
+      ],
+      "schoolId": "tju",
+      "unitId": "tju-70abab4705",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-c53ab0958a5a0768ee34"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "source-c53ab0958a5a0768ee34",
+      "reviewedSourceHashes": {
+        "source-c53ab0958a5a0768ee34": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "source-c53ab0958a5a0768ee34"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学院集中审核日期：8月1日、9月1日、9月15日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。",
+          "sourceId": "source-c53ab0958a5a0768ee34"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "学院集中审核日期：8月1日、9月1日、9月15日，须在学院集中审核之前申报。9月20日只是校级系统关闭日期，未公布学院独立精确时限。"
+      }
+    },
+    {
+      "opportunityId": "opp-bb8cd8136503a5e2e655",
+      "action": "corrected",
+      "reason": "推免硕士生申报时间：即日起至2026年9月11日。已逐列核对官方招生目录中的全日制硕士计划。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-11",
+          "precision": "date",
+          "raw": "推免硕士生申报时间：即日起至2026年9月11日。已逐列核对官方招生目录中的全日制硕士计划。",
+          "sourceId": "src-82855a12cc1311f0ff"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅收硕士计划列非空的岗位；同院博士岗位不能按硕士申请。目录第1页第1/8行、第3页第35行为相应单位硕士依据。",
+        "availability": "open",
+        "degrees": [
+          "professional"
+        ]
+      },
+      "sourceId": "src-82855a12cc1311f0ff",
+      "evidenceUrls": [
+        "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm"
+      ],
+      "schoolId": "tju",
+      "unitId": "tju-2a9efd150f",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-82855a12cc1311f0ff"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-82855a12cc1311f0ff",
+      "reviewedSourceHashes": {
+        "src-82855a12cc1311f0ff": "a17ef4ed471ec57e4b60741be970be38835d9dc823dec32fa26525d749dbe78f"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-82855a12cc1311f0ff"
+        },
+        "applicationEnd": {
+          "value": "2026-09-11",
+          "precision": "date",
+          "raw": "推免硕士生申报时间：即日起至2026年9月11日。已逐列核对官方招生目录中的全日制硕士计划。",
+          "sourceId": "src-82855a12cc1311f0ff"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅收硕士计划列非空的岗位；同院博士岗位不能按硕士申请。目录第1页第1/8行、第3页第35行为相应单位硕士依据。"
+      }
+    },
+    {
+      "opportunityId": "opp-47d2d1ac947cf9d43074",
+      "action": "corrected",
+      "reason": "推免硕士生申报时间：即日起至2026年9月11日。已逐列核对官方招生目录中的全日制硕士计划。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-11",
+          "precision": "date",
+          "raw": "推免硕士生申报时间：即日起至2026年9月11日。已逐列核对官方招生目录中的全日制硕士计划。",
+          "sourceId": "src-54764f5180c7f6713e"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅收硕士计划列非空的岗位；同院博士岗位不能按硕士申请。目录第1页第1/8行、第3页第35行为相应单位硕士依据。",
+        "availability": "open",
+        "degrees": [
+          "professional"
+        ]
+      },
+      "sourceId": "src-54764f5180c7f6713e",
+      "evidenceUrls": [
+        "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm"
+      ],
+      "schoolId": "tju",
+      "unitId": "tju-28afcd4b7a",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-54764f5180c7f6713e"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-54764f5180c7f6713e",
+      "reviewedSourceHashes": {
+        "src-54764f5180c7f6713e": "a17ef4ed471ec57e4b60741be970be38835d9dc823dec32fa26525d749dbe78f"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-54764f5180c7f6713e"
+        },
+        "applicationEnd": {
+          "value": "2026-09-11",
+          "precision": "date",
+          "raw": "推免硕士生申报时间：即日起至2026年9月11日。已逐列核对官方招生目录中的全日制硕士计划。",
+          "sourceId": "src-54764f5180c7f6713e"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅收硕士计划列非空的岗位；同院博士岗位不能按硕士申请。目录第1页第1/8行、第3页第35行为相应单位硕士依据。"
+      }
+    },
+    {
+      "opportunityId": "opp-5a2c594e22f09c4cdc26",
+      "action": "corrected",
+      "reason": "推免硕士生申报时间：即日起至2026年9月11日。已逐列核对官方招生目录中的全日制硕士计划。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-11",
+          "precision": "date",
+          "raw": "推免硕士生申报时间：即日起至2026年9月11日。已逐列核对官方招生目录中的全日制硕士计划。",
+          "sourceId": "src-78bb34fe7a2dd756a5"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅收硕士计划列非空的岗位；同院博士岗位不能按硕士申请。目录第1页第1/8行、第3页第35行为相应单位硕士依据。",
+        "availability": "open",
+        "degrees": [
+          "professional"
+        ]
+      },
+      "sourceId": "src-78bb34fe7a2dd756a5",
+      "evidenceUrls": [
+        "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm"
+      ],
+      "schoolId": "tju",
+      "unitId": "tju-68fd4b54d0",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "src-78bb34fe7a2dd756a5"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-78bb34fe7a2dd756a5",
+      "reviewedSourceHashes": {
+        "src-78bb34fe7a2dd756a5": "a17ef4ed471ec57e4b60741be970be38835d9dc823dec32fa26525d749dbe78f"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-78bb34fe7a2dd756a5"
+        },
+        "applicationEnd": {
+          "value": "2026-09-11",
+          "precision": "date",
+          "raw": "推免硕士生申报时间：即日起至2026年9月11日。已逐列核对官方招生目录中的全日制硕士计划。",
+          "sourceId": "src-78bb34fe7a2dd756a5"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "仅收硕士计划列非空的岗位；同院博士岗位不能按硕士申请。目录第1页第1/8行、第3页第35行为相应单位硕士依据。"
+      }
+    },
+    {
+      "opportunityId": "opp-95529cd43f2d17fe962e",
+      "action": "no_exact_cutoff",
+      "reason": "学校本轮窗口9月1日至9月7日16:00，部分单位9月3日16:00提前截止；本公告未明确本单位属于哪一窗口。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学校本轮窗口9月1日至9月7日16:00，部分单位9月3日16:00提前截止；本公告未明确本单位属于哪一窗口。",
+          "sourceId": "source-2e68c29c0bc1e220a3cf"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "已经公布两种截止安排但未明确学院对应关系，不能任选其中一个。已继续检查学院公开招生栏目，未取得可消除歧义的本轮报名通知。"
+      },
+      "sourceId": "source-2e68c29c0bc1e220a3cf",
+      "evidenceUrls": [
+        "https://gsao.fudan.edu.cn/0a/24/c15014a789028/page.htm"
+      ],
+      "schoolId": "fudan",
+      "unitId": "fudan-6b615cc706",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-2e68c29c0bc1e220a3cf"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "source-2e68c29c0bc1e220a3cf",
+      "reviewedSourceHashes": {
+        "source-2e68c29c0bc1e220a3cf": "8588869f660ba022e25fd450c36aa7319afeb27ee53cf4950c206da3a0fae1cb"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "source-2e68c29c0bc1e220a3cf"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学校本轮窗口9月1日至9月7日16:00，部分单位9月3日16:00提前截止；本公告未明确本单位属于哪一窗口。",
+          "sourceId": "source-2e68c29c0bc1e220a3cf"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "已经公布两种截止安排但未明确学院对应关系，不能任选其中一个。已继续检查学院公开招生栏目，未取得可消除歧义的本轮报名通知。"
+      }
+    },
+    {
+      "opportunityId": "opp-3e598b15eaf05fa612b0",
+      "action": "no_exact_cutoff",
+      "reason": "学校本轮窗口9月1日至9月7日16:00，部分单位9月3日16:00提前截止；本公告未明确本单位属于哪一窗口。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学校本轮窗口9月1日至9月7日16:00，部分单位9月3日16:00提前截止；本公告未明确本单位属于哪一窗口。",
+          "sourceId": "source-2e68c29c0bc1e220a3cf"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "已经公布两种截止安排但未明确学院对应关系，不能任选其中一个。已继续检查学院公开招生栏目，未取得可消除歧义的本轮报名通知。"
+      },
+      "sourceId": "source-2e68c29c0bc1e220a3cf",
+      "evidenceUrls": [
+        "https://gsao.fudan.edu.cn/0a/24/c15014a789028/page.htm"
+      ],
+      "schoolId": "fudan",
+      "unitId": "fudan-3cc2dff65f",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-2e68c29c0bc1e220a3cf"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "source-2e68c29c0bc1e220a3cf",
+      "reviewedSourceHashes": {
+        "source-2e68c29c0bc1e220a3cf": "8588869f660ba022e25fd450c36aa7319afeb27ee53cf4950c206da3a0fae1cb"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "source-2e68c29c0bc1e220a3cf"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学校本轮窗口9月1日至9月7日16:00，部分单位9月3日16:00提前截止；本公告未明确本单位属于哪一窗口。",
+          "sourceId": "source-2e68c29c0bc1e220a3cf"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "已经公布两种截止安排但未明确学院对应关系，不能任选其中一个。已继续检查学院公开招生栏目，未取得可消除歧义的本轮报名通知。"
+      }
+    },
+    {
+      "opportunityId": "opp-6150dfdf86e5fac766b1",
+      "action": "no_exact_cutoff",
+      "reason": "学校本轮窗口9月1日至9月7日16:00，部分单位9月3日16:00提前截止；本公告未明确本单位属于哪一窗口。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学校本轮窗口9月1日至9月7日16:00，部分单位9月3日16:00提前截止；本公告未明确本单位属于哪一窗口。",
+          "sourceId": "source-2e68c29c0bc1e220a3cf"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "已经公布两种截止安排但未明确学院对应关系，不能任选其中一个。已继续检查学院公开招生栏目，未取得可消除歧义的本轮报名通知。"
+      },
+      "sourceId": "source-2e68c29c0bc1e220a3cf",
+      "evidenceUrls": [
+        "https://gsao.fudan.edu.cn/0a/24/c15014a789028/page.htm"
+      ],
+      "schoolId": "fudan",
+      "unitId": "fudan-47bb626b37",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-2e68c29c0bc1e220a3cf"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "source-2e68c29c0bc1e220a3cf",
+      "reviewedSourceHashes": {
+        "source-2e68c29c0bc1e220a3cf": "8588869f660ba022e25fd450c36aa7319afeb27ee53cf4950c206da3a0fae1cb"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "source-2e68c29c0bc1e220a3cf"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学校本轮窗口9月1日至9月7日16:00，部分单位9月3日16:00提前截止；本公告未明确本单位属于哪一窗口。",
+          "sourceId": "source-2e68c29c0bc1e220a3cf"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "已经公布两种截止安排但未明确学院对应关系，不能任选其中一个。已继续检查学院公开招生栏目，未取得可消除歧义的本轮报名通知。"
+      }
+    },
+    {
+      "opportunityId": "opp-bbe25e07d108f3beadf2",
+      "action": "no_exact_cutoff",
+      "reason": "学校本轮窗口9月1日至9月7日16:00，部分单位9月3日16:00提前截止；本公告未明确本单位属于哪一窗口。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学校本轮窗口9月1日至9月7日16:00，部分单位9月3日16:00提前截止；本公告未明确本单位属于哪一窗口。",
+          "sourceId": "source-2e68c29c0bc1e220a3cf"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "已经公布两种截止安排但未明确学院对应关系，不能任选其中一个。已继续检查学院公开招生栏目，未取得可消除歧义的本轮报名通知。"
+      },
+      "sourceId": "source-2e68c29c0bc1e220a3cf",
+      "evidenceUrls": [
+        "https://gsao.fudan.edu.cn/0a/24/c15014a789028/page.htm"
+      ],
+      "schoolId": "fudan",
+      "unitId": "fudan-aa8cce210c",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": "source-2e68c29c0bc1e220a3cf"
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "source-2e68c29c0bc1e220a3cf",
+      "reviewedSourceHashes": {
+        "source-2e68c29c0bc1e220a3cf": "8588869f660ba022e25fd450c36aa7319afeb27ee53cf4950c206da3a0fae1cb"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "source-2e68c29c0bc1e220a3cf"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "学校本轮窗口9月1日至9月7日16:00，部分单位9月3日16:00提前截止；本公告未明确本单位属于哪一窗口。",
+          "sourceId": "source-2e68c29c0bc1e220a3cf"
+        },
+        "materialsEnd": null,
+        "verification": "pending",
+        "notes": "已经公布两种截止安排但未明确学院对应关系，不能任选其中一个。已继续检查学院公开招生栏目，未取得可消除歧义的本轮报名通知。"
+      }
+    },
+    {
+      "opportunityId": "opp-c02022ad8e639899102e",
+      "action": "corrected",
+      "reason": "推免硕士生即日起至9月11日申报；目录第5页71/72行和第6页90/91行明确人工智能学院全日制硕士岗位。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-11",
+          "precision": "date",
+          "raw": "推免硕士生即日起至9月11日申报；目录第5页71/72行和第6页90/91行明确人工智能学院全日制硕士岗位。",
+          "sourceId": "src-c71ba1979ec22d6b3d"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "",
+        "availability": "open",
+        "degrees": [
+          "professional"
+        ]
+      },
+      "sourceId": "src-c71ba1979ec22d6b3d",
+      "evidenceUrls": [
+        "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+        "https://yzb.tju.edu.cn/xwzx/zxxx/202609/W020260901506481548893.pdf"
+      ],
+      "schoolId": "tju",
+      "unitId": "tju-54ee27e5bf",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": null
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-c71ba1979ec22d6b3d",
+      "reviewedSourceHashes": {
+        "src-c71ba1979ec22d6b3d": "a17ef4ed471ec57e4b60741be970be38835d9dc823dec32fa26525d749dbe78f",
+        "source-dffa28ad7a36724e7742": "35232b287326edc6ed589d0bf45d260048ff18cc6e735cc044467393703b3581"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-c71ba1979ec22d6b3d"
+        },
+        "applicationEnd": {
+          "value": "2026-09-11",
+          "precision": "date",
+          "raw": "推免硕士生即日起至9月11日申报；目录第5页71/72行和第6页90/91行明确人工智能学院全日制硕士岗位。",
+          "sourceId": "src-c71ba1979ec22d6b3d"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": ""
+      }
+    },
+    {
+      "opportunityId": "opp-a3d14b9c62c1fa8571ca",
+      "action": "corrected",
+      "reason": "即日起至2026年9月14日（周一）下午17:00。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-14T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "即日起至2026年9月14日（周一）下午17:00。",
+          "sourceId": "source-5c28ddba041c34557f09"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "计算机应用技术学硕；计算机技术、人工智能、光电信息工程专硕。 即日起至2026年9月14日（周一）下午17:00。",
+        "availability": "open",
+        "degrees": [
+          "academic",
+          "professional"
+        ],
+        "applicationUrl": "https://v.wjx.cn/vm/mEMy1ms.aspx"
+      },
+      "sourceId": "source-5c28ddba041c34557f09",
+      "evidenceUrls": [
+        "http://hias.ucas.edu.cn/znkxyjs/info/1118/1491.htm"
+      ],
+      "schoolId": "ucas",
+      "unitId": "ucas-983bcbedc0",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": null
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "source-5c28ddba041c34557f09",
+      "reviewedSourceHashes": {
+        "source-5c28ddba041c34557f09": "e1c62c2dbbc79387596bde29217c09be048c11caf0c51b2ea21444fd74e14a73"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "source-5c28ddba041c34557f09"
+        },
+        "applicationEnd": {
+          "value": "2026-09-14T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "即日起至2026年9月14日（周一）下午17:00。",
+          "sourceId": "source-5c28ddba041c34557f09"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "计算机应用技术学硕；计算机技术、人工智能、光电信息工程专硕。 即日起至2026年9月14日（周一）下午17:00。"
+      }
+    },
+    {
+      "opportunityId": "opp-fdd1d7829c5ee01fa438",
+      "action": "materials",
+      "reason": "申请材料于2026年9月13日24:00前发送至学院邮箱；保存为9月14日00:00。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "申请材料于2026年9月13日24:00前发送至学院邮箱；保存为9月14日00:00。",
+          "sourceId": "src-c87730d3ffd4c812c3"
+        },
+        "materialsEnd": {
+          "value": "2026-09-14T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "申请材料于2026年9月13日24:00前发送至学院邮箱；保存为9月14日00:00。",
+          "sourceId": "src-c87730d3ffd4c812c3"
+        },
+        "verification": "verified",
+        "notes": "仅限公告明确的机器学习与量子计算、数值相对论软件、计算宇宙学、引力波数据分析、AI4S等交叉方向。 申请材料于2026年9月13日24:00前发送至学院邮箱；保存为9月14日00:00。",
+        "availability": "announced",
+        "degrees": [
+          "academic"
+        ],
+        "applicationUrl": null
+      },
+      "sourceId": "src-c87730d3ffd4c812c3",
+      "evidenceUrls": [
+        "http://hias.ucas.ac.cn/mathphys/info/1166/1521.htm"
+      ],
+      "schoolId": "ucas",
+      "unitId": "ucas-9ab395a06d",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": null
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-c87730d3ffd4c812c3",
+      "reviewedSourceHashes": {
+        "src-c87730d3ffd4c812c3": "7bc60f57fa1a8f9fbca945bffe6d4426529bdaea8901175e695438d3c89cff5e"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-c87730d3ffd4c812c3"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "申请材料于2026年9月13日24:00前发送至学院邮箱；保存为9月14日00:00。",
+          "sourceId": "src-c87730d3ffd4c812c3"
+        },
+        "materialsEnd": {
+          "value": "2026-09-14T00:00:00+08:00",
+          "precision": "datetime",
+          "raw": "申请材料于2026年9月13日24:00前发送至学院邮箱；保存为9月14日00:00。",
+          "sourceId": "src-c87730d3ffd4c812c3"
+        },
+        "verification": "verified",
+        "notes": "仅限公告明确的机器学习与量子计算、数值相对论软件、计算宇宙学、引力波数据分析、AI4S等交叉方向。 申请材料于2026年9月13日24:00前发送至学院邮箱；保存为9月14日00:00。"
+      }
+    },
+    {
+      "opportunityId": "opp-a3910093c3e391dd19fa",
+      "action": "materials",
+      "reason": "申请者应在9月14日前发送申请材料至学院邮箱；未公布具体时刻。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "申请者应在9月14日前发送申请材料至学院邮箱；未公布具体时刻。",
+          "sourceId": "src-db4b385b6441284c0c"
+        },
+        "materialsEnd": {
+          "value": "2026-09-14",
+          "precision": "date",
+          "raw": "申请者应在9月14日前发送申请材料至学院邮箱；未公布具体时刻。",
+          "sourceId": "src-db4b385b6441284c0c"
+        },
+        "verification": "verified",
+        "notes": "只收录光电信息、人工智能、计算视觉等相关方向；不代表所有物理方向均属于计算机。 申请者应在9月14日前发送申请材料至学院邮箱；未公布具体时刻。",
+        "availability": "announced",
+        "degrees": [
+          "academic",
+          "professional"
+        ],
+        "applicationUrl": null
+      },
+      "sourceId": "src-db4b385b6441284c0c",
+      "evidenceUrls": [
+        "http://hias.ucas.ac.cn/wlgd/info/1020/1631.htm"
+      ],
+      "schoolId": "ucas",
+      "unitId": "ucas-35f03ee7b6",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": null
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-db4b385b6441284c0c",
+      "reviewedSourceHashes": {
+        "src-db4b385b6441284c0c": "a6e140cc6a7c9584d226c036135c94cc1b70fb45796a21f826756bf2d610b03e"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-db4b385b6441284c0c"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "申请者应在9月14日前发送申请材料至学院邮箱；未公布具体时刻。",
+          "sourceId": "src-db4b385b6441284c0c"
+        },
+        "materialsEnd": {
+          "value": "2026-09-14",
+          "precision": "date",
+          "raw": "申请者应在9月14日前发送申请材料至学院邮箱；未公布具体时刻。",
+          "sourceId": "src-db4b385b6441284c0c"
+        },
+        "verification": "verified",
+        "notes": "只收录光电信息、人工智能、计算视觉等相关方向；不代表所有物理方向均属于计算机。 申请者应在9月14日前发送申请材料至学院邮箱；未公布具体时刻。"
+      }
+    },
+    {
+      "opportunityId": "opp-12191b0eddb62c7fd478",
+      "action": "corrected",
+      "reason": "申请时间截至2026年9月14日上午9:00。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-14T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "申请时间截至2026年9月14日上午9:00。",
+          "sourceId": "src-da23ec60caf35b1f22"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "学硕0710J3生物信息学（生物大数据分析）；专硕086001的生物信息及计算系统生物学等方向。 申请时间截至2026年9月14日上午9:00。",
+        "availability": "announced",
+        "degrees": [
+          "academic",
+          "professional"
+        ],
+        "applicationUrl": "https://v.wjx.cn/vm/YTHwKoE.aspx"
+      },
+      "sourceId": "src-da23ec60caf35b1f22",
+      "evidenceUrls": [
+        "http://hias.ucas.ac.cn/life/info/1437/2360.htm"
+      ],
+      "schoolId": "ucas",
+      "unitId": "ucas-3a1ac991e8",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": null
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-da23ec60caf35b1f22",
+      "reviewedSourceHashes": {
+        "src-da23ec60caf35b1f22": "bf769ed4be607885305943f83ffe2351cd7bae7b4d21352042099621699eb002"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-da23ec60caf35b1f22"
+        },
+        "applicationEnd": {
+          "value": "2026-09-14T09:00:00+08:00",
+          "precision": "datetime",
+          "raw": "申请时间截至2026年9月14日上午9:00。",
+          "sourceId": "src-da23ec60caf35b1f22"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "学硕0710J3生物信息学（生物大数据分析）；专硕086001的生物信息及计算系统生物学等方向。 申请时间截至2026年9月14日上午9:00。"
+      }
+    },
+    {
+      "opportunityId": "opp-a48b69e0f8c3ad8634de",
+      "action": "corrected",
+      "reason": "即日起至2026年9月13日17:00前。",
+      "patch": {
+        "applicationEnd": {
+          "value": "2026-09-13T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "即日起至2026年9月13日17:00前。",
+          "sourceId": "src-e71570adc26c6eb608"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "本条仅收录085410人工智能专硕；不把生物化学学硕统称为计算方向。 即日起至2026年9月13日17:00前。",
+        "availability": "open",
+        "degrees": [
+          "professional"
+        ],
+        "applicationUrl": null
+      },
+      "sourceId": "src-e71570adc26c6eb608",
+      "evidenceUrls": [
+        "http://hias.ucas.ac.cn/fzyxy/info/1065/1822.htm"
+      ],
+      "schoolId": "ucas",
+      "unitId": "ucas-61221f1fbf",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": null
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-e71570adc26c6eb608",
+      "reviewedSourceHashes": {
+        "src-e71570adc26c6eb608": "48081e3c588ce5c3087e9f92ce73d6dbae1f7d697bdd05132a108497d978fd58"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-e71570adc26c6eb608"
+        },
+        "applicationEnd": {
+          "value": "2026-09-13T17:00:00+08:00",
+          "precision": "datetime",
+          "raw": "即日起至2026年9月13日17:00前。",
+          "sourceId": "src-e71570adc26c6eb608"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "本条仅收录085410人工智能专硕；不把生物化学学硕统称为计算方向。 即日起至2026年9月13日17:00前。"
+      }
+    },
+    {
+      "opportunityId": "opp-9d67b5d9fffcf6c780e5",
+      "action": "no_exact_cutoff",
+      "reason": "建议在9月13日12:00前完成报名。该时间是官方建议，未明确硬性截止。",
+      "patch": {
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "建议在9月13日12:00前完成报名。该时间是官方建议，未明确硬性截止。",
+          "sourceId": "src-69bb9a16aa2153896c"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "限人工智能药物设计与评价、AI药理学、计算机辅助药物设计等方向。公告由学院官网招生列表链接到学院官方公众号。 建议在9月13日12:00前完成报名。该时间是官方建议，未明确硬性截止。",
+        "availability": "open",
+        "degrees": [
+          "academic",
+          "professional"
+        ],
+        "applicationUrl": "http://122.224.251.231/enroll_student/login"
+      },
+      "sourceId": "src-69bb9a16aa2153896c",
+      "evidenceUrls": [
+        "https://mp.weixin.qq.com/s/kX63nwJSrEtalJrtIrgLwg"
+      ],
+      "schoolId": "ucas",
+      "unitId": "ucas-d29866ac0a",
+      "oldApplicationEnd": {
+        "value": null,
+        "precision": "unknown",
+        "raw": "",
+        "sourceId": null
+      },
+      "oldMaterialsEnd": null,
+      "evidenceSourceId": "src-69bb9a16aa2153896c",
+      "reviewedSourceHashes": {
+        "src-69bb9a16aa2153896c": "9b833b70505f0165da063140a81d9c04718cae696d5d8d0afdbcb7f834767f96"
+      },
+      "result": {
+        "applicationStart": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "公告未明确报名开放日期；是否已开放依官方即日起报名等表述另行核验。",
+          "sourceId": "src-69bb9a16aa2153896c"
+        },
+        "applicationEnd": {
+          "value": null,
+          "precision": "unknown",
+          "raw": "建议在9月13日12:00前完成报名。该时间是官方建议，未明确硬性截止。",
+          "sourceId": "src-69bb9a16aa2153896c"
+        },
+        "materialsEnd": null,
+        "verification": "verified",
+        "notes": "限人工智能药物设计与评价、AI药理学、计算机辅助药物设计等方向。公告由学院官网招生列表链接到学院官方公众号。 建议在9月13日12:00前完成报名。该时间是官方建议，未明确硬性截止。"
+      }
+    }
+  ],
+  "newOpportunityIds": [
+    "opp-2b7fef953e3785a71707",
+    "opp-e0627d565ecd352a12ff",
+    "opp-0f1d7f21fd74a926a623",
+    "opp-6f50cb170b94ed230115",
+    "opp-5d16031e4dfbcd78e75a",
+    "opp-c02022ad8e639899102e",
+    "opp-a3d14b9c62c1fa8571ca",
+    "opp-fdd1d7829c5ee01fa438",
+    "opp-a3910093c3e391dd19fa",
+    "opp-12191b0eddb62c7fd478",
+    "opp-a48b69e0f8c3ad8634de",
+    "opp-9d67b5d9fffcf6c780e5"
+  ],
+  "originalIds": [
+    "opp-23670c1abf34197c3bf3",
+    "opp-5a385e04d673b98251a4",
+    "opp-131428b78d71fd7b46fb",
+    "opp-e22dc8771005f5d72be6",
+    "opp-a3706eba325fab6ed55a",
+    "opp-a82004c2a571e4786324",
+    "opp-800a30c96c5cb8ef291e",
+    "opp-30da51aca63d2e2d7b39",
+    "opp-b6e976c5f2f83cf8d6f6",
+    "opp-6e6bf609c3a02a2f6523",
+    "opp-0208127eee2f3d48b66b",
+    "opp-3b0c0f1bbee7f6c915f0",
+    "opp-f3dabb3c274bd2d4860d",
+    "opp-52e596d84ce6ef7fc7a8",
+    "opp-397a0ee791fd8c6df032",
+    "opp-d2ae923e03a0fe2af855",
+    "opp-709e42e5d8f58ac0158d",
+    "opp-9801e968081418a261fc",
+    "opp-8a17bac610cfcf32e5cf",
+    "opp-3512daf9560d8b3627ab",
+    "opp-e439460aef99e7ca47d4",
+    "opp-557c23b9058c1124fa23",
+    "opp-b2ceb01261f02e8432e9",
+    "opp-f30e733641ddbda519a1",
+    "opp-24c783fbff92b74c9261",
+    "opp-b5ae0319ebd60f1cd814",
+    "opp-2fe95388ee171e90ba2d",
+    "opp-9560c2e5e6e8cef42603",
+    "opp-bb8cd8136503a5e2e655",
+    "opp-47d2d1ac947cf9d43074",
+    "opp-5a2c594e22f09c4cdc26",
+    "opp-e7016e5043be9f421811",
+    "opp-bd9ca477b944f6c3fd39",
+    "opp-f0cfe8324a66d08f9983",
+    "opp-747c4fa6b20086ac3c1f",
+    "opp-64d64ec18862693bec88",
+    "opp-771d2f1e7f0de8d99730",
+    "opp-6a1521458aa575021058",
+    "opp-cd2121589c2b406e2185",
+    "opp-0e49ff6191e7bc5bed20",
+    "opp-f6bd6c40dddff94600ef",
+    "opp-9ac87d7abbf2a444a503",
+    "opp-26f667d62b19ed352bf7",
+    "opp-ece422864f1c3fa9aebd",
+    "opp-cffb3680b2de4759ad0b",
+    "opp-b59abcc9cb6032683b98",
+    "opp-5868cfb3ed70cec7223f",
+    "opp-86bbde4df276859e52d2",
+    "opp-9b5f0fd3de067abd32bc",
+    "opp-a08589644002b8bf7535",
+    "opp-b51be5034ea9b4a47b02",
+    "opp-0e209090199027129113",
+    "opp-c16705656b2b235fbeb0",
+    "opp-927b623ea1f61dbe90f4",
+    "opp-f7583c4046004b6c1855",
+    "opp-d3615ccf8df9cd871edc",
+    "opp-95529cd43f2d17fe962e",
+    "opp-3e598b15eaf05fa612b0",
+    "opp-6150dfdf86e5fac766b1",
+    "opp-24a4581b42f38ace838a",
+    "opp-bbe25e07d108f3beadf2",
+    "opp-06183ec80f33ca0bedcb",
+    "opp-8c4be951549cac379fa4",
+    "opp-bd51eeeb2fe2d4936acf",
+    "opp-d0a2206718ac87ab534d",
+    "opp-50c89f323bb400711fe8",
+    "opp-fb8f5c83860b7c94e925",
+    "opp-4c2f8954854b6842db27",
+    "opp-d40d3d557631a100d763",
+    "opp-c4a1b7546399384d769a",
+    "opp-9f9f3acb87e3d008a7bc",
+    "opp-d7b5324af28638183dae",
+    "opp-8cbf58efca99b9068104"
+  ],
+  "publishedOpportunityCount": 134,
+  "remainingUnknownApplicationCount": 25,
+  "remainingUnknownDisplayCount": 22,
+  "checkedSources": {
+    "src-6e7e47ae97d22b30d5": {
+      "url": "http://hias.ucas.ac.cn/ywkxyjsxy/zsjy/zsxx.htm",
+      "checkedAt": "2026-09-09T01:04:57+08:00",
+      "method": "http",
+      "hash": "7653e6264675a767853d936bbbdf12e47b7712d01db0e3a3fd8d8daa32cb0a0f"
+    },
+    "source-04ec5fb85f4b6362fa40": {
+      "url": "http://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:49+08:00",
+      "method": "http",
+      "hash": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+    },
+    "source-0f483092122424e0923f": {
+      "url": "https://mefaculty.tongji.edu.cn/info/1023/5599.htm",
+      "checkedAt": "2026-09-09T00:14:48+08:00",
+      "method": "http",
+      "hash": "212bf184cc833be943e50e6f6a17543fd5ef0e599445f2d77df60755453e4b3c"
+    },
+    "source-13fce5c887449e10fd2f": {
+      "url": "https://www.ai.sdu.edu.cn/info/1088/1524.htm",
+      "checkedAt": "2026-09-09T00:14:47+08:00",
+      "method": "http",
+      "hash": "b1c58cbaa7d733de9c8278d214c97b9b9aa61f4ba8ffc20f1028eca8a1b3e8c0"
+    },
+    "source-166b5b141d4b57399b5b": {
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+    },
+    "source-18a15a0b3d397548aae5": {
+      "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/W020260907694646727700.pdf",
+      "checkedAt": "2026-09-09T01:03:48+08:00",
+      "method": "http",
+      "hash": "99c4fc5ad3d1f060afbc4d28b30af295174fd7e756860cc14e88e519253f657c"
+    },
+    "source-1ab4b517a74db2f8d8dc": {
+      "url": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+      "checkedAt": "2026-09-09T00:14:47+08:00",
+      "method": "http",
+      "hash": "f541f32b700b5c0a534e87f90721d13e5610dfb62f86794662a26749ae8523f6"
+    },
+    "source-1e88638f9ddc7a4eaac3": {
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+    },
+    "source-2010741b3aa60d78d3c7": {
+      "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/W020260907694646727700.pdf",
+      "checkedAt": "2026-09-09T01:03:48+08:00",
+      "method": "http",
+      "hash": "99c4fc5ad3d1f060afbc4d28b30af295174fd7e756860cc14e88e519253f657c"
+    },
+    "source-28d5a63b3a586599b743": {
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+    },
+    "source-2e68c29c0bc1e220a3cf": {
+      "url": "https://gsao.fudan.edu.cn/0a/24/c15014a789028/page.htm",
+      "checkedAt": "2026-09-09T00:14:49+08:00",
+      "method": "http",
+      "hash": "8588869f660ba022e25fd450c36aa7319afeb27ee53cf4950c206da3a0fae1cb"
+    },
+    "source-3813e2bba2b987c50624": {
+      "url": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+      "checkedAt": "2026-09-09T00:14:47+08:00",
+      "method": "http",
+      "hash": "f541f32b700b5c0a534e87f90721d13e5610dfb62f86794662a26749ae8523f6"
+    },
+    "source-39e86a8873e5d388571d": {
+      "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/W020260901506481548893.pdf",
+      "checkedAt": "2026-09-09T01:03:47+08:00",
+      "method": "http",
+      "hash": "35232b287326edc6ed589d0bf45d260048ff18cc6e735cc044467393703b3581"
+    },
+    "source-5214659d7da8cd0df0ed": {
+      "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/W020260907694646727700.pdf",
+      "checkedAt": "2026-09-09T01:03:48+08:00",
+      "method": "http",
+      "hash": "99c4fc5ad3d1f060afbc4d28b30af295174fd7e756860cc14e88e519253f657c"
+    },
+    "source-55be183a14b93d3398e1": {
+      "url": "https://yz.tongji.edu.cn/info/1010/4220.htm",
+      "checkedAt": "2026-09-09T00:14:48+08:00",
+      "method": "http",
+      "hash": "e8b895119ee901f5d6ddba65d17f53d926cfc643a5a2b6016f1a110779671bf8"
+    },
+    "source-5a165f7a210e0e51a606": {
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227571/page.htm",
+      "checkedAt": "2026-09-09T00:14:49+08:00",
+      "method": "http",
+      "hash": "982657857e83ef4ed3cff7a1936682228dee918dffd40e6cd047f5a2a08fa97c"
+    },
+    "src-1a84a4a970580bd31e": {
+      "url": "http://hias.ucas.edu.cn/znkxyjs/zsjy/zsxx.htm",
+      "checkedAt": "2026-09-09T01:18:35+08:00",
+      "method": "http",
+      "hash": "5f537c5350729aaee263bc8a27b5ab36ddf5ea0f53dbd5e6d4f2bea4189c9beb"
+    },
+    "source-5d8045ca168f34c7f522": {
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+    },
+    "source-7bdfca7ffa272e8c3eb9": {
+      "url": "http://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:49+08:00",
+      "method": "http",
+      "hash": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+    },
+    "src-36d0d4c2ad8a7a873a": {
+      "url": "http://hias.ucas.ac.cn/fzyxy/zsgz/zsxx.htm",
+      "checkedAt": "2026-09-09T01:18:36+08:00",
+      "method": "http",
+      "hash": "af2768f2ece2c1fd815ddc4ec510aa7be8084834a7e5a9e48243114dbfe4e42c"
+    },
+    "source-841dfe98b8fddc7e8da5": {
+      "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/W020260903598947078012.pdf",
+      "checkedAt": "2026-09-09T01:03:47+08:00",
+      "method": "http",
+      "hash": "bfea121bbe132c8c38f016417119018531cc74258ef5d1bb230410a753d2c6ef"
+    },
+    "source-849425873fcb2753a191": {
+      "url": "http://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:49+08:00",
+      "method": "http",
+      "hash": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+    },
+    "source-852b38ba9c1234fa8fda": {
+      "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/W020260901506481548893.pdf",
+      "checkedAt": "2026-09-09T01:03:47+08:00",
+      "method": "http",
+      "hash": "35232b287326edc6ed589d0bf45d260048ff18cc6e735cc044467393703b3581"
+    },
+    "source-85ba461c7adb402acdb6": {
+      "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/W020260901506481548893.pdf",
+      "checkedAt": "2026-09-09T01:03:47+08:00",
+      "method": "http",
+      "hash": "35232b287326edc6ed589d0bf45d260048ff18cc6e735cc044467393703b3581"
+    },
+    "source-88f8778ab7ddd66e88a1": {
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227571/page.htm",
+      "checkedAt": "2026-09-09T00:14:49+08:00",
+      "method": "http",
+      "hash": "982657857e83ef4ed3cff7a1936682228dee918dffd40e6cd047f5a2a08fa97c"
+    },
+    "source-8e6a712d9d7a99f21474": {
+      "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/W020260903598947078012.pdf",
+      "checkedAt": "2026-09-09T01:03:47+08:00",
+      "method": "http",
+      "hash": "bfea121bbe132c8c38f016417119018531cc74258ef5d1bb230410a753d2c6ef"
+    },
+    "source-93bc74db1a8106d39d62": {
+      "url": "https://ac.bit.edu.cn/tzgg/af26cb8dba7348f09274a6c1a5beb699.htm",
+      "checkedAt": "2026-09-09T00:14:48+08:00",
+      "method": "http",
+      "hash": "6b11e82cc2cdb5502a6c853a277cd1fef677f068aa26f8b22c4fba4691185a0a"
+    },
+    "source-977ecdf2cb039f28aec2": {
+      "url": "https://ai.bit.edu.cn/tzgg/503eb8c373914764a9535df836c0b29d.htm",
+      "checkedAt": "2026-09-09T00:14:48+08:00",
+      "method": "http",
+      "hash": "595cab8832edbb74f7f3950077444ad1e37c3a874a6d59e2b5e175f08ffad801"
+    },
+    "source-a7ae342b3f800604688a": {
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+    },
+    "source-b0f9a860bd824172029a": {
+      "url": "http://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:49+08:00",
+      "method": "http",
+      "hash": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+    },
+    "source-b15b64683e10651a601e": {
+      "url": "http://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:49+08:00",
+      "method": "http",
+      "hash": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+    },
+    "source-b3b3e38f9968a51b9931": {
+      "url": "https://aerospace.xmu.edu.cn/info/2983/64474.htm",
+      "checkedAt": "2026-09-09T00:14:49+08:00",
+      "method": "http",
+      "hash": "bf83066a27625053ad91c3c0971a18615c9c183d72c5e2996f1e9ab2ebab9069"
+    },
+    "source-c48b6a13413aa1934ef2": {
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+    },
+    "source-c53ab0958a5a0768ee34": {
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+    },
+    "source-d2e50b552c742aa25433": {
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+    },
+    "source-d9e423fe661d5bf19070": {
+      "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/W020260903598947078012.pdf",
+      "checkedAt": "2026-09-09T01:03:47+08:00",
+      "method": "http",
+      "hash": "bfea121bbe132c8c38f016417119018531cc74258ef5d1bb230410a753d2c6ef"
+    },
+    "source-f13d9338f462232e4e16": {
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+    },
+    "source-fa0557ad403790b019c5": {
+      "url": "http://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:49+08:00",
+      "method": "http",
+      "hash": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+    },
+    "source-fc25e0aa301134694a46": {
+      "url": "http://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:49+08:00",
+      "method": "http",
+      "hash": "5799338c6085172d8c1aa9d309acf7e90e067b9257f9bac8da6907e82e589fbb"
+    },
+    "src-033e6be40d0ad3f8e7": {
+      "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+      "checkedAt": "2026-09-09T00:14:45+08:00",
+      "method": "http",
+      "hash": "ad5f6a425ecc02d6424d7c7ec4fa23a7a4f216fbee14b873da7edd296f4c4827"
+    },
+    "src-093dba287b45e5bc45": {
+      "url": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+      "checkedAt": "2026-09-09T00:14:47+08:00",
+      "method": "http",
+      "hash": "f541f32b700b5c0a534e87f90721d13e5610dfb62f86794662a26749ae8523f6"
+    },
+    "src-168452151221216569": {
+      "url": "https://cst.bit.edu.cn/xxfw/tzgg/58a147115f154c439a0851311c8fc0d0.htm",
+      "checkedAt": "2026-09-09T00:14:47+08:00",
+      "method": "http",
+      "hash": "d05240a49c096721e72fb38918e884e3df75e4a21155a5a900b20af092393cfb"
+    },
+    "src-1baefb7a2762c0228b": {
+      "url": "http://cist.hitsz.edu.cn/info/1038/2789.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "cadb87e83a49f65366b0986c8e3359b0df332da16cd1ca2de6c48a93e2926f46"
+    },
+    "src-20cd58da5322c69770": {
+      "url": "https://ese.xmu.edu.cn/info/1018/35601.htm",
+      "checkedAt": "2026-09-09T00:14:46+08:00",
+      "method": "http",
+      "hash": "e9dd76dfd21f5a9e8a779d98b559d4e1451a50204237f06c0d1b6c477afedbd8"
+    },
+    "source-5c28ddba041c34557f09": {
+      "url": "http://hias.ucas.edu.cn/znkxyjs/info/1118/1491.htm",
+      "checkedAt": "2026-09-09T01:18:37+08:00",
+      "method": "http",
+      "hash": "e1c62c2dbbc79387596bde29217c09be048c11caf0c51b2ea21444fd74e14a73"
+    },
+    "src-56cce8968ec56e96c9": {
+      "url": "http://hias.ucas.ac.cn/wlgd/zsjy/yjszs.htm",
+      "checkedAt": "2026-09-09T01:18:37+08:00",
+      "method": "http",
+      "hash": "2eeb76ed2ba20429f1518f494a0218c663c267fdf885d006c3fdb52963a8cdc9"
+    },
+    "src-265c4f528eadebf49c": {
+      "url": "http://cist.hitsz.edu.cn/info/1038/2790.htm",
+      "checkedAt": "2026-09-09T00:14:46+08:00",
+      "method": "http",
+      "hash": "334dfc792c20c9235bbda02b168868aadf95605240ebdfa81ace4ae1f0f32ea8"
+    },
+    "src-26e1a117223fefee1f": {
+      "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+      "checkedAt": "2026-09-09T00:14:45+08:00",
+      "method": "http",
+      "hash": "ad5f6a425ecc02d6424d7c7ec4fa23a7a4f216fbee14b873da7edd296f4c4827"
+    },
+    "src-3392697905cfacba14": {
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "37586ec717a6fda1ef74cf02ea5395fe6ca91619e33419e6026e9988cb124bd0"
+    },
+    "src-395027158227725d99": {
+      "url": "https://icisee.sjtu.edu.cn/yanjiusheng-zsgz-sszs/3427.html",
+      "checkedAt": "2026-09-09T00:14:46+08:00",
+      "method": "http",
+      "hash": "d4679b6dcf5932475b4b26609780f758a1b1b6f3adb8007cff7493c868c59d81"
+    },
+    "src-3d0b9129e8fceb0b32": {
+      "url": "https://yzb.nju.edu.cn/_upload/article/files/6d/28/c2ddfc694cb192448c458c76ca1a/a0783ea9-abbc-484f-83cb-8a75941d88a5.pdf",
+      "checkedAt": "2026-09-09T00:14:45+08:00",
+      "method": "http",
+      "hash": "8cfb35f60f7be13f403d2055696c781aac161f8db2b854ad17861b4c69f19007"
+    },
+    "src-42af7fb30387636573": {
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "37586ec717a6fda1ef74cf02ea5395fe6ca91619e33419e6026e9988cb124bd0"
+    },
+    "src-447fb7e1ac37d13966": {
+      "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+      "checkedAt": "2026-09-09T00:14:45+08:00",
+      "method": "http",
+      "hash": "ad5f6a425ecc02d6424d7c7ec4fa23a7a4f216fbee14b873da7edd296f4c4827"
+    },
+    "src-45e2b66b71fa4ab867": {
+      "url": "https://ise.sysu.edu.cn/article/1745",
+      "checkedAt": "2026-09-09T00:39:15+08:00",
+      "method": "browser",
+      "hash": "20fb2013e44eeb2f13803548619ae371408cd7376ce6b43d8fcd68139bfdcf00"
+    },
+    "src-4a1f449349db438ecd": {
+      "url": "https://aerospace.xmu.edu.cn/info/2723/64484.htm",
+      "checkedAt": "2026-09-09T00:14:43+08:00",
+      "method": "http",
+      "hash": "bf83066a27625053ad91c3c0971a18615c9c183d72c5e2996f1e9ab2ebab9069"
+    },
+    "src-54764f5180c7f6713e": {
+      "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+      "checkedAt": "2026-09-09T00:14:47+08:00",
+      "method": "http",
+      "hash": "a17ef4ed471ec57e4b60741be970be38835d9dc823dec32fa26525d749dbe78f"
+    },
+    "src-57b889130a5097c80e": {
+      "url": "https://aais.whu.edu.cn/info/2021/21561.htm",
+      "checkedAt": "2026-09-09T00:39:16+08:00",
+      "method": "browser",
+      "hash": "44dad46481f12acf65c20c24c110d3c21c0602f134ed6a1f0e9ac87eeeaa78c8"
+    },
+    "src-59db20e2318cb65bae": {
+      "url": "https://www.ise.sdu.edu.cn/info/1096/16821.htm",
+      "checkedAt": "2026-09-09T00:14:46+08:00",
+      "method": "http",
+      "hash": "0f3068e2aa4489b365ce4abf0acaeab9b2285beab2d2a670059e1fad6197dab5"
+    },
+    "src-5d00268393d4ee572d": {
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "37586ec717a6fda1ef74cf02ea5395fe6ca91619e33419e6026e9988cb124bd0"
+    },
+    "src-602e5be30ef55ef5b0": {
+      "url": "https://imse.xidian.edu.cn/info/1030/6891.htm",
+      "checkedAt": "2026-09-09T00:39:16+08:00",
+      "method": "browser",
+      "hash": "a280bb2b93530486ab2816a0f404a60892d758f5797606bd7a8c5115ee53028f"
+    },
+    "src-620d0287e919cbd29d": {
+      "url": "https://software.nju.edu.cn/tzgg/20260803/i406944.html",
+      "checkedAt": "2026-09-09T00:14:43+08:00",
+      "method": "http",
+      "hash": "7519d99fe1254cc433f6c69024914d4501e7fdb8acc77f56cf38ab7d16f6a6e0"
+    },
+    "src-6361888b8966b0d028": {
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "37586ec717a6fda1ef74cf02ea5395fe6ca91619e33419e6026e9988cb124bd0"
+    },
+    "src-69bb9a16aa2153896c": {
+      "url": "https://mp.weixin.qq.com/s/kX63nwJSrEtalJrtIrgLwg",
+      "checkedAt": "2026-09-09T01:10:06+08:00",
+      "method": "browser",
+      "hash": "9b833b70505f0165da063140a81d9c04718cae696d5d8d0afdbcb7f834767f96"
+    },
+    "src-6ad539da371a6d74bd": {
+      "url": "https://gs.hhu.edu.cn/_upload/article/files/47/5c/9af8b397401d8ce19b389fdfec3e/cf875c71-1190-460a-bbdd-02256f1dd05a.pdf",
+      "checkedAt": "2026-09-09T00:14:48+08:00",
+      "method": "http",
+      "hash": "ec061356e9c36920a19652f2863ac3a1d7ea3c396fcfc5dee0df716b2621f5b5"
+    },
+    "src-6e8e89d50414ff77c5": {
+      "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+      "checkedAt": "2026-09-09T00:14:45+08:00",
+      "method": "http",
+      "hash": "ad5f6a425ecc02d6424d7c7ec4fa23a7a4f216fbee14b873da7edd296f4c4827"
+    },
+    "src-7213f8dccf445c0ad4": {
+      "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+      "checkedAt": "2026-09-09T00:14:45+08:00",
+      "method": "http",
+      "hash": "ad5f6a425ecc02d6424d7c7ec4fa23a7a4f216fbee14b873da7edd296f4c4827"
+    },
+    "src-73baa840f87d327386": {
+      "url": "https://yzb.nju.edu.cn/_upload/article/files/6d/28/c2ddfc694cb192448c458c76ca1a/a0783ea9-abbc-484f-83cb-8a75941d88a5.pdf",
+      "checkedAt": "2026-09-09T00:14:45+08:00",
+      "method": "http",
+      "hash": "8cfb35f60f7be13f403d2055696c781aac161f8db2b854ad17861b4c69f19007"
+    },
+    "src-73e720e4df95e21bff": {
+      "url": "https://mefaculty.tongji.edu.cn/__local/9/8F/1E/EF80B7C77367C08D362E48D4FA8_EA54D00C_32012.pdf",
+      "checkedAt": "2026-09-09T00:17:56+08:00",
+      "method": "http",
+      "hash": "ffb6a0b01f91ed88b455bf26987fce9bba225f3cc7aabe079923acc738ffb29c"
+    },
+    "src-87ba095a941b3ff0e0": {
+      "url": "http://hias.ucas.ac.cn/life/yjspy/yjszs.htm",
+      "checkedAt": "2026-09-09T01:18:38+08:00",
+      "method": "http",
+      "hash": "0d2c86a8b8bf27dfcf5f39d9f48b0a5ac5c99b347180e526d3df520e4b309ac8"
+    },
+    "src-757958da747aa4d14a": {
+      "url": "https://gs.hhu.edu.cn/_upload/article/files/47/5c/9af8b397401d8ce19b389fdfec3e/cf875c71-1190-460a-bbdd-02256f1dd05a.pdf",
+      "checkedAt": "2026-09-09T00:14:48+08:00",
+      "method": "http",
+      "hash": "ec061356e9c36920a19652f2863ac3a1d7ea3c396fcfc5dee0df716b2621f5b5"
+    },
+    "src-78bb34fe7a2dd756a5": {
+      "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+      "checkedAt": "2026-09-09T00:14:47+08:00",
+      "method": "http",
+      "hash": "a17ef4ed471ec57e4b60741be970be38835d9dc823dec32fa26525d749dbe78f"
+    },
+    "src-82855a12cc1311f0ff": {
+      "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+      "checkedAt": "2026-09-09T00:14:47+08:00",
+      "method": "http",
+      "hash": "a17ef4ed471ec57e4b60741be970be38835d9dc823dec32fa26525d749dbe78f"
+    },
+    "src-878c6084c0a456de1b": {
+      "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+      "checkedAt": "2026-09-09T00:14:45+08:00",
+      "method": "http",
+      "hash": "ad5f6a425ecc02d6424d7c7ec4fa23a7a4f216fbee14b873da7edd296f4c4827"
+    },
+    "src-0dd3595c1550b6a56d": {
+      "url": "https://cs.tongji.edu.cn/__local/9/60/A0/E754D70DC091A39226FD77BEB2B_082455BA_396B5.pdf",
+      "checkedAt": "2026-09-09T01:18:38+08:00",
+      "method": "http",
+      "hash": "d0571b48b3b2e1f1f8c10ce27ea421c61460d31265423ac02a21a65b62a7b804"
+    },
+    "src-895710a2891d7a8787": {
+      "url": "https://www.ai.sdu.edu.cn/info/1088/1524.htm",
+      "checkedAt": "2026-09-09T00:14:47+08:00",
+      "method": "http",
+      "hash": "b1c58cbaa7d733de9c8278d214c97b9b9aa61f4ba8ffc20f1028eca8a1b3e8c0"
+    },
+    "src-8ee897ab6f806ba215": {
+      "url": "https://eeis.ustc.edu.cn/2026/0904/c2702a752148/page.htm",
+      "checkedAt": "2026-09-09T00:14:47+08:00",
+      "method": "http",
+      "hash": "e3ca30386c23b809e91d74e3c434d939eac04f57fc46320a821b50781d50d376"
+    },
+    "src-9d8cccf295361abc06": {
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "37586ec717a6fda1ef74cf02ea5395fe6ca91619e33419e6026e9988cb124bd0"
+    },
+    "src-a77032ebf7e434335d": {
+      "url": "https://srias.tongji.edu.cn/_upload/article/files/c3/a0/9961854b4d45bf0547ad2198e401/d6c245f3-7996-478a-ac13-e959f494e4a5.pdf",
+      "checkedAt": "2026-09-09T00:14:43+08:00",
+      "method": "http",
+      "hash": "d260afb6f42a12d5155ad4230c93864a270e0381ee9da54435e36705acb1067e"
+    },
+    "src-ab2ffb98f356ee50a8": {
+      "url": "https://scst.sysu.edu.cn/article/502",
+      "checkedAt": "2026-09-09T00:39:15+08:00",
+      "method": "browser",
+      "hash": "519fbcecb4cfbc9aaa61879a6b261cd346c82bf3be296098541cc7ab7175acdc"
+    },
+    "src-abe2d813f647dc904d": {
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "37586ec717a6fda1ef74cf02ea5395fe6ca91619e33419e6026e9988cb124bd0"
+    },
+    "src-b27ff6a1b44072bc2a": {
+      "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+      "checkedAt": "2026-09-09T00:14:45+08:00",
+      "method": "http",
+      "hash": "ad5f6a425ecc02d6424d7c7ec4fa23a7a4f216fbee14b873da7edd296f4c4827"
+    },
+    "src-5c334ba5cad4855b5b": {
+      "url": "https://is.nju.edu.cn/d4/5b/c57162a840795/page.htm",
+      "checkedAt": "2026-09-09T01:18:38+08:00",
+      "method": "http",
+      "hash": "017a513f4f489b870add6557f7cb536d832c63408bba9c1ca190576351bcbde6"
+    },
+    "src-bdf31c36a3e66416ad": {
+      "url": "https://mst.sysu.edu.cn/node/1355",
+      "checkedAt": "2026-09-09T00:39:17+08:00",
+      "method": "browser",
+      "hash": "e02b1a5aeb1e2363bfef5d6517d7bb9593b2106f438d06c95b25747cd7d6657a"
+    },
+    "src-c71ba1979ec22d6b3d": {
+      "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+      "checkedAt": "2026-09-09T00:14:47+08:00",
+      "method": "http",
+      "hash": "a17ef4ed471ec57e4b60741be970be38835d9dc823dec32fa26525d749dbe78f"
+    },
+    "src-b7533d720f73c7b7f2": {
+      "url": "http://hias.ucas.ac.cn/mathphys/jyjx1/zsxx.htm",
+      "checkedAt": "2026-09-09T01:18:39+08:00",
+      "method": "http",
+      "hash": "fd4d7db93cb9ab171fbdf2912af6d0f1e482cc9017f58f1a6cc7990c0e9c33ca"
+    },
+    "src-71e81bc947ac141ef7": {
+      "url": "https://ese.nju.edu.cn/d4/6d/c22673a840813/page.htm",
+      "checkedAt": "2026-09-09T01:18:39+08:00",
+      "method": "http",
+      "hash": "2d6c2327540daea8e122a59c7ff02d0aa05e0b4eb899bdb493c64c82693059db"
+    },
+    "src-90f70fd06a1e8faa5e": {
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227578/page.htm",
+      "checkedAt": "2026-09-09T01:18:39+08:00",
+      "method": "http",
+      "hash": "faf2e4f7ad61c99254fc6fedd8366b58f817a6a646aed2a4440d51ca6f02692a"
+    },
+    "src-dc2b8ca91ad696ddfe": {
+      "url": "https://sia.cas.cn/zpjy/yjsjy/zs/zsgg/202608/t20260826_8265512.html",
+      "checkedAt": "2026-09-09T00:14:47+08:00",
+      "method": "http",
+      "hash": "e6a841d0388081aeb5df20a5893a8380832cec60a2c0d7688d7d1c5913ec05c8"
+    },
+    "src-ddbeaa1e388babcb69": {
+      "url": "https://seit.sysu.edu.cn/article/3068",
+      "checkedAt": "2026-09-09T00:39:15+08:00",
+      "method": "browser",
+      "hash": "f18af51a8bf39efd81a490f437b368f9c244ced4c60c67f809cf2a35e7ca1a21"
+    },
+    "src-e645888c3d81ca1c65": {
+      "url": "https://sofe.sysu.edu.cn/zh-hans/article/511",
+      "checkedAt": "2026-09-09T00:39:17+08:00",
+      "method": "browser",
+      "hash": "5d37d3c3a85e5fce15a8195268bf1a021bb27e8d4c476ead38ffc9151dd18da4"
+    },
+    "src-b1b996a3ad1da8e5f0": {
+      "url": "https://ai.nju.edu.cn/d4/5c/c53055a840796/page.htm",
+      "checkedAt": "2026-09-09T01:18:39+08:00",
+      "method": "http",
+      "hash": "dd14d728a32c0400aa1aad9c7bb4e81565d7ff4087c866e305912ee1cc128269"
+    },
+    "src-eb6f3c9a8bf4106e3b": {
+      "url": "https://saids.ustc.edu.cn/2026/0831/c15435a751553/page.htm",
+      "checkedAt": "2026-09-09T00:14:46+08:00",
+      "method": "http",
+      "hash": "138525aecd34bcc9f4d48f83718aa7b4c68fe9543aea153469048dfeec16a0f6"
+    },
+    "src-ec2bb1cb8af721b101": {
+      "url": "https://gs.hhu.edu.cn/_upload/article/files/47/5c/9af8b397401d8ce19b389fdfec3e/cf875c71-1190-460a-bbdd-02256f1dd05a.pdf",
+      "checkedAt": "2026-09-09T00:14:48+08:00",
+      "method": "http",
+      "hash": "ec061356e9c36920a19652f2863ac3a1d7ea3c396fcfc5dee0df716b2621f5b5"
+    },
+    "src-ed0989f0143307aaa7": {
+      "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "37586ec717a6fda1ef74cf02ea5395fe6ca91619e33419e6026e9988cb124bd0"
+    },
+    "src-efa696a892d8501773": {
+      "url": "https://ic.nju.edu.cn/d4/5f/c59160a840799/page.htm",
+      "checkedAt": "2026-09-09T00:39:17+08:00",
+      "method": "browser",
+      "hash": "6e71fa7185b880c509a31e2fb29218eb8b496d46c5887e7e8ad74f2e9676ee73"
+    },
+    "src-f2683b34edbe464a0b": {
+      "url": "https://ticnn.tju.edu.cn/info/1052/2813.htm",
+      "checkedAt": "2026-09-09T00:14:48+08:00",
+      "method": "http",
+      "hash": "6d88ef90c198f54fec3d9a54a18e5676575350b0ff5b127ba23120a3ed18210f"
+    },
+    "src-f2b96d4252703f26dc": {
+      "url": "http://cist.hitsz.edu.cn/info/1038/2789.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "cadb87e83a49f65366b0986c8e3359b0df332da16cd1ca2de6c48a93e2926f46"
+    },
+    "src-f2b9d67a8ac71b3fca": {
+      "url": "http://cist.hitsz.edu.cn/info/1038/2789.htm",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "cadb87e83a49f65366b0986c8e3359b0df332da16cd1ca2de6c48a93e2926f46"
+    },
+    "src-c87730d3ffd4c812c3": {
+      "url": "http://hias.ucas.ac.cn/mathphys/info/1166/1521.htm",
+      "checkedAt": "2026-09-09T01:18:40+08:00",
+      "method": "http",
+      "hash": "7bc60f57fa1a8f9fbca945bffe6d4426529bdaea8901175e695438d3c89cff5e"
+    },
+    "src-ff8d9198789e744d07": {
+      "url": "https://see.tongji.edu.cn/__local/0/CA/40/80ACF42AA9C448546B4B52A25D2_433060EA_4F2DE.pdf",
+      "checkedAt": "2026-09-09T00:14:44+08:00",
+      "method": "http",
+      "hash": "282eb1362ddc44a6376a2eb10ed67303c9b99ad0ce79cde3a5fe0e8ea56ca8b7"
+    },
+    "source-b9266e3f3ad7b83d7d54": {
+      "url": "http://hias.ucas.edu.cn/znkxyjs/zsjy/zsxx/1.htm",
+      "checkedAt": "2026-09-09T01:18:40+08:00",
+      "method": "http",
+      "hash": "0f34f61319e04430575574871176b9ecc06675a48c97598ed0df31fd7430e61e"
+    },
+    "src-da23ec60caf35b1f22": {
+      "url": "http://hias.ucas.ac.cn/life/info/1437/2360.htm",
+      "checkedAt": "2026-09-09T01:18:41+08:00",
+      "method": "http",
+      "hash": "bf769ed4be607885305943f83ffe2351cd7bae7b4d21352042099621699eb002"
+    },
+    "src-bda4e1a93ecde45c03": {
+      "url": "https://gs.ecupl.edu.cn/2026/0831/c13332a227574/page.htm",
+      "checkedAt": "2026-09-09T01:18:41+08:00",
+      "method": "http",
+      "hash": "2b933ecca1a1c7233fb4ba3cc7ec5ca0df3eee516e3a34be10a25166ff512229"
+    },
+    "src-db4b385b6441284c0c": {
+      "url": "http://hias.ucas.ac.cn/wlgd/info/1020/1631.htm",
+      "checkedAt": "2026-09-09T01:18:42+08:00",
+      "method": "http",
+      "hash": "a6e140cc6a7c9584d226c036135c94cc1b70fb45796a21f826756bf2d610b03e"
+    },
+    "source-c519c8e1455d1ef9cd73": {
+      "url": "https://software.nju.edu.cn/DFS//file/2026/08/03/20260803195621945n2slit.pdf",
+      "checkedAt": "2026-09-09T00:17:57+08:00",
+      "method": "pdf_visual_review",
+      "hash": "32f5052ceb6e4f5489d565c386f2a8abc0569c60a23f656759d9dd719925a2ae"
+    },
+    "source-a9aaae066549ae9fa5d1": {
+      "url": "https://ai.bit.edu.cn/docs/2026-09/994e2c556cb04b82b77276958ccf9961.pdf",
+      "checkedAt": "2026-09-09T01:18:42+08:00",
+      "method": "http",
+      "hash": "aaa82d41fe3a99a05610e2818f998e0d6826c8126e374189a650f17ef98504dc"
+    },
+    "source-e9b1f7212b7eb30d4ef5": {
+      "url": "https://is.nju.edu.cn/_upload/article/files/9b/0b/d5568b03465cb07caf194fc56f60/aea4abb7-8ae7-470f-b608-ff148856ceb9.pdf",
+      "checkedAt": "2026-09-09T00:17:56+08:00",
+      "method": "http",
+      "hash": "ee4479f306aca5bf9131bb99ff4efd48c944d84b86b25c1c508727fef81684fa"
+    },
+    "source-dffa28ad7a36724e7742": {
+      "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/W020260901506481548893.pdf",
+      "checkedAt": "2026-09-09T01:03:47+08:00",
+      "method": "http",
+      "hash": "35232b287326edc6ed589d0bf45d260048ff18cc6e735cc044467393703b3581"
+    },
+    "source-4514a11b15d3aec9a89a": {
+      "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/W020260903598947078012.pdf",
+      "checkedAt": "2026-09-09T01:03:47+08:00",
+      "method": "http",
+      "hash": "bfea121bbe132c8c38f016417119018531cc74258ef5d1bb230410a753d2c6ef"
+    },
+    "source-3aadcdc9adadac6c7cfa": {
+      "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/W020260907694646727700.pdf",
+      "checkedAt": "2026-09-09T01:03:48+08:00",
+      "method": "http",
+      "hash": "99c4fc5ad3d1f060afbc4d28b30af295174fd7e756860cc14e88e519253f657c"
+    },
+    "src-e71570adc26c6eb608": {
+      "url": "http://hias.ucas.ac.cn/fzyxy/info/1065/1822.htm",
+      "checkedAt": "2026-09-09T01:18:43+08:00",
+      "method": "http",
+      "hash": "48081e3c588ce5c3087e9f92ce73d6dbae1f7d697bdd05132a108497d978fd58"
+    },
+    "source-030d599b6e08a433e68a": {
+      "url": "https://ese.nju.edu.cn/_upload/article/files/90/ad/1c7401fd4572980b61d0b9281437/3df27361-1e89-4ecf-9a46-8540ea7ae8a4.pdf",
+      "checkedAt": "2026-09-09T00:17:57+08:00",
+      "method": "http",
+      "hash": "d22713e32750a0cdb603236518ae2bf22e5f8dbee42dc83ca947fd248662f66d"
+    },
+    "source-5fb1796d5d42a6b72dd5": {
+      "url": "https://ai.nju.edu.cn/_upload/article/files/87/d0/8692cf8b49aab99fd3ab4352dbfb/8fdbea08-676a-42f6-ae9f-ae6f6e3dc31d.pdf",
+      "checkedAt": "2026-09-09T00:17:56+08:00",
+      "method": "http",
+      "hash": "7eb6174566515830731f0674edc81cae0b53d2ae772f5ef9c1effa8b8e6a48bf"
+    },
+    "source-a654b3b74ce68622e6ce": {
+      "url": "https://ic.nju.edu.cn/_upload/article/files/1d/32/b9f4a18049b19fe7585e49fb82f9/6cc8ac4a-b6b2-48a0-b4fb-454766103c5b.pdf",
+      "checkedAt": "2026-09-09T01:03:46+08:00",
+      "method": "http",
+      "hash": "bbc5efc22a3779b1f640cd1ee43189a8811a7d6384afcb7bb63ec70308e73cfc"
+    },
+    "source-312107837f4236f1afe9": {
+      "url": "http://hias.ucas.ac.cn/ywkxyjsxy/zsjy/zsxx/2.htm",
+      "checkedAt": "2026-09-09T01:18:44+08:00",
+      "method": "http",
+      "hash": "2a3078f5a84ca970d9837f473373767a2dcc4d14afb6b7f0e6729117078fffb8"
+    },
+    "source-2ce1177430dd95d4ab80": {
+      "url": "http://hias.ucas.ac.cn/fzyxy/zsgz/zsxx/3.htm",
+      "checkedAt": "2026-09-09T01:18:45+08:00",
+      "method": "http",
+      "hash": "7ed185f325305b133062d0dd8bb65c667b9fcd1a779495da1160697fcd95de26"
+    },
+    "source-ce79175b876032551d6e": {
+      "url": "http://hias.ucas.ac.cn/wlgd/zsjy/yjszs/4.htm",
+      "checkedAt": "2026-09-09T01:18:46+08:00",
+      "method": "http",
+      "hash": "1be11b3bb79079e6031417d0247f5603622f0c920742296cd0f5d643bd82573b"
+    },
+    "source-5afe60b44af707e817ef": {
+      "url": "http://hias.ucas.ac.cn/life/yjspy/yjszs/1.htm",
+      "checkedAt": "2026-09-09T01:18:47+08:00",
+      "method": "http",
+      "hash": "b69b056d23bad99fec010a876aefee2b23d2872d58116c007f827c91189db2b2"
+    },
+    "source-f81d9bbbd3df85bf98ee": {
+      "url": "http://hias.ucas.ac.cn/mathphys/jyjx1/zsxx/2.htm",
+      "checkedAt": "2026-09-09T01:18:48+08:00",
+      "method": "http",
+      "hash": "6ec4ca78b9857dd48f7a8e27144f08e260258b217bb9206625c186ab0817d4ba"
+    },
+    "source-c6eccbb30a7b6980b308": {
+      "url": "http://hias.ucas.ac.cn/ywkxyjsxy/zsjy/zsxx/1.htm",
+      "checkedAt": "2026-09-09T01:18:49+08:00",
+      "method": "http",
+      "hash": "cbc3c913c13e503c2374f27a4c31c34a3440daf60563211f3d5b7e4e4e39c10d"
+    },
+    "source-bc52b10599743e3e5bc8": {
+      "url": "http://hias.ucas.ac.cn/fzyxy/zsgz/zsxx/2.htm",
+      "checkedAt": "2026-09-09T01:18:50+08:00",
+      "method": "http",
+      "hash": "86959f10edd36154893a4f18180ffbb9e9a8d65260ae18f4b60e2f419855f3f7"
+    },
+    "source-1dff15b69f47c68fb5c8": {
+      "url": "http://hias.ucas.ac.cn/wlgd/zsjy/yjszs/3.htm",
+      "checkedAt": "2026-09-09T01:18:51+08:00",
+      "method": "http",
+      "hash": "cd4a1955d5536de916f6f789da80c461395dca488d95d5413d404b71bc954913"
+    },
+    "source-a96ff09a4791aa88535c": {
+      "url": "http://hias.ucas.ac.cn/mathphys/jyjx1/zsxx/1.htm",
+      "checkedAt": "2026-09-09T01:18:52+08:00",
+      "method": "http",
+      "hash": "1a4e5485370e67096fbfca68d44ddc09b50b6a9b6eab0c22e3992d305b1367c7"
+    }
+  },
+  "targetedRun": {
+    "startedAt": "2026-09-09T01:18:34+08:00",
+    "finishedAt": "2026-09-09T01:18:52+08:00",
+    "status": "partial",
+    "checked": 123,
+    "succeeded": 95,
+    "failed": 28,
+    "discovered": 17,
+    "changed": 46
+  },
+  "notes": [
+    "本次定向复核，未声称全部68校所有学院已穷尽。",
+    "普通浏览器复核不改变机器人访问策略；需要浏览器或人工阅读的源仍可能自动访问失败。",
+    "只统计报名或材料时间实质变更，不把检查时间变化计为公告更新。",
+    "对无统一截止、建议时间、按学院窗口或存在多种窗口歧义的公告保留原意。"
+  ]
+}

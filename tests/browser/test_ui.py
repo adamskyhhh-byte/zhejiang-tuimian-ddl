@@ -1,8 +1,45 @@
 """验证完整用户流程与时区边界。"""
 
+import copy
 import re
 
 from playwright.sync_api import expect
+
+
+def test_material_only_deadline_in_list_detail_quick_filter_and_calendar(page, catalog):
+    data = copy.deepcopy(catalog)
+    item = data["opportunities"][0]
+    item.update(title="仅材料时限", batch="仅材料时限", availability="announced")
+    item["applicationStart"] = {
+        "value": None,
+        "precision": "unknown",
+        "raw": "开放时间未知",
+        "sourceId": "fixture-source",
+    }
+    item["applicationEnd"] = {
+        "value": None,
+        "precision": "unknown",
+        "raw": "未单列网上报名截止",
+        "sourceId": "fixture-source",
+    }
+    item["materialsEnd"] = {
+        "value": "2026-09-09T17:00:00+08:00",
+        "precision": "datetime",
+        "raw": "9月9日17:00前提交材料",
+        "sourceId": "fixture-source",
+    }
+    page.route("**/data/catalog.json", lambda route: route.fulfill(json=data))
+    page.reload(wait_until="networkidle")
+    page.get_by_test_id("search-input").fill("仅材料时限")
+    row = page.get_by_test_id("opportunity-row")
+    expect(row).to_contain_text("材料提交截止")
+    expect(row).to_contain_text("09/09 17:00")
+    expect(row).not_to_contain_text("报名中")
+    row.get_by_role("button").first.click()
+    expect(page.locator(".deadline-hero")).to_contain_text("材料提交截止")
+    page.keyboard.press("Escape")
+    page.get_by_test_id("tab-calendar").click()
+    expect(page.locator(".calendar-event")).to_contain_text("材料")
 
 
 def test_search_url_restore_and_favorite(page):
@@ -44,7 +81,7 @@ def test_calendar_expands_all_projects_and_unknown_deadlines(page):
     expect(page.get_by_test_id("calendar-more")).to_have_count(1)
     page.get_by_test_id("calendar-more").click()
     expect(page.locator(".calendar-day-details").get_by_test_id("opportunity-row")).to_have_count(6)
-    page.get_by_role("button", name=re.compile("截止未公布")).click()
+    page.get_by_role("button", name=re.compile("截止待确认")).click()
     expect(page.locator(".calendar-day-details").get_by_test_id("opportunity-row")).to_have_count(1)
     expect(page.locator(".calendar-day-details")).to_contain_text("未知截止批次")
 
@@ -109,7 +146,9 @@ def test_mobile_filter_drawer_and_no_horizontal_overflow(page):
     expect(drawer).not_to_be_visible()
     expect(page.get_by_test_id("opportunity-row")).to_have_count(1)
     expect(page.get_by_test_id("opportunity-row")).to_contain_text("历史批次")
-    assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth"), "手机页面横向溢出"
+    assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth"), (
+        "手机页面横向溢出"
+    )
 
 
 def test_broken_local_storage_does_not_break_rendering(page):
@@ -137,13 +176,21 @@ def test_multiselect_tags_formats_counts_and_url_restore(page):
     expect(page.get_by_test_id("opportunity-row")).to_have_count(1)
     expect(page.get_by_test_id("opportunity-row")).to_contain_text("线下考核")
     page.reload(wait_until="networkidle")
-    expect(tags.get_by_role("button", name="联培，1 个项目")).to_have_attribute("aria-pressed", "true")
+    expect(tags.get_by_role("button", name="联培，1 个项目")).to_have_attribute(
+        "aria-pressed", "true"
+    )
     for label in ["线上", "线下", "混合"]:
-        expect(formats.get_by_role("button", name=f"{label}，1 个项目")).to_have_attribute("aria-pressed", "true")
+        expect(formats.get_by_role("button", name=f"{label}，1 个项目")).to_have_attribute(
+            "aria-pressed", "true"
+        )
     expect(page.get_by_test_id("opportunity-row")).to_have_count(1)
-    panel.get_by_test_id("status-chip-filter").get_by_role("button", name="已结束，1 个项目").click()
+    panel.get_by_test_id("status-chip-filter").get_by_role(
+        "button", name="已结束，1 个项目"
+    ).click()
     expect(page.get_by_test_id("opportunity-row")).to_have_count(0)
-    panel.get_by_test_id("status-chip-filter").get_by_role("button", name="已结束，1 个项目").click()
+    panel.get_by_test_id("status-chip-filter").get_by_role(
+        "button", name="已结束，1 个项目"
+    ).click()
     expect(page.get_by_test_id("opportunity-row")).to_have_count(1)
 
 
@@ -163,5 +210,9 @@ def test_mobile_format_unknown_and_selected_zero_tag_can_be_cleared(page):
     expect(page.get_by_test_id("opportunity-row").first).to_contain_text("形式未核验")
     page.reload(wait_until="networkidle")
     page.get_by_test_id("mobile-filter-toggle").click()
-    expect(drawer.get_by_role("button", name="未核验，6 个项目")).to_have_attribute("aria-pressed", "true")
-    assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth"), "手机页面横向溢出"
+    expect(drawer.get_by_role("button", name="未核验，6 个项目")).to_have_attribute(
+        "aria-pressed", "true"
+    )
+    assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth"), (
+        "手机页面横向溢出"
+    )

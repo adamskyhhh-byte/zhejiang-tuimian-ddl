@@ -5573,5 +5573,612 @@
     "firstSeenAt": "2026-09-08T01:20:49+08:00",
     "updatedAt": "2026-09-08T01:20:49+08:00",
     "notes": "本条仅展示地方硕士适用范围，含学硕与专硕。附件同时招直博，未借用直博专用时间。材料要求与报名同时提交，不另推定未公布的独立材料截止时刻。"
+  },
+  {
+    "id": "opp-2b7fef953e3785a71707",
+    "schoolId": "hit",
+    "unitId": "hit-cab13f24ef",
+    "title": "哈尔滨工业大学（深圳） 信息学部计算机科学与技术学院2027年接收优秀应届本科生免试攻读研究生报名的通知-哈尔滨工业大学（深圳）信息学部",
+    "year": 2027,
+    "season": 2026,
+    "batch": "大模型与通用人工智能系统项目",
+    "degrees": [],
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "assessmentMode": "unknown",
+    "programTags": [],
+    "applicationUrl": null,
+    "noticeUrl": "http://cist.hitsz.edu.cn/info/1038/2789.htm",
+    "sourceIds": [
+      "src-1baefb7a2762c0228b"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-1baefb7a2762c0228b",
+        "url": "http://cist.hitsz.edu.cn/info/1038/2789.htm",
+        "title": "哈尔滨工业大学（深圳） 信息学部计算机科学与技术学院2027年接收优秀应届本科生免试攻读研究生报名的通知-哈尔滨工业大学（深圳）信息学部",
+        "excerpt": "当季官方通知，时间经逐条人工复核后发布。"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-09T01:16:01+08:00",
+    "updatedAt": "2026-09-09T01:16:01+08:00",
+    "notes": "",
+    "reviewRevision": 0
+  },
+  {
+    "id": "opp-e0627d565ecd352a12ff",
+    "schoolId": "hit",
+    "unitId": "hit-cab13f24ef",
+    "title": "哈尔滨工业大学（深圳） 信息学部计算机科学与技术学院2027年接收优秀应届本科生免试攻读研究生报名的通知-哈尔滨工业大学（深圳）信息学部",
+    "year": 2027,
+    "season": 2026,
+    "batch": "中电信星辰大模型项目",
+    "degrees": [],
+    "disciplines": [
+      "计算机"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "assessmentMode": "unknown",
+    "programTags": [],
+    "applicationUrl": null,
+    "noticeUrl": "http://cist.hitsz.edu.cn/info/1038/2789.htm",
+    "sourceIds": [
+      "src-f2b9d67a8ac71b3fca"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-f2b9d67a8ac71b3fca",
+        "url": "http://cist.hitsz.edu.cn/info/1038/2789.htm",
+        "title": "哈尔滨工业大学（深圳） 信息学部计算机科学与技术学院2027年接收优秀应届本科生免试攻读研究生报名的通知-哈尔滨工业大学（深圳）信息学部",
+        "excerpt": "当季官方通知，时间经逐条人工复核后发布。"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-09T01:16:01+08:00",
+    "updatedAt": "2026-09-09T01:16:01+08:00",
+    "notes": "",
+    "reviewRevision": 0
+  },
+  {
+    "id": "opp-0f1d7f21fd74a926a623",
+    "schoolId": "nju",
+    "unitId": "nju-b68f57251f",
+    "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "assessmentMode": "unknown",
+    "programTags": [],
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+    "sourceIds": [
+      "src-6e8e89d50414ff77c5"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-6e8e89d50414ff77c5",
+        "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+        "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+        "excerpt": "当季官方通知，时间经逐条人工复核后发布。"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-09T01:16:01+08:00",
+    "updatedAt": "2026-09-09T01:16:01+08:00",
+    "notes": "",
+    "reviewRevision": 0
+  },
+  {
+    "id": "opp-6f50cb170b94ed230115",
+    "schoolId": "nju",
+    "unitId": "nju-099d51df58",
+    "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算交叉"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "assessmentMode": "unknown",
+    "programTags": [],
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+    "sourceIds": [
+      "src-447fb7e1ac37d13966"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-447fb7e1ac37d13966",
+        "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+        "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+        "excerpt": "当季官方通知，时间经逐条人工复核后发布。"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-09T01:16:01+08:00",
+    "updatedAt": "2026-09-09T01:16:01+08:00",
+    "notes": "",
+    "reviewRevision": 0
+  },
+  {
+    "id": "opp-5d16031e4dfbcd78e75a",
+    "schoolId": "nju",
+    "unitId": "nju-bb00eb5eed",
+    "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "assessmentMode": "unknown",
+    "programTags": [],
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+    "sourceIds": [
+      "src-7213f8dccf445c0ad4"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-7213f8dccf445c0ad4",
+        "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+        "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+        "excerpt": "当季官方通知，时间经逐条人工复核后发布。"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-09T01:16:01+08:00",
+    "updatedAt": "2026-09-09T01:16:01+08:00",
+    "notes": "",
+    "reviewRevision": 0
+  },
+  {
+    "id": "opp-c02022ad8e639899102e",
+    "schoolId": "tju",
+    "unitId": "tju-54ee27e5bf",
+    "title": "天津大学研究生招生网",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "assessmentMode": "unknown",
+    "programTags": [],
+    "applicationUrl": null,
+    "noticeUrl": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+    "sourceIds": [
+      "src-c71ba1979ec22d6b3d"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-c71ba1979ec22d6b3d",
+        "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+        "title": "天津大学研究生招生网",
+        "excerpt": "当季官方通知，时间经逐条人工复核后发布。"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-09T01:16:01+08:00",
+    "updatedAt": "2026-09-09T01:16:01+08:00",
+    "notes": "",
+    "reviewRevision": 0
+  },
+  {
+    "id": "opp-a3d14b9c62c1fa8571ca",
+    "schoolId": "ucas",
+    "unitId": "ucas-983bcbedc0",
+    "title": "国科大杭州高等研究院智能科学与技术学院接收2027级推荐免试研究生公告",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "计算机",
+      "人工智能",
+      "电子信息"
+    ],
+    "relevance": "core",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "assessmentMode": "unknown",
+    "programTags": [],
+    "applicationUrl": null,
+    "noticeUrl": "http://hias.ucas.edu.cn/znkxyjs/info/1118/1491.htm",
+    "sourceIds": [
+      "source-5c28ddba041c34557f09"
+    ],
+    "evidence": [
+      {
+        "sourceId": "source-5c28ddba041c34557f09",
+        "url": "http://hias.ucas.edu.cn/znkxyjs/info/1118/1491.htm",
+        "title": "国科大杭州高等研究院智能科学与技术学院接收2027级推荐免试研究生公告",
+        "excerpt": "当季官方通知，时间经逐条人工复核后发布。"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-09T01:16:01+08:00",
+    "updatedAt": "2026-09-09T01:16:01+08:00",
+    "notes": "",
+    "reviewRevision": 0
+  },
+  {
+    "id": "opp-fdd1d7829c5ee01fa438",
+    "schoolId": "ucas",
+    "unitId": "ucas-9ab395a06d",
+    "title": "国科大杭州高等研究院基础物理与数学科学学院接收2027级推荐免试研究生公告",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能",
+      "计算科学",
+      "数据科学"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "assessmentMode": "unknown",
+    "programTags": [],
+    "applicationUrl": null,
+    "noticeUrl": "http://hias.ucas.ac.cn/mathphys/info/1166/1521.htm",
+    "sourceIds": [
+      "src-c87730d3ffd4c812c3"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-c87730d3ffd4c812c3",
+        "url": "http://hias.ucas.ac.cn/mathphys/info/1166/1521.htm",
+        "title": "国科大杭州高等研究院基础物理与数学科学学院接收2027级推荐免试研究生公告",
+        "excerpt": "当季官方通知，时间经逐条人工复核后发布。"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-09T01:16:01+08:00",
+    "updatedAt": "2026-09-09T01:16:01+08:00",
+    "notes": "",
+    "reviewRevision": 0
+  },
+  {
+    "id": "opp-a3910093c3e391dd19fa",
+    "schoolId": "ucas",
+    "unitId": "ucas-35f03ee7b6",
+    "title": "国科大杭州高等研究院物理与光电工程学院接收2027级推荐免试研究生公告",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "电子信息",
+      "人工智能"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "assessmentMode": "unknown",
+    "programTags": [],
+    "applicationUrl": null,
+    "noticeUrl": "http://hias.ucas.ac.cn/wlgd/info/1020/1631.htm",
+    "sourceIds": [
+      "src-db4b385b6441284c0c"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-db4b385b6441284c0c",
+        "url": "http://hias.ucas.ac.cn/wlgd/info/1020/1631.htm",
+        "title": "国科大杭州高等研究院物理与光电工程学院接收2027级推荐免试研究生公告",
+        "excerpt": "当季官方通知，时间经逐条人工复核后发布。"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-09T01:16:01+08:00",
+    "updatedAt": "2026-09-09T01:16:01+08:00",
+    "notes": "",
+    "reviewRevision": 0
+  },
+  {
+    "id": "opp-12191b0eddb62c7fd478",
+    "schoolId": "ucas",
+    "unitId": "ucas-3a1ac991e8",
+    "title": "国科大杭州高等研究院生命与健康科学学院接收2027级推荐免试研究生公告",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "生物信息",
+      "数据科学"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "assessmentMode": "unknown",
+    "programTags": [],
+    "applicationUrl": null,
+    "noticeUrl": "http://hias.ucas.ac.cn/life/info/1437/2360.htm",
+    "sourceIds": [
+      "src-da23ec60caf35b1f22"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-da23ec60caf35b1f22",
+        "url": "http://hias.ucas.ac.cn/life/info/1437/2360.htm",
+        "title": "国科大杭州高等研究院生命与健康科学学院接收2027级推荐免试研究生公告",
+        "excerpt": "当季官方通知，时间经逐条人工复核后发布。"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-09T01:16:01+08:00",
+    "updatedAt": "2026-09-09T01:16:01+08:00",
+    "notes": "",
+    "reviewRevision": 0
+  },
+  {
+    "id": "opp-a48b69e0f8c3ad8634de",
+    "schoolId": "ucas",
+    "unitId": "ucas-61221f1fbf",
+    "title": "国科大杭州高等研究院分子医学院接收2027级推荐免试研究生公告",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "assessmentMode": "unknown",
+    "programTags": [],
+    "applicationUrl": null,
+    "noticeUrl": "http://hias.ucas.ac.cn/fzyxy/info/1065/1822.htm",
+    "sourceIds": [
+      "src-e71570adc26c6eb608"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-e71570adc26c6eb608",
+        "url": "http://hias.ucas.ac.cn/fzyxy/info/1065/1822.htm",
+        "title": "国科大杭州高等研究院分子医学院接收2027级推荐免试研究生公告",
+        "excerpt": "当季官方通知，时间经逐条人工复核后发布。"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-09T01:16:01+08:00",
+    "updatedAt": "2026-09-09T01:16:01+08:00",
+    "notes": "",
+    "reviewRevision": 0
+  },
+  {
+    "id": "opp-9d67b5d9fffcf6c780e5",
+    "schoolId": "ucas",
+    "unitId": "ucas-d29866ac0a",
+    "title": "国科大杭州高等研究院药物科学与技术学院接收2027级推荐免试研究生公告",
+    "year": 2027,
+    "season": 2026,
+    "batch": "首批",
+    "degrees": [],
+    "disciplines": [
+      "人工智能",
+      "计算科学"
+    ],
+    "relevance": "related",
+    "stage": "pre_admission",
+    "applicationStart": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "applicationEnd": {
+      "value": null,
+      "precision": "unknown",
+      "raw": "",
+      "sourceId": null
+    },
+    "materialsEnd": null,
+    "assessment": "",
+    "assessmentMode": "unknown",
+    "programTags": [],
+    "applicationUrl": null,
+    "noticeUrl": "https://mp.weixin.qq.com/s/kX63nwJSrEtalJrtIrgLwg",
+    "sourceIds": [
+      "src-69bb9a16aa2153896c"
+    ],
+    "evidence": [
+      {
+        "sourceId": "src-69bb9a16aa2153896c",
+        "url": "https://mp.weixin.qq.com/s/kX63nwJSrEtalJrtIrgLwg",
+        "title": "国科大杭州高等研究院药物科学与技术学院接收2027级推荐免试研究生公告",
+        "excerpt": "当季官方通知，时间经逐条人工复核后发布。"
+      }
+    ],
+    "verification": "pending",
+    "availability": "announced",
+    "firstSeenAt": "2026-09-09T01:16:01+08:00",
+    "updatedAt": "2026-09-09T01:16:01+08:00",
+    "notes": "",
+    "reviewRevision": 0
   }
 ]

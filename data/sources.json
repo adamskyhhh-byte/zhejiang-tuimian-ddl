@@ -105,7 +105,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-5c334ba5cad4855b5b",
@@ -132,7 +133,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-620d0287e919cbd29d",
@@ -159,7 +161,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-45f02524331b67bd2f",
@@ -213,7 +216,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-4a1f449349db438ecd",
@@ -240,7 +244,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-b5f7aff6d5632236c2",
@@ -294,7 +299,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-45e2b66b71fa4ab867",
@@ -321,7 +327,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-45a546f72487c03bee",
@@ -402,7 +409,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-0dd3595c1550b6a56d",
@@ -483,7 +491,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-e8fceaa47b024fa739",
@@ -597,7 +606,9 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "noticeScope": "unit",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-318ccaa9b5304ba376",
@@ -654,7 +665,8 @@
     ],
     "unitIds": [
       "tju-6525ce363b"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-3ceb3a5abe3049e78f",
@@ -711,7 +723,8 @@
     ],
     "unitIds": [
       "nju-099d51df58"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-7cffe32e5c3c3bb2d7",
@@ -812,14 +825,9 @@
       "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
     ],
     "excludePatterns": [
-      "夏令营",
-      "暑期学校",
-      "拟录取",
-      "拟推荐名单",
-      "获得推免资格",
-      "推荐资格",
-      "推免资格遴选"
-    ]
+      "2d39b4f5-cd8d-4a66-8d4f-bd748b3ee1f7"
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-3d0b9129e8fceb0b32",
@@ -849,7 +857,8 @@
     ],
     "unitIds": [
       "nju-ae18cab9f7"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-9790a5b0dbac67e0a6",
@@ -957,7 +966,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-8651e0cbe0d4ec6573",
@@ -1149,7 +1159,8 @@
     ],
     "unitIds": [
       "tju-841a8910e1"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-3ac18ef4031fab0699",
@@ -1570,7 +1581,8 @@
     ],
     "unitIds": [
       "nju-54ee27e5bf"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-75910a01ffccf03f20",
@@ -1660,7 +1672,8 @@
     ],
     "unitIds": [
       "nju-d6aeec6db0"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-26e1a117223fefee1f",
@@ -1690,7 +1703,8 @@
     ],
     "unitIds": [
       "nju-d44e9404bb"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-878c6084c0a456de1b",
@@ -1720,7 +1734,8 @@
     ],
     "unitIds": [
       "nju-ae18cab9f7"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-eb6f3c9a8bf4106e3b",
@@ -1747,7 +1762,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-57b889130a5097c80e",
@@ -1774,7 +1790,9 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "noticeScope": "unit",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-01fa4c73609861212d",
@@ -1856,7 +1874,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-be66a18a1837ab3072",
@@ -2301,7 +2320,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-0b529e7e3398f69e51",
@@ -2409,7 +2429,9 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "noticeScope": "unit",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-5cfe813e01ce7237c9",
@@ -2650,7 +2672,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-395027158227725d99",
@@ -2677,7 +2700,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-c447cddb6c508ee3ce",
@@ -2759,7 +2783,9 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "noticeScope": "unit",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-8a6ba90a32ba04a558",
@@ -2907,7 +2933,8 @@
     ],
     "unitIds": [
       "tju-28afcd4b7a"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-855f4c045916744b3b",
@@ -2989,7 +3016,9 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序",
+    "noticeScope": "unit"
   },
   {
     "id": "src-d04db24a3ec0316135",
@@ -3154,7 +3183,8 @@
     ],
     "unitIds": [
       "tju-54ee27e5bf"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-f5f8b09b8287bbc1bc",
@@ -3449,7 +3479,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-5695ac72978fae2dcf",
@@ -3591,7 +3622,8 @@
     ],
     "unitIds": [
       "dlut-ae18cab9f7"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-03cb2d54a140e7d30f",
@@ -3997,7 +4029,8 @@
     ],
     "unitIds": [
       "tju-d6aeec6db0"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-42af7fb30387636573",
@@ -4027,7 +4060,8 @@
     ],
     "unitIds": [
       "tju-d44e9404bb"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-008e95dd0ef48cbe4b",
@@ -4084,7 +4118,8 @@
     ],
     "unitIds": [
       "tju-2a9efd150f"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-602e5be30ef55ef5b0",
@@ -4111,7 +4146,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-3df08e5f9c038daf0a",
@@ -4276,7 +4312,8 @@
     ],
     "unitIds": [
       "hhu-bb23d6c860"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-757958da747aa4d14a",
@@ -4306,7 +4343,8 @@
     ],
     "unitIds": [
       "hhu-dd33538b75"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-ec2bb1cb8af721b101",
@@ -4336,7 +4374,8 @@
     ],
     "unitIds": [
       "hhu-fd436c270d"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-650ff30789ae293502",
@@ -4690,7 +4729,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-5dc9786a6bd9f90626",
@@ -4912,7 +4952,8 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
-    ]
+    ],
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   },
   {
     "id": "src-55e623e4fc99c2b906",
@@ -16954,7 +16995,7 @@
     "forceAfterDays": 7,
     "maxPages": 3,
     "includePatterns": [
-      "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
+      "2027.*(?:推免|推荐免试)"
     ],
     "excludePatterns": [
       "夏令营",
@@ -16964,6 +17005,9 @@
       "获得推免资格",
       "推荐资格",
       "推免资格遴选"
+    ],
+    "allowedHosts": [
+      "hias.ucas.ac.cn"
     ]
   },
   {
@@ -21434,5 +21478,1089 @@
     "forceAfterDays": 7,
     "identityKey": "https://weidianzi.nwpu.edu.cn/info/1138/18983.htm",
     "batch": "首批"
+  },
+  {
+    "id": "source-4cb801c0f9916261ec77",
+    "schoolId": "nju",
+    "unitId": "nju-ae18cab9f7",
+    "url": "https://ic.nju.edu.cn/_upload/article/files/1d/32/b9f4a18049b19fe7585e49fb82f9/2d39b4f5-cd8d-4a66-8d4f-bd748b3ee1f7.pdf",
+    "title": "南京大学集成电路学院2027年接收推荐免试研究生预报名通知",
+    "kind": "pdf",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
+    ],
+    "excludePatterns": [
+      "夏令营",
+      "暑期学校",
+      "拟录取",
+      "拟推荐名单",
+      "获得推免资格",
+      "推荐资格",
+      "推免资格遴选"
+    ],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": false,
+    "scope": null,
+    "allowedHosts": [],
+    "identityKey": "https://ic.nju.edu.cn/d4/5f/c59160a840799/page.htm",
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": "src-efa696a892d8501773",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
+  },
+  {
+    "id": "src-1baefb7a2762c0228b",
+    "schoolId": "hit",
+    "unitId": "hit-cab13f24ef",
+    "url": "http://cist.hitsz.edu.cn/info/1038/2789.htm",
+    "title": "哈尔滨工业大学（深圳） 信息学部计算机科学与技术学院2027年接收优秀应届本科生免试攻读研究生报名的通知-哈尔滨工业大学（深圳）信息学部",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "noticeScope": "unit",
+    "unitIds": [],
+    "includePatterns": [],
+    "excludePatterns": [],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免",
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": "大模型与通用人工智能系统项目",
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": null
+  },
+  {
+    "id": "src-f2b9d67a8ac71b3fca",
+    "schoolId": "hit",
+    "unitId": "hit-cab13f24ef",
+    "url": "http://cist.hitsz.edu.cn/info/1038/2789.htm",
+    "title": "哈尔滨工业大学（深圳） 信息学部计算机科学与技术学院2027年接收优秀应届本科生免试攻读研究生报名的通知-哈尔滨工业大学（深圳）信息学部",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "noticeScope": "unit",
+    "unitIds": [],
+    "includePatterns": [],
+    "excludePatterns": [],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免",
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": "中电信星辰大模型项目",
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": null
+  },
+  {
+    "id": "src-6e8e89d50414ff77c5",
+    "schoolId": "nju",
+    "unitId": "nju-b68f57251f",
+    "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+    "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+    "kind": "pdf",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "noticeScope": "unit",
+    "unitIds": [],
+    "includePatterns": [],
+    "excludePatterns": [],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免",
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": "首批",
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": null
+  },
+  {
+    "id": "src-447fb7e1ac37d13966",
+    "schoolId": "nju",
+    "unitId": "nju-099d51df58",
+    "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+    "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+    "kind": "pdf",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "noticeScope": "unit",
+    "unitIds": [],
+    "includePatterns": [],
+    "excludePatterns": [],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免",
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": "首批",
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": null
+  },
+  {
+    "id": "src-7213f8dccf445c0ad4",
+    "schoolId": "nju",
+    "unitId": "nju-bb00eb5eed",
+    "url": "https://yzb.nju.edu.cn/_upload/article/files/63/f4/9371460b42bb8bfd9f5cf1ab7a56/75708fe2-069f-4454-913b-531a462f5850.pdf",
+    "title": "南京大学2027年重要专项推荐免试研究生报名通知",
+    "kind": "pdf",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "noticeScope": "unit",
+    "unitIds": [],
+    "includePatterns": [],
+    "excludePatterns": [],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免",
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": "首批",
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": null
+  },
+  {
+    "id": "src-c71ba1979ec22d6b3d",
+    "schoolId": "tju",
+    "unitId": "tju-54ee27e5bf",
+    "url": "https://yzb.tju.edu.cn/xwzx/zxxx/202609/t20260901_324692.htm",
+    "title": "天津大学研究生招生网",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "noticeScope": "unit",
+    "unitIds": [],
+    "includePatterns": [],
+    "excludePatterns": [],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "preAdmissionEvidence": "推免硕士生申报时间",
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": "首批",
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": null
+  },
+  {
+    "id": "source-5c28ddba041c34557f09",
+    "schoolId": "ucas",
+    "unitId": "ucas-983bcbedc0",
+    "url": "http://hias.ucas.edu.cn/znkxyjs/info/1118/1491.htm",
+    "title": "> 国科大杭州高等研究院智能科学与技术学院接收2027级推荐免试生公告",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
+    ],
+    "excludePatterns": [
+      "夏令营",
+      "暑期学校",
+      "拟录取",
+      "拟推荐名单",
+      "获得推免资格",
+      "推荐资格",
+      "推免资格遴选"
+    ],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": "src-1a84a4a970580bd31e",
+    "noticeScope": "unit",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
+  },
+  {
+    "id": "src-c87730d3ffd4c812c3",
+    "schoolId": "ucas",
+    "unitId": "ucas-9ab395a06d",
+    "url": "http://hias.ucas.ac.cn/mathphys/info/1166/1521.htm",
+    "title": "国科大杭州高等研究院基础物理与数学科学学院接收2027级推荐免试研究生公告",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "noticeScope": "unit",
+    "unitIds": [],
+    "includePatterns": [],
+    "excludePatterns": [],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免",
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": null
+  },
+  {
+    "id": "src-b7533d720f73c7b7f2",
+    "schoolId": "ucas",
+    "unitId": "ucas-9ab395a06d",
+    "url": "http://hias.ucas.ac.cn/mathphys/jyjx1/zsxx.htm",
+    "title": "基础物理与数学科学学院招生信息",
+    "kind": "listing",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "noticeScope": "unit",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:推免|推荐免试)"
+    ],
+    "excludePatterns": [],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "preAdmissionEvidence": null,
+    "allowedHosts": [
+      "hias.ucas.edu.cn"
+    ],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": null
+  },
+  {
+    "id": "src-db4b385b6441284c0c",
+    "schoolId": "ucas",
+    "unitId": "ucas-35f03ee7b6",
+    "url": "http://hias.ucas.ac.cn/wlgd/info/1020/1631.htm",
+    "title": "国科大杭州高等研究院物理与光电工程学院接收2027级推荐免试研究生公告",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "noticeScope": "unit",
+    "unitIds": [],
+    "includePatterns": [],
+    "excludePatterns": [],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免",
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": null
+  },
+  {
+    "id": "src-56cce8968ec56e96c9",
+    "schoolId": "ucas",
+    "unitId": "ucas-35f03ee7b6",
+    "url": "http://hias.ucas.ac.cn/wlgd/zsjy/yjszs.htm",
+    "title": "物理与光电工程学院招生信息",
+    "kind": "listing",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "noticeScope": "unit",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:推免|推荐免试)"
+    ],
+    "excludePatterns": [],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "preAdmissionEvidence": null,
+    "allowedHosts": [
+      "hias.ucas.edu.cn"
+    ],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": null
+  },
+  {
+    "id": "src-da23ec60caf35b1f22",
+    "schoolId": "ucas",
+    "unitId": "ucas-3a1ac991e8",
+    "url": "http://hias.ucas.ac.cn/life/info/1437/2360.htm",
+    "title": "国科大杭州高等研究院生命与健康科学学院接收2027级推荐免试研究生公告",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "noticeScope": "unit",
+    "unitIds": [],
+    "includePatterns": [],
+    "excludePatterns": [],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免",
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": null
+  },
+  {
+    "id": "src-87ba095a941b3ff0e0",
+    "schoolId": "ucas",
+    "unitId": "ucas-3a1ac991e8",
+    "url": "http://hias.ucas.ac.cn/life/yjspy/yjszs.htm",
+    "title": "生命与健康科学学院招生信息",
+    "kind": "listing",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "noticeScope": "unit",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:推免|推荐免试)"
+    ],
+    "excludePatterns": [],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "preAdmissionEvidence": null,
+    "allowedHosts": [
+      "hias.ucas.edu.cn"
+    ],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": null
+  },
+  {
+    "id": "src-e71570adc26c6eb608",
+    "schoolId": "ucas",
+    "unitId": "ucas-61221f1fbf",
+    "url": "http://hias.ucas.ac.cn/fzyxy/info/1065/1822.htm",
+    "title": "国科大杭州高等研究院分子医学院接收2027级推荐免试研究生公告",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "noticeScope": "unit",
+    "unitIds": [],
+    "includePatterns": [],
+    "excludePatterns": [],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免",
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": null
+  },
+  {
+    "id": "src-36d0d4c2ad8a7a873a",
+    "schoolId": "ucas",
+    "unitId": "ucas-61221f1fbf",
+    "url": "http://hias.ucas.ac.cn/fzyxy/zsgz/zsxx.htm",
+    "title": "分子医学院招生信息",
+    "kind": "listing",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "noticeScope": "unit",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:推免|推荐免试)"
+    ],
+    "excludePatterns": [],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "preAdmissionEvidence": null,
+    "allowedHosts": [
+      "hias.ucas.edu.cn"
+    ],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": null
+  },
+  {
+    "id": "src-69bb9a16aa2153896c",
+    "schoolId": "ucas",
+    "unitId": "ucas-d29866ac0a",
+    "url": "https://mp.weixin.qq.com/s/kX63nwJSrEtalJrtIrgLwg",
+    "title": "国科大杭州高等研究院药物科学与技术学院接收2027级推荐免试研究生公告",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "noticeScope": "unit",
+    "unitIds": [],
+    "includePatterns": [],
+    "excludePatterns": [],
+    "contentSelector": "#js_content",
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免",
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": null
+  },
+  {
+    "id": "src-6e7e47ae97d22b30d5",
+    "schoolId": "ucas",
+    "unitId": "ucas-d29866ac0a",
+    "url": "http://hias.ucas.ac.cn/ywkxyjsxy/zsjy/zsxx.htm",
+    "title": "药物科学与技术学院招生信息",
+    "kind": "listing",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "noticeScope": "unit",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:推免|推荐免试)"
+    ],
+    "excludePatterns": [],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "preAdmissionEvidence": null,
+    "allowedHosts": [
+      "mp.weixin.qq.com"
+    ],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": null
+  },
+  {
+    "id": "source-1ab4b517a74db2f8d8dc",
+    "schoolId": "dlut",
+    "unitId": "dlut-ae18cab9f7",
+    "url": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "title": "关于大连理工大学各院系接收2027年推荐免试研究生...",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
+    ],
+    "excludePatterns": [
+      "夏令营",
+      "暑期学校",
+      "拟录取",
+      "拟推荐名单",
+      "获得推免资格",
+      "推荐资格",
+      "推免资格遴选"
+    ],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": "src-4c9a35bad10d6f7f46",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
+  },
+  {
+    "id": "source-3813e2bba2b987c50624",
+    "schoolId": "dlut",
+    "unitId": null,
+    "url": "https://gs.dlut.edu.cn/info/1173/51492.htm",
+    "title": "关于大连理工大学各院系接收2027年推荐免试研究生预报名陆续...",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "unitIds": [
+      "dlut-68fd4b54d0",
+      "dlut-5f278a3ad8",
+      "dlut-c8db326793",
+      "dlut-d44e9404bb",
+      "dlut-a6b7bcb1bd",
+      "dlut-54ee27e5bf",
+      "dlut-ae18cab9f7"
+    ],
+    "includePatterns": [
+      "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
+    ],
+    "excludePatterns": [
+      "夏令营",
+      "暑期学校",
+      "拟录取",
+      "拟推荐名单",
+      "获得推免资格",
+      "推荐资格",
+      "推免资格遴选"
+    ],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": "src-b934d34bbecb6ba1f4",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
+  },
+  {
+    "id": "source-977ecdf2cb039f28aec2",
+    "schoolId": "bit",
+    "unitId": "bit-54ee27e5bf",
+    "url": "https://ai.bit.edu.cn/tzgg/503eb8c373914764a9535df836c0b29d.htm",
+    "title": "2026-09 06 北京理工大学人工智能学院\n2027年接收优秀应届本科毕业生推荐免试攻读研究生（含本直博生）办法 欢迎国内高校优秀应届本科毕业生推荐免试攻读北京理工大学人工智能学院研究生！为了让申请人全面了解和掌握...",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
+    ],
+    "excludePatterns": [
+      "夏令营",
+      "暑期学校",
+      "拟录取",
+      "拟推荐名单",
+      "获得推免资格",
+      "推荐资格",
+      "推免资格遴选"
+    ],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": "src-7fa364a6b83e93539a",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
+  },
+  {
+    "id": "source-93bc74db1a8106d39d62",
+    "schoolId": "bit",
+    "unitId": "bit-9476055247",
+    "url": "https://ac.bit.edu.cn/tzgg/af26cb8dba7348f09274a6c1a5beb699.htm",
+    "title": "北京理工大学自动化学院2027年接收优秀应届本科毕业生推荐免试攻读研究生（含本直博生）办法",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
+    ],
+    "excludePatterns": [
+      "夏令营",
+      "暑期学校",
+      "拟录取",
+      "拟推荐名单",
+      "获得推免资格",
+      "推荐资格",
+      "推免资格遴选"
+    ],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": "src-e38b213e62f55965a6",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
+  },
+  {
+    "id": "source-c53ab0958a5a0768ee34",
+    "schoolId": "tju",
+    "unitId": null,
+    "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "title": "关于天津大学2027年接收优秀应届本科毕业生免试攻读研究生预报名的...",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "unitIds": [
+      "tju-6525ce363b",
+      "tju-54ee27e5bf",
+      "tju-841a8910e1",
+      "tju-2a9efd150f",
+      "tju-28afcd4b7a",
+      "tju-68fd4b54d0",
+      "tju-d6aeec6db0",
+      "tju-d44e9404bb",
+      "tju-b9125379c4",
+      "tju-70abab4705"
+    ],
+    "includePatterns": [
+      "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
+    ],
+    "excludePatterns": [
+      "夏令营",
+      "暑期学校",
+      "拟录取",
+      "拟推荐名单",
+      "获得推免资格",
+      "推荐资格",
+      "推免资格遴选"
+    ],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": "src-7d69a497888b500a6f",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
+  },
+  {
+    "id": "source-166b5b141d4b57399b5b",
+    "schoolId": "tju",
+    "unitId": "tju-6525ce363b",
+    "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "title": "关于天津大学2027年接收优秀应届本科毕业生免试攻读研究生预报名的...",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
+    ],
+    "excludePatterns": [
+      "夏令营",
+      "暑期学校",
+      "拟录取",
+      "拟推荐名单",
+      "获得推免资格",
+      "推荐资格",
+      "推免资格遴选"
+    ],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": "src-e5058df2e70023a950",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
+  },
+  {
+    "id": "source-a7ae342b3f800604688a",
+    "schoolId": "tju",
+    "unitId": "tju-841a8910e1",
+    "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "title": "关于天津大学2027年接收优秀应届本科毕业生免试攻读研究生预报名的...",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
+    ],
+    "excludePatterns": [
+      "夏令营",
+      "暑期学校",
+      "拟录取",
+      "拟推荐名单",
+      "获得推免资格",
+      "推荐资格",
+      "推免资格遴选"
+    ],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": "src-ad4b8691eb36838b33",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
+  },
+  {
+    "id": "source-f13d9338f462232e4e16",
+    "schoolId": "tju",
+    "unitId": "tju-28afcd4b7a",
+    "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "title": "关于天津大学2027年接收优秀应届本科毕业生免试攻读研究生预报名的...",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
+    ],
+    "excludePatterns": [
+      "夏令营",
+      "暑期学校",
+      "拟录取",
+      "拟推荐名单",
+      "获得推免资格",
+      "推荐资格",
+      "推免资格遴选"
+    ],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": "src-92c8569b4b656d36b6",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
+  },
+  {
+    "id": "source-d2e50b552c742aa25433",
+    "schoolId": "tju",
+    "unitId": "tju-54ee27e5bf",
+    "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "title": "关于天津大学2027年接收优秀应届本科毕业生免试攻读研究生预报名的...",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
+    ],
+    "excludePatterns": [
+      "夏令营",
+      "暑期学校",
+      "拟录取",
+      "拟推荐名单",
+      "获得推免资格",
+      "推荐资格",
+      "推免资格遴选"
+    ],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": "src-d64ea6cff19d2d2eb7",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
+  },
+  {
+    "id": "source-28d5a63b3a586599b743",
+    "schoolId": "tju",
+    "unitId": "tju-d6aeec6db0",
+    "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "title": "关于天津大学2027年接收优秀应届本科毕业生免试攻读研究生预报名的...",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
+    ],
+    "excludePatterns": [
+      "夏令营",
+      "暑期学校",
+      "拟录取",
+      "拟推荐名单",
+      "获得推免资格",
+      "推荐资格",
+      "推免资格遴选"
+    ],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": "src-8e34c341451bc1c6f6",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
+  },
+  {
+    "id": "source-5d8045ca168f34c7f522",
+    "schoolId": "tju",
+    "unitId": "tju-d44e9404bb",
+    "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "title": "关于天津大学2027年接收优秀应届本科毕业生免试攻读研究生预报名的...",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
+    ],
+    "excludePatterns": [
+      "夏令营",
+      "暑期学校",
+      "拟录取",
+      "拟推荐名单",
+      "获得推免资格",
+      "推荐资格",
+      "推免资格遴选"
+    ],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": "src-ee7491b2d5fdfff64b",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
+  },
+  {
+    "id": "source-c48b6a13413aa1934ef2",
+    "schoolId": "tju",
+    "unitId": "tju-2a9efd150f",
+    "url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260702_324675.htm",
+    "title": "关于天津大学2027年接收优秀应届本科毕业生免试攻读研究生预报名的...",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "unitIds": [],
+    "includePatterns": [
+      "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
+    ],
+    "excludePatterns": [
+      "夏令营",
+      "暑期学校",
+      "拟录取",
+      "拟推荐名单",
+      "获得推免资格",
+      "推荐资格",
+      "推免资格遴选"
+    ],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": "src-724a7bf750c460d337",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
+  },
+  {
+    "id": "source-2e68c29c0bc1e220a3cf",
+    "schoolId": "fudan",
+    "unitId": null,
+    "url": "https://gsao.fudan.edu.cn/0a/24/c15014a789028/page.htm",
+    "title": "复旦大学2027年工程硕博士培养改革专项推免研究生招生报名通知",
+    "kind": "notice",
+    "lastAttemptAt": null,
+    "lastSuccessAt": null,
+    "lastParsedAt": null,
+    "error": null,
+    "adapter": "html",
+    "unitIds": [
+      "fudan-9ce53d3795",
+      "fudan-6525ce363b",
+      "fudan-b70662adee",
+      "fudan-6b615cc706",
+      "fudan-3cc2dff65f",
+      "fudan-47bb626b37",
+      "fudan-e6bf452ac7",
+      "fudan-aa8cce210c",
+      "fudan-e6d38f135c"
+    ],
+    "includePatterns": [
+      "2027.*(?:预报名|预推免|推免|推荐免试)|(?:预报名|预推免|推免|推荐免试).*2027"
+    ],
+    "excludePatterns": [
+      "夏令营",
+      "暑期学校",
+      "拟录取",
+      "拟推荐名单",
+      "获得推免资格",
+      "推荐资格",
+      "推免资格遴选"
+    ],
+    "contentSelector": null,
+    "linkSelector": "a[href]",
+    "render": false,
+    "enabled": true,
+    "scope": null,
+    "allowedHosts": [],
+    "identityKey": null,
+    "batch": null,
+    "forceAfterDays": 7,
+    "maxPages": 3,
+    "parentId": "src-61ef450faba507b1b6",
+    "preAdmissionEvidence": "申请程序|申请流程|申请时间|报名时间|预报名|推免硕士生申报|预推免"
   }
 ]
